@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Defense Watch — Daily Volatility & Geopolitical Monitor</title>
+<style>
+  :root {
+    --bg: #FAF9F5;
+    --surface: #FFFFFF;
+    --ink: #1F1E1D;
+    --muted: #6E6A63;
+    --line: #E8E4DC;
+    --accent: #D97757;
+    --accent-soft: #F7E8E1;
+    --up: #2E7D4F;
+    --up-soft: #E3F0E8;
+    --down: #C0392B;
+    --down-soft: #F9E5E2;
+    --serif: "Tiempos Text", Georgia, "Times New Roman", serif;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: var(--bg); color: var(--ink); font-family: var(--sans); line-height: 1.55; }
+
+  header { padding: 36px 32px 0; max-width: 1100px; margin: 0 auto; }
+  header h1 { font-family: var(--serif); font-weight: 600; font-size: 30px; letter-spacing: -0.3px; }
+  header h1 .dot { color: var(--accent); }
+  .meta { color: var(--muted); font-size: 13px; margin-top: 6px; }
+  .meta .pill { background: var(--accent-soft); color: var(--accent); border-radius: 99px; padding: 2px 10px; font-weight: 600; margin-left: 8px; }
+
+  nav { max-width: 1100px; margin: 24px auto 0; padding: 0 32px; display: flex; gap: 4px; border-bottom: 1px solid var(--line); }
+  nav button {
+    appearance: none; background: none; border: none; cursor: pointer;
+    font-family: var(--sans); font-size: 14.5px; font-weight: 600; color: var(--muted);
+    padding: 10px 16px 12px; border-bottom: 2px solid transparent; margin-bottom: -1px;
+  }
+  nav button:hover { color: var(--ink); }
+  nav button.active { color: var(--accent); border-bottom-color: var(--accent); }
+  nav button .count { background: var(--line); border-radius: 99px; padding: 1px 8px; font-size: 12px; margin-left: 6px; color: var(--muted); }
+  nav button.active .count { background: var(--accent-soft); color: var(--accent); }
+
+  main { max-width: 1100px; margin: 0 auto; padding: 28px 32px 80px; }
+  .tab { display: none; }
+  .tab.active { display: block; }
+
+  .summary {
+    background: var(--surface); border: 1px solid var(--line); border-left: 3px solid var(--accent);
+    border-radius: 12px; padding: 18px 22px; margin-bottom: 28px;
+    font-family: var(--serif); font-size: 16px;
+  }
+  .summary h3 { font-family: var(--sans); font-size: 11px; text-transform: uppercase; letter-spacing: 1.2px; color: var(--accent); margin-bottom: 8px; }
+
+  .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; }
+  .card { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 18px 20px; }
+  .card .top { display: flex; justify-content: space-between; align-items: baseline; }
+  .card .sym { font-weight: 700; font-size: 17px; }
+  .card .nm { color: var(--muted); font-size: 13px; }
+  .badge { font-weight: 700; font-size: 15px; border-radius: 8px; padding: 3px 10px; }
+  .badge.up { color: var(--up); background: var(--up-soft); }
+  .badge.down { color: var(--down); background: var(--down-soft); }
+  .card .px { font-size: 13px; color: var(--muted); margin: 6px 0 10px; }
+  .why { border-top: 1px dashed var(--line); padding-top: 10px; margin-top: 4px; }
+  .why .label { font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: var(--accent); font-weight: 700; margin-bottom: 6px; }
+  .note { font-family: var(--serif); font-size: 14.5px; margin-bottom: 10px; }
+  .headlines { list-style: none; }
+  .headlines li { margin-bottom: 7px; font-size: 13.5px; }
+  .headlines a { color: var(--ink); text-decoration: none; }
+  .headlines a:hover { color: var(--accent); text-decoration: underline; }
+  .headlines .src { color: var(--muted); font-size: 12px; margin-left: 4px; }
+
+  h2.section { font-family: var(--serif); font-size: 21px; font-weight: 600; margin: 36px 0 14px; }
+  h2.section:first-child { margin-top: 0; }
+  h2.section .hint { font-family: var(--sans); font-size: 12.5px; font-weight: 400; color: var(--muted); }
+
+  h3.vertical { font-size: 12px; text-transform: uppercase; letter-spacing: 1.4px; color: var(--accent); font-weight: 700; margin: 26px 0 10px; }
+  h3.vertical:first-child { margin-top: 0; }
+  tr.co { cursor: pointer; }
+  tr.co:hover td { background: #FCF8F4; }
+  tr.co td.caret { width: 18px; color: var(--muted); font-size: 11px; padding-right: 0; }
+  tr.co.open td.caret { color: var(--accent); }
+  tr.detail td { background: #FCFBF8; padding: 14px 18px 16px 32px; }
+  tr.detail .desc { font-family: var(--serif); font-size: 14.5px; margin-bottom: 10px; max-width: 720px; }
+  tr.detail .label { font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: var(--accent); font-weight: 700; margin-bottom: 6px; }
+
+  table { width: 100%; border-collapse: collapse; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; }
+  thead th { text-align: left; font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); padding: 10px 14px; border-bottom: 1px solid var(--line); background: #FCFBF8; }
+  td { padding: 9px 14px; border-bottom: 1px solid #F1EEE8; font-size: 14px; }
+  tr:last-child td { border-bottom: none; }
+  td.chg.up { color: var(--up); font-weight: 600; }
+  td.chg.down { color: var(--down); font-weight: 600; }
+  td .nm { color: var(--muted); font-size: 12.5px; }
+
+  .feed { list-style: none; }
+  .feed .datehead { background: none; border: none; padding: 14px 2px 4px; margin: 0;
+    font-size: 11.5px; text-transform: uppercase; letter-spacing: 1.3px; color: var(--muted); font-weight: 700; }
+  .feed .datehead:first-child { padding-top: 0; }
+  .feed li { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 13px 18px; margin-bottom: 10px; }
+  .feed a { color: var(--ink); text-decoration: none; font-weight: 600; font-size: 14.5px; }
+  .feed a:hover { color: var(--accent); }
+  .feed .sub { color: var(--muted); font-size: 12.5px; margin-top: 3px; }
+  .empty { color: var(--muted); font-family: var(--serif); font-style: italic; padding: 24px 0; }
+
+  .mkt { border-radius: 99px; padding: 2px 10px; font-weight: 600; margin-left: 6px; font-size: 12px; }
+  .mkt.open { background: var(--up-soft); color: var(--up); }
+  .mkt.closed { background: var(--line); color: var(--muted); }
+  .mkt.ext { background: #FDF3D8; color: #9A7B1F; }
+
+  .statsbar { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 18px; }
+  .stat { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 10px 18px; flex: 1; min-width: 130px; }
+  .stat .v { font-size: 20px; font-weight: 700; font-family: var(--serif); }
+  .stat .v.up { color: var(--up); } .stat .v.down { color: var(--down); }
+  .stat .k { font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: var(--muted); margin-top: 2px; }
+
+  .heatmap { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
+  .tile { border-radius: 10px; padding: 8px 14px; font-size: 12.5px; font-weight: 600; border: 1px solid var(--line); position: relative; }
+  .tile .pct { display: block; font-size: 15px; font-family: var(--serif); }
+  .tile.hottest { outline: 2.5px solid var(--accent); outline-offset: 2px; }
+  .tile.hottest::after { content: "🔥 HOTTEST"; position: absolute; top: -10px; right: -6px; background: var(--accent);
+    color: #fff; font-size: 9px; letter-spacing: 1px; border-radius: 99px; padding: 2px 8px; }
+
+  .ext-chip { display: inline-block; background: #FDF3D8; color: #9A7B1F; font-size: 11.5px; font-weight: 700;
+    border-radius: 6px; padding: 1px 7px; margin-left: 6px; white-space: nowrap; }
+
+  .searchwrap { margin: 0 0 14px; }
+  .searchwrap input { width: 100%; max-width: 420px; padding: 9px 14px; border: 1px solid var(--line); border-radius: 10px;
+    font-family: var(--sans); font-size: 14px; background: var(--surface); color: var(--ink); outline: none; }
+  .searchwrap input:focus { border-color: var(--accent); }
+
+  .spark { vertical-align: middle; }
+  .spark polyline { fill: none; stroke-width: 1.5; }
+  .spark .up { stroke: var(--up); } .spark .down { stroke: var(--down); }
+
+  .hist { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 4px 0; }
+  .hist .day { display: flex; gap: 16px; align-items: baseline; padding: 12px 20px; border-bottom: 1px solid #F1EEE8; flex-wrap: wrap; }
+  .hist .day:last-child { border-bottom: none; }
+  .hist .d { font-weight: 700; min-width: 90px; }
+  .hist .adv { font-size: 12.5px; color: var(--muted); min-width: 110px; }
+  .hist .chip { font-size: 12px; font-weight: 700; border-radius: 6px; padding: 1px 7px; margin-right: 4px; }
+  .hist .chip.up { background: var(--up-soft); color: var(--up); } .hist .chip.down { background: var(--down-soft); color: var(--down); }
+  .hist .sum { font-family: var(--serif); font-size: 13.5px; color: var(--muted); flex-basis: 100%; margin-top: 2px; }
+
+  #refreshBanner { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); display: none;
+    background: var(--ink); color: var(--bg); border-radius: 99px; padding: 10px 22px; font-size: 14px; font-weight: 600;
+    cursor: pointer; box-shadow: 0 4px 18px rgba(0,0,0,.25); z-index: 10; }
+
+  footer { max-width: 1100px; margin: 0 auto; padding: 24px 32px 48px; border-top: 1px solid var(--line);
+    color: var(--muted); font-size: 12px; line-height: 1.7; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Defense Watch<span class="dot">.</span></h1>
+  <div class="meta">Aerospace &amp; defense daily volatility, geopolitical risk, and deal flow
+    <span class="pill" id="updated">loading…</span></div>
+</header>
+
+<nav>
+  <button data-tab="movers" class="active">Volatile Movers <span class="count" id="moverCount"></span></button>
+  <button data-tab="geo">Geopolitical Watch</button>
+  <button data-tab="news">News</button>
+  <button data-tab="ipos">IPOs &amp; M&amp;A</button>
+  <button data-tab="contracts">Gov Contracts</button>
+</nav>
+
+<main>
+  <section id="tab-movers" class="tab active">
+    <div class="statsbar" id="statsBar"></div>
+    <div class="heatmap" id="heatmap"></div>
+    <div class="summary" id="daySummary" style="display:none"><h3>Today's Read</h3><div id="daySummaryText"></div></div>
+    <div class="cards" id="moverCards"></div>
+    <h2 class="section">Full Watchlist <span class="hint">— click a company for its profile &amp; news</span></h2>
+    <div class="searchwrap"><input type="search" id="search" placeholder="Search ticker, company, or vertical… (e.g. LMT, drone, space)"></div>
+    <div id="watchlist"></div>
+    <h2 class="section">Past 7 Days</h2>
+    <div class="hist" id="history"></div>
+  </section>
+
+  <section id="tab-geo" class="tab">
+    <div class="summary" id="geoBrief" style="display:none"><h3>Latest Briefing</h3><div id="geoBriefText"></div></div>
+    <h2 class="section">Conflict &amp; Risk Headlines (last 24h)</h2>
+    <ul class="feed" id="geoFeed"></ul>
+  </section>
+
+  <section id="tab-news" class="tab">
+    <h2 class="section">Aerospace &amp; Defense News</h2>
+    <ul class="feed" id="sectorFeed"></ul>
+    <h2 class="section">Industrials News</h2>
+    <ul class="feed" id="industrialsFeed"></ul>
+  </section>
+
+  <section id="tab-ipos" class="tab">
+    <h2 class="section">IPO Watch — Defense &amp; Aerospace</h2>
+    <div class="cards" id="ipoCards"></div>
+    <h2 class="section">IPO News</h2>
+    <ul class="feed" id="ipoFeed"></ul>
+    <h2 class="section">Aerospace &amp; Defense M&amp;A (last 7 days)</h2>
+    <ul class="feed" id="mnaFeed"></ul>
+  </section>
+
+  <section id="tab-contracts" class="tab">
+    <h2 class="section">Contract Award News <span class="hint">— DoD / service branches, last 3 days</span></h2>
+    <ul class="feed" id="contractFeed"></ul>
+
+    <h2 class="section">Space Development Agency (SDA)</h2>
+    <ul class="feed" id="sdaFeed"></ul>
+
+    <h2 class="section">Official Award Record <span class="hint">— USAspending.gov, new DoD awards, last 45 days (reported with a lag of up to 90 days)</span></h2>
+    <table>
+      <thead><tr><th>Recipient</th><th>Amount</th><th>Awarding Agency</th><th>Date</th><th>Description</th></tr></thead>
+      <tbody id="awardRows"></tbody>
+    </table>
+  </section>
+</main>
+
+<div id="refreshBanner">New data available — click to refresh</div>
+
+<footer>
+  <strong>Defense Watch</strong> is an informational dashboard, not investment advice. Quotes from Yahoo Finance (may be delayed ~15 minutes);
+  news via Google News RSS; contract awards via USAspending.gov (DoD reports there with up to a 90-day lag).
+  Always verify before making investment decisions. All times Eastern (ET).
+</footer>
+
+<script src="data.js"></script>
+<script>
+const D = window.DASHBOARD_DATA || {};
+
+document.querySelectorAll("nav button").forEach(b => b.addEventListener("click", () => {
+  document.querySelectorAll("nav button").forEach(x => x.classList.remove("active"));
+  document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
+  b.classList.add("active");
+  document.getElementById("tab-" + b.dataset.tab).classList.add("active");
+}));
+
+function esc(s) { const d = document.createElement("div"); d.textContent = s || ""; return d.innerHTML; }
+function fmtPct(p) { return (p > 0 ? "+" : "") + p.toFixed(2) + "%"; }
+function dir(p) { return p >= 0 ? "up" : "down"; }
+function timeAgo(iso) {
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 1) return "just now";
+  if (m < 60) return m + " min ago";
+  const h = Math.round(m / 60);
+  return h + (h === 1 ? " hour ago" : " hours ago");
+}
+function fmtET(dateLike, withDate = true) {
+  const d = new Date(dateLike);
+  if (isNaN(d)) return dateLike || "";
+  const opts = { timeZone: "America/New_York", hour: "numeric", minute: "2-digit" };
+  if (withDate) Object.assign(opts, { weekday: "short", month: "short", day: "numeric" });
+  return d.toLocaleString("en-US", opts) + " ET";
+}
+
+if (D.generatedAt) document.getElementById("updated").textContent =
+  "updated " + timeAgo(D.generatedAt) + " · " + fmtET(D.generatedAt, false);
+
+// --- Market status pill ---
+function marketStatus() {
+  const now = new Date();
+  const et = new Date(now.toLocaleString("en-US", { timeZone: "America/New_York" }));
+  const day = et.getDay(), mins = et.getHours() * 60 + et.getMinutes();
+  if (day === 0 || day === 6) return ["closed", "Market closed"];
+  if (mins >= 570 && mins < 960) return ["open", "Market open"];
+  if (mins >= 240 && mins < 570) return ["ext", "Pre-market"];
+  if (mins >= 960 && mins < 1200) return ["ext", "After hours"];
+  return ["closed", "Market closed"];
+}
+{
+  const [cls, label] = marketStatus();
+  const pill = document.createElement("span");
+  pill.className = "mkt " + cls;
+  pill.textContent = label;
+  document.querySelector(".meta").appendChild(pill);
+}
+
+// --- Vertical averages & hottest sub-vertical ---
+const vertAvgs = (() => {
+  const groups = {};
+  (D.quotes || []).forEach(q => (groups[q.vertical || "Other"] ??= []).push(q.changePct));
+  return (D.verticalOrder || Object.keys(groups)).filter(v => groups[v]).map(v => ({
+    vertical: v,
+    avg: groups[v].reduce((a, b) => a + b, 0) / groups[v].length,
+  }));
+})();
+const hottest = vertAvgs.reduce((a, b) => (Math.abs(b.avg) > Math.abs(a?.avg ?? -1) ? b : a), null);
+
+// --- Stats bar ---
+{
+  const qs = D.quotes || [];
+  const adv = qs.filter(q => q.changePct > 0).length;
+  const avg = qs.length ? qs.reduce((s, q) => s + q.changePct, 0) / qs.length : 0;
+  const best = qs.reduce((a, b) => (b.changePct > (a?.changePct ?? -1e9) ? b : a), null);
+  const worst = qs.reduce((a, b) => (b.changePct < (a?.changePct ?? 1e9) ? b : a), null);
+  const stats = [
+    hottest ? [`🔥 ${hottest.vertical} ${fmtPct(hottest.avg)}`, "hottest sub-vertical", dir(hottest.avg)] : null,
+    [`${adv} / ${qs.length - adv}`, "advancers / decliners", adv >= qs.length - adv ? "up" : "down"],
+    [fmtPct(avg), "avg move (universe)", dir(avg)],
+    best ? [`${best.symbol} ${fmtPct(best.changePct)}`, "top gainer", "up"] : null,
+    worst ? [`${worst.symbol} ${fmtPct(worst.changePct)}`, "top decliner", "down"] : null,
+  ].filter(Boolean);
+  document.getElementById("statsBar").innerHTML = stats.map(([v, k, c]) =>
+    `<div class="stat"><div class="v ${c}">${v}</div><div class="k">${k}</div></div>`).join("");
+}
+
+// --- Vertical heatmap (hottest highlighted) ---
+{
+  const tiles = vertAvgs.map(({ vertical: v, avg }) => {
+    const a = Math.min(Math.abs(avg) / 5, 1) * 0.85 + 0.08;
+    const bg = avg >= 0 ? `rgba(46,125,79,${a})` : `rgba(192,57,43,${a})`;
+    const fg = Math.abs(avg) > 1.2 ? "#fff" : "var(--ink)";
+    const hot = hottest && v === hottest.vertical ? " hottest" : "";
+    return `<div class="tile${hot}" style="background:${bg};color:${fg}">${esc(v)}<span class="pct">${fmtPct(avg)}</span></div>`;
+  });
+  document.getElementById("heatmap").innerHTML = tiles.join("");
+}
+
+// --- Extended hours (pre-market / after-hours) movers ---
+{
+  const ext = (D.quotes || []).filter(q => q.ext && Math.abs(q.ext.changePct) >= 1.5)
+    .sort((a, b) => Math.abs(b.ext.changePct) - Math.abs(a.ext.changePct));
+  if (ext.length) {
+    const label = ext[0].ext.label === "pre-market" ? "Pre-Market Movers" : "After-Hours Movers";
+    const div = document.createElement("div");
+    div.className = "summary";
+    div.innerHTML = `<h3>${label} (±1.5%)</h3><div>` + ext.map(q =>
+      `<span class="chg ${dir(q.ext.changePct)}" style="margin-right:14px;white-space:nowrap">
+        <strong>${esc(q.symbol)}</strong> ${fmtPct(q.ext.changePct)} <span style="color:var(--muted);font-size:12px">$${q.ext.price}</span></span>`).join("") + "</div>";
+    document.getElementById("statsBar").after(div);
+  }
+}
+
+// --- Sparkline SVG ---
+function sparkline(points, changePct, w = 84, h = 26) {
+  if (!points || points.length < 2) return "";
+  const min = Math.min(...points), max = Math.max(...points), span = max - min || 1;
+  const pts = points.map((p, i) =>
+    `${(i / (points.length - 1) * (w - 2) + 1).toFixed(1)},${(h - 2 - (p - min) / span * (h - 4)).toFixed(1)}`).join(" ");
+  const trend = points[points.length - 1] >= points[0] ? "up" : "down";
+  return `<svg class="spark" width="${w}" height="${h}" aria-label="5-day trend"><polyline class="${trend}" points="${pts}"/></svg>`;
+}
+
+const analysis = D.analysis || {};
+if (analysis.summary) {
+  document.getElementById("daySummary").style.display = "";
+  document.getElementById("daySummaryText").textContent = analysis.summary;
+}
+if (analysis.geoBriefing) {
+  document.getElementById("geoBrief").style.display = "";
+  document.getElementById("geoBriefText").textContent = analysis.geoBriefing;
+}
+
+const movers = D.movers || [];
+document.getElementById("moverCount").textContent = movers.length;
+const cardsEl = document.getElementById("moverCards");
+if (!movers.length) {
+  cardsEl.innerHTML = '<div class="empty">No names in the universe moved beyond ±' + (D.threshold || 3) + '% today.</div>';
+}
+movers.forEach(m => {
+  const note = (analysis.moverNotes || {})[m.symbol];
+  const card = document.createElement("div");
+  card.className = "card";
+  card.innerHTML = `
+    <div class="top"><span><span class="sym">${esc(m.symbol)}</span> <span class="nm">${esc(m.name)}</span></span>
+      <span><span class="badge ${dir(m.changePct)}">${fmtPct(m.changePct)}</span>${m.ext ?
+        `<span class="ext-chip">${m.ext.label === "pre-market" ? "pre" : "post"} ${fmtPct(m.ext.changePct)}</span>` : ""}</span></div>
+    <div class="px" style="display:flex;justify-content:space-between;align-items:center">
+      <span>$${m.price} · prev close $${m.prevClose} · vol ${(m.volume || 0).toLocaleString()}</span>
+      ${sparkline(m.spark, m.changePct)}</div>
+    <div class="why">
+      <div class="label">Why it's moving</div>
+      ${note ? `<div class="note">${esc(note)}</div>` : ""}
+      <ul class="headlines">${(m.news || []).map(n =>
+        `<li><a href="${esc(n.link)}" target="_blank">${esc(n.title)}</a></li>`).join("")}</ul>
+    </div>`;
+  cardsEl.appendChild(card);
+});
+
+const wl = document.getElementById("watchlist");
+const verticals = D.verticalOrder ||
+  [...new Set((D.quotes || []).map(q => q.vertical || "Other"))];
+
+verticals.forEach(v => {
+  const group = (D.quotes || []).filter(q => (q.vertical || "Other") === v);
+  if (!group.length) return;
+
+  const h = document.createElement("h3");
+  h.className = "vertical";
+  h.textContent = v;
+  wl.appendChild(h);
+
+  const table = document.createElement("table");
+  table.innerHTML = `<thead><tr><th></th><th>Symbol</th><th>Price</th><th>Change</th><th>5-Day</th><th>Day Range</th><th>52-Week Range</th></tr></thead>`;
+  const tbody = document.createElement("tbody");
+
+  group.forEach(q => {
+    const tr = document.createElement("tr");
+    tr.className = "co";
+    tr.dataset.search = (q.symbol + " " + q.name + " " + (q.vertical || "")).toLowerCase();
+    tr.innerHTML = `
+      <td class="caret">▶</td>
+      <td><strong>${esc(q.symbol)}</strong> <span class="nm">${esc(q.name)}</span></td>
+      <td>$${q.price}</td>
+      <td class="chg ${dir(q.changePct)}">${fmtPct(q.changePct)}${q.ext ?
+        `<span class="ext-chip">${q.ext.label === "pre-market" ? "pre" : "post"} ${fmtPct(q.ext.changePct)}</span>` : ""}</td>
+      <td>${sparkline(q.spark, q.changePct, 70, 22)}</td>
+      <td>${q.dayLow ? "$" + q.dayLow.toFixed(2) + " – $" + (q.dayHigh || q.dayLow).toFixed(2) : "—"}</td>
+      <td>${q.fiftyTwoWeekLow ? "$" + q.fiftyTwoWeekLow.toFixed(2) + " – $" + q.fiftyTwoWeekHigh.toFixed(2) : "—"}</td>`;
+
+    const detail = document.createElement("tr");
+    detail.className = "detail";
+    detail.style.display = "none";
+    detail.innerHTML = `<td colspan="7">
+      ${q.description ? `<div class="desc">${esc(q.description)}</div>` : ""}
+      <div class="label">Recent news</div>
+      <ul class="headlines">${(q.news || []).map(n =>
+        `<li><a href="${esc(n.link)}" target="_blank">${esc(n.title)}</a></li>`).join("") ||
+        "<li class='nm'>No recent headlines.</li>"}</ul>
+    </td>`;
+
+    tr.addEventListener("click", () => {
+      const open = detail.style.display !== "none";
+      detail.style.display = open ? "none" : "";
+      tr.classList.toggle("open", !open);
+      tr.querySelector(".caret").textContent = open ? "▶" : "▼";
+    });
+
+    tbody.appendChild(tr);
+    tbody.appendChild(detail);
+  });
+
+  table.appendChild(tbody);
+  wl.appendChild(table);
+});
+
+function etDayLabel(dateLike) {
+  const d = new Date(dateLike);
+  if (isNaN(d)) return "Undated";
+  const day = dt => dt.toLocaleDateString("en-US", { timeZone: "America/New_York", weekday: "long", month: "short", day: "numeric" });
+  const label = day(d);
+  if (label === day(new Date())) return "Today";
+  if (label === day(new Date(Date.now() - 864e5))) return "Yesterday";
+  return label;
+}
+
+function renderFeed(id, items) {
+  const el = document.getElementById(id);
+  if (!items || !items.length) { el.innerHTML = '<div class="empty">Nothing new right now.</div>'; return; }
+  const sorted = [...items].sort((a, b) => (new Date(b.pubDate) || 0) - (new Date(a.pubDate) || 0));
+  let lastDay = null;
+  sorted.forEach(n => {
+    const dayLabel = etDayLabel(n.pubDate);
+    if (dayLabel !== lastDay) {
+      const h = document.createElement("li");
+      h.className = "datehead";
+      h.textContent = dayLabel;
+      el.appendChild(h);
+      lastDay = dayLabel;
+    }
+    const li = document.createElement("li");
+    li.innerHTML = `<a href="${esc(n.link)}" target="_blank">${esc(n.title)}</a>
+      <div class="sub">${esc(fmtET(n.pubDate))}</div>`;
+    el.appendChild(li);
+  });
+}
+renderFeed("geoFeed", D.geopolitical);
+renderFeed("mnaFeed", D.mna);
+renderFeed("sectorFeed", D.sectorNews);
+renderFeed("industrialsFeed", D.industrialsNews);
+renderFeed("ipoFeed", D.ipoNews);
+renderFeed("contractFeed", D.contractNews);
+renderFeed("sdaFeed", D.sdaNews);
+
+// --- Watchlist search ---
+document.getElementById("search").addEventListener("input", e => {
+  const term = e.target.value.trim().toLowerCase();
+  document.querySelectorAll("#watchlist table").forEach(table => {
+    let visible = 0;
+    table.querySelectorAll("tr.co").forEach(tr => {
+      const hit = !term || tr.dataset.search.includes(term);
+      tr.style.display = hit ? "" : "none";
+      if (!hit) {
+        const det = tr.nextElementSibling;
+        det.style.display = "none";
+        tr.classList.remove("open");
+        tr.querySelector(".caret").textContent = "▶";
+      }
+      if (hit) visible++;
+    });
+    table.style.display = visible ? "" : "none";
+    table.previousElementSibling.style.display = visible ? "" : "none"; // the h3
+  });
+});
+
+// --- Past 7 days history ---
+{
+  const el = document.getElementById("history");
+  const hist = [...(D.history || [])].reverse();
+  if (!hist.length) el.innerHTML = '<div class="empty" style="padding:16px 20px">History builds up as the dashboard runs — check back tomorrow.</div>';
+  hist.forEach(h => {
+    const row = document.createElement("div");
+    row.className = "day";
+    const d = new Date(h.date + "T12:00:00");
+    row.innerHTML = `
+      <span class="d">${d.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" })}</span>
+      <span class="adv">${h.advancers}▲ / ${h.decliners}▼ · avg ${fmtPct(h.avgChangePct)}</span>
+      <span>${(h.topMovers || []).map(m =>
+        `<span class="chip ${dir(m.changePct)}">${esc(m.symbol)} ${fmtPct(m.changePct)}</span>`).join("")}</span>
+      ${h.summary ? `<span class="sum">${esc(h.summary)}</span>` : ""}`;
+    el.appendChild(row);
+  });
+}
+
+// --- Auto-refresh: poll data.js every 3 minutes, offer reload when new data lands ---
+setInterval(async () => {
+  try {
+    const txt = await (await fetch("data.js?t=" + Date.now(), { cache: "no-store" })).text();
+    const m = txt.match(/"generatedAt":\s*"([^"]+)"/);
+    if (m && D.generatedAt && m[1] !== D.generatedAt) {
+      document.getElementById("refreshBanner").style.display = "block";
+    }
+  } catch (e) { /* offline or file:// — ignore */ }
+}, 180000);
+document.getElementById("refreshBanner").addEventListener("click", () => location.reload());
+
+const ipoCardsEl = document.getElementById("ipoCards");
+const ipoWatch = analysis.ipoWatch || [];
+if (!ipoWatch.length) {
+  ipoCardsEl.innerHTML = '<div class="empty">No tracked IPO candidates right now.</div>';
+}
+ipoWatch.forEach(c => {
+  const card = document.createElement("div");
+  card.className = "card";
+  card.innerHTML = `
+    <div class="top"><span class="sym">${esc(c.name)}</span>
+      <span class="badge ${/^(Filed|Priced|Lists)/i.test(c.status) ? "up" : "down"}" style="font-size:12px">${esc(c.status)}</span></div>
+    <div class="px">${esc(c.valuation || "")}</div>
+    <div class="why"><div class="label">What we know</div>
+      <div class="note">${esc(c.note)}</div></div>`;
+  ipoCardsEl.appendChild(card);
+});
+
+const awardRows = document.getElementById("awardRows");
+function fmtAmt(a) {
+  if (a == null) return "—";
+  if (a >= 1e9) return "$" + (a / 1e9).toFixed(2) + "B";
+  if (a >= 1e6) return "$" + (a / 1e6).toFixed(1) + "M";
+  return "$" + Math.round(a / 1e3).toLocaleString() + "K";
+}
+(D.dodAwards || []).forEach(a => {
+  const tr = document.createElement("tr");
+  tr.innerHTML = `
+    <td><strong>${esc(a.recipient)}</strong></td>
+    <td>${fmtAmt(a.amount)}</td>
+    <td>${esc(a.agency)}</td>
+    <td>${esc(a.date)}</td>
+    <td style="font-size:12.5px;color:var(--muted)">${esc((a.description || "").slice(0, 120))}</td>`;
+  awardRows.appendChild(tr);
+});
+</script>
+</body>
+</html>
