@@ -13,7 +13,16 @@ if [ "$ET_DOW" -gt 5 ] || [ "$ET_HM" -lt 0855 ] || [ "$ET_HM" -gt 1635 ]; then
 fi
 
 echo "--- pulse $(TZ=America/New_York date '+%Y-%m-%d %H:%M %Z')"
-python3 fetch_data.py --quotes-only || exit 1
+
+# Every 3rd run (~15 min), also refresh mover headlines + fast news feeds
+COUNT=$(cat .pulse_count 2>/dev/null || echo 0)
+COUNT=$(( (COUNT + 1) % 3 ))
+echo "$COUNT" > .pulse_count
+if [ "$COUNT" -eq 0 ]; then
+  python3 fetch_data.py --news-light || exit 1
+else
+  python3 fetch_data.py --quotes-only || exit 1
+fi
 
 # Validate before publishing
 python3 -c "import json; json.loads(open('data.js').read().split('=',1)[1].rstrip().rstrip(';'))" || exit 1

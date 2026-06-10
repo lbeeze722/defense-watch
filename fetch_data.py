@@ -279,10 +279,10 @@ def main():
     print(f"{len(quotes)} quotes, {len(movers)} movers beyond +/-{MOVER_THRESHOLD}%")
 
     existing = load_existing()
-    quotes_only = "--quotes-only" in sys.argv
+    news_light = "--news-light" in sys.argv
+    quotes_only = "--quotes-only" in sys.argv and not news_light
 
-    if quotes_only:
-        print("Quotes-only mode: carrying news/awards over from previous run")
+    if quotes_only or news_light:
         old_news = {q["symbol"]: q.get("news", []) for q in existing.get("quotes", [])}
         for q in quotes:
             q["news"] = old_news.get(q["symbol"], [])
@@ -294,6 +294,17 @@ def main():
         sda_news = existing.get("sdaNews", [])
         ipo_news = existing.get("ipoNews", [])
         dod_awards = existing.get("dodAwards", [])
+        if news_light:
+            # Refresh the fast-moving feeds + headlines for current movers only
+            print("News-light mode: refreshing mover headlines and fast topic feeds")
+            for m in movers:
+                m["news"] = fetch_news(f'"{m["name"]}" stock', limit=5) or m["news"]
+                time.sleep(0.3)
+            geo = fetch_news("geopolitical conflict military when:1d", limit=12) or geo
+            sector_news = fetch_news("aerospace defense industry when:1d", limit=10) or sector_news
+            contract_news = fetch_news('Pentagon OR DoD OR Army OR Navy OR "Air Force" defense contract awarded when:3d', limit=12) or contract_news
+        else:
+            print("Quotes-only mode: carrying news/awards over from previous run")
     else:
         print("Fetching company news...")
         for q in quotes:
