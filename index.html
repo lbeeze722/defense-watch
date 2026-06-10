@@ -414,6 +414,8 @@ verticals.forEach(v => {
     detail.style.display = "none";
     detail.innerHTML = `<td colspan="7">
       ${q.description ? `<div class="desc">${esc(q.description)}</div>` : ""}
+      ${q.relVol ? `<div class="desc" style="font-size:13px;color:var(--muted)">Volume today: ${(q.volume || 0).toLocaleString()}
+        — <strong style="color:${q.relVol >= 2 ? "#6B4FA1" : "inherit"}">${q.relVol}× </strong>its 5-day average (time-adjusted)${q.relVol >= 2 ? " 🔊 unusual" : ""}</div>` : ""}
       <div class="label">Recent news</div>
       <ul class="headlines">${(q.news || []).map(n =>
         `<li><a href="${esc(n.link)}" target="_blank">${esc(n.title)}</a></li>`).join("") ||
