@@ -7,12 +7,14 @@ writes everything to data.js for the dashboard to render.
 """
 
 import json
+import sys
 import time
 import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 OUT = Path(__file__).parent / "data.js"
 
@@ -117,11 +119,31 @@ def http_get(url, timeout=15):
 
 
 def fetch_spark(symbol):
-    """5-day close series for sparklines."""
+    """5-day close series for sparklines, plus average full-day volume."""
     url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=90m&range=5d"
     result = json.loads(http_get(url))["chart"]["result"][0]
-    closes = result["indicators"]["quote"][0]["close"]
-    return [round(c, 2) for c in closes if c is not None]
+    quote = result["indicators"]["quote"][0]
+    closes = [round(c, 2) for c in quote["close"] if c is not None]
+
+    et = ZoneInfo("America/New_York")
+    today = datetime.now(et).date()
+    day_vol = {}
+    for ts, vol in zip(result.get("timestamp", []), quote.get("volume") or []):
+        if vol:
+            d = datetime.fromtimestamp(ts, et).date()
+            day_vol[d] = day_vol.get(d, 0) + vol
+    full_days = [v for d, v in day_vol.items() if d != today]
+    avg_vol = sum(full_days) / len(full_days) if full_days else None
+    return closes, avg_vol
+
+
+def session_fraction():
+    """Fraction of the regular trading session elapsed (1.0 outside market hours)."""
+    now = datetime.now(ZoneInfo("America/New_York"))
+    mins = now.hour * 60 + now.minute
+    if now.weekday() < 5 and 570 <= mins < 960:
+        return max((mins - 570) / 390, 0.08)
+    return 1.0
 
 
 def fetch_ext_hours(symbol):
@@ -156,16 +178,20 @@ def fetch_quote(symbol):
         return None
     name, vertical, desc = UNIVERSE.get(symbol, (meta.get("shortName", symbol), "Other", ""))
     try:
-        spark = fetch_spark(symbol)
+        spark, avg_vol = fetch_spark(symbol)
     except Exception:
-        spark = []
+        spark, avg_vol = [], None
     try:
         ext = fetch_ext_hours(symbol)
     except Exception:
         ext = None
+    vol = meta.get("regularMarketVolume")
+    rel_vol = round(vol / (avg_vol * session_fraction()), 1) if vol and avg_vol else None
     return {
         "spark": spark,
         "ext": ext,
+        "relVol": rel_vol,
+        "avgVolume": int(avg_vol) if avg_vol else None,
         "symbol": symbol,
         "name": name,
         "vertical": vertical,
@@ -252,25 +278,40 @@ def main():
 
     print(f"{len(quotes)} quotes, {len(movers)} movers beyond +/-{MOVER_THRESHOLD}%")
 
-    print("Fetching company news...")
-    for q in quotes:
-        limit = 5 if abs(q["changePct"]) >= MOVER_THRESHOLD else 4
-        q["news"] = fetch_news(f'"{q["name"]}" stock', limit=limit)
-        time.sleep(0.3)
-
-    print("Fetching topic news...")
-    geo = fetch_news("geopolitical conflict military when:1d", limit=12)
-    mna = fetch_news('aerospace defense "acquisition" OR "merger" OR "acquire" when:7d', limit=10)
-    sector_news = fetch_news("aerospace defense industry when:1d", limit=10)
-    industrials = fetch_news("industrials sector manufacturing when:1d", limit=8)
-    contract_news = fetch_news('Pentagon OR DoD OR Army OR Navy OR "Air Force" defense contract awarded when:3d', limit=12)
-    sda_news = fetch_news('"Space Development Agency" when:30d', limit=8)
-    ipo_news = fetch_news('defense OR aerospace company IPO when:14d', limit=10)
-
-    print("Fetching DoD awards from USAspending...")
-    dod_awards = fetch_dod_awards()
-
     existing = load_existing()
+    quotes_only = "--quotes-only" in sys.argv
+
+    if quotes_only:
+        print("Quotes-only mode: carrying news/awards over from previous run")
+        old_news = {q["symbol"]: q.get("news", []) for q in existing.get("quotes", [])}
+        for q in quotes:
+            q["news"] = old_news.get(q["symbol"], [])
+        geo = existing.get("geopolitical", [])
+        mna = existing.get("mna", [])
+        sector_news = existing.get("sectorNews", [])
+        industrials = existing.get("industrialsNews", [])
+        contract_news = existing.get("contractNews", [])
+        sda_news = existing.get("sdaNews", [])
+        ipo_news = existing.get("ipoNews", [])
+        dod_awards = existing.get("dodAwards", [])
+    else:
+        print("Fetching company news...")
+        for q in quotes:
+            limit = 5 if abs(q["changePct"]) >= MOVER_THRESHOLD else 4
+            q["news"] = fetch_news(f'"{q["name"]}" stock', limit=limit)
+            time.sleep(0.3)
+
+        print("Fetching topic news...")
+        geo = fetch_news("geopolitical conflict military when:1d", limit=12)
+        mna = fetch_news('aerospace defense "acquisition" OR "merger" OR "acquire" when:7d', limit=10)
+        sector_news = fetch_news("aerospace defense industry when:1d", limit=10)
+        industrials = fetch_news("industrials sector manufacturing when:1d", limit=8)
+        contract_news = fetch_news('Pentagon OR DoD OR Army OR Navy OR "Air Force" defense contract awarded when:3d', limit=12)
+        sda_news = fetch_news('"Space Development Agency" when:30d', limit=8)
+        ipo_news = fetch_news('defense OR aerospace company IPO when:14d', limit=10)
+
+        print("Fetching DoD awards from USAspending...")
+        dod_awards = fetch_dod_awards()
     analysis = existing.get("analysis", {"summary": "", "moverNotes": {}, "geoBriefing": "", "ipoWatch": []})
 
     # Rolling 7-day history: one entry per ET calendar day, latest data wins.
