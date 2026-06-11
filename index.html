@@ -341,12 +341,17 @@ function sparkline(points, changePct, w = 84, h = 26) {
 }
 
 const analysis = D.analysis || {};
-if (analysis.summary) {
+const analysisAge = analysis.asOf ? (Date.now() - new Date(analysis.asOf)) / 36e5 : 0;
+const analysisFresh = analysisAge < 24;  // hide written analysis once it's a day old
+const ageLabel = analysis.asOf ? ` <span style="font-weight:400;letter-spacing:0;text-transform:none;color:var(--muted)">— as of ${fmtET(analysis.asOf)}</span>` : "";
+if (analysis.summary && analysisFresh) {
   document.getElementById("daySummary").style.display = "";
+  document.querySelector("#daySummary h3").innerHTML = "Today's Read" + ageLabel;
   document.getElementById("daySummaryText").textContent = analysis.summary;
 }
-if (analysis.geoBriefing) {
+if (analysis.geoBriefing && analysisFresh) {
   document.getElementById("geoBrief").style.display = "";
+  document.querySelector("#geoBrief h3").innerHTML = "Latest Briefing" + ageLabel;
   document.getElementById("geoBriefText").textContent = analysis.geoBriefing;
 }
 
@@ -357,7 +362,7 @@ if (!movers.length) {
   cardsEl.innerHTML = '<div class="empty">No names in the universe moved beyond ±' + (D.threshold || 3) + '% today.</div>';
 }
 movers.forEach(m => {
-  const note = (analysis.moverNotes || {})[m.symbol];
+  const note = analysisFresh ? (analysis.moverNotes || {})[m.symbol] : null;
   const card = document.createElement("div");
   card.className = "card";
   card.innerHTML = `
