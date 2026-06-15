@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-15T20:03:01.548396+00:00",
+ "generatedAt": "2026-06-15T20:08:38.917776+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -220,8 +220,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 25.81,
-    "changePct": 0.19
+    "price": 25.65,
+    "changePct": -0.43
    },
    "relVol": 1.0,
    "avgVolume": 14545596,
@@ -301,8 +301,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.86,
-    "changePct": 0.24
+    "price": 14.87,
+    "changePct": 0.3
    },
    "relVol": 0.7,
    "avgVolume": 54339617,
@@ -383,8 +383,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 813.03,
-    "changePct": -0.2
+    "price": 814.65,
+    "changePct": 0.0
    },
    "relVol": 1.3,
    "avgVolume": 100475,
@@ -465,8 +465,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 174.35,
-    "changePct": 1.4
+    "price": 172.01,
+    "changePct": 0.03
    },
    "relVol": 1.2,
    "avgVolume": 773546,
@@ -546,8 +546,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 116.27,
-    "changePct": 1.44
+    "price": 114.71,
+    "changePct": 0.08
    },
    "relVol": 3.0,
    "avgVolume": 757522,
@@ -626,7 +626,11 @@ window.DASHBOARD_DATA = {
     46.66,
     46.68
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 46.68,
+    "changePct": 0.0
+   },
    "relVol": 1.6,
    "avgVolume": 602269,
    "symbol": "DRS",
@@ -705,8 +709,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.04,
-    "changePct": 0.0
+    "price": 4.06,
+    "changePct": 0.5
    },
    "relVol": 1.0,
    "avgVolume": 1796435,
@@ -787,8 +791,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 109.15,
-    "changePct": -0.09
+    "price": 108.52,
+    "changePct": -0.67
    },
    "relVol": 1.0,
    "avgVolume": 29257900,
@@ -867,7 +871,11 @@ window.DASHBOARD_DATA = {
     109.37,
     109.39
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 109.39,
+    "changePct": 0.0
+   },
    "relVol": 1.5,
    "avgVolume": 355621,
    "symbol": "SAIC",
@@ -946,8 +954,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.53,
-    "changePct": -0.27
+    "price": 5.59,
+    "changePct": 0.8
    },
    "relVol": 1.4,
    "avgVolume": 39091237,
@@ -1026,7 +1034,11 @@ window.DASHBOARD_DATA = {
     75.68,
     75.69
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 75.69,
+    "changePct": 0.0
+   },
    "relVol": 1.4,
    "avgVolume": 681716,
    "symbol": "ATRO",
@@ -1106,8 +1118,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 24.7,
-    "changePct": -0.18
+    "price": 24.6,
+    "changePct": -0.58
    },
    "relVol": 1.0,
    "avgVolume": 5206143,
@@ -1186,7 +1198,11 @@ window.DASHBOARD_DATA = {
     87.56,
     86.68
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 87.57,
+    "changePct": 1.03
+   },
    "relVol": 1.1,
    "avgVolume": 463112,
    "symbol": "VVX",
@@ -1257,7 +1273,11 @@ window.DASHBOARD_DATA = {
     73.91,
     74.55
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 74.8,
+    "changePct": 0.34
+   },
    "relVol": 1.5,
    "avgVolume": 1032591,
    "symbol": "BAH",
@@ -1335,7 +1355,11 @@ window.DASHBOARD_DATA = {
     507.85,
     507.57
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 507.56,
+    "changePct": -0.0
+   },
    "relVol": 1.5,
    "avgVolume": 155036,
    "symbol": "CACI",
@@ -1414,8 +1438,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.68,
-    "changePct": 0.05
+    "price": 9.77,
+    "changePct": 0.93
    },
    "relVol": 1.9,
    "avgVolume": 26789358,
@@ -1495,8 +1519,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 228.98,
-    "changePct": -0.01
+    "price": 229.2,
+    "changePct": 0.08
    },
    "relVol": 1.5,
    "avgVolume": 5006523,
@@ -1576,8 +1600,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 530.36,
-    "changePct": -0.02
+    "price": 530.5,
+    "changePct": 0.01
    },
    "relVol": 1.1,
    "avgVolume": 888500,
@@ -1658,8 +1682,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.52,
-    "changePct": 0.11
+    "price": 9.53,
+    "changePct": 0.21
    },
    "relVol": 1.2,
    "avgVolume": 49058643,
@@ -1737,7 +1761,11 @@ window.DASHBOARD_DATA = {
     55.91,
     55.5
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 56.59,
+    "changePct": 1.96
+   },
    "relVol": 1.1,
    "avgVolume": 637248,
    "symbol": "PSN",
@@ -1817,8 +1845,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 57.27,
-    "changePct": 0.44
+    "price": 56.73,
+    "changePct": -0.52
    },
    "relVol": 1.2,
    "avgVolume": 3138149,
@@ -1898,8 +1926,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 342.1,
-    "changePct": -0.09
+    "price": 340.0,
+    "changePct": -0.7
    },
    "relVol": 1.1,
    "avgVolume": 3149091,
@@ -1951,6 +1979,82 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    109.84,
+    103.9,
+    106.31,
+    108.43,
+    108.84,
+    107.34,
+    107.58,
+    108.49,
+    106.76,
+    106.85,
+    113.29,
+    113.09,
+    116.53,
+    119.04,
+    119.45,
+    119.25,
+    119.45,
+    120.75,
+    120.56,
+    120.38,
+    118.76,
+    121.29,
+    119.88,
+    119.25,
+    116.03,
+    115.93
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 115.93,
+    "changePct": 0.0
+   },
+   "relVol": 1.4,
+   "avgVolume": 479152,
+   "symbol": "MRCY",
+   "name": "Mercury Systems",
+   "vertical": "Defense Tech & Software",
+   "description": "Secure processing subsystems \u2014 radar, EW, and avionics computing boards embedded in major weapons programs.",
+   "price": 115.93,
+   "prevClose": 119.32,
+   "changePct": -2.84,
+   "volume": 661309,
+   "dayHigh": 122.17,
+   "dayLow": 115.47,
+   "fiftyTwoWeekHigh": 122.17,
+   "fiftyTwoWeekLow": 48.75,
+   "marketTime": 1781553601,
+   "news": [
+    {
+     "title": "Mercury Systems (MRCY) Stock Valuation After Strong Multi\u2011Period Gains And Backlog Expectations - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTZXSUF5VDh2Yl8wMFlxYW12LXhDRTFyR0ZfNm5KS1BNNkE2TS1WN21QWjI3XzRyU2NLSTZ4SjNlSkRaZm12bXU5SVBCeWdQWlY1QnFNRUJzeTNzV1FUNkdoVGc5YUdMRWlrZVB0Q0RmSjBTUzc3WXlnZHJvTGRXZVlxN01WT3g4TjJHYUVLS0NiellrdTZNZThKOXQtQW1NOXln?oc=5",
+     "pubDate": "Mon, 15 Jun 2026 09:06:42 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Mercury Systems (MRCY) Stock Valuation Check After Strong Recent Price Momentum - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSjAyRE96dDJYU0RGUmxoZV82UnZHc2poNVhTQUQ1RnBYLTFuQmFMdXQwQ21mQ3dNZ3J1bmphTDQzLVA2OUNuM3dHam1URVVYUExJTGtDVGYyWGVkQVBBcjFyZFdhUkhOUDRlWDBaTWxXMnR1MFlEMmVWMDJxS1BrQzhfZmRpNXFIb08wVWtIc1R0cVhRUDI1UUdCRXNkV0ZJSlIzUGo2TEtCd29EVGIxdV92dXgzQTh0RmtEOF9aZ09tcDRHaHJpejhvSFlFeWtZY1RiMXpB0gHbAUFVX3lxTE9ydTJ3WjlzcFVQa2ZQVmpZM19DWlNyWnZkVHZYeTBrbWF4bGlEX3VqTkY0M0o1RTFtSVY4UGJyWWhKU0Nvbk9uNVI5SXVBRFk4cmM0ZTJBRE00U3JJWERSVmFKNkRwZDVMSDVMdWZkOFhTZEpLMnh5VzMyWHowYTZQdHl1X2ZfdXQwajdqeU5UcWNBRm9zRWllQ0VjR2VYX2lldjZZY1JEbWp6MkFUQlp0ME80VW41aTZkcFd0Y2M0T1VxUlhTRk1xQUNrQ1dxcjBndko4VVFkLW1tZw?oc=5",
+     "pubDate": "Sun, 14 Jun 2026 12:23:25 GMT",
+     "source": "simplywall.st"
+    },
+    {
+     "title": "Agman Capital LLC Invests $8.97 Million in Mercury Systems Inc $MRCY - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdkxJaU9LMXF4blNCemtYT2RzcFZjaC01MmQ2RmJTU3gxOGpvVHNnRnk5ZnhLU18yR1g4YmdNUHNhanlzTzZhQUNVRVNIa2NyMDJHbHVxNXRiWElVMzhXYWM4OTJHbVh3QjBGZ1BnSXlIZjk2eGFuS1RMa1RXRXpCUENWT1ZCLUdnbUUyYmFhNkl1ME9yeGRHWm5mRXgxZkdWZVRNcGJEb09iRFBBVDBoMkZpSU5iSjMxUkEwZ0ladGJzVElE?oc=5",
+     "pubDate": "Sun, 14 Jun 2026 07:40:30 GMT",
+     "source": "MarketBeat"
+    },
+    {
+     "title": "Mercury Systems stock hits all-time high at 118.66 USD - Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdU1GZEtwZE1sQVlNQnYtMEl6aFR2NXpzUzVKaXVFcy0yTjJQMlVjb0Q5Y0VoOFNhV25JSmlXSWk1LU9JUElHZktLdm9EMGF0eENDUUc4djVBeWpIci1CVkxQZHdpbTVxWlFzQzd2S1c5ODRsVXV5UkFQNTFTSUtzUF9pSy1YNjhzYk1lZ1RjZzFUUzNJZUVPRl91by1ad1lCdUFrWTdkWGZwOXN3b2c?oc=5",
+     "pubDate": "Thu, 11 Jun 2026 21:09:49 GMT",
+     "source": "Investing.com"
+    }
+   ]
+  },
+  {
+   "spark": [
     176.19,
     169.94,
     171.91,
@@ -1978,7 +2082,11 @@ window.DASHBOARD_DATA = {
     198.6,
     198.55
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 198.55,
+    "changePct": 0.0
+   },
    "relVol": 1.5,
    "avgVolume": 417165,
    "symbol": "VSEC",
@@ -2058,8 +2166,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 134.88,
-    "changePct": 0.13
+    "price": 134.76,
+    "changePct": 0.04
    },
    "relVol": 1.4,
    "avgVolume": 27035839,
@@ -2105,81 +2213,6 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
-    109.84,
-    103.9,
-    106.31,
-    108.43,
-    108.84,
-    107.34,
-    107.58,
-    108.49,
-    106.76,
-    106.85,
-    113.29,
-    113.09,
-    116.53,
-    119.04,
-    119.45,
-    119.25,
-    119.45,
-    120.75,
-    120.56,
-    120.38,
-    118.76,
-    121.29,
-    119.88,
-    119.25,
-    116.03
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 114.69,
-    "changePct": -1.15
-   },
-   "relVol": 1.4,
-   "avgVolume": 479152,
-   "symbol": "MRCY",
-   "name": "Mercury Systems",
-   "vertical": "Defense Tech & Software",
-   "description": "Secure processing subsystems \u2014 radar, EW, and avionics computing boards embedded in major weapons programs.",
-   "price": 116.03,
-   "prevClose": 119.32,
-   "changePct": -2.76,
-   "volume": 661309,
-   "dayHigh": 122.17,
-   "dayLow": 115.47,
-   "fiftyTwoWeekHigh": 122.17,
-   "fiftyTwoWeekLow": 48.75,
-   "marketTime": 1781553599,
-   "news": [
-    {
-     "title": "Mercury Systems (MRCY) Stock Valuation After Strong Multi\u2011Period Gains And Backlog Expectations - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWTZXSUF5VDh2Yl8wMFlxYW12LXhDRTFyR0ZfNm5KS1BNNkE2TS1WN21QWjI3XzRyU2NLSTZ4SjNlSkRaZm12bXU5SVBCeWdQWlY1QnFNRUJzeTNzV1FUNkdoVGc5YUdMRWlrZVB0Q0RmSjBTUzc3WXlnZHJvTGRXZVlxN01WT3g4TjJHYUVLS0NiellrdTZNZThKOXQtQW1NOXln?oc=5",
-     "pubDate": "Mon, 15 Jun 2026 09:06:42 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Mercury Systems (MRCY) Stock Valuation Check After Strong Recent Price Momentum - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSjAyRE96dDJYU0RGUmxoZV82UnZHc2poNVhTQUQ1RnBYLTFuQmFMdXQwQ21mQ3dNZ3J1bmphTDQzLVA2OUNuM3dHam1URVVYUExJTGtDVGYyWGVkQVBBcjFyZFdhUkhOUDRlWDBaTWxXMnR1MFlEMmVWMDJxS1BrQzhfZmRpNXFIb08wVWtIc1R0cVhRUDI1UUdCRXNkV0ZJSlIzUGo2TEtCd29EVGIxdV92dXgzQTh0RmtEOF9aZ09tcDRHaHJpejhvSFlFeWtZY1RiMXpB0gHbAUFVX3lxTE9ydTJ3WjlzcFVQa2ZQVmpZM19DWlNyWnZkVHZYeTBrbWF4bGlEX3VqTkY0M0o1RTFtSVY4UGJyWWhKU0Nvbk9uNVI5SXVBRFk4cmM0ZTJBRE00U3JJWERSVmFKNkRwZDVMSDVMdWZkOFhTZEpLMnh5VzMyWHowYTZQdHl1X2ZfdXQwajdqeU5UcWNBRm9zRWllQ0VjR2VYX2lldjZZY1JEbWp6MkFUQlp0ME80VW41aTZkcFd0Y2M0T1VxUlhTRk1xQUNrQ1dxcjBndko4VVFkLW1tZw?oc=5",
-     "pubDate": "Sun, 14 Jun 2026 12:23:25 GMT",
-     "source": "simplywall.st"
-    },
-    {
-     "title": "Agman Capital LLC Invests $8.97 Million in Mercury Systems Inc $MRCY - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdkxJaU9LMXF4blNCemtYT2RzcFZjaC01MmQ2RmJTU3gxOGpvVHNnRnk5ZnhLU18yR1g4YmdNUHNhanlzTzZhQUNVRVNIa2NyMDJHbHVxNXRiWElVMzhXYWM4OTJHbVh3QjBGZ1BnSXlIZjk2eGFuS1RMa1RXRXpCUENWT1ZCLUdnbUUyYmFhNkl1ME9yeGRHWm5mRXgxZkdWZVRNcGJEb09iRFBBVDBoMkZpSU5iSjMxUkEwZ0ladGJzVElE?oc=5",
-     "pubDate": "Sun, 14 Jun 2026 07:40:30 GMT",
-     "source": "MarketBeat"
-    },
-    {
-     "title": "Mercury Systems stock hits all-time high at 118.66 USD - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdU1GZEtwZE1sQVlNQnYtMEl6aFR2NXpzUzVKaXVFcy0yTjJQMlVjb0Q5Y0VoOFNhV25JSmlXSWk1LU9JUElHZktLdm9EMGF0eENDUUc4djVBeWpIci1CVkxQZHdpbTVxWlFzQzd2S1c5ODRsVXV5UkFQNTFTSUtzUF9pSy1YNjhzYk1lZ1RjZzFUUzNJZUVPRl91by1ad1lCdUFrWTdkWGZwOXN3b2c?oc=5",
-     "pubDate": "Thu, 11 Jun 2026 21:09:49 GMT",
-     "source": "Investing.com"
-    }
-   ]
-  },
-  {
-   "spark": [
     304.65,
     303.63,
     304.39,
@@ -2206,7 +2239,11 @@ window.DASHBOARD_DATA = {
     305.43,
     304.15
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 300.62,
+    "changePct": -1.16
+   },
    "relVol": 1.5,
    "avgVolume": 694976,
    "symbol": "LHX",
@@ -2277,7 +2314,11 @@ window.DASHBOARD_DATA = {
     271.88,
     270.51
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 270.01,
+    "changePct": -0.18
+   },
    "relVol": 0.8,
    "avgVolume": 1880994,
    "symbol": "HWM",
@@ -2349,7 +2390,11 @@ window.DASHBOARD_DATA = {
     136.65,
     136.65
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 136.65,
+    "changePct": 0.0
+   },
    "relVol": 0.7,
    "avgVolume": 514194,
    "symbol": "OSK",
@@ -2420,7 +2465,11 @@ window.DASHBOARD_DATA = {
     1276.62,
     1277.47
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 1277.35,
+    "changePct": -0.01
+   },
    "relVol": 1.2,
    "avgVolume": 214090,
    "symbol": "TDG",
@@ -2491,7 +2540,11 @@ window.DASHBOARD_DATA = {
     34.89,
     34.82
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 34.82,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
    "avgVolume": 986905,
    "symbol": "KBR",
@@ -2564,8 +2617,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 536.75,
-    "changePct": -1.47
+    "price": 540.0,
+    "changePct": -0.87
    },
    "relVol": 1.1,
    "avgVolume": 671981,
@@ -2637,7 +2690,11 @@ window.DASHBOARD_DATA = {
     337.41,
     336.1
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 336.18,
+    "changePct": 0.02
+   },
    "relVol": 0.6,
    "avgVolume": 462189,
    "symbol": "HEI",
@@ -2784,7 +2841,11 @@ window.DASHBOARD_DATA = {
     766.48,
     762.23
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 762.59,
+    "changePct": 0.05
+   },
    "relVol": 1.0,
    "avgVolume": 191411,
    "symbol": "CW",
@@ -2855,7 +2916,11 @@ window.DASHBOARD_DATA = {
     301.31,
     299.65
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 302.5,
+    "changePct": 0.95
+   },
    "relVol": 1.0,
    "avgVolume": 304139,
    "symbol": "HII",
@@ -2926,7 +2991,11 @@ window.DASHBOARD_DATA = {
     194.97,
     194.02
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 193.4,
+    "changePct": -0.32
+   },
    "relVol": 0.8,
    "avgVolume": 685421,
    "symbol": "BWXT",
@@ -3000,8 +3069,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.9,
-    "changePct": -0.58
+    "price": 12.05,
+    "changePct": 0.67
    },
    "relVol": 1.1,
    "avgVolume": 10241457,
@@ -3075,8 +3144,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 185.6,
-    "changePct": 1.06
+    "price": 183.66,
+    "changePct": 0.01
    },
    "relVol": 1.0,
    "avgVolume": 4062882,
@@ -3149,7 +3218,11 @@ window.DASHBOARD_DATA = {
     359.64,
     359.64
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 359.53,
+    "changePct": -0.03
+   },
    "relVol": 1.2,
    "avgVolume": 799724,
    "symbol": "GD",
@@ -3220,7 +3293,11 @@ window.DASHBOARD_DATA = {
     94.7,
     93.78
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 93.75,
+    "changePct": -0.03
+   },
    "relVol": 1.3,
    "avgVolume": 863923,
    "symbol": "TXT",
@@ -3296,8 +3373,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 25.81,
-    "changePct": 0.19
+    "price": 25.65,
+    "changePct": -0.43
    },
    "relVol": 1.0,
    "avgVolume": 14545596,
@@ -3377,8 +3454,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.86,
-    "changePct": 0.24
+    "price": 14.87,
+    "changePct": 0.3
    },
    "relVol": 0.7,
    "avgVolume": 54339617,
@@ -3459,8 +3536,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 813.03,
-    "changePct": -0.2
+    "price": 814.65,
+    "changePct": 0.0
    },
    "relVol": 1.3,
    "avgVolume": 100475,
@@ -3541,8 +3618,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 174.35,
-    "changePct": 1.4
+    "price": 172.01,
+    "changePct": 0.03
    },
    "relVol": 1.2,
    "avgVolume": 773546,
@@ -3622,8 +3699,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 116.27,
-    "changePct": 1.44
+    "price": 114.71,
+    "changePct": 0.08
    },
    "relVol": 3.0,
    "avgVolume": 757522,
@@ -3702,7 +3779,11 @@ window.DASHBOARD_DATA = {
     46.66,
     46.68
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 46.68,
+    "changePct": 0.0
+   },
    "relVol": 1.6,
    "avgVolume": 602269,
    "symbol": "DRS",
@@ -3781,8 +3862,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.04,
-    "changePct": 0.0
+    "price": 4.06,
+    "changePct": 0.5
    },
    "relVol": 1.0,
    "avgVolume": 1796435,
@@ -3863,8 +3944,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 109.15,
-    "changePct": -0.09
+    "price": 108.52,
+    "changePct": -0.67
    },
    "relVol": 1.0,
    "avgVolume": 29257900,
@@ -3943,7 +4024,11 @@ window.DASHBOARD_DATA = {
     109.37,
     109.39
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 109.39,
+    "changePct": 0.0
+   },
    "relVol": 1.5,
    "avgVolume": 355621,
    "symbol": "SAIC",
@@ -4022,8 +4107,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.53,
-    "changePct": -0.27
+    "price": 5.59,
+    "changePct": 0.8
    },
    "relVol": 1.4,
    "avgVolume": 39091237,
@@ -4102,7 +4187,11 @@ window.DASHBOARD_DATA = {
     75.68,
     75.69
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 75.69,
+    "changePct": 0.0
+   },
    "relVol": 1.4,
    "avgVolume": 681716,
    "symbol": "ATRO",
@@ -4182,8 +4271,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 24.7,
-    "changePct": -0.18
+    "price": 24.6,
+    "changePct": -0.58
    },
    "relVol": 1.0,
    "avgVolume": 5206143,
@@ -4262,7 +4351,11 @@ window.DASHBOARD_DATA = {
     87.56,
     86.68
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 87.57,
+    "changePct": 1.03
+   },
    "relVol": 1.1,
    "avgVolume": 463112,
    "symbol": "VVX",
@@ -4333,7 +4426,11 @@ window.DASHBOARD_DATA = {
     73.91,
     74.55
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 74.8,
+    "changePct": 0.34
+   },
    "relVol": 1.5,
    "avgVolume": 1032591,
    "symbol": "BAH",
@@ -4411,7 +4508,11 @@ window.DASHBOARD_DATA = {
     507.85,
     507.57
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 507.56,
+    "changePct": -0.0
+   },
    "relVol": 1.5,
    "avgVolume": 155036,
    "symbol": "CACI",
@@ -4490,8 +4591,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.68,
-    "changePct": 0.05
+    "price": 9.77,
+    "changePct": 0.93
    },
    "relVol": 1.9,
    "avgVolume": 26789358,
@@ -4571,8 +4672,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 228.98,
-    "changePct": -0.01
+    "price": 229.2,
+    "changePct": 0.08
    },
    "relVol": 1.5,
    "avgVolume": 5006523,
@@ -4652,8 +4753,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 530.36,
-    "changePct": -0.02
+    "price": 530.5,
+    "changePct": 0.01
    },
    "relVol": 1.1,
    "avgVolume": 888500,
@@ -4734,8 +4835,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.52,
-    "changePct": 0.11
+    "price": 9.53,
+    "changePct": 0.21
    },
    "relVol": 1.2,
    "avgVolume": 49058643,
@@ -4813,7 +4914,11 @@ window.DASHBOARD_DATA = {
     55.91,
     55.5
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 56.59,
+    "changePct": 1.96
+   },
    "relVol": 1.1,
    "avgVolume": 637248,
    "symbol": "PSN",
