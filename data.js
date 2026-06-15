@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-15T20:08:38.917776+00:00",
+ "generatedAt": "2026-06-15T20:14:39.008837+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -220,8 +220,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 25.65,
-    "changePct": -0.43
+    "price": 25.68,
+    "changePct": -0.31
    },
    "relVol": 1.0,
    "avgVolume": 14545596,
@@ -301,8 +301,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.87,
-    "changePct": 0.3
+    "price": 14.79,
+    "changePct": -0.24
    },
    "relVol": 0.7,
    "avgVolume": 54339617,
@@ -465,8 +465,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 172.01,
-    "changePct": 0.03
+    "price": 172.6,
+    "changePct": 0.38
    },
    "relVol": 1.2,
    "avgVolume": 773546,
@@ -485,9 +485,9 @@ window.DASHBOARD_DATA = {
    "marketTime": 1781553601,
    "news": [
     {
-     "title": "AeroVironment (AVAV) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTkpkTWpaSnJ2VEk5OGw3SW5TbVNRVzhVUTB0NWdCS25mZFJwdU16RTg2UkIyOUVSNFV3MHA0T2F2Zkc0ZjhWQUwwTXk4eGM2NUtTTWhZZnRrMVozemd0VFdKYTUzbVBiakc5MWtPdVQxdlZUaUhLRWlISFpNTWJHTC1KS01CRzgtSXRsREVaak9nQ1pvdFM3elM2Q0plNTRhd0FJcGhn?oc=5",
-     "pubDate": "Fri, 12 Jun 2026 22:15:03 GMT",
+     "title": "Reassessing AeroVironment (AVAV) After Recent Share Price Slide And Sector Sentiment Shift - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMjNCaC1LUmRNdXVnbTJtdHNPWHZZbV9vM0xNZWdYdFhPV1ppTnRFNkVtbUs4TVEtMVk3MXpqWGxyeFpFQnBabDNhYVBCV01JUW12ZGVza3VpeWY4bng3dkk5R1hUWXVSdzhtNjZuakhnRFJNMzBkSl9jMHZHUXF6ZnB1R05DTXN5dGNOczFJVmhNb1gzV29JQVdGRjdsbVZHLVk3RHZRanN2M0U2?oc=5",
+     "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
      "source": "Yahoo Finance"
     },
     {
@@ -497,22 +497,22 @@ window.DASHBOARD_DATA = {
      "source": "simplywall.st"
     },
     {
-     "title": "Is AeroVironment's Latest Robot a Game-Changer for AVAV Stock - Kavout",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMFllVldxLUNGejhja1RuYU1vSmx6SXNRY0xFUXpmSWVBVVFhbUFCSl9MYXdlb1k5Uld3UnlSVV81WURuNHhKOXpfNXFlTVlSNGdEajZIQV84OTNIYVVyREVQVjhweUhXclAwaUdVQVZQYWxQUGM4MEVIcU1OR0dZZFZsVjA2ZUl4Y3VtUHdvdXhMSW1YZkx0S2xoVGM?oc=5",
-     "pubDate": "Sun, 14 Jun 2026 07:00:00 GMT",
-     "source": "Kavout"
-    },
-    {
-     "title": "AEROVIRONMENT, INC. (AVAV) - MSN",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZEd2QTdfWlJxWHE2WDBKQ3Y0OTJFTHNGM2lNZVBaVkJNTFh2SVloenNLNjU3SlAzak9mNl9TdXFzZlRHT1NXcGhleW1VMmhMQlNKYUIwWFNFMjVTQVAyS1hDQ1lTcndkbjU3R25vOF9Ra1FfUXo4dTNUbGZyaWxQVnln?oc=5",
-     "pubDate": "Sun, 14 Jun 2026 21:43:27 GMT",
-     "source": "MSN"
-    },
-    {
      "title": "AEROVIRONMENT, INC. INVESTORS WITH LOSSES HAVE UNTIL JULY - GlobeNewswire",
      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQM2lZeUR0SWxKckFXRi1pQm5jQU9kRXlnSlBqR3RHY3pxZXRxdHN4eXBJUS1XZ0E4YWtILTVoZzJsVjJWN20xSjdCdGRBSmw5Zmt0WllCdXp6cGR0RF9hTWJES3RQVHAxQ1UwajBfMjYxenFNUUNoTkFaZk02RnExS0tkeFU1czNHZ09ySkVuNkM1VGVWQ2tUSzlVWURMeTVNeWpOUEd3UXBZUnl6aUhCYUtrckRteUsxODQ4cUhyTFUyZUdLLXAwZi1RM291NHk3ZjFVUkw0TVJzRmt3a0pobTZETmpxbDZmbDhDbmIzS25DMU1RQUZOM2I5bkY2T0dZOWkxaTJkUWRwWUVLRnpqTEtHb1N2RFJJaVJCa2JzdHRUN2IyQklWakN5b0NWb2pxMjZr?oc=5",
      "pubDate": "Wed, 10 Jun 2026 13:47:00 GMT",
      "source": "GlobeNewswire"
+    },
+    {
+     "title": "AeroVironment (NASDAQ:AVAV) Stock Price Down 5.7% - Should You Sell? - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFduQUF5OHdyZWFlUFJlRnI4M3NkMkZzOWxLVDRiWUtqeHJwX1VDY3k5d1BFMkwtcjh5TFhVTHIybUFxaU1ucHBmRi1ORFFhME8tZElfcVN2ME82X0pDQ1UyTVdiNTROT1hQU3lFU19sNEN1amJLWWlDMHhqejI2M3JkWWppSXc4QlRKVDg4bmdXMERqQVVDdUFKNUVRUWp0LThvdnZmV3ZWSXg3ZWJXSWlnNno?oc=5",
+     "pubDate": "Fri, 12 Jun 2026 17:31:38 GMT",
+     "source": "MarketBeat"
+    },
+    {
+     "title": "Why AeroVironment Stock Popped Today - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa0YxWnk4c1dKM3JTWWkweVNTMmVsS1ByaTR6aVZlZVlXbzJBV1NOMWNNajVYYlZmb0RsYm9FYWphQVpqSmdzWlVLcXI4ZHplQlZuaExsbXIwNWZBeEh2bzBpNVJpWElXdUljRGk4aU9DVUlFM29IY3lXcEJlc3lIdC1qS3VUUQ?oc=5",
+     "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+     "source": "The Motley Fool"
     }
    ]
   },
@@ -546,8 +546,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 114.71,
-    "changePct": 0.08
+    "price": 114.6,
+    "changePct": -0.02
    },
    "relVol": 3.0,
    "avgVolume": 757522,
@@ -791,8 +791,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 108.52,
-    "changePct": -0.67
+    "price": 108.76,
+    "changePct": -0.45
    },
    "relVol": 1.0,
    "avgVolume": 29257900,
@@ -817,28 +817,28 @@ window.DASHBOARD_DATA = {
      "source": "Barron's"
     },
     {
-     "title": "RKLB Stock Jumps Overnight: Rocket Lab Lines Up Record Launch Blitz After Nasdaq-100 Entry - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTDlGVGl1S3hFYVltbWdUcTJqVGE3S1ZUS0Ria0NISW85WUR2ZkVIVzR4V3l1TGFhcFBscmFyMHpsWUl1eU1qT2xlUHpFNnREZHY4RkdvemdwT2dSeV9nN0wzekkwUk1BdnBxZHdha3VQcVRvOFEyOF82dVRySF84M0MyWGJyOEtOVG9GejBvUTN5UjF2QVYyVENGdGF6Nms?oc=5",
-     "pubDate": "Mon, 15 Jun 2026 03:42:00 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Cathie Wood Goes All-In On SpaceX Debut, Dumps Rocket Lab Stock The Same Day - TradingView",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRnpQdXBZNklqc09YUGt5aHBteHd2QnFfMnVZbUQ5Vjc4ZlNEQ2sxTE5oQkZRdVZGWVpzS3lfZzVHWnplVUs4bndrMDdFaGpoRjRxNkhxdWFTUEl6cERsTmhYMlZQNW5fUFdVRW9IMXVfWDZfNHNDZ3VVcE14aDQ1OU5saVdtLVJDQU5IVjljVkl4UFl0RDdiamczSTdRMFpPa1hoZEZYUjBjTUdJWTlDSFRkS2VOY0Q1cGhhOFo5bXRmR3ViUkNrSGduaExKRFgzalE?oc=5",
-     "pubDate": "Sat, 13 Jun 2026 11:20:25 GMT",
-     "source": "TradingView"
-    },
-    {
-     "title": "Space Stocks Got Crushed on SpaceX's Big Day. Is the Sell-Off a Warning or a Buying Opportunity? - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT2lKeS0zVmRvWlJEMnFmYkhZNnVfWGVLZ2ticUtoSkt3VWtKUk1ZNDh4Nmd0WGVLYjlGVjJjMlB6ZkZSZFUyZDNkX2hRQmJmdU1uUXNqdm81WmlfZVpuVzR1dlJpZS04UnhRcm1TS3VDei1ETlgwQnNzUnd3eU5nTWphMU91aDJ3TEQ2aDBPUWdpbThEdE05dlFzVHNjUkkyaERwOHVR?oc=5",
-     "pubDate": "Sat, 13 Jun 2026 18:06:00 GMT",
-     "source": "The Motley Fool"
-    },
-    {
      "title": "Rocket Lab stock surges after being added to the Nasdaq-100 index - qz.com",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mcmFJd241S0VJdDNManctOVNGQmwyRlFtQkhZTEV6SE5XU012QVlwOC14MzY2RUJ4OHBmUzFJc2pVSHRrT05YYkZiUFFzQ2Fza29RTHVfVEp1UWZsVkxuTVJpVm82UzBqcmo5dXE1ZVIzQ3M?oc=5",
      "pubDate": "Fri, 12 Jun 2026 13:24:24 GMT",
      "source": "qz.com"
+    },
+    {
+     "title": "Rocket Lab Stock Jumps on Major Analyst Upgrade - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFFITGxfQzItMmRRV2xDTmFNaFN6d3ZPenNKU2Yxc2hwQldRUGFDbTR2X1NFU2t5SXZCOVhpejVGc24wbGVRVUJJZGNDSlp3ejc1dkV2VW9ibnc4TGNJWG1SZWVpRWpZemJsSi1IQ0FSYW5YbmhJdWlqdFdiS05PQ2NaRHhIVjQ5TU5XeEVuQnNiMk5KVE9XQVVWLVNpOVdCWmRmLVlBZW5oZms?oc=5",
+     "pubDate": "Mon, 15 Jun 2026 17:42:19 GMT",
+     "source": "TradingView"
+    },
+    {
+     "title": "Can RKLB Stock Survive The SpaceX IPO Gravity Well? - Trefis",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjJzT0xGdjZZQ0lUd29sNDQxdnJ1VXZDZnpRTUZneFk1Nm5tV2JaX0RLWU80SE1NN3lybmVLU200d25iQ2VEbzFhWjJBRHhxdWptc2J1VnJ2bjlIbE5SRmNnRlNKV3VmZHlXTjVZSWRqdVpHcHl1LU9laG0yY0VUbDZTb19aMGNLWmNwR2tDTEcxNW5uNFhqRmg0TkRvMFVfMEZZWTUzak5RMDlNMGtFNA?oc=5",
+     "pubDate": "Mon, 15 Jun 2026 17:04:19 GMT",
+     "source": "Trefis"
+    },
+    {
+     "title": "Why Is Rocket Lab Stock Trading Higher On Monday? - Benzinga",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSHlXODl0ZUg4MjM2WndUcVVnU093M1piejdXTDY0QnkxOUxUdG12YzlfdkRXMVJwWkhQVmRxWTJ6NjQ1MU91ZW5HQkVweHpqR1lPRU1YQUV1alcyaUZoQ2F6bTI0S1pvbUtuVm5PUWZjbXJzaVJMeXdVb2h4UDdrX2V1dFo5NlFqdlNwanp2XzRrQnYzMVQzaVc5WFFJeEM0NmE4bzlweUIyTFRtRmZ5Rg?oc=5",
+     "pubDate": "Mon, 15 Jun 2026 18:23:43 GMT",
+     "source": "Benzinga"
     }
    ]
   },
@@ -954,8 +954,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.59,
-    "changePct": 0.8
+    "price": 5.55,
+    "changePct": 0.09
    },
    "relVol": 1.4,
    "avgVolume": 39091237,
@@ -986,9 +986,9 @@ window.DASHBOARD_DATA = {
      "source": "Zacks Investment Research"
     },
     {
-     "title": "Is Archer Aviation Stock Your Ticket to Becoming a Millionaire? - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeXV5N3RKUmkybGJDOHdKRnJOWHpoUHZXdnJjdkg4VlFNdnpUVE0wUFFSME9pd1lqWEdMTXZ6TXhJS2ZKVERzS2l2eDBYZlc0MEprcXZWN1gyNWVsbzZIQUhTVTJOZ0VPZTUyQ3FINjJlRVBSX0Zhc1d5dkF3QV91OUN0MVhDakhMTG9nS0Y0MTNYeUlCektGRA?oc=5",
-     "pubDate": "Fri, 12 Jun 2026 14:30:00 GMT",
+     "title": "Why Archer Aviation Stock Is Soaring Today - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa2o1ZlRkdTBYMnc0WVR3MmVqMTRoVVBqWlNKT3cya0hzNG5ycnNDWVZZU3JZZ1BjamlMenJ4dV9zUnAtRGg5OGRKc3pHWXFQNUo4WWF5Q0lTSEZvWGhNZnhISFRvLXloQk1DeE8tOEYwMjlfUzZFRE1MMHN3T0ZEWEhORUE0VThJS3dha053?oc=5",
+     "pubDate": "Mon, 15 Jun 2026 20:06:46 GMT",
      "source": "The Motley Fool"
     },
     {
@@ -998,9 +998,9 @@ window.DASHBOARD_DATA = {
      "source": "TipRanks"
     },
     {
-     "title": "eVTOL Stock Face-Off: Is Joby Aviation or Archer Aviation the Better Buy Right Now? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbUtEOEhOY3lDS1VnZVVBRWhCWHZGNnl5M1NJZ2xWdGF2ZnFiTnR2bFVzQXpKemVEOWdTaWJhbkZtQks0ZkQ5UHRwRklWc3RsSDQwYkdGSVVzUkRPZGZVdEFtZUdfREdJdlJjUE5YZGppdzg0cW04OW1GQ3R1MTROWFZ0ZHdUVUU3Q3E5RFJhQ0hTVmRa?oc=5",
-     "pubDate": "Fri, 12 Jun 2026 21:20:00 GMT",
+     "title": "EHang Rockets 18%, Archer Zooms 10%, Joby Rises 7% as Air Taxi Stocks Fly Higher With the Broader Market - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMnNkR25ZR1E3VjlsUloyWUh5ZTU4RHJCaUZybTBsYzd5VG85Yno1bHhEOGxLSFNpSUYxU1N3VnRuM015d0lvaWowSV9jQ003UExGSk1oS2ZLQ3VfX2x4V0NjbUxyXzM3SFVGOUFGeWhjQXppRW1vbGk1THlEUVVDeVZWYk9ISXBiRlY1c2NWb0haRFl1a1VIdDJR?oc=5",
+     "pubDate": "Mon, 15 Jun 2026 17:53:45 GMT",
      "source": "Yahoo Finance"
     }
    ]
@@ -1118,8 +1118,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 24.6,
-    "changePct": -0.58
+    "price": 24.75,
+    "changePct": 0.02
    },
    "relVol": 1.0,
    "avgVolume": 5206143,
@@ -1232,16 +1232,22 @@ window.DASHBOARD_DATA = {
      "source": "Quiver Quantitative"
     },
     {
+     "title": "VVX News | V2X INC (NYSE:VVX) - ChartMill",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wM3k3Q0dIcjVXRDJXbktSMUlwVTlSd19oNTFOMVBJT0Uza1FLd0hENlU3N0lqdVVLdEtUYzhjdGVJYWZuWFpUc2dGMFhma0k2YmRwZTRueFJlZw?oc=5",
+     "pubDate": "Sat, 13 Jun 2026 00:04:00 GMT",
+     "source": "ChartMill"
+    },
+    {
      "title": "Is V2X, Inc. (VVX) A Good Stock To Buy Now? - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGR5OFhyWkR5WVBTZUhXOXViLW1PTXFWSWxabHJCQzJpMlZ3cXVxM3YzQmtHRjlDVlVEcTlrcXU4U2FPMW1td09jWWFQa1RudnFwcUdHRnd4dWFEY2VFaFplbTVST2ZxRWJzRGVrbkZfeE9haENJTjB4ZmFMaERuc0FNSU5LaXM3QmJJRHU0SFQ?oc=5",
      "pubDate": "Thu, 11 Jun 2026 18:19:20 GMT",
      "source": "Yahoo Finance"
     },
     {
-     "title": "How V2X\u2019s (VVX) Cheaper Term Loan Repricing Has Changed Its Investment Story - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeEtoSmwtamNxSVM1eTUwNGlHMnVSQTl1dlBqRWZQbnQyYmR4Sm5uVVRxT3RzMUk1czF0OXpVN1JKWDRPdm40MkNlMWZaMUVrMW8wOV9qZ05wMzZEMXlSTHJ5Nk9YdWJONTIxNWVFWU5hc0tQYmpQZ3VSbWs4d3RoSkk0YlVvRmtxcUc2QllQVjlQRVRGSXlkOVNSRHJXQzZ3cm11WElwaFZKeDcwR3pnbkh0SDlVam1fNVVxRk11cUU4UdIBxwFBVV95cUxNWm9CdWg0aHJkNVQxYlJVbmhvaFZla3FEbWlRMkJaUG0yTnJxb2R4RVcwWHBaRzEyZHBJR3IwWThkNTMwVTV1cm1tTFRZREJTWHJGUTlELTJrOGNyWDVYdFhKTGtSTkl5ZDV0ZU1XbXFZZXNiTEJRNG5Ba3hQNGhvMkJ3dElCMmpGMUQxeXZhdld4UGVUR1E1VHMySHRmaWVnVE5ZbmVqd20tNnotR2gzRzlIU0c5V1pjRkxpdmw1T3ZEQnBkMXMw?oc=5",
-     "pubDate": "Thu, 11 Jun 2026 03:38:51 GMT",
-     "source": "simplywall.st"
+     "title": "V2X to Generate Interest Expense Savings Through Successful Term Loan Repricing - PR Newswire",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSVlDVW1ScmMzQzR6SHdURXdNb2lfZTdTNmVEN0FvMnVhaV9Qa19OVUJULXZnZENsWlZDV0xOYXVLOHFpTHdSSXVNNjBYM1lHcldXRjY1WE15Q1VVME9mSmV0WUdmMnpUNnlNOUJtbDVtX3AzbFZtbUpMdzNZZHpibVkxMTkxYkxrX09uM2JlRERjdTh1Y18wajZmZDQ4WXV1YU4zeVFCRHpJUVZkcW1waHJUcExvUER5STdVSnBlczYtRXJuRTFXNzU1WHRNczdj?oc=5",
+     "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
+     "source": "PR Newswire"
     }
    ]
   },
@@ -1275,8 +1281,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 74.8,
-    "changePct": 0.34
+    "price": 75.8,
+    "changePct": 1.68
    },
    "relVol": 1.5,
    "avgVolume": 1032591,
@@ -1438,8 +1444,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.77,
-    "changePct": 0.93
+    "price": 9.69,
+    "changePct": 0.18
    },
    "relVol": 1.9,
    "avgVolume": 26789358,
@@ -1519,8 +1525,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 229.2,
-    "changePct": 0.08
+    "price": 228.95,
+    "changePct": -0.03
    },
    "relVol": 1.5,
    "avgVolume": 5006523,
@@ -1600,8 +1606,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 530.5,
-    "changePct": 0.01
+    "price": 530.35,
+    "changePct": -0.02
    },
    "relVol": 1.1,
    "avgVolume": 888500,
@@ -1728,7 +1734,7 @@ window.DASHBOARD_DATA = {
     {
      "title": "Ondas Holdings Stock (ONDS) Opinions on Drone Sector Momentum and Earnings Surprises - Moomoo",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM2p6cDVQQUUxTC1BWTBGeXVkTC1fd3cxMnQwVXVwNnM3MzVkSURJZXJRMHU5ZVA1Y1YxTExWV1ZSMy11d0p0a1V5b1hUd09GTU03bXl4U0xVbWI2UUVWVHpydnItVmRRSTJ1bUUxSmpLb3F5ZjBsUFVmSDd5V3huZWV1VERaLVZnbnYxSVNiSW55OVlRTXptRlpVYUZNd2Rjd3pJX252SHE?oc=5",
-     "pubDate": "Sun, 31 May 2026 07:00:00 GMT",
+     "pubDate": "Mon, 01 Jun 2026 03:41:36 GMT",
      "source": "Moomoo"
     }
    ]
@@ -1763,8 +1769,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 56.59,
-    "changePct": 1.96
+    "price": 55.49,
+    "changePct": -0.02
    },
    "relVol": 1.1,
    "avgVolume": 637248,
@@ -1845,8 +1851,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 56.73,
-    "changePct": -0.52
+    "price": 57.01,
+    "changePct": -0.02
    },
    "relVol": 1.2,
    "avgVolume": 3138149,
@@ -1926,8 +1932,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 340.0,
-    "changePct": -0.7
+    "price": 339.38,
+    "changePct": -0.88
    },
    "relVol": 1.1,
    "avgVolume": 3149091,
@@ -2166,8 +2172,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 134.76,
-    "changePct": 0.04
+    "price": 134.73,
+    "changePct": 0.01
    },
    "relVol": 1.4,
    "avgVolume": 27035839,
@@ -2241,8 +2247,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 300.62,
-    "changePct": -1.16
+    "price": 304.17,
+    "changePct": 0.01
    },
    "relVol": 1.5,
    "avgVolume": 694976,
@@ -2316,8 +2322,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 270.01,
-    "changePct": -0.18
+    "price": 270.44,
+    "changePct": -0.03
    },
    "relVol": 0.8,
    "avgVolume": 1880994,
@@ -2467,7 +2473,7 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 1277.35,
+    "price": 1277.34,
     "changePct": -0.01
    },
    "relVol": 1.2,
@@ -2617,8 +2623,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 540.0,
-    "changePct": -0.87
+    "price": 545.0,
+    "changePct": 0.05
    },
    "relVol": 1.1,
    "avgVolume": 671981,
@@ -2769,7 +2775,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 443.21,
-    "changePct": 0.0
+    "changePct": -0.0
    },
    "relVol": 1.3,
    "avgVolume": 693784,
@@ -2843,7 +2849,7 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 762.59,
+    "price": 762.58,
     "changePct": 0.05
    },
    "relVol": 1.0,
@@ -2918,8 +2924,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 302.5,
-    "changePct": 0.95
+    "price": 299.66,
+    "changePct": 0.0
    },
    "relVol": 1.0,
    "avgVolume": 304139,
@@ -2993,8 +2999,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 193.4,
-    "changePct": -0.32
+    "price": 193.94,
+    "changePct": -0.04
    },
    "relVol": 0.8,
    "avgVolume": 685421,
@@ -3069,8 +3075,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 12.05,
-    "changePct": 0.67
+    "price": 11.99,
+    "changePct": 0.13
    },
    "relVol": 1.1,
    "avgVolume": 10241457,
@@ -3144,8 +3150,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 183.66,
-    "changePct": 0.01
+    "price": 186.0,
+    "changePct": 1.28
    },
    "relVol": 1.0,
    "avgVolume": 4062882,
@@ -3373,8 +3379,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 25.65,
-    "changePct": -0.43
+    "price": 25.68,
+    "changePct": -0.31
    },
    "relVol": 1.0,
    "avgVolume": 14545596,
@@ -3454,8 +3460,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.87,
-    "changePct": 0.3
+    "price": 14.79,
+    "changePct": -0.24
    },
    "relVol": 0.7,
    "avgVolume": 54339617,
@@ -3618,8 +3624,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 172.01,
-    "changePct": 0.03
+    "price": 172.6,
+    "changePct": 0.38
    },
    "relVol": 1.2,
    "avgVolume": 773546,
@@ -3638,9 +3644,9 @@ window.DASHBOARD_DATA = {
    "marketTime": 1781553601,
    "news": [
     {
-     "title": "AeroVironment (AVAV) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTkpkTWpaSnJ2VEk5OGw3SW5TbVNRVzhVUTB0NWdCS25mZFJwdU16RTg2UkIyOUVSNFV3MHA0T2F2Zkc0ZjhWQUwwTXk4eGM2NUtTTWhZZnRrMVozemd0VFdKYTUzbVBiakc5MWtPdVQxdlZUaUhLRWlISFpNTWJHTC1KS01CRzgtSXRsREVaak9nQ1pvdFM3elM2Q0plNTRhd0FJcGhn?oc=5",
-     "pubDate": "Fri, 12 Jun 2026 22:15:03 GMT",
+     "title": "Reassessing AeroVironment (AVAV) After Recent Share Price Slide And Sector Sentiment Shift - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMjNCaC1LUmRNdXVnbTJtdHNPWHZZbV9vM0xNZWdYdFhPV1ppTnRFNkVtbUs4TVEtMVk3MXpqWGxyeFpFQnBabDNhYVBCV01JUW12ZGVza3VpeWY4bng3dkk5R1hUWXVSdzhtNjZuakhnRFJNMzBkSl9jMHZHUXF6ZnB1R05DTXN5dGNOczFJVmhNb1gzV29JQVdGRjdsbVZHLVk3RHZRanN2M0U2?oc=5",
+     "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
      "source": "Yahoo Finance"
     },
     {
@@ -3650,22 +3656,22 @@ window.DASHBOARD_DATA = {
      "source": "simplywall.st"
     },
     {
-     "title": "Is AeroVironment's Latest Robot a Game-Changer for AVAV Stock - Kavout",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMFllVldxLUNGejhja1RuYU1vSmx6SXNRY0xFUXpmSWVBVVFhbUFCSl9MYXdlb1k5Uld3UnlSVV81WURuNHhKOXpfNXFlTVlSNGdEajZIQV84OTNIYVVyREVQVjhweUhXclAwaUdVQVZQYWxQUGM4MEVIcU1OR0dZZFZsVjA2ZUl4Y3VtUHdvdXhMSW1YZkx0S2xoVGM?oc=5",
-     "pubDate": "Sun, 14 Jun 2026 07:00:00 GMT",
-     "source": "Kavout"
-    },
-    {
-     "title": "AEROVIRONMENT, INC. (AVAV) - MSN",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZEd2QTdfWlJxWHE2WDBKQ3Y0OTJFTHNGM2lNZVBaVkJNTFh2SVloenNLNjU3SlAzak9mNl9TdXFzZlRHT1NXcGhleW1VMmhMQlNKYUIwWFNFMjVTQVAyS1hDQ1lTcndkbjU3R25vOF9Ra1FfUXo4dTNUbGZyaWxQVnln?oc=5",
-     "pubDate": "Sun, 14 Jun 2026 21:43:27 GMT",
-     "source": "MSN"
-    },
-    {
      "title": "AEROVIRONMENT, INC. INVESTORS WITH LOSSES HAVE UNTIL JULY - GlobeNewswire",
      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQM2lZeUR0SWxKckFXRi1pQm5jQU9kRXlnSlBqR3RHY3pxZXRxdHN4eXBJUS1XZ0E4YWtILTVoZzJsVjJWN20xSjdCdGRBSmw5Zmt0WllCdXp6cGR0RF9hTWJES3RQVHAxQ1UwajBfMjYxenFNUUNoTkFaZk02RnExS0tkeFU1czNHZ09ySkVuNkM1VGVWQ2tUSzlVWURMeTVNeWpOUEd3UXBZUnl6aUhCYUtrckRteUsxODQ4cUhyTFUyZUdLLXAwZi1RM291NHk3ZjFVUkw0TVJzRmt3a0pobTZETmpxbDZmbDhDbmIzS25DMU1RQUZOM2I5bkY2T0dZOWkxaTJkUWRwWUVLRnpqTEtHb1N2RFJJaVJCa2JzdHRUN2IyQklWakN5b0NWb2pxMjZr?oc=5",
      "pubDate": "Wed, 10 Jun 2026 13:47:00 GMT",
      "source": "GlobeNewswire"
+    },
+    {
+     "title": "AeroVironment (NASDAQ:AVAV) Stock Price Down 5.7% - Should You Sell? - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFduQUF5OHdyZWFlUFJlRnI4M3NkMkZzOWxLVDRiWUtqeHJwX1VDY3k5d1BFMkwtcjh5TFhVTHIybUFxaU1ucHBmRi1ORFFhME8tZElfcVN2ME82X0pDQ1UyTVdiNTROT1hQU3lFU19sNEN1amJLWWlDMHhqejI2M3JkWWppSXc4QlRKVDg4bmdXMERqQVVDdUFKNUVRUWp0LThvdnZmV3ZWSXg3ZWJXSWlnNno?oc=5",
+     "pubDate": "Fri, 12 Jun 2026 17:31:38 GMT",
+     "source": "MarketBeat"
+    },
+    {
+     "title": "Why AeroVironment Stock Popped Today - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa0YxWnk4c1dKM3JTWWkweVNTMmVsS1ByaTR6aVZlZVlXbzJBV1NOMWNNajVYYlZmb0RsYm9FYWphQVpqSmdzWlVLcXI4ZHplQlZuaExsbXIwNWZBeEh2bzBpNVJpWElXdUljRGk4aU9DVUlFM29IY3lXcEJlc3lIdC1qS3VUUQ?oc=5",
+     "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+     "source": "The Motley Fool"
     }
    ]
   },
@@ -3699,8 +3705,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 114.71,
-    "changePct": 0.08
+    "price": 114.6,
+    "changePct": -0.02
    },
    "relVol": 3.0,
    "avgVolume": 757522,
@@ -3944,8 +3950,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 108.52,
-    "changePct": -0.67
+    "price": 108.76,
+    "changePct": -0.45
    },
    "relVol": 1.0,
    "avgVolume": 29257900,
@@ -3970,28 +3976,28 @@ window.DASHBOARD_DATA = {
      "source": "Barron's"
     },
     {
-     "title": "RKLB Stock Jumps Overnight: Rocket Lab Lines Up Record Launch Blitz After Nasdaq-100 Entry - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTDlGVGl1S3hFYVltbWdUcTJqVGE3S1ZUS0Ria0NISW85WUR2ZkVIVzR4V3l1TGFhcFBscmFyMHpsWUl1eU1qT2xlUHpFNnREZHY4RkdvemdwT2dSeV9nN0wzekkwUk1BdnBxZHdha3VQcVRvOFEyOF82dVRySF84M0MyWGJyOEtOVG9GejBvUTN5UjF2QVYyVENGdGF6Nms?oc=5",
-     "pubDate": "Mon, 15 Jun 2026 03:42:00 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Cathie Wood Goes All-In On SpaceX Debut, Dumps Rocket Lab Stock The Same Day - TradingView",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRnpQdXBZNklqc09YUGt5aHBteHd2QnFfMnVZbUQ5Vjc4ZlNEQ2sxTE5oQkZRdVZGWVpzS3lfZzVHWnplVUs4bndrMDdFaGpoRjRxNkhxdWFTUEl6cERsTmhYMlZQNW5fUFdVRW9IMXVfWDZfNHNDZ3VVcE14aDQ1OU5saVdtLVJDQU5IVjljVkl4UFl0RDdiamczSTdRMFpPa1hoZEZYUjBjTUdJWTlDSFRkS2VOY0Q1cGhhOFo5bXRmR3ViUkNrSGduaExKRFgzalE?oc=5",
-     "pubDate": "Sat, 13 Jun 2026 11:20:25 GMT",
-     "source": "TradingView"
-    },
-    {
-     "title": "Space Stocks Got Crushed on SpaceX's Big Day. Is the Sell-Off a Warning or a Buying Opportunity? - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT2lKeS0zVmRvWlJEMnFmYkhZNnVfWGVLZ2ticUtoSkt3VWtKUk1ZNDh4Nmd0WGVLYjlGVjJjMlB6ZkZSZFUyZDNkX2hRQmJmdU1uUXNqdm81WmlfZVpuVzR1dlJpZS04UnhRcm1TS3VDei1ETlgwQnNzUnd3eU5nTWphMU91aDJ3TEQ2aDBPUWdpbThEdE05dlFzVHNjUkkyaERwOHVR?oc=5",
-     "pubDate": "Sat, 13 Jun 2026 18:06:00 GMT",
-     "source": "The Motley Fool"
-    },
-    {
      "title": "Rocket Lab stock surges after being added to the Nasdaq-100 index - qz.com",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mcmFJd241S0VJdDNManctOVNGQmwyRlFtQkhZTEV6SE5XU012QVlwOC14MzY2RUJ4OHBmUzFJc2pVSHRrT05YYkZiUFFzQ2Fza29RTHVfVEp1UWZsVkxuTVJpVm82UzBqcmo5dXE1ZVIzQ3M?oc=5",
      "pubDate": "Fri, 12 Jun 2026 13:24:24 GMT",
      "source": "qz.com"
+    },
+    {
+     "title": "Rocket Lab Stock Jumps on Major Analyst Upgrade - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFFITGxfQzItMmRRV2xDTmFNaFN6d3ZPenNKU2Yxc2hwQldRUGFDbTR2X1NFU2t5SXZCOVhpejVGc24wbGVRVUJJZGNDSlp3ejc1dkV2VW9ibnc4TGNJWG1SZWVpRWpZemJsSi1IQ0FSYW5YbmhJdWlqdFdiS05PQ2NaRHhIVjQ5TU5XeEVuQnNiMk5KVE9XQVVWLVNpOVdCWmRmLVlBZW5oZms?oc=5",
+     "pubDate": "Mon, 15 Jun 2026 17:42:19 GMT",
+     "source": "TradingView"
+    },
+    {
+     "title": "Can RKLB Stock Survive The SpaceX IPO Gravity Well? - Trefis",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjJzT0xGdjZZQ0lUd29sNDQxdnJ1VXZDZnpRTUZneFk1Nm5tV2JaX0RLWU80SE1NN3lybmVLU200d25iQ2VEbzFhWjJBRHhxdWptc2J1VnJ2bjlIbE5SRmNnRlNKV3VmZHlXTjVZSWRqdVpHcHl1LU9laG0yY0VUbDZTb19aMGNLWmNwR2tDTEcxNW5uNFhqRmg0TkRvMFVfMEZZWTUzak5RMDlNMGtFNA?oc=5",
+     "pubDate": "Mon, 15 Jun 2026 17:04:19 GMT",
+     "source": "Trefis"
+    },
+    {
+     "title": "Why Is Rocket Lab Stock Trading Higher On Monday? - Benzinga",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSHlXODl0ZUg4MjM2WndUcVVnU093M1piejdXTDY0QnkxOUxUdG12YzlfdkRXMVJwWkhQVmRxWTJ6NjQ1MU91ZW5HQkVweHpqR1lPRU1YQUV1alcyaUZoQ2F6bTI0S1pvbUtuVm5PUWZjbXJzaVJMeXdVb2h4UDdrX2V1dFo5NlFqdlNwanp2XzRrQnYzMVQzaVc5WFFJeEM0NmE4bzlweUIyTFRtRmZ5Rg?oc=5",
+     "pubDate": "Mon, 15 Jun 2026 18:23:43 GMT",
+     "source": "Benzinga"
     }
    ]
   },
@@ -4107,8 +4113,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.59,
-    "changePct": 0.8
+    "price": 5.55,
+    "changePct": 0.09
    },
    "relVol": 1.4,
    "avgVolume": 39091237,
@@ -4139,9 +4145,9 @@ window.DASHBOARD_DATA = {
      "source": "Zacks Investment Research"
     },
     {
-     "title": "Is Archer Aviation Stock Your Ticket to Becoming a Millionaire? - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeXV5N3RKUmkybGJDOHdKRnJOWHpoUHZXdnJjdkg4VlFNdnpUVE0wUFFSME9pd1lqWEdMTXZ6TXhJS2ZKVERzS2l2eDBYZlc0MEprcXZWN1gyNWVsbzZIQUhTVTJOZ0VPZTUyQ3FINjJlRVBSX0Zhc1d5dkF3QV91OUN0MVhDakhMTG9nS0Y0MTNYeUlCektGRA?oc=5",
-     "pubDate": "Fri, 12 Jun 2026 14:30:00 GMT",
+     "title": "Why Archer Aviation Stock Is Soaring Today - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa2o1ZlRkdTBYMnc0WVR3MmVqMTRoVVBqWlNKT3cya0hzNG5ycnNDWVZZU3JZZ1BjamlMenJ4dV9zUnAtRGg5OGRKc3pHWXFQNUo4WWF5Q0lTSEZvWGhNZnhISFRvLXloQk1DeE8tOEYwMjlfUzZFRE1MMHN3T0ZEWEhORUE0VThJS3dha053?oc=5",
+     "pubDate": "Mon, 15 Jun 2026 20:06:46 GMT",
      "source": "The Motley Fool"
     },
     {
@@ -4151,9 +4157,9 @@ window.DASHBOARD_DATA = {
      "source": "TipRanks"
     },
     {
-     "title": "eVTOL Stock Face-Off: Is Joby Aviation or Archer Aviation the Better Buy Right Now? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbUtEOEhOY3lDS1VnZVVBRWhCWHZGNnl5M1NJZ2xWdGF2ZnFiTnR2bFVzQXpKemVEOWdTaWJhbkZtQks0ZkQ5UHRwRklWc3RsSDQwYkdGSVVzUkRPZGZVdEFtZUdfREdJdlJjUE5YZGppdzg0cW04OW1GQ3R1MTROWFZ0ZHdUVUU3Q3E5RFJhQ0hTVmRa?oc=5",
-     "pubDate": "Fri, 12 Jun 2026 21:20:00 GMT",
+     "title": "EHang Rockets 18%, Archer Zooms 10%, Joby Rises 7% as Air Taxi Stocks Fly Higher With the Broader Market - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMnNkR25ZR1E3VjlsUloyWUh5ZTU4RHJCaUZybTBsYzd5VG85Yno1bHhEOGxLSFNpSUYxU1N3VnRuM015d0lvaWowSV9jQ003UExGSk1oS2ZLQ3VfX2x4V0NjbUxyXzM3SFVGOUFGeWhjQXppRW1vbGk1THlEUVVDeVZWYk9ISXBiRlY1c2NWb0haRFl1a1VIdDJR?oc=5",
+     "pubDate": "Mon, 15 Jun 2026 17:53:45 GMT",
      "source": "Yahoo Finance"
     }
    ]
@@ -4271,8 +4277,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 24.6,
-    "changePct": -0.58
+    "price": 24.75,
+    "changePct": 0.02
    },
    "relVol": 1.0,
    "avgVolume": 5206143,
@@ -4385,16 +4391,22 @@ window.DASHBOARD_DATA = {
      "source": "Quiver Quantitative"
     },
     {
+     "title": "VVX News | V2X INC (NYSE:VVX) - ChartMill",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wM3k3Q0dIcjVXRDJXbktSMUlwVTlSd19oNTFOMVBJT0Uza1FLd0hENlU3N0lqdVVLdEtUYzhjdGVJYWZuWFpUc2dGMFhma0k2YmRwZTRueFJlZw?oc=5",
+     "pubDate": "Sat, 13 Jun 2026 00:04:00 GMT",
+     "source": "ChartMill"
+    },
+    {
      "title": "Is V2X, Inc. (VVX) A Good Stock To Buy Now? - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGR5OFhyWkR5WVBTZUhXOXViLW1PTXFWSWxabHJCQzJpMlZ3cXVxM3YzQmtHRjlDVlVEcTlrcXU4U2FPMW1td09jWWFQa1RudnFwcUdHRnd4dWFEY2VFaFplbTVST2ZxRWJzRGVrbkZfeE9haENJTjB4ZmFMaERuc0FNSU5LaXM3QmJJRHU0SFQ?oc=5",
      "pubDate": "Thu, 11 Jun 2026 18:19:20 GMT",
      "source": "Yahoo Finance"
     },
     {
-     "title": "How V2X\u2019s (VVX) Cheaper Term Loan Repricing Has Changed Its Investment Story - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeEtoSmwtamNxSVM1eTUwNGlHMnVSQTl1dlBqRWZQbnQyYmR4Sm5uVVRxT3RzMUk1czF0OXpVN1JKWDRPdm40MkNlMWZaMUVrMW8wOV9qZ05wMzZEMXlSTHJ5Nk9YdWJONTIxNWVFWU5hc0tQYmpQZ3VSbWs4d3RoSkk0YlVvRmtxcUc2QllQVjlQRVRGSXlkOVNSRHJXQzZ3cm11WElwaFZKeDcwR3pnbkh0SDlVam1fNVVxRk11cUU4UdIBxwFBVV95cUxNWm9CdWg0aHJkNVQxYlJVbmhvaFZla3FEbWlRMkJaUG0yTnJxb2R4RVcwWHBaRzEyZHBJR3IwWThkNTMwVTV1cm1tTFRZREJTWHJGUTlELTJrOGNyWDVYdFhKTGtSTkl5ZDV0ZU1XbXFZZXNiTEJRNG5Ba3hQNGhvMkJ3dElCMmpGMUQxeXZhdld4UGVUR1E1VHMySHRmaWVnVE5ZbmVqd20tNnotR2gzRzlIU0c5V1pjRkxpdmw1T3ZEQnBkMXMw?oc=5",
-     "pubDate": "Thu, 11 Jun 2026 03:38:51 GMT",
-     "source": "simplywall.st"
+     "title": "V2X to Generate Interest Expense Savings Through Successful Term Loan Repricing - PR Newswire",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSVlDVW1ScmMzQzR6SHdURXdNb2lfZTdTNmVEN0FvMnVhaV9Qa19OVUJULXZnZENsWlZDV0xOYXVLOHFpTHdSSXVNNjBYM1lHcldXRjY1WE15Q1VVME9mSmV0WUdmMnpUNnlNOUJtbDVtX3AzbFZtbUpMdzNZZHpibVkxMTkxYkxrX09uM2JlRERjdTh1Y18wajZmZDQ4WXV1YU4zeVFCRHpJUVZkcW1waHJUcExvUER5STdVSnBlczYtRXJuRTFXNzU1WHRNczdj?oc=5",
+     "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
+     "source": "PR Newswire"
     }
    ]
   },
@@ -4428,8 +4440,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 74.8,
-    "changePct": 0.34
+    "price": 75.8,
+    "changePct": 1.68
    },
    "relVol": 1.5,
    "avgVolume": 1032591,
@@ -4591,8 +4603,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.77,
-    "changePct": 0.93
+    "price": 9.69,
+    "changePct": 0.18
    },
    "relVol": 1.9,
    "avgVolume": 26789358,
@@ -4672,8 +4684,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 229.2,
-    "changePct": 0.08
+    "price": 228.95,
+    "changePct": -0.03
    },
    "relVol": 1.5,
    "avgVolume": 5006523,
@@ -4753,8 +4765,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 530.5,
-    "changePct": 0.01
+    "price": 530.35,
+    "changePct": -0.02
    },
    "relVol": 1.1,
    "avgVolume": 888500,
@@ -4881,7 +4893,7 @@ window.DASHBOARD_DATA = {
     {
      "title": "Ondas Holdings Stock (ONDS) Opinions on Drone Sector Momentum and Earnings Surprises - Moomoo",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM2p6cDVQQUUxTC1BWTBGeXVkTC1fd3cxMnQwVXVwNnM3MzVkSURJZXJRMHU5ZVA1Y1YxTExWV1ZSMy11d0p0a1V5b1hUd09GTU03bXl4U0xVbWI2UUVWVHpydnItVmRRSTJ1bUUxSmpLb3F5ZjBsUFVmSDd5V3huZWV1VERaLVZnbnYxSVNiSW55OVlRTXptRlpVYUZNd2Rjd3pJX252SHE?oc=5",
-     "pubDate": "Sun, 31 May 2026 07:00:00 GMT",
+     "pubDate": "Mon, 01 Jun 2026 03:41:36 GMT",
      "source": "Moomoo"
     }
    ]
@@ -4916,8 +4928,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 56.59,
-    "changePct": 1.96
+    "price": 55.49,
+    "changePct": -0.02
    },
    "relVol": 1.1,
    "avgVolume": 637248,
@@ -4976,16 +4988,16 @@ window.DASHBOARD_DATA = {
    "source": "Modern War Institute -"
   },
   {
-   "title": "The Game of Middle Powers in North Africa - Stimson Center",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tQVVheU5TSDY2cXRldDdjNlM2Si1McThEMTBrOUQ2RlVwQ2ZlUFpBOFRwdjNzd2R1eFpRNzI4U0FFVXFVV0J1emNrcmpCLXI0V0M4OHBtb1VkTGNCQ0lKcU10aHhvQ29zQUx0NWs0a25UNktrbVV2ZmQxcw?oc=5",
-   "pubDate": "Mon, 15 Jun 2026 16:13:48 GMT",
-   "source": "Stimson Center"
-  },
-  {
    "title": "Iran War Memorandum of Understanding, Paradigm Shift in US-Europe Relations | Geopolitics Weekly - Geopolitical Monitor",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWXdVcG9ZZ0pYRFVtalNlZEsxbVU5UzhhT2Zla1hVa19FYjBFSXQ3MlRaTFJTWDFWZmstNVBIc01DUDVua3B6eFRRcm5HTXZpZ0ZpbTkzNlJvVnlPR3dKdXR4Q001NWl2akVtT2tYUzdRRGMwbE1pUmRwY0RpcnR2eXMwUlJaVzB1V0doTVZQZmZBLWJ6SW01T3RPNG84X2VaR0NGMWtfS05PelhlUUZUdnkyWGM2V000YkJPa3ZTdVl1N1pocm1IQTZn?oc=5",
    "pubDate": "Mon, 15 Jun 2026 13:25:37 GMT",
    "source": "Geopolitical Monitor"
+  },
+  {
+   "title": "The Game of Middle Powers in North Africa - Stimson Center",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tQVVheU5TSDY2cXRldDdjNlM2Si1McThEMTBrOUQ2RlVwQ2ZlUFpBOFRwdjNzd2R1eFpRNzI4U0FFVXFVV0J1emNrcmpCLXI0V0M4OHBtb1VkTGNCQ0lKcU10aHhvQ29zQUx0NWs0a25UNktrbVV2ZmQxcw?oc=5",
+   "pubDate": "Mon, 15 Jun 2026 16:13:48 GMT",
+   "source": "Stimson Center"
   },
   {
    "title": "Venture Capital in the Age of Wars: Geopolitical Competition and the Transformation of Innovation - Begin-Sadat Center for Strategic Studies",
@@ -4994,16 +5006,16 @@ window.DASHBOARD_DATA = {
    "source": "Begin-Sadat Center for Strategic Studies"
   },
   {
-   "title": "Why are multiple conflicts intensifying at the same time? Middle East tensions explained - Latest news from Azerbaijan",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeFY1TnN0T0pJQ1VGNjFCcXQ0QVFtUFUyalJqUVZYWXRCanlHcW51QVJoYmdKNTR2M3Q5SjdUb2FtVmpxWi1LWGlRWWJ0VXVELTBNRkthVVJ1VEFab3hUTFY0eUlyQXlhQkp4bHZlSmhmRlUyRVZuZmJfMHNnaUNtaDZSbnhvUUdMc29YMk9ZREpKNU9xNU5YNUtQSllCcmwyMmUtRGYzaHhzSVNP?oc=5",
-   "pubDate": "Mon, 15 Jun 2026 11:04:25 GMT",
-   "source": "Latest news from Azerbaijan"
-  },
-  {
    "title": "Germany, Japan And The Return Of Military Power (Part II) \u2013 Analysis - Eurasia Review",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUJMYzN6X2JZbUluUHJka3JPTWJzVm5kd3U2NG0zS2gtUWU3ajVWVGJJVHc4LTJkT3JsYmJ6QXNBdjBxRTNEZG0ybnJ6aTNWQ3RwYVhad2xZcnRmMERPb0MwUE9adTN5c3ZoaGpiQWF4ZDR5OXVuVzJ5Z0dzTW5xcWphRGFCUGNManpYYS1HTmw2TXMzMmNjV2hCQ0ozZFdTejBGY0tB?oc=5",
    "pubDate": "Mon, 15 Jun 2026 18:29:59 GMT",
    "source": "Eurasia Review"
+  },
+  {
+   "title": "Why are multiple conflicts intensifying at the same time? Middle East tensions explained - Latest news from Azerbaijan",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeFY1TnN0T0pJQ1VGNjFCcXQ0QVFtUFUyalJqUVZYWXRCanlHcW51QVJoYmdKNTR2M3Q5SjdUb2FtVmpxWi1LWGlRWWJ0VXVELTBNRkthVVJ1VEFab3hUTFY0eUlyQXlhQkp4bHZlSmhmRlUyRVZuZmJfMHNnaUNtaDZSbnhvUUdMc29YMk9ZREpKNU9xNU5YNUtQSllCcmwyMmUtRGYzaHhzSVNP?oc=5",
+   "pubDate": "Mon, 15 Jun 2026 11:04:25 GMT",
+   "source": "Latest news from Azerbaijan"
   },
   {
    "title": "Oil Prices Extend Gains on Concern Over Potential US-Iran Conflict - EnergyNow",
@@ -5018,28 +5030,28 @@ window.DASHBOARD_DATA = {
    "source": "The Arab Weekly"
   },
   {
-   "title": "Iranian Americans plan protests as soccer team prepares for World Cup opener - Crypto Briefing",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CQUd4WnJORmQxbGY5YjhmOW45clhPbDRrQmJ4RVdOeW5tOF9jS05VMFEwcmh2Z25IalRBS1JUQm1aZjVNMnRLdHpZWVhzLUxWZmlvZ2NmY3lpcEpKRGpTSm9NdVhjQjFDTXlUR3ROeUpGaUtZdHVKSk4wTQ?oc=5",
-   "pubDate": "Mon, 15 Jun 2026 19:03:36 GMT",
-   "source": "Crypto Briefing"
-  },
-  {
    "title": "Transatlantic Alliance Collapse, Chokepoints Weaponized in New World Order - \uc870\uc120\uc77c\ubcf4",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDNWbER2Ri1EYkloMU9rblRUcEV2Ny1JNmpQVGhYS2gyUlB6cG5oS0xrS181Q0VmYkR0SURQV0tNbUZDRmhST0FUMzBJVFgtTHVCSnR3QlFyVkFJNVQ4VTZDNER2Z2lOWDAzalZ4X1hnTmtFWmpEdkNKOWloWDlYWVNRcjk?oc=5",
    "pubDate": "Mon, 15 Jun 2026 15:56:40 GMT",
    "source": "\uc870\uc120\uc77c\ubcf4"
   },
   {
-   "title": "Has Trump Found an Exit From the Iran War or Simply Frozen a More Dangerous Conflict? - Modern Diplomacy",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVlQzVEI3RlRCMVJpOXBBdFFtQ0Zzem1yWmhqYmdyRlhqcFo3Q0JpNHJ6S3p1OTN0WFlkMnN0TUxFOG12SHR3RWRGajk0WXNDUExWT3JVRC1TRmU3WDRPV3h2a0gydzlVbVZHSE9uMHR1Q1hia2hQU0JjSEdSTFU0TThVY2NmUGJxeVJaa1BEVjEwVHduc2pycmUxUWxFWHQtWlFLdXFPLTQzVUdFdF9qd2JJYk4zZnVHZkVwejlSVTM?oc=5",
-   "pubDate": "Mon, 15 Jun 2026 03:39:32 GMT",
-   "source": "Modern Diplomacy"
+   "title": "Iranian Americans plan protests as soccer team prepares for World Cup opener - Crypto Briefing",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CQUd4WnJORmQxbGY5YjhmOW45clhPbDRrQmJ4RVdOeW5tOF9jS05VMFEwcmh2Z25IalRBS1JUQm1aZjVNMnRLdHpZWVhzLUxWZmlvZ2NmY3lpcEpKRGpTSm9NdVhjQjFDTXlUR3ROeUpGaUtZdHVKSk4wTQ?oc=5",
+   "pubDate": "Mon, 15 Jun 2026 19:03:36 GMT",
+   "source": "Crypto Briefing"
   },
   {
    "title": "Bangladesh-Turkiye Defense Cooperation Grows to Include Joint Production - The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMlcyU04tRldMU1ZnbVV0aDBPaVVkdmR5WUtpYmtzUWZkWHUwUUpJTU5sUlNYcDc3SzhuWjVEN1FvN1V3WEdvUDZPQ3ZicGNSNzhfRmlUN0ZVd2t4MGNrYmplcHFDOWYxXzhwdzA2SXM1SU4yUmJOVk5jUldiYkFvMVprRk1SblZrS2lqaW14RUJUdGNnYzdYZEtYdThrMDVYVmdIZjNTbm5fUQ?oc=5",
    "pubDate": "Mon, 15 Jun 2026 12:07:13 GMT",
    "source": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine"
+  },
+  {
+   "title": "Has Trump Found an Exit From the Iran War or Simply Frozen a More Dangerous Conflict? - Modern Diplomacy",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVlQzVEI3RlRCMVJpOXBBdFFtQ0Zzem1yWmhqYmdyRlhqcFo3Q0JpNHJ6S3p1OTN0WFlkMnN0TUxFOG12SHR3RWRGajk0WXNDUExWT3JVRC1TRmU3WDRPV3h2a0gydzlVbVZHSE9uMHR1Q1hia2hQU0JjSEdSTFU0TThVY2NmUGJxeVJaa1BEVjEwVHduc2pycmUxUWxFWHQtWlFLdXFPLTQzVUdFdF9qd2JJYk4zZnVHZkVwejlSVTM?oc=5",
+   "pubDate": "Mon, 15 Jun 2026 03:39:32 GMT",
+   "source": "Modern Diplomacy"
   }
  ],
  "mna": [
@@ -5236,16 +5248,16 @@ window.DASHBOARD_DATA = {
    "source": "256 Today"
   },
   {
-   "title": "What GovCons Need to Know About the Army\u2019s New \u2018Amazon-Like\u2019 UAS Marketplace - GovCon Wire",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOWdyR1JFck15aS1kNmlESUpuRko0VG51OE5MSFdELXhQWDd1ancwTEZERDFPekNwb2I4N3U5eHp0SEdtdlZ0WEN1QVlhUnpScDI1WnF3aTE2VWxpUE5va0xkaE4zMm54SmxhOEhmVzNhSlFKVXNfeTZBd05GdldEMTVtOGVwaDdUTGt5SjZ5VVg5UHM?oc=5",
-   "pubDate": "Mon, 15 Jun 2026 04:00:00 GMT",
-   "source": "GovCon Wire"
-  },
-  {
    "title": "Contracts for June 12, 2026 - U.S. Department of War (.gov)",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYmZuT2lkeUFpOEwySVVLcXBOTFJLUldFT2NXXzBRQ2Nab2ZjMFltM2kwekNLR012NUU0WjduYUN1LXNwV2FEcDJLc2Z6cGkzSTNPd3dQRHpQcXh3ZnZDbjV5dXNSNkxUVW9CazVCODJFa1FSVW4zZ3RsZWpOMUxjVWdNVVFkTlJoNjU5WTFJNUU?oc=5",
    "pubDate": "Fri, 12 Jun 2026 21:08:49 GMT",
    "source": "U.S. Department of War (.gov)"
+  },
+  {
+   "title": "What GovCons Need to Know About the Army\u2019s New \u2018Amazon-Like\u2019 UAS Marketplace - GovCon Wire",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOWdyR1JFck15aS1kNmlESUpuRko0VG51OE5MSFdELXhQWDd1ancwTEZERDFPekNwb2I4N3U5eHp0SEdtdlZ0WEN1QVlhUnpScDI1WnF3aTE2VWxpUE5va0xkaE4zMm54SmxhOEhmVzNhSlFKVXNfeTZBd05GdldEMTVtOGVwaDdUTGt5SjZ5VVg5UHM?oc=5",
+   "pubDate": "Mon, 15 Jun 2026 04:00:00 GMT",
+   "source": "GovCon Wire"
   },
   {
    "title": "Edge Total Intelligence to Expand its U.S. Navy Presence: with U$1.2 Million Austal USA Contracts - TradingView",
@@ -5272,16 +5284,16 @@ window.DASHBOARD_DATA = {
    "source": "KERA News"
   },
   {
-   "title": "Castellum Joint Venture Wins Position on $250 Million U.S. Navy Logistics IT Multiple Award Contract - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ2xfbzYzTXVUVWNIbEpROTJZMVpkemZLT2F3SW9XNmY2WUxBZlNFWmZLUzQ4ZFFzQUNmU0p1YmpqeTZfcS11UXVyTjlJMHNLSHZ2SzdLTVJFdzc1dXNDY09CUWlCWGhNTXdRaXU5R2xjNjRWemJQaWdUVXNZaGZCa0lxaHlYZE9LVURNS3I5dzhTdXZxUXFNTDYzM2xDVU54VWp6UUx6Z0hUQQ?oc=5",
-   "pubDate": "Mon, 15 Jun 2026 10:45:00 GMT",
-   "source": "Yahoo Finance"
-  },
-  {
    "title": "New Army Drone Intelligence Kit Targets Landmines UXO & Ambush Threats - Streetwise Reports",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTQ5TVNZenpMRHdpbkhuVTlDLW9FLUsydGpiVjNobHlrQjBvSkZ1bVpTV0RIX0JVX2ZLOVZkNmZFbTdDZnBhU0lMcUVYTDBwWVlMalR6czF0clRBUjhFbGZIamFySHhsLWRtUlBtRzVNeEhQS1N6T2JQd2EtWU5EMjdUYjdvcS1mNnJnTGFaNUhXeG5xaVZMTDRKV0NjMkNiQ1VkZmtoTjg4Y2hZNnZQZHZHbGtYcEV4YUlCYzZ0SVpOUWhld3hfTlRR?oc=5",
    "pubDate": "Mon, 15 Jun 2026 15:10:05 GMT",
    "source": "Streetwise Reports"
+  },
+  {
+   "title": "Is SciTec\u2019s New CBC2 Award Quietly Reframing Firefly Aerospace\u2019s (FLY) Defense Software Narrative? - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZGtXeXdjWjk0WVY3T3ZNUFkzV3ZubHFxZ19teUtpZkNNN0N4Z2I2T2JtbGlGSTQ3YVAzUW9pTDJlV0pWR3hXRlBSclBzdGF0cldOTlM2ekFPb0t3VU1nbl94MnNZQzFXWW0wMDk3UFR5RTRadWk4dUFEdjUzQWRmSVJaWTk5OXE1RUFNTVFubHRPcVZ3TVVYOHdBOG1PQUlkMlE?oc=5",
+   "pubDate": "Sun, 14 Jun 2026 11:06:30 GMT",
+   "source": "Yahoo Finance"
   },
   {
    "title": "US Army picks out Vampire to fill a gap in its layered drone defenses - The Register",
