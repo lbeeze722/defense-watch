@@ -4754,19 +4754,27 @@ window.DASHBOARD_DATA = {
   }
  ],
  "analysis": {
-  "asOf": "2026-06-11T14:29:04.545720+00:00",
-  "summary": "Mixed tape with a war-trade split: the US struck Iran and Iran's Revolutionary Guards retaliated against US air bases in Kuwait and Bahrain, with explosions reported near the Strait of Hormuz. Israeli and conflict-exposed names are bid \u2014 Elbit +5.5% on 5.8x normal volume after its second major contract this week \u2014 while the speculative eVTOL/defense-tech momentum names (ACHR, JOBY, AXON) keep bleeding. LUNR +7% and UMAC +6.5% are bouncing on heavy volume after steep multi-day selloffs, helped by an analyst price-target raise for UMAC.",
+  "asOf": "2026-06-17T14:03:32.987307+00:00",
+  "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19.",
   "moverNotes": {
-   "LUNR": "Rebounding ~7% on 3.7x volume \u2014 a relief bounce after falling ~22% on its equity raise and NASA rover setback; some see the washout as a reset ahead of the SpaceX listing.",
-   "UMAC": "Up ~6.5% on 2.5x volume after Needham raised its price target on drone demand outlook.",
-   "ESLT": "Up ~5.5% on 5.8x volume \u2014 Israel's prime contractor benefiting directly from war demand; second major contract win this week and IBD flags it leading defense gains.",
-   "ACHR": "Down ~5.3%, continuing its slide (now >60% off highs) as Cathie Wood's ARK keeps trimming and eVTOL sentiment stays weak.",
-   "JOBY": "Down ~3.8% in sympathy with the eVTOL group; no company-specific news \u2014 the air-taxi trade keeps unwinding.",
-   "AXON": "Down ~3.6%, extending a rough stretch (-42% over a year) as high-multiple defense tech keeps de-rating.",
-   "TDG": "Down ~3.1% on light volume \u2014 drifting with aerospace-aftermarket profit-taking; a congressional stock purchase disclosure was the only headline.",
-   "VVX": "Up ~3% after a term-loan repricing cut its borrowing costs, improving the equity story."
+   "LUNR": "Down ~10% as the post-SpaceX-IPO selloff hits pure-play space names hardest; capital is rotating out of speculative space after the listing failed to clear the $2T valuation hopes.",
+   "RCAT": "Down ~8% on 2.1x volume \u2014 drone/space name caught in the space-sector rotation, with investors also digesting recent Pentagon drone-program news.",
+   "KULR": "Down ~7% in sympathy with the space-sector selloff; a director's small share disclosure added minor pressure.",
+   "RDW": "Down ~4.5% with the space group; coverage is now framing it against Rocket Lab on relative growth as the post-IPO shakeout sorts winners from losers.",
+   "GE": "Up ~4.5% \u2014 GE Aerospace is a prime beneficiary of the rotation into established aerospace/defense and up ~12% over six months.",
+   "RTX": "Up ~4% on 2.1x volume as money rotates into large-cap defense primes and away from speculative space.",
+   "LDOS": "Down ~3.8% \u2014 gov-services name fell in premarket alongside a few unrelated decliners; no major company-specific catalyst.",
+   "MRCY": "Down ~3.8% on light volume, giving back some of a strong multi-period run.",
+   "TDG": "Up ~3.7% on light volume with the aerospace-aftermarket bid.",
+   "ONDS": "Down ~3.7% with the broader drone/space pullback; no company-specific catalyst.",
+   "JOBY": "Down ~3.6% as the eVTOL group stays weak despite some contrarian buy calls.",
+   "LHX": "Up ~3.6% on renewed defense-spending interest, part of the rotation into primes.",
+   "ACHR": "Down ~3.2% with the eVTOL group, even as some note FAA certification is nearing.",
+   "VSEC": "Up ~3.2% on 2.6x volume (unusual) \u2014 aviation-aftermarket strength, though the COO trimmed a small stake.",
+   "OSK": "Up ~3% on light volume; headlines are mixed, so treat the move cautiously.",
+   "HWM": "Up ~3% \u2014 bouncing from oversold territory with the aerospace-supplier bid."
   },
-  "geoBriefing": "Major escalation in the US-Iran war: the US carried out strikes on Iran, and Iran's Revolutionary Guards claim retaliatory strikes on 18 US military targets in Kuwait and Bahrain, including the Ali Al Salem, Ahmad Al Jaber, and Sheikh Isa air bases. Explosions were reported across Iran including near the Strait of Hormuz, and President Trump said the US would hit Iran 'VERY HARD TONIGHT' and take 'total control' of Iran's oil and gas industry. Oil prices are rising; equity markets are holding up (S&P +0.2%) but small caps are lagging. Investors are bracing for a 'long grind' as escalation dims hopes of a near-term ceasefire. Israel-Hezbollah tensions on the Lebanon front remain elevated after this week's strikes near Tyre. Russia-Ukraine grinds on as the deadliest active interstate conflict, and Taiwan readiness pressure from Beijing remains a structural concern for Pacific-theater defense spending.",
+  "geoBriefing": "Geopolitics is relatively stabilizing today versus recent weeks. After more than five weeks of fighting, the US and Iran reached a fragile ceasefire in early April; on June 14 mediators announced a memorandum of understanding set to be signed June 19, intended to formally end the conflict within 60 days. The truce remains brittle: Israel has halted attacks on Iran but stopped short of acknowledging a ceasefire, while Iran suspended operations but warns it will resume if Israeli strikes in southern Lebanon continue. Brinkmanship over access to the Strait of Hormuz persists. Russia-Ukraine grinds on as the deadliest active interstate conflict, and Chinese pressure on Taiwan remains a structural driver of Pacific-theater defense budgets. Net effect: easing tail risk is mildly negative for the conflict-premium trade but supportive of orderly, budget-driven defense demand.",
   "ipoWatch": [
    {
     "name": "SpaceX",
