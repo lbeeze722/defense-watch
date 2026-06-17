@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-17T20:25:46.067292+00:00",
+ "generatedAt": "2026-06-17T20:31:18.919261+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -191,7 +191,7 @@ window.DASHBOARD_DATA = {
    "date": "2026-06-17",
    "advancers": 16,
    "decliners": 24,
-   "avgChangePct": -0.95,
+   "avgChangePct": -0.96,
    "topMovers": [
     {
      "symbol": "KULR",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.58,
-    "changePct": 0.87
+    "price": 3.62,
+    "changePct": 1.94
    },
    "relVol": 0.9,
    "avgVolume": 1646005,
@@ -577,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 108.95,
-    "changePct": 0.26
+    "price": 109.73,
+    "changePct": 0.98
    },
    "relVol": 1.3,
    "avgVolume": 1222614,
@@ -659,8 +659,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 193.0,
-    "changePct": 0.22
+    "price": 193.27,
+    "changePct": 0.36
    },
    "relVol": 1.5,
    "avgVolume": 3986903,
@@ -823,8 +823,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 283.79,
-    "changePct": 0.2
+    "price": 284.5,
+    "changePct": 0.45
    },
    "relVol": 1.6,
    "avgVolume": 1651450,
@@ -1069,8 +1069,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 424.01,
-    "changePct": 0.24
+    "price": 422.92,
+    "changePct": -0.02
    },
    "relVol": 1.3,
    "avgVolume": 672881,
@@ -1151,8 +1151,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 357.55,
-    "changePct": 0.15
+    "price": 357.76,
+    "changePct": 0.21
    },
    "relVol": 1.1,
    "avgVolume": 3291201,
@@ -1233,8 +1233,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.19,
-    "changePct": 0.77
+    "price": 9.2,
+    "changePct": 0.88
    },
    "relVol": 1.0,
    "avgVolume": 48297438,
@@ -1315,8 +1315,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.39,
-    "changePct": 0.56
+    "price": 5.38,
+    "changePct": 0.37
    },
    "relVol": 1.0,
    "avgVolume": 44766676,
@@ -1397,8 +1397,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.35,
-    "changePct": -0.08
+    "price": 14.39,
+    "changePct": 0.21
    },
    "relVol": 0.6,
    "avgVolume": 51026874,
@@ -1479,8 +1479,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 1326.57,
-    "changePct": 0.75
+    "price": 1340.0,
+    "changePct": 1.77
    },
    "relVol": 1.3,
    "avgVolume": 250658,
@@ -1561,8 +1561,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 131.74,
-    "changePct": 0.85
+    "price": 131.99,
+    "changePct": 1.04
    },
    "relVol": 1.1,
    "avgVolume": 27954579,
@@ -1643,8 +1643,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 313.17,
-    "changePct": 0.0
+    "price": 318.9,
+    "changePct": 1.83
    },
    "relVol": 1.6,
    "avgVolume": 929076,
@@ -1719,8 +1719,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.43,
-    "changePct": 0.43
+    "price": 9.44,
+    "changePct": 0.53
    },
    "relVol": 1.0,
    "avgVolume": 36258180,
@@ -1795,8 +1795,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 167.77,
-    "changePct": 0.39
+    "price": 169.56,
+    "changePct": 1.47
    },
    "relVol": 0.9,
    "avgVolume": 810966,
@@ -1947,8 +1947,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 491.05,
-    "changePct": -0.79
+    "price": 505.23,
+    "changePct": 2.08
    },
    "relVol": 1.2,
    "avgVolume": 196819,
@@ -2251,8 +2251,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 226.16,
-    "changePct": 0.23
+    "price": 226.48,
+    "changePct": 0.38
    },
    "relVol": 0.8,
    "avgVolume": 5057796,
@@ -2479,8 +2479,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 108.88,
-    "changePct": 0.83
+    "price": 108.85,
+    "changePct": 0.81
    },
    "relVol": 0.9,
    "avgVolume": 33159987,
@@ -2602,6 +2602,82 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    24.67,
+    24.93,
+    26.13,
+    26.01,
+    25.75,
+    24.83,
+    24.53,
+    24.43,
+    23.97,
+    24.35,
+    25.94,
+    26.71,
+    26.36,
+    25.5,
+    24.65,
+    24.08,
+    24.66,
+    25.03,
+    25.38,
+    25.25,
+    24.94,
+    25.93,
+    26.11,
+    25.36,
+    24.52,
+    24.45
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 24.75,
+    "changePct": 1.23
+   },
+   "relVol": 0.8,
+   "avgVolume": 5324954,
+   "symbol": "UMAC",
+   "name": "Unusual Machines",
+   "vertical": "Drones & Counter-UAS",
+   "description": "NDAA-compliant drone components and FPV drones; positioned in the US drone supply-chain onshoring push.",
+   "price": 24.45,
+   "prevClose": 24.73,
+   "changePct": -1.13,
+   "volume": 3995116,
+   "dayHigh": 26.41,
+   "dayLow": 24.06,
+   "fiftyTwoWeekHigh": 34.36,
+   "fiftyTwoWeekLow": 7.245,
+   "marketTime": 1781726400,
+   "news": [
+    {
+     "title": "Unusual Machines: The U.S. Needs Cheap Drone Parts (NYSE:UMAC) - Seeking Alpha",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX24tbVI2cFV6VlVJUHRUMnNOVjd2QUptYUFZaDZZWWIyaWd0TUZUYTl4dWptU3Bjc1N6Qm1VNVdvcWgycDVGd2VRYlRmMmpIajBJM2NtNHBvWk5hVjFkMEl1QXBGejRCSHQtOWd6Q1E1ZkdsU3JCUHlTWndfamxRSXNvQlVRWkJBckhTQQ?oc=5",
+     "pubDate": "Wed, 17 Jun 2026 10:26:53 GMT",
+     "source": "Seeking Alpha"
+    },
+    {
+     "title": "Assessing Unusual Machines (UMAC) Valuation After A Powerful Momentum-Driven Share Price Run - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFlKUUpYa29QLVBDTDRGZ0lteEg3RzE3TXZGczkyc0k3Vk5zSHI1OVF4WmNJZm51ZlZya3dyc09BRUhwdUVzMUZZMGwwclJaTk1UdEt4c0VpSVA5bFpuMjZOZVJWWnNmNEJMdGFjeF9fTGhEQXFiU3lDamg5YjNLWTBpZWlFbTF2aEFqUFFJdXhrXzBXVjZXWjZOMUNzS0tPbFYyaXRKenMzQQ?oc=5",
+     "pubDate": "Sun, 31 May 2026 07:00:00 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Powerus stock surges on $30M investment from Unusual Machines By Investing.com - Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdkV1d1d1SnhMSGotS0pvUWNsci0xakRfMUlFQUdMYlhjUUhSWk5oLU5iTC02NUpPeG5MZGduUWF1VmxfMzBTMjNpa1lFeEVOUHFuNTdQRTJUejE2M0VaZjBqMXNaenAxYjk0T0ZnemlhOFdDTmZKTVN1Rm9Gci1OVDB2a1RfcTI1VjVNUkdCUzc0UFdjN2NKYmlPYzdISFltcTlaZzhjN2FNeWtOZVl5QmNWRmQ2b0I0YkhKNTJEaw?oc=5",
+     "pubDate": "Tue, 16 Jun 2026 13:41:15 GMT",
+     "source": "Investing.com"
+    },
+    {
+     "title": "Unusual Machines puts $30M into Powerus, U.S. drone supply - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNzlROGlQellWS1RIVHBSMmtjYURoNlBCYkw2cTVNbGFENVVKU2U0ZzRfR1NlMFU1QmFmYzk1a0UtdG5lV0R6Uk51dW83N1cwNS1nMlNvLUhjSEdhTXNXY1RnMVRvcGtRenRUeVltcWtrVHJKMDhoc3p0cDJnUUEyVXFXS0M0TUVaSW9scDdJeEZCZjlaY0FrZ0ZoYjR4YThpQk5iS09qa2hvcFBuU3p2RnBqMU5LWWlvNXZJ?oc=5",
+     "pubDate": "Tue, 16 Jun 2026 12:30:00 GMT",
+     "source": "Stock Titan"
+    }
+   ]
+  },
+  {
+   "spark": [
     552.86,
     556.49,
     556.98,
@@ -2707,8 +2783,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 362.83,
-    "changePct": 0.0
+    "price": 360.58,
+    "changePct": -0.62
    },
    "relVol": 0.7,
    "avgVolume": 905412,
@@ -2982,82 +3058,6 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
-    24.67,
-    24.93,
-    26.13,
-    26.01,
-    25.75,
-    24.83,
-    24.53,
-    24.43,
-    23.97,
-    24.35,
-    25.94,
-    26.71,
-    26.36,
-    25.5,
-    24.65,
-    24.08,
-    24.66,
-    25.03,
-    25.38,
-    25.25,
-    24.94,
-    25.93,
-    26.11,
-    25.36,
-    24.52,
-    24.56
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 24.78,
-    "changePct": 0.91
-   },
-   "relVol": 0.8,
-   "avgVolume": 5324954,
-   "symbol": "UMAC",
-   "name": "Unusual Machines",
-   "vertical": "Drones & Counter-UAS",
-   "description": "NDAA-compliant drone components and FPV drones; positioned in the US drone supply-chain onshoring push.",
-   "price": 24.56,
-   "prevClose": 24.73,
-   "changePct": -0.7,
-   "volume": 3995116,
-   "dayHigh": 26.41,
-   "dayLow": 24.06,
-   "fiftyTwoWeekHigh": 34.36,
-   "fiftyTwoWeekLow": 7.245,
-   "marketTime": 1781726400,
-   "news": [
-    {
-     "title": "Unusual Machines: The U.S. Needs Cheap Drone Parts (NYSE:UMAC) - Seeking Alpha",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX24tbVI2cFV6VlVJUHRUMnNOVjd2QUptYUFZaDZZWWIyaWd0TUZUYTl4dWptU3Bjc1N6Qm1VNVdvcWgycDVGd2VRYlRmMmpIajBJM2NtNHBvWk5hVjFkMEl1QXBGejRCSHQtOWd6Q1E1ZkdsU3JCUHlTWndfamxRSXNvQlVRWkJBckhTQQ?oc=5",
-     "pubDate": "Wed, 17 Jun 2026 10:26:53 GMT",
-     "source": "Seeking Alpha"
-    },
-    {
-     "title": "Assessing Unusual Machines (UMAC) Valuation After A Powerful Momentum-Driven Share Price Run - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFlKUUpYa29QLVBDTDRGZ0lteEg3RzE3TXZGczkyc0k3Vk5zSHI1OVF4WmNJZm51ZlZya3dyc09BRUhwdUVzMUZZMGwwclJaTk1UdEt4c0VpSVA5bFpuMjZOZVJWWnNmNEJMdGFjeF9fTGhEQXFiU3lDamg5YjNLWTBpZWlFbTF2aEFqUFFJdXhrXzBXVjZXWjZOMUNzS0tPbFYyaXRKenMzQQ?oc=5",
-     "pubDate": "Sun, 31 May 2026 07:00:00 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Powerus stock surges on $30M investment from Unusual Machines By Investing.com - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdkV1d1d1SnhMSGotS0pvUWNsci0xakRfMUlFQUdMYlhjUUhSWk5oLU5iTC02NUpPeG5MZGduUWF1VmxfMzBTMjNpa1lFeEVOUHFuNTdQRTJUejE2M0VaZjBqMXNaenAxYjk0T0ZnemlhOFdDTmZKTVN1Rm9Gci1OVDB2a1RfcTI1VjVNUkdCUzc0UFdjN2NKYmlPYzdISFltcTlaZzhjN2FNeWtOZVl5QmNWRmQ2b0I0YkhKNTJEaw?oc=5",
-     "pubDate": "Tue, 16 Jun 2026 13:41:15 GMT",
-     "source": "Investing.com"
-    },
-    {
-     "title": "Unusual Machines puts $30M into Powerus, U.S. drone supply - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNzlROGlQellWS1RIVHBSMmtjYURoNlBCYkw2cTVNbGFENVVKU2U0ZzRfR1NlMFU1QmFmYzk1a0UtdG5lV0R6Uk51dW83N1cwNS1nMlNvLUhjSEdhTXNXY1RnMVRvcGtRenRUeVltcWtrVHJKMDhoc3p0cDJnUUEyVXFXS0M0TUVaSW9scDdJeEZCZjlaY0FrZ0ZoYjR4YThpQk5iS09qa2hvcFBuU3p2RnBqMU5LWWlvNXZJ?oc=5",
-     "pubDate": "Tue, 16 Jun 2026 12:30:00 GMT",
-     "source": "Stock Titan"
-    }
-   ]
-  },
-  {
-   "spark": [
     541.46,
     544.07,
     546.41,
@@ -3087,8 +3087,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 531.0,
-    "changePct": -0.25
+    "price": 533.2,
+    "changePct": 0.17
    },
    "relVol": 1.0,
    "avgVolume": 926941,
@@ -3239,8 +3239,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 337.33,
-    "changePct": 0.0
+    "price": 340.8,
+    "changePct": 1.03
    },
    "relVol": 1.1,
    "avgVolume": 334403,
@@ -3393,8 +3393,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.58,
-    "changePct": 0.87
+    "price": 3.62,
+    "changePct": 1.94
    },
    "relVol": 0.9,
    "avgVolume": 1646005,
@@ -3721,8 +3721,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 108.95,
-    "changePct": 0.26
+    "price": 109.73,
+    "changePct": 0.98
    },
    "relVol": 1.3,
    "avgVolume": 1222614,
@@ -3803,8 +3803,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 193.0,
-    "changePct": 0.22
+    "price": 193.27,
+    "changePct": 0.36
    },
    "relVol": 1.5,
    "avgVolume": 3986903,
@@ -3967,8 +3967,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 283.79,
-    "changePct": 0.2
+    "price": 284.5,
+    "changePct": 0.45
    },
    "relVol": 1.6,
    "avgVolume": 1651450,
@@ -4213,8 +4213,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 424.01,
-    "changePct": 0.24
+    "price": 422.92,
+    "changePct": -0.02
    },
    "relVol": 1.3,
    "avgVolume": 672881,
@@ -4295,8 +4295,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 357.55,
-    "changePct": 0.15
+    "price": 357.76,
+    "changePct": 0.21
    },
    "relVol": 1.1,
    "avgVolume": 3291201,
@@ -4377,8 +4377,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.19,
-    "changePct": 0.77
+    "price": 9.2,
+    "changePct": 0.88
    },
    "relVol": 1.0,
    "avgVolume": 48297438,
@@ -4459,8 +4459,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.39,
-    "changePct": 0.56
+    "price": 5.38,
+    "changePct": 0.37
    },
    "relVol": 1.0,
    "avgVolume": 44766676,
@@ -4541,8 +4541,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.35,
-    "changePct": -0.08
+    "price": 14.39,
+    "changePct": 0.21
    },
    "relVol": 0.6,
    "avgVolume": 51026874,
@@ -4623,8 +4623,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 1326.57,
-    "changePct": 0.75
+    "price": 1340.0,
+    "changePct": 1.77
    },
    "relVol": 1.3,
    "avgVolume": 250658,
@@ -4705,8 +4705,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 131.74,
-    "changePct": 0.85
+    "price": 131.99,
+    "changePct": 1.04
    },
    "relVol": 1.1,
    "avgVolume": 27954579,
