@@ -227,12 +227,22 @@
 <script>
 const D = window.DASHBOARD_DATA || {};
 
-document.querySelectorAll("nav button").forEach(b => b.addEventListener("click", () => {
+function activateTab(name) {
+  const btn = document.querySelector(`nav button[data-tab="${name}"]`);
+  const panel = document.getElementById("tab-" + name);
+  if (!btn || !panel) return;
   document.querySelectorAll("nav button").forEach(x => x.classList.remove("active"));
   document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
-  b.classList.add("active");
-  document.getElementById("tab-" + b.dataset.tab).classList.add("active");
+  btn.classList.add("active");
+  panel.classList.add("active");
+}
+document.querySelectorAll("nav button").forEach(b => b.addEventListener("click", () => {
+  activateTab(b.dataset.tab);
+  sessionStorage.setItem("dw_tab", b.dataset.tab);
 }));
+// Restore the tab the user was on before an auto-reload
+const savedTab = sessionStorage.getItem("dw_tab");
+if (savedTab) activateTab(savedTab);
 
 function esc(s) { const d = document.createElement("div"); d.textContent = s || ""; return d.innerHTML; }
 function fmtPct(p) { return (p > 0 ? "+" : "") + p.toFixed(2) + "%"; }
@@ -520,16 +530,22 @@ document.getElementById("search").addEventListener("input", e => {
   });
 }
 
-// --- Auto-refresh: poll data.js every 3 minutes, offer reload when new data lands ---
+// --- Auto-refresh: poll data.js every 60s and reload automatically when new data lands ---
+// Restore scroll position after an auto-reload
+const savedScroll = sessionStorage.getItem("dw_scroll");
+if (savedScroll) { window.scrollTo(0, +savedScroll); sessionStorage.removeItem("dw_scroll"); }
+
 setInterval(async () => {
   try {
     const txt = await (await fetch("data.js?t=" + Date.now(), { cache: "no-store" })).text();
     const m = txt.match(/"generatedAt":\s*"([^"]+)"/);
     if (m && D.generatedAt && m[1] !== D.generatedAt) {
-      document.getElementById("refreshBanner").style.display = "block";
+      sessionStorage.setItem("dw_scroll", window.scrollY);  // keep tab + scroll across reload
+      location.reload();
     }
   } catch (e) { /* offline or file:// — ignore */ }
-}, 180000);
+}, 60000);
+// Manual fallback (also auto-hidden now that reloads are automatic)
 document.getElementById("refreshBanner").addEventListener("click", () => location.reload());
 
 const ipoCardsEl = document.getElementById("ipoCards");
