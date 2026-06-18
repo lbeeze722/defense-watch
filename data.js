@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-18T20:23:44.915887+00:00",
+ "generatedAt": "2026-06-18T20:29:49.739760+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -189,9 +189,9 @@ window.DASHBOARD_DATA = {
   },
   {
    "date": "2026-06-18",
-   "advancers": 18,
+   "advancers": 19,
    "decliners": 21,
-   "avgChangePct": -0.93,
+   "avgChangePct": -0.71,
    "topMovers": [
     {
      "symbol": "BAH",
@@ -202,16 +202,16 @@ window.DASHBOARD_DATA = {
      "changePct": 10.09
     },
     {
+     "symbol": "KULR",
+     "changePct": 7.9
+    },
+    {
      "symbol": "CACI",
      "changePct": -7.53
     },
     {
      "symbol": "JOBY",
      "changePct": 7.07
-    },
-    {
-     "symbol": "ATRO",
-     "changePct": 6.7
     }
    ],
    "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 66.7,
-    "changePct": 0.51
+    "price": 66.9,
+    "changePct": 0.81
    },
    "relVol": 4.1,
    "avgVolume": 1401102,
@@ -384,6 +384,57 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    3.92,
+    3.77,
+    3.82,
+    3.81,
+    3.85,
+    4.09,
+    4.1,
+    4.09,
+    4.05,
+    4.04,
+    3.75,
+    3.8,
+    3.8,
+    3.79,
+    3.71,
+    3.72,
+    3.74,
+    3.78,
+    3.62,
+    3.56,
+    3.78,
+    3.7,
+    3.68,
+    3.85,
+    3.93,
+    3.96
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 3.9,
+    "changePct": -1.52
+   },
+   "relVol": 1.2,
+   "avgVolume": 1600245,
+   "symbol": "KULR",
+   "name": "KULR Technology",
+   "vertical": "Defense Tech & Software",
+   "description": "Thermal management and battery-safety tech for space, defense, and energy storage; also holds bitcoin treasury.",
+   "price": 3.96,
+   "prevClose": 3.67,
+   "changePct": 7.9,
+   "volume": 1929117,
+   "dayHigh": 3.97,
+   "dayLow": 3.59,
+   "fiftyTwoWeekHigh": 7.94,
+   "fiftyTwoWeekLow": 1.94,
+   "marketTime": 1781812800,
+   "news": []
+  },
+  {
+   "spark": [
     527.56,
     519.97,
     520.16,
@@ -495,8 +546,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.94,
-    "changePct": -0.6
+    "price": 9.9,
+    "changePct": -1.0
    },
    "relVol": 1.0,
    "avgVolume": 38937918,
@@ -577,8 +628,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 81.31,
-    "changePct": 0.93
+    "price": 80.04,
+    "changePct": -0.65
    },
    "relVol": 1.5,
    "avgVolume": 719997,
@@ -741,8 +792,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.35,
-    "changePct": -0.0
+    "price": 14.31,
+    "changePct": -0.28
    },
    "relVol": 0.6,
    "avgVolume": 43402482,
@@ -1069,8 +1120,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 521.5,
-    "changePct": 0.0
+    "price": 521.77,
+    "changePct": 0.05
    },
    "relVol": 3.9,
    "avgVolume": 612127,
@@ -1151,8 +1202,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 295.1,
-    "changePct": 0.09
+    "price": 297.0,
+    "changePct": 0.74
    },
    "relVol": 1.9,
    "avgVolume": 952929,
@@ -1234,7 +1285,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 11.45,
-    "changePct": 0.09
+    "changePct": 0.08
    },
    "relVol": 2.0,
    "avgVolume": 10676282,
@@ -1315,8 +1366,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 511.3,
-    "changePct": 0.07
+    "price": 511.79,
+    "changePct": 0.16
    },
    "relVol": 2.4,
    "avgVolume": 863922,
@@ -1397,8 +1448,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 89.47,
-    "changePct": 0.0
+    "price": 90.65,
+    "changePct": 1.32
    },
    "relVol": 5.1,
    "avgVolume": 850664,
@@ -1479,8 +1530,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 285.0,
-    "changePct": -0.15
+    "price": 284.96,
+    "changePct": -0.16
    },
    "relVol": 1.8,
    "avgVolume": 268445,
@@ -1561,8 +1612,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 206.0,
-    "changePct": 0.29
+    "price": 205.4,
+    "changePct": 0.0
    },
    "relVol": 1.4,
    "avgVolume": 663034,
@@ -1725,8 +1776,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 350.0,
-    "changePct": -0.0
+    "price": 351.0,
+    "changePct": 0.28
    },
    "relVol": 1.9,
    "avgVolume": 754399,
@@ -1807,8 +1858,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 54.39,
-    "changePct": 0.33
+    "price": 54.34,
+    "changePct": 0.24
    },
    "relVol": 2.0,
    "avgVolume": 3030099,
@@ -1889,8 +1940,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 128.6,
-    "changePct": 0.1
+    "price": 128.46,
+    "changePct": -0.01
    },
    "relVol": 1.7,
    "avgVolume": 29436710,
@@ -1971,8 +2022,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 423.31,
-    "changePct": -0.02
+    "price": 420.0,
+    "changePct": -0.8
    },
    "relVol": 2.4,
    "avgVolume": 659103,
@@ -2047,8 +2098,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 106.7,
-    "changePct": -0.5
+    "price": 106.44,
+    "changePct": -0.75
    },
    "relVol": 1.6,
    "avgVolume": 33647468,
@@ -2123,8 +2174,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.54,
-    "changePct": -0.46
+    "price": 5.55,
+    "changePct": -0.36
    },
    "relVol": 0.7,
    "avgVolume": 45617018,
@@ -2281,8 +2332,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 223.0,
-    "changePct": 0.13
+    "price": 222.85,
+    "changePct": 0.06
    },
    "relVol": 1.3,
    "avgVolume": 4732604,
@@ -2357,8 +2408,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 1328.31,
-    "changePct": 0.0
+    "price": 1327.99,
+    "changePct": -0.02
    },
    "relVol": 1.4,
    "avgVolume": 279820,
@@ -2433,8 +2484,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 170.01,
-    "changePct": 0.24
+    "price": 169.4,
+    "changePct": -0.12
    },
    "relVol": 1.7,
    "avgVolume": 823804,
@@ -2509,8 +2560,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 358.02,
-    "changePct": 0.11
+    "price": 358.75,
+    "changePct": 0.31
    },
    "relVol": 1.1,
    "avgVolume": 3410683,
@@ -2662,7 +2713,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 113.91,
-    "changePct": 0.0
+    "changePct": -0.0
    },
    "relVol": 3.0,
    "avgVolume": 509826,
@@ -2735,7 +2786,11 @@ window.DASHBOARD_DATA = {
     46.08,
     46.08
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 46.08,
+    "changePct": 0.0
+   },
    "relVol": 1.4,
    "avgVolume": 879231,
    "symbol": "DRS",
@@ -2961,8 +3016,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 24.61,
-    "changePct": -1.48
+    "price": 24.72,
+    "changePct": -1.04
    },
    "relVol": 0.8,
    "avgVolume": 4926523,
@@ -3037,8 +3092,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.27,
-    "changePct": 0.0
+    "price": 9.25,
+    "changePct": -0.22
    },
    "relVol": 1.2,
    "avgVolume": 49107374,
@@ -3113,8 +3168,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 185.32,
-    "changePct": -0.15
+    "price": 185.6,
+    "changePct": 0.0
    },
    "relVol": 1.3,
    "avgVolume": 4147315,
@@ -3343,8 +3398,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 66.7,
-    "changePct": 0.51
+    "price": 66.9,
+    "changePct": 0.81
    },
    "relVol": 4.1,
    "avgVolume": 1401102,
@@ -3478,6 +3533,57 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    3.92,
+    3.77,
+    3.82,
+    3.81,
+    3.85,
+    4.09,
+    4.1,
+    4.09,
+    4.05,
+    4.04,
+    3.75,
+    3.8,
+    3.8,
+    3.79,
+    3.71,
+    3.72,
+    3.74,
+    3.78,
+    3.62,
+    3.56,
+    3.78,
+    3.7,
+    3.68,
+    3.85,
+    3.93,
+    3.96
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 3.9,
+    "changePct": -1.52
+   },
+   "relVol": 1.2,
+   "avgVolume": 1600245,
+   "symbol": "KULR",
+   "name": "KULR Technology",
+   "vertical": "Defense Tech & Software",
+   "description": "Thermal management and battery-safety tech for space, defense, and energy storage; also holds bitcoin treasury.",
+   "price": 3.96,
+   "prevClose": 3.67,
+   "changePct": 7.9,
+   "volume": 1929117,
+   "dayHigh": 3.97,
+   "dayLow": 3.59,
+   "fiftyTwoWeekHigh": 7.94,
+   "fiftyTwoWeekLow": 1.94,
+   "marketTime": 1781812800,
+   "news": []
+  },
+  {
+   "spark": [
     527.56,
     519.97,
     520.16,
@@ -3589,8 +3695,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.94,
-    "changePct": -0.6
+    "price": 9.9,
+    "changePct": -1.0
    },
    "relVol": 1.0,
    "avgVolume": 38937918,
@@ -3671,8 +3777,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 81.31,
-    "changePct": 0.93
+    "price": 80.04,
+    "changePct": -0.65
    },
    "relVol": 1.5,
    "avgVolume": 719997,
@@ -3835,8 +3941,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.35,
-    "changePct": -0.0
+    "price": 14.31,
+    "changePct": -0.28
    },
    "relVol": 0.6,
    "avgVolume": 43402482,
@@ -4163,8 +4269,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 521.5,
-    "changePct": 0.0
+    "price": 521.77,
+    "changePct": 0.05
    },
    "relVol": 3.9,
    "avgVolume": 612127,
@@ -4245,8 +4351,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 295.1,
-    "changePct": 0.09
+    "price": 297.0,
+    "changePct": 0.74
    },
    "relVol": 1.9,
    "avgVolume": 952929,
@@ -4328,7 +4434,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 11.45,
-    "changePct": 0.09
+    "changePct": 0.08
    },
    "relVol": 2.0,
    "avgVolume": 10676282,
@@ -4409,8 +4515,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 511.3,
-    "changePct": 0.07
+    "price": 511.79,
+    "changePct": 0.16
    },
    "relVol": 2.4,
    "avgVolume": 863922,
@@ -4491,8 +4597,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 89.47,
-    "changePct": 0.0
+    "price": 90.65,
+    "changePct": 1.32
    },
    "relVol": 5.1,
    "avgVolume": 850664,
@@ -4573,8 +4679,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 285.0,
-    "changePct": -0.15
+    "price": 284.96,
+    "changePct": -0.16
    },
    "relVol": 1.8,
    "avgVolume": 268445,
@@ -4655,8 +4761,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 206.0,
-    "changePct": 0.29
+    "price": 205.4,
+    "changePct": 0.0
    },
    "relVol": 1.4,
    "avgVolume": 663034,
@@ -4819,8 +4925,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 350.0,
-    "changePct": -0.0
+    "price": 351.0,
+    "changePct": 0.28
    },
    "relVol": 1.9,
    "avgVolume": 754399,
@@ -4901,8 +5007,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 54.39,
-    "changePct": 0.33
+    "price": 54.34,
+    "changePct": 0.24
    },
    "relVol": 2.0,
    "avgVolume": 3030099,
@@ -4983,8 +5089,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 128.6,
-    "changePct": 0.1
+    "price": 128.46,
+    "changePct": -0.01
    },
    "relVol": 1.7,
    "avgVolume": 29436710,
