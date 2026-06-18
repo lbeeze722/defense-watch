@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-18T13:23:32.756793+00:00",
+ "generatedAt": "2026-06-18T13:29:29.773741+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -275,28 +275,28 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "KULR Technology stock rises after naming new CFO and director - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeW1OcVUtTWJzdXBmVlp4U3ViajdzVmw2WlN1YmxiOFFBeUZYOEhxS0FGbVAyRDROYkM0QllEZTNnZFdnTFJHRUE3UnZDVHJISFNpYlFwcnFfazFla284VTB5Z2N1MjhCUWJqN2dqdXJYeG1tMHhjWjBuRXIxOTQxZW1hX29aa1FQbTFuTVFYYnh4clNFa2llVnBFRTd3M0UwTGNHcjhpRlA0V2s4YVlsbE94TnFmUGJZcy1YTENKZEI?oc=5",
-     "pubDate": "Wed, 10 Jun 2026 09:26:16 GMT",
-     "source": "Investing.com"
-    },
-    {
-     "title": "Director Steven John Perez discloses 1,250 KULR (NASDAQ: KULR) shares on Form 3 - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR3NaYjRreE1BekVHTEs2TndmU2xaUkQzaGxrbkRhZ3FNQWRhMklIX2M3TTRLXzJGRTZDUzRyRDZNTWJZekU5bENXVzhhX1lsdHlnSjlKMmFPMXB2WkZWMEZFUkVLM3A1UVRLR0huMlo1NDM5NDcyTEM2RnhGR0FvcVpsS1RzUHVmeDM0LTJDbVBpd1NHUmU5MDJiTTEwZmowQXRCUncwVl9TMlVvbFRLa25wMFBGMjhpN1A3ejdTTEdlekRGb1U1RVNsYw?oc=5",
-     "pubDate": "Sat, 13 Jun 2026 01:44:56 GMT",
+     "title": "KULR opens investor Q&A ahead of May 14 first-quarter call - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSUNURHUyNlRKVS1NblZfN19peG5fTUVDUnBFdmZJb1NhdkZBTGt4MV9qMzdlbEduUExmM1Q2QVhEaV9HZUluRVliX3h3RnJENlRfRndGdXlxQnpyRUNXb2diUk5ERWpQMkIwZzIzR2lReVo3LVVBaGZLaFJycFlGUkk1VG04c3JZV0U3dXNlTUFEVXJQZ1FJYjdRMWdUWC10a3BMV1JvNkEtUXYzejc2N0tnWTJFTWNGVkE?oc=5",
+     "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
      "source": "Stock Titan"
     },
     {
-     "title": "KULR Technology Group Appoints New Chief Financial Officer and Independent Board Member - GlobeNewswire",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeWtIQmRMYXhILWNHNGlMNnRuV2E2dFdzMW9wcHJWaTN4VVJPMTJvX3hpa1VhaldVX1pITFJndWhJOFlzaVdKX3lvdDU5bFVna3lnYmt5LXdoTUhJZ1pUSWFLUDZ4cnduZ1BpWmNQdE9BSzdXNXJHMWdXcnBVMFQ2RjdURm9XS0JZWkNPbmhaR1Q0cWZaODJrbE5TMVdYbUM1MlBxMFBUdFE5QW13Y0ZCaXMtVzlvUWttbkVGZmdXNHZ0RTZjMDNJYmE0eXNjR055Z0dCRmp4ak1HTlBnRktwZUJEUG9heW5QYS1tZ2t4MTg?oc=5",
-     "pubDate": "Tue, 09 Jun 2026 12:45:00 GMT",
-     "source": "GlobeNewswire"
+     "title": "Is KULR Technology Group (KULR) Stock Outpacing Its Computer and Technology Peers This Year? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmdtdzFhYXM4N0R5VkgtakFfQnNRQUVjSWZ3T29qUk1iOTd5SVhVeS0tTmpfdUpfNTZxc2Y4WVAtQ3NzM2JmRmxoM0gzT0lvU3dhcllxM2szdlhsNGlqSXZyMFU2U21Ra3A2cU9icW13c3RLdkJJcjNkaXhlUGhwRGxLSWo?oc=5",
+     "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT",
+     "source": "Yahoo Finance"
     },
     {
-     "title": "KULR Technology Group Inc (KULR) Dividends & Stock Splits: Historical Payouts and Event Timeline - TradingKey",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1QXhUN2hROW1nZzJ2R1lpajRsdjdSeTJsa2RyYWZ5a3JSTm5wNTNZOWxCNU55VHZGOF83aVhyRDlUR25VSE5VTFBSamExazQ0VFFlY1pNdklEaVBTMmQzbHk4anI1VnRPSkw3akt2cmVNSDg3RjNNcQ?oc=5",
-     "pubDate": "Wed, 17 Jun 2026 09:33:01 GMT",
-     "source": "TradingKey"
+     "title": "Why KULR Technology Stock Is Surging Today - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVS1HZUdIVHJFeS1nZDlZUDJ4MGRpM1FDRWhlRWFqc2dTMkpHWTBGR0FkYm0xZGxpMkJIRlFjamltTExqM04xS2pEb1kxaU0zTkxTQktNUDZsS3lhanplSloySzA3dlRTWlhORUxRMHRyblNoQ2RIUTR3dlJuaU4ya3BsUXg0b3YtZnh2LUVR?oc=5",
+     "pubDate": "Tue, 08 Jul 2025 07:00:00 GMT",
+     "source": "The Motley Fool"
+    },
+    {
+     "title": "Bull Of The Day: KULR Technology Group (KULR) - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWtINHlxSW5PcFJadXlKM25PWEhCUEk3NXpDLVNqLU54MFczdWhIczEtaG9jR19kTEN5cmVEdFpMU2xxRjlYU1gwX2NORVNvZVVaNFVBNEVGb0pkanY3bkxoazV4bDNMc2ZzWnpCcW5RLXVuT2o3UVh6Q2dDR3p3VGpR?oc=5",
+     "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT",
+     "source": "Yahoo Finance"
     }
    ]
   },
@@ -331,8 +331,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 23.0,
-    "changePct": -1.54
+    "price": 22.73,
+    "changePct": -2.72
    },
    "relVol": 0.8,
    "avgVolume": 14962594,
@@ -413,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 11.36,
-    "changePct": 4.22
+    "price": 11.33,
+    "changePct": 3.94
    },
    "relVol": 1.2,
    "avgVolume": 10753700,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 82.93,
-    "changePct": 9.84
+    "price": 83.0,
+    "changePct": 9.93
    },
    "relVol": 1.2,
    "avgVolume": 800146,
@@ -577,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 108.0,
-    "changePct": -4.91
+    "price": 108.22,
+    "changePct": -4.72
    },
    "relVol": 1.3,
    "avgVolume": 1306357,
@@ -659,8 +659,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 193.3,
-    "changePct": 3.5
+    "price": 193.23,
+    "changePct": 3.46
    },
    "relVol": 1.3,
    "avgVolume": 4369460,
@@ -823,8 +823,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 287.7,
-    "changePct": 3.71
+    "price": 287.45,
+    "changePct": 3.62
    },
    "relVol": 1.5,
    "avgVolume": 1752900,
@@ -867,10 +867,10 @@ window.DASHBOARD_DATA = {
      "source": "MarketWatch"
     },
     {
-     "title": "Howmet Aerospace stock hits all-time high at 280.85 USD By Investing.com - Investing.com South Africa",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU3M3cFNBQkVZQWFSZUZ0ekMxTkNCbThsa1RjZWNSS1N0Yk1xZXlPeEVaS1JVNnk4TVNoRGQ1UjVIMkRkQTNWOXlfWEtORzN0b2RWaGZIVmdQaTNoZHFhRkFrbHQwN0t1bzdZanBNTjBfQWpra2JOU2Y2LXo4bzVRRnhudDkxa1haWFppNzRramZtSk1SVmdWXzNBWDFfTEkzc3BsTnRoNkkzU0h4Wmc?oc=5",
-     "pubDate": "Thu, 18 Jun 2026 03:11:49 GMT",
-     "source": "Investing.com South Africa"
+     "title": "Howmet Aerospace Board Approves Common Stock Dividend - PR Newswire",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ21DU2ZmM0VsaHlsWndVdmUwVUlvMlFWNnVUQlNsTTFGb1BUMDBMdF82ZmxUb2pmSE1wUDlyZlVnVkYwbks2eFZVa1otUVBQU3ZickpPUnBYTWgyVHVEaUhmNm10NmpNX3FoeEgwcEJ0dGNTalRnWmJYbVBPc1pMMk9SUXNkZEFDV0ZCS2xtemhnbmpCdWZaMk51MXZrVXRjMEt1VHM0cEhIN2JWVnc?oc=5",
+     "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+     "source": "PR Newswire"
     }
    ]
   },
@@ -905,8 +905,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 205.6,
-    "changePct": 4.4
+    "price": 206.91,
+    "changePct": 5.07
    },
    "relVol": 1.4,
    "avgVolume": 662111,
@@ -987,8 +987,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 70.2,
-    "changePct": -5.11
+    "price": 70.45,
+    "changePct": -4.77
    },
    "relVol": 1.6,
    "avgVolume": 1301967,
@@ -1007,16 +1007,16 @@ window.DASHBOARD_DATA = {
    "marketTime": 1781726402,
    "news": [
     {
-     "title": "Booz Allen Hamilton (BAH) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0hQdTh5SmNzR05aZzFwLTdBYWZUMWZvTkxHQlg3OGJhZFNyVmQyc1VfY0YwcjYtdjBlV0ZrbnczMWd6TXlkOW8wWDJRQTdyRjZPWXdrN05ub1ZXXzREeHNFb0ZnLUd1MDdxR2VuUnNZZWgyRWxBMjdPZUlrc0hUV1Y0WlU2MEdOU1Jva1ZXZ29WQmhsZ1l5alhB?oc=5",
-     "pubDate": "Mon, 15 Jun 2026 22:00:02 GMT",
-     "source": "Yahoo Finance"
+     "title": "Booz Allen Hamilton Stock And The New National Security Risk Premium - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNnRZbGJzN0VrS1ItSFQ4VlNkd3AxcDNmOHNGd0h5bktEVmFYcDBhd1R6ckVXUTFYMkp6b2x6bzVOaTdKT3oxem9LbE1FZ3dwNEdQbjlXbEpNZHlqTWFWbHZRQlp5aVFKYTMyWGF4ZXBhTlFSeFdOc0w0cHNzYjBESEFJSTBkbVV6Zk9SRDBlSjRPNU9FM1RnQi1ReXlhSjZKb2Z2Z0tPWTI0aUxnM3k5X3Q0WlMzTExHZGdIMHNzSjZLckVLcTY2OGxlUXJXMEl3SHc4VEtxV2dDQnJxQ0pjcGFKaHp1NVR6cnE2WFV6SdIB7wFBVV95cUxQNnRZbGJzN0VrS1ItSFQ4VlNkd3AxcDNmOHNGd0h5bktEVmFYcDBhd1R6ckVXUTFYMkp6b2x6bzVOaTdKT3oxem9LbE1FZ3dwNEdQbjlXbEpNZHlqTWFWbHZRQlp5aVFKYTMyWGF4ZXBhTlFSeFdOc0w0cHNzYjBESEFJSTBkbVV6Zk9SRDBlSjRPNU9FM1RnQi1ReXlhSjZKb2Z2Z0tPWTI0aUxnM3k5X3Q0WlMzTExHZGdIMHNzSjZLckVLcTY2OGxlUXJXMEl3SHc4VEtxV2dDQnJxQ0pjcGFKaHp1NVR6cnE2WFV6SQ?oc=5",
+     "pubDate": "Wed, 17 Jun 2026 19:27:31 GMT",
+     "source": "simplywall.st"
     },
     {
-     "title": "Booz Allen Hamilton Stock And The New National Security Risk Premium - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVnc0eGZFaE9Zbzc1QnF1WFRWa3hiNTI5M1haWGVOYnRYMDdfcVg4OG5MQ3g4eGl5ZGtLTVNyNlBzSFJTNWhhRTdsaGYyVW5TOEt2SlhBMWZ3MFJRWFZWXzNpTF9xOXBUbjBCMnVpNlpCNzlHeW9xdFU5LTM2Y3dtQ3JldWFyZVVBTHJTWW9vM0xDZERhVU5jZWJwWUtKa1NwTDR0ZjZmTDhrazJCTGd0RzY1VjV1d3lDai1CdzYyY0hEX3RrdTJuNkFlYkN0MDZpV21TYWc5QXNFWHViZmVoSXJoMTNhb21lRVHSAe8BQVVfeXFMUDZ0WWxiczdFa0tSLUhUOFZTZHdwMXAzZjhzRndIeW5LRFZhWHAwYXdUenJFV1ExWDJKem9sem81Tmk3Sk96MXpvS2xNRWd3cDRHUG45V2xKTWR5ak1hVmx2UUJaeWlRSmEzMlhheGVwYU5RUnhXTnNMNHBzc2IwREhBSUkwZG1VemZPUkQwZUo0TzVPRTNUZ0ItUXl5YUo2Sm9mdmdLT1kyNGlMZzN5OV90NFpTM0xMR2RnSDBzc0o2S3JFS3E2NjhsZVFyVzBJd0h3OFRLcVdnQ0JycUNKY3BhSmh6dTVUenJxNlhVekk?oc=5",
-     "pubDate": "Wed, 17 Jun 2026 19:27:29 GMT",
-     "source": "simplywall.st"
+     "title": "Booz Allen Hamilton (BAH) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance Singapore",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXVhcjB6T3BiSXZDZ1FKX2U0UmNRUTJxYkpjbG02ZEVITEFkLXVzTnZWR0Fib2hUY21GZGFWdmhLSTIzMlhPbXBYVFBreTQwZ09mLTFGWDVTR1pVYllDUkpnSUZPMXBMQTBHT1ZRSlFpaDhCTkt3Wlc5NXh3VDNQaHZKSEo?oc=5",
+     "pubDate": "Mon, 15 Jun 2026 22:00:02 GMT",
+     "source": "Yahoo Finance Singapore"
     },
     {
      "title": "Booz Allen sets July 24 webcast to detail Q1 fiscal 2027 results - Stock Titan",
@@ -1069,8 +1069,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 424.14,
-    "changePct": -2.58
+    "price": 426.05,
+    "changePct": -2.15
    },
    "relVol": 1.3,
    "avgVolume": 678640,
@@ -1151,8 +1151,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 361.0,
-    "changePct": 2.64
+    "price": 360.06,
+    "changePct": 2.37
    },
    "relVol": 1.1,
    "avgVolume": 3371895,
@@ -1173,7 +1173,7 @@ window.DASHBOARD_DATA = {
     {
      "title": "The Overlooked Signal in GE Aerospace Stock's Shipping Delays - Trefis",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNnBEb1YycmxVeWQ5VEdBRWo1VFZ0VmhGY1FKU0hqVDRvRTJWSXIxc1BUNHlBa0NLcllIWWJ3My0xVlB3RE16ZzhvQnRENFB6dm1GNktIZmlGTmFwODVzV2ZzYXJub1VETVBzQjF6SExHTkpzZE5rSkZQNXRVVUlzV1NMb1pKZURXZm0yWHpfUEhRZU1GSVQ1ZTBjQVpVZjc1N2NwNlJhQU1aSUlOaUNhTUtsRTRZZEk3X044SFo5MXRoVTEtTklBLQ?oc=5",
-     "pubDate": "Thu, 18 Jun 2026 12:14:31 GMT",
+     "pubDate": "Thu, 18 Jun 2026 13:07:30 GMT",
      "source": "Trefis"
     },
     {
@@ -1233,8 +1233,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 9.41,
-    "changePct": 2.17
+    "price": 9.4,
+    "changePct": 2.06
    },
    "relVol": 1.0,
    "avgVolume": 47444820,
@@ -1315,8 +1315,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 5.49,
-    "changePct": 0.92
+    "price": 5.45,
+    "changePct": 0.18
    },
    "relVol": 1.0,
    "avgVolume": 44582338,
@@ -1397,8 +1397,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 14.43,
-    "changePct": 6.89
+    "price": 14.15,
+    "changePct": 4.84
    },
    "relVol": 0.7,
    "avgVolume": 47398055,
@@ -1561,8 +1561,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 131.0,
-    "changePct": -1.69
+    "price": 131.12,
+    "changePct": -1.6
    },
    "relVol": 1.1,
    "avgVolume": 28046032,
@@ -1719,8 +1719,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 9.6,
-    "changePct": 2.73
+    "price": 9.59,
+    "changePct": 2.66
    },
    "relVol": 1.0,
    "avgVolume": 36076436,
@@ -1795,8 +1795,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 167.85,
-    "changePct": 0.68
+    "price": 169.51,
+    "changePct": 1.68
    },
    "relVol": 0.9,
    "avgVolume": 776946,
@@ -2175,8 +2175,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 56.65,
-    "changePct": 0.55
+    "price": 56.22,
+    "changePct": -0.21
    },
    "relVol": 1.0,
    "avgVolume": 3098537,
@@ -2251,7 +2251,7 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 228.7,
+    "price": 228.69,
     "changePct": 0.53
    },
    "relVol": 1.0,
@@ -2479,8 +2479,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 109.01,
-    "changePct": 4.19
+    "price": 108.56,
+    "changePct": 3.76
    },
    "relVol": 0.9,
    "avgVolume": 31419502,
@@ -2631,8 +2631,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 25.07,
-    "changePct": -0.52
+    "price": 25.16,
+    "changePct": -0.16
    },
    "relVol": 0.8,
    "avgVolume": 5043538,
@@ -2783,8 +2783,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 367.11,
-    "changePct": 0.82
+    "price": 364.11,
+    "changePct": 0.0
    },
    "relVol": 0.7,
    "avgVolume": 850880,
@@ -2859,7 +2859,7 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 298.13,
+    "price": 298.12,
     "changePct": -0.13
    },
    "relVol": 1.6,
@@ -2935,8 +2935,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 829.67,
-    "changePct": 0.93
+    "price": 819.85,
+    "changePct": -0.26
    },
    "relVol": 0.7,
    "avgVolume": 114080,
@@ -3087,8 +3087,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 531.65,
-    "changePct": -0.8
+    "price": 532.55,
+    "changePct": -0.63
    },
    "relVol": 1.2,
    "avgVolume": 928802,
@@ -3163,8 +3163,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 121.68,
-    "changePct": 8.22
+    "price": 119.62,
+    "changePct": 6.39
    },
    "relVol": 1.2,
    "avgVolume": 518126,
@@ -3239,8 +3239,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 338.28,
-    "changePct": 0.82
+    "price": 338.31,
+    "changePct": 0.83
    },
    "relVol": 1.4,
    "avgVolume": 342298,
@@ -3315,8 +3315,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 46.52,
-    "changePct": 2.04
+    "price": 47.48,
+    "changePct": 4.15
    },
    "relVol": 1.4,
    "avgVolume": 885018,
@@ -3419,28 +3419,28 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "KULR Technology stock rises after naming new CFO and director - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeW1OcVUtTWJzdXBmVlp4U3ViajdzVmw2WlN1YmxiOFFBeUZYOEhxS0FGbVAyRDROYkM0QllEZTNnZFdnTFJHRUE3UnZDVHJISFNpYlFwcnFfazFla284VTB5Z2N1MjhCUWJqN2dqdXJYeG1tMHhjWjBuRXIxOTQxZW1hX29aa1FQbTFuTVFYYnh4clNFa2llVnBFRTd3M0UwTGNHcjhpRlA0V2s4YVlsbE94TnFmUGJZcy1YTENKZEI?oc=5",
-     "pubDate": "Wed, 10 Jun 2026 09:26:16 GMT",
-     "source": "Investing.com"
-    },
-    {
-     "title": "Director Steven John Perez discloses 1,250 KULR (NASDAQ: KULR) shares on Form 3 - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR3NaYjRreE1BekVHTEs2TndmU2xaUkQzaGxrbkRhZ3FNQWRhMklIX2M3TTRLXzJGRTZDUzRyRDZNTWJZekU5bENXVzhhX1lsdHlnSjlKMmFPMXB2WkZWMEZFUkVLM3A1UVRLR0huMlo1NDM5NDcyTEM2RnhGR0FvcVpsS1RzUHVmeDM0LTJDbVBpd1NHUmU5MDJiTTEwZmowQXRCUncwVl9TMlVvbFRLa25wMFBGMjhpN1A3ejdTTEdlekRGb1U1RVNsYw?oc=5",
-     "pubDate": "Sat, 13 Jun 2026 01:44:56 GMT",
+     "title": "KULR opens investor Q&A ahead of May 14 first-quarter call - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSUNURHUyNlRKVS1NblZfN19peG5fTUVDUnBFdmZJb1NhdkZBTGt4MV9qMzdlbEduUExmM1Q2QVhEaV9HZUluRVliX3h3RnJENlRfRndGdXlxQnpyRUNXb2diUk5ERWpQMkIwZzIzR2lReVo3LVVBaGZLaFJycFlGUkk1VG04c3JZV0U3dXNlTUFEVXJQZ1FJYjdRMWdUWC10a3BMV1JvNkEtUXYzejc2N0tnWTJFTWNGVkE?oc=5",
+     "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
      "source": "Stock Titan"
     },
     {
-     "title": "KULR Technology Group Appoints New Chief Financial Officer and Independent Board Member - GlobeNewswire",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeWtIQmRMYXhILWNHNGlMNnRuV2E2dFdzMW9wcHJWaTN4VVJPMTJvX3hpa1VhaldVX1pITFJndWhJOFlzaVdKX3lvdDU5bFVna3lnYmt5LXdoTUhJZ1pUSWFLUDZ4cnduZ1BpWmNQdE9BSzdXNXJHMWdXcnBVMFQ2RjdURm9XS0JZWkNPbmhaR1Q0cWZaODJrbE5TMVdYbUM1MlBxMFBUdFE5QW13Y0ZCaXMtVzlvUWttbkVGZmdXNHZ0RTZjMDNJYmE0eXNjR055Z0dCRmp4ak1HTlBnRktwZUJEUG9heW5QYS1tZ2t4MTg?oc=5",
-     "pubDate": "Tue, 09 Jun 2026 12:45:00 GMT",
-     "source": "GlobeNewswire"
+     "title": "Is KULR Technology Group (KULR) Stock Outpacing Its Computer and Technology Peers This Year? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmdtdzFhYXM4N0R5VkgtakFfQnNRQUVjSWZ3T29qUk1iOTd5SVhVeS0tTmpfdUpfNTZxc2Y4WVAtQ3NzM2JmRmxoM0gzT0lvU3dhcllxM2szdlhsNGlqSXZyMFU2U21Ra3A2cU9icW13c3RLdkJJcjNkaXhlUGhwRGxLSWo?oc=5",
+     "pubDate": "Thu, 15 Jan 2026 08:00:00 GMT",
+     "source": "Yahoo Finance"
     },
     {
-     "title": "KULR Technology Group Inc (KULR) Dividends & Stock Splits: Historical Payouts and Event Timeline - TradingKey",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1QXhUN2hROW1nZzJ2R1lpajRsdjdSeTJsa2RyYWZ5a3JSTm5wNTNZOWxCNU55VHZGOF83aVhyRDlUR25VSE5VTFBSamExazQ0VFFlY1pNdklEaVBTMmQzbHk4anI1VnRPSkw3akt2cmVNSDg3RjNNcQ?oc=5",
-     "pubDate": "Wed, 17 Jun 2026 09:33:01 GMT",
-     "source": "TradingKey"
+     "title": "Why KULR Technology Stock Is Surging Today - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVS1HZUdIVHJFeS1nZDlZUDJ4MGRpM1FDRWhlRWFqc2dTMkpHWTBGR0FkYm0xZGxpMkJIRlFjamltTExqM04xS2pEb1kxaU0zTkxTQktNUDZsS3lhanplSloySzA3dlRTWlhORUxRMHRyblNoQ2RIUTR3dlJuaU4ya3BsUXg0b3YtZnh2LUVR?oc=5",
+     "pubDate": "Tue, 08 Jul 2025 07:00:00 GMT",
+     "source": "The Motley Fool"
+    },
+    {
+     "title": "Bull Of The Day: KULR Technology Group (KULR) - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWtINHlxSW5PcFJadXlKM25PWEhCUEk3NXpDLVNqLU54MFczdWhIczEtaG9jR19kTEN5cmVEdFpMU2xxRjlYU1gwX2NORVNvZVVaNFVBNEVGb0pkanY3bkxoazV4bDNMc2ZzWnpCcW5RLXVuT2o3UVh6Q2dDR3p3VGpR?oc=5",
+     "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT",
+     "source": "Yahoo Finance"
     }
    ]
   },
@@ -3475,8 +3475,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 23.0,
-    "changePct": -1.54
+    "price": 22.73,
+    "changePct": -2.72
    },
    "relVol": 0.8,
    "avgVolume": 14962594,
@@ -3557,8 +3557,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 11.36,
-    "changePct": 4.22
+    "price": 11.33,
+    "changePct": 3.94
    },
    "relVol": 1.2,
    "avgVolume": 10753700,
@@ -3639,8 +3639,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 82.93,
-    "changePct": 9.84
+    "price": 83.0,
+    "changePct": 9.93
    },
    "relVol": 1.2,
    "avgVolume": 800146,
@@ -3721,8 +3721,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 108.0,
-    "changePct": -4.91
+    "price": 108.22,
+    "changePct": -4.72
    },
    "relVol": 1.3,
    "avgVolume": 1306357,
@@ -3803,8 +3803,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 193.3,
-    "changePct": 3.5
+    "price": 193.23,
+    "changePct": 3.46
    },
    "relVol": 1.3,
    "avgVolume": 4369460,
@@ -3967,8 +3967,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 287.7,
-    "changePct": 3.71
+    "price": 287.45,
+    "changePct": 3.62
    },
    "relVol": 1.5,
    "avgVolume": 1752900,
@@ -4011,10 +4011,10 @@ window.DASHBOARD_DATA = {
      "source": "MarketWatch"
     },
     {
-     "title": "Howmet Aerospace stock hits all-time high at 280.85 USD By Investing.com - Investing.com South Africa",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU3M3cFNBQkVZQWFSZUZ0ekMxTkNCbThsa1RjZWNSS1N0Yk1xZXlPeEVaS1JVNnk4TVNoRGQ1UjVIMkRkQTNWOXlfWEtORzN0b2RWaGZIVmdQaTNoZHFhRkFrbHQwN0t1bzdZanBNTjBfQWpra2JOU2Y2LXo4bzVRRnhudDkxa1haWFppNzRramZtSk1SVmdWXzNBWDFfTEkzc3BsTnRoNkkzU0h4Wmc?oc=5",
-     "pubDate": "Thu, 18 Jun 2026 03:11:49 GMT",
-     "source": "Investing.com South Africa"
+     "title": "Howmet Aerospace Board Approves Common Stock Dividend - PR Newswire",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ21DU2ZmM0VsaHlsWndVdmUwVUlvMlFWNnVUQlNsTTFGb1BUMDBMdF82ZmxUb2pmSE1wUDlyZlVnVkYwbks2eFZVa1otUVBQU3ZickpPUnBYTWgyVHVEaUhmNm10NmpNX3FoeEgwcEJ0dGNTalRnWmJYbVBPc1pMMk9SUXNkZEFDV0ZCS2xtemhnbmpCdWZaMk51MXZrVXRjMEt1VHM0cEhIN2JWVnc?oc=5",
+     "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
+     "source": "PR Newswire"
     }
    ]
   },
@@ -4049,8 +4049,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 205.6,
-    "changePct": 4.4
+    "price": 206.91,
+    "changePct": 5.07
    },
    "relVol": 1.4,
    "avgVolume": 662111,
@@ -4131,8 +4131,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 70.2,
-    "changePct": -5.11
+    "price": 70.45,
+    "changePct": -4.77
    },
    "relVol": 1.6,
    "avgVolume": 1301967,
@@ -4151,16 +4151,16 @@ window.DASHBOARD_DATA = {
    "marketTime": 1781726402,
    "news": [
     {
-     "title": "Booz Allen Hamilton (BAH) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0hQdTh5SmNzR05aZzFwLTdBYWZUMWZvTkxHQlg3OGJhZFNyVmQyc1VfY0YwcjYtdjBlV0ZrbnczMWd6TXlkOW8wWDJRQTdyRjZPWXdrN05ub1ZXXzREeHNFb0ZnLUd1MDdxR2VuUnNZZWgyRWxBMjdPZUlrc0hUV1Y0WlU2MEdOU1Jva1ZXZ29WQmhsZ1l5alhB?oc=5",
-     "pubDate": "Mon, 15 Jun 2026 22:00:02 GMT",
-     "source": "Yahoo Finance"
+     "title": "Booz Allen Hamilton Stock And The New National Security Risk Premium - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNnRZbGJzN0VrS1ItSFQ4VlNkd3AxcDNmOHNGd0h5bktEVmFYcDBhd1R6ckVXUTFYMkp6b2x6bzVOaTdKT3oxem9LbE1FZ3dwNEdQbjlXbEpNZHlqTWFWbHZRQlp5aVFKYTMyWGF4ZXBhTlFSeFdOc0w0cHNzYjBESEFJSTBkbVV6Zk9SRDBlSjRPNU9FM1RnQi1ReXlhSjZKb2Z2Z0tPWTI0aUxnM3k5X3Q0WlMzTExHZGdIMHNzSjZLckVLcTY2OGxlUXJXMEl3SHc4VEtxV2dDQnJxQ0pjcGFKaHp1NVR6cnE2WFV6SdIB7wFBVV95cUxQNnRZbGJzN0VrS1ItSFQ4VlNkd3AxcDNmOHNGd0h5bktEVmFYcDBhd1R6ckVXUTFYMkp6b2x6bzVOaTdKT3oxem9LbE1FZ3dwNEdQbjlXbEpNZHlqTWFWbHZRQlp5aVFKYTMyWGF4ZXBhTlFSeFdOc0w0cHNzYjBESEFJSTBkbVV6Zk9SRDBlSjRPNU9FM1RnQi1ReXlhSjZKb2Z2Z0tPWTI0aUxnM3k5X3Q0WlMzTExHZGdIMHNzSjZLckVLcTY2OGxlUXJXMEl3SHc4VEtxV2dDQnJxQ0pjcGFKaHp1NVR6cnE2WFV6SQ?oc=5",
+     "pubDate": "Wed, 17 Jun 2026 19:27:31 GMT",
+     "source": "simplywall.st"
     },
     {
-     "title": "Booz Allen Hamilton Stock And The New National Security Risk Premium - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVnc0eGZFaE9Zbzc1QnF1WFRWa3hiNTI5M1haWGVOYnRYMDdfcVg4OG5MQ3g4eGl5ZGtLTVNyNlBzSFJTNWhhRTdsaGYyVW5TOEt2SlhBMWZ3MFJRWFZWXzNpTF9xOXBUbjBCMnVpNlpCNzlHeW9xdFU5LTM2Y3dtQ3JldWFyZVVBTHJTWW9vM0xDZERhVU5jZWJwWUtKa1NwTDR0ZjZmTDhrazJCTGd0RzY1VjV1d3lDai1CdzYyY0hEX3RrdTJuNkFlYkN0MDZpV21TYWc5QXNFWHViZmVoSXJoMTNhb21lRVHSAe8BQVVfeXFMUDZ0WWxiczdFa0tSLUhUOFZTZHdwMXAzZjhzRndIeW5LRFZhWHAwYXdUenJFV1ExWDJKem9sem81Tmk3Sk96MXpvS2xNRWd3cDRHUG45V2xKTWR5ak1hVmx2UUJaeWlRSmEzMlhheGVwYU5RUnhXTnNMNHBzc2IwREhBSUkwZG1VemZPUkQwZUo0TzVPRTNUZ0ItUXl5YUo2Sm9mdmdLT1kyNGlMZzN5OV90NFpTM0xMR2RnSDBzc0o2S3JFS3E2NjhsZVFyVzBJd0h3OFRLcVdnQ0JycUNKY3BhSmh6dTVUenJxNlhVekk?oc=5",
-     "pubDate": "Wed, 17 Jun 2026 19:27:29 GMT",
-     "source": "simplywall.st"
+     "title": "Booz Allen Hamilton (BAH) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance Singapore",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXVhcjB6T3BiSXZDZ1FKX2U0UmNRUTJxYkpjbG02ZEVITEFkLXVzTnZWR0Fib2hUY21GZGFWdmhLSTIzMlhPbXBYVFBreTQwZ09mLTFGWDVTR1pVYllDUkpnSUZPMXBMQTBHT1ZRSlFpaDhCTkt3Wlc5NXh3VDNQaHZKSEo?oc=5",
+     "pubDate": "Mon, 15 Jun 2026 22:00:02 GMT",
+     "source": "Yahoo Finance Singapore"
     },
     {
      "title": "Booz Allen sets July 24 webcast to detail Q1 fiscal 2027 results - Stock Titan",
@@ -4213,8 +4213,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 424.14,
-    "changePct": -2.58
+    "price": 426.05,
+    "changePct": -2.15
    },
    "relVol": 1.3,
    "avgVolume": 678640,
@@ -4295,8 +4295,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 361.0,
-    "changePct": 2.64
+    "price": 360.06,
+    "changePct": 2.37
    },
    "relVol": 1.1,
    "avgVolume": 3371895,
@@ -4317,7 +4317,7 @@ window.DASHBOARD_DATA = {
     {
      "title": "The Overlooked Signal in GE Aerospace Stock's Shipping Delays - Trefis",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNnBEb1YycmxVeWQ5VEdBRWo1VFZ0VmhGY1FKU0hqVDRvRTJWSXIxc1BUNHlBa0NLcllIWWJ3My0xVlB3RE16ZzhvQnRENFB6dm1GNktIZmlGTmFwODVzV2ZzYXJub1VETVBzQjF6SExHTkpzZE5rSkZQNXRVVUlzV1NMb1pKZURXZm0yWHpfUEhRZU1GSVQ1ZTBjQVpVZjc1N2NwNlJhQU1aSUlOaUNhTUtsRTRZZEk3X044SFo5MXRoVTEtTklBLQ?oc=5",
-     "pubDate": "Thu, 18 Jun 2026 12:14:31 GMT",
+     "pubDate": "Thu, 18 Jun 2026 13:07:30 GMT",
      "source": "Trefis"
     },
     {
@@ -4377,8 +4377,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 9.41,
-    "changePct": 2.17
+    "price": 9.4,
+    "changePct": 2.06
    },
    "relVol": 1.0,
    "avgVolume": 47444820,
@@ -4459,8 +4459,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 5.49,
-    "changePct": 0.92
+    "price": 5.45,
+    "changePct": 0.18
    },
    "relVol": 1.0,
    "avgVolume": 44582338,
@@ -4541,8 +4541,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 14.43,
-    "changePct": 6.89
+    "price": 14.15,
+    "changePct": 4.84
    },
    "relVol": 0.7,
    "avgVolume": 47398055,
@@ -4705,8 +4705,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 131.0,
-    "changePct": -1.69
+    "price": 131.12,
+    "changePct": -1.6
    },
    "relVol": 1.1,
    "avgVolume": 28046032,
@@ -4901,15 +4901,15 @@ window.DASHBOARD_DATA = {
    "source": "Investor's Business Daily"
   },
   {
-   "title": "Georgia Applauds Lockheed Martin\u2019s 75 Years of Production, Impact - Georgia Economic Development",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc09GODVHWm9pNUhxSHVPTXVYMDEtc1QtLU5DQW40WThyOTdVU0M4ZENVd3FLblBDN0d2dlZBTnVSNUt2S0p0QXNVbWxvd1IzX3RpV045X3hKTTd0VVVtckRZQ3BKaDNzMmgxdGo0Q0poQ0JLLXd5YWxNVUxDRmZXSVYyY2MydlVtNEdQcWdNYlhjTEdBN1BNOUE1U2tyb2VidHc?oc=5",
-   "pubDate": "Wed, 17 Jun 2026 20:56:57 GMT",
-   "source": "Georgia Economic Development"
+   "title": "Dassault, Thales to help Serbia strengthen defence industrial base - SeeNews",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjZfX0lQMWV6X2FaZUdhaXE2dHp0RVQ2ZmtsN0daY2tyMFlYWjVVUlFFUTlEVFhrLXpwSWFqeTE5WlJ5MkVqOENlX1ZDUk4wLWpHc05UbUtsYXVxOUQ0NE80WEVoWFI5MnA4TndCZlAtdTB6UWhhenhlSnZzYmNBRGhVUGhtQ3o0ZXZrTjNHblRpREhWWEhDSjhxem81RjQ?oc=5",
+   "pubDate": "Thu, 18 Jun 2026 13:20:36 GMT",
+   "source": "SeeNews"
   },
   {
    "title": "Divergent Appoints Ben Nicholson As Chief Commercial Officer - Pulse 2.0",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmlTMGdxOE8tdXBSYTBjMFI5blJyNDlfR3pxcWtxS1hnYjdOdEdvM081VkNDWXRDMlExNVhkQW84ZVhiVXRlRkc3UTdSZ0FISUR4bi1XM3lmTFNPMHFxYzFaeHdmald3ejNVaWtTWTVyZjNmWmdxTUlNXzh6UlMtaWxWT3FxdTDSAYwBQVVfeXFMTjFvMHVRSTltTVdrY19rY0J0dGVHZl9wd0JvcW42UUxTVkV5bF9wWFpvTUpOMF9hYXhubXhmZm1FLURWYlVNV25mdVh1cXVKZF9OaHNnd1l5Mzh1RThhSWtjbjdxNmNzN0xZU1dqcXc5bnpLNTZZTVRJV2g5aUZ6LUV2SjRPcVVnVzRoY2o?oc=5",
-   "pubDate": "Thu, 18 Jun 2026 11:37:30 GMT",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMW8wdVFJOW1NV2tjX2tjQnR0ZUdmX3B3Qm9xbjZRTFNWRXlsX3BYWm9NSk4wX2FheG5teGZmbUUtRFZiVU1XbmZ1WHVxdUpkX05oc2d3WXkzOHVFOGFJa2NuN3E2Y3M3TFlTV2pxdzlueks1NllNVElXaDlpRnotRXZKNE9xVWdXNGhjatIBjAFBVV95cUxOMW8wdVFJOW1NV2tjX2tjQnR0ZUdmX3B3Qm9xbjZRTFNWRXlsX3BYWm9NSk4wX2FheG5teGZmbUUtRFZiVU1XbmZ1WHVxdUpkX05oc2d3WXkzOHVFOGFJa2NuN3E2Y3M3TFlTV2pxdzlueks1NllNVElXaDlpRnotRXZKNE9xVWdXNGhjag?oc=5",
+   "pubDate": "Thu, 18 Jun 2026 11:12:56 GMT",
    "source": "Pulse 2.0"
   },
   {
@@ -4931,6 +4931,12 @@ window.DASHBOARD_DATA = {
    "source": "Asian Military Review"
   },
   {
+   "title": "Georgia Applauds Lockheed Martin\u2019s 75 Years of Production, Impact - Georgia Economic Development",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc09GODVHWm9pNUhxSHVPTXVYMDEtc1QtLU5DQW40WThyOTdVU0M4ZENVd3FLblBDN0d2dlZBTnVSNUt2S0p0QXNVbWxvd1IzX3RpV045X3hKTTd0VVVtckRZQ3BKaDNzMmgxdGo0Q0poQ0JLLXd5YWxNVUxDRmZXSVYyY2MydlVtNEdQcWdNYlhjTEdBN1BNOUE1U2tyb2VidHc?oc=5",
+   "pubDate": "Wed, 17 Jun 2026 20:56:57 GMT",
+   "source": "Georgia Economic Development"
+  },
+  {
    "title": "Munich\u2019s Defense, Aerospace & Deep-Tech Ecosystem - OODAloop",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOclQxYjVGYjhVQ2tpOGQyX2xXVXh1YnA5Q1lQbUhFYnVLTmVRM2pWSjlOTEN6NjFjNkh1eGZIR2tnbGFJZVJSRWtLbEVHd1h2RVlJOUJCOFRvQVAxMVZrVUZXM0JUX0poNW9SOGZhM2VZUVA4Q19jcWlEWDhtYzRBeXdqQ0pmbFZxczV5X1FHVks1TUhlelg3MHBfek8tRTA?oc=5",
    "pubDate": "Wed, 17 Jun 2026 23:10:57 GMT",
@@ -4947,12 +4953,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0tYTkM5T1ZKOU92U0tWVDBTMnA5Ymx5cVhLUU9XdEttcXVkclBXVVFqbTd5azhPQUZGcHJ3cV9DdWdjRlc3SkVMT0I0SWx6Zzh1bVdSUVhXUUJtaFZHSVJRcjY2TE1EanlqUm5hTVFQNnZUVmwyVEpVb2lCamFzSTZ0Q0wzNTdBLUhjcFMxbmhRRlNreGhDMXZrcmZITlVJdkJBc2JmWTB6VDhPbDhvaTlZbU9lRldaaWtGa2Jzcw?oc=5",
    "pubDate": "Thu, 18 Jun 2026 06:00:00 GMT",
    "source": "Aerospace Manufacturing and Design"
-  },
-  {
-   "title": "Thermosyphon Radiators Market Forecast Points Higher Toward 2035 Driven by Space and Semiconductor Demand - IndexBox",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdVVjU3R0MHMwVVROZHNjeU4tdC0xOHlhM2NZZ1BHa2FCVXh6d0lXQ28zdUp5akx2Z25CTGM0YldVQUc2d0VNUkFYeEhaSm85UWJrRHQ3enBVZWF1UWg0WlVDNFhHVm9QRzRpYUZYTzdnYi13Y1FkNXktTjF3SHpuN1pNaEQ5VlRaY2JCUVFucGt2WFVWOVdFSHJITW9jUFhvZkRxb191aFZzLXZKc1FqMzdsSUxOaFFqMmp5UmdaUzkyVEV0OVA4ZmQyNnRzNzlN?oc=5",
-   "pubDate": "Thu, 18 Jun 2026 07:26:18 GMT",
-   "source": "IndexBox"
   }
  ],
  "industrialsNews": [
