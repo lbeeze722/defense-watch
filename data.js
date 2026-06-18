@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-18T20:16:53.857102+00:00",
+ "generatedAt": "2026-06-18T20:23:44.915887+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -189,9 +189,9 @@ window.DASHBOARD_DATA = {
   },
   {
    "date": "2026-06-18",
-   "advancers": 19,
+   "advancers": 18,
    "decliners": 21,
-   "avgChangePct": -0.71,
+   "avgChangePct": -0.93,
    "topMovers": [
     {
      "symbol": "BAH",
@@ -202,16 +202,16 @@ window.DASHBOARD_DATA = {
      "changePct": 10.09
     },
     {
-     "symbol": "KULR",
-     "changePct": 7.9
-    },
-    {
      "symbol": "CACI",
      "changePct": -7.53
     },
     {
      "symbol": "JOBY",
      "changePct": 7.07
+    },
+    {
+     "symbol": "ATRO",
+     "changePct": 6.7
     }
    ],
    "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 66.95,
-    "changePct": 0.89
+    "price": 66.7,
+    "changePct": 0.51
    },
    "relVol": 4.1,
    "avgVolume": 1401102,
@@ -384,88 +384,6 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
-    3.92,
-    3.77,
-    3.82,
-    3.81,
-    3.85,
-    4.09,
-    4.1,
-    4.09,
-    4.05,
-    4.04,
-    3.75,
-    3.8,
-    3.8,
-    3.79,
-    3.71,
-    3.72,
-    3.74,
-    3.78,
-    3.62,
-    3.56,
-    3.78,
-    3.7,
-    3.68,
-    3.85,
-    3.93,
-    3.96
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 3.9,
-    "changePct": -1.47
-   },
-   "relVol": 1.2,
-   "avgVolume": 1600245,
-   "symbol": "KULR",
-   "name": "KULR Technology",
-   "vertical": "Defense Tech & Software",
-   "description": "Thermal management and battery-safety tech for space, defense, and energy storage; also holds bitcoin treasury.",
-   "price": 3.96,
-   "prevClose": 3.67,
-   "changePct": 7.9,
-   "volume": 1929117,
-   "dayHigh": 3.97,
-   "dayLow": 3.59,
-   "fiftyTwoWeekHigh": 7.94,
-   "fiftyTwoWeekLow": 1.94,
-   "marketTime": 1781812800,
-   "news": [
-    {
-     "title": "A Look At KULR Technology Group\u2019s (KULR) Valuation After Mixed Q1 Results And Growth Expansion Plans - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGJsRkV4SUZFOGdUN2xjUU1uaFBZRTUxdkUyZkI1ZWh1d0Vlb05LaFB1MEUwTUZjOEFVdnFGUVBfQmpPZ2JFVHU1ZFBySmU2VmlzbVV5a19OdnFTMnhXVWNkcUJoLVBhUzF3TUNmVXpyVG00SHlwN2xSLWtYWEZhd0tMZ2QtdWY3YnRDUnQzRXFPS3VNeEF2T2J0Q2I?oc=5",
-     "pubDate": "Sun, 17 May 2026 07:00:00 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "KULR Technology stock rises after naming new CFO and director - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeW1OcVUtTWJzdXBmVlp4U3ViajdzVmw2WlN1YmxiOFFBeUZYOEhxS0FGbVAyRDROYkM0QllEZTNnZFdnTFJHRUE3UnZDVHJISFNpYlFwcnFfazFla284VTB5Z2N1MjhCUWJqN2dqdXJYeG1tMHhjWjBuRXIxOTQxZW1hX29aa1FQbTFuTVFYYnh4clNFa2llVnBFRTd3M0UwTGNHcjhpRlA0V2s4YVlsbE94TnFmUGJZcy1YTENKZEI?oc=5",
-     "pubDate": "Wed, 10 Jun 2026 09:26:16 GMT",
-     "source": "Investing.com"
-    },
-    {
-     "title": "Director Steven John Perez discloses 1,250 KULR (NASDAQ: KULR) shares on Form 3 - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR3NaYjRreE1BekVHTEs2TndmU2xaUkQzaGxrbkRhZ3FNQWRhMklIX2M3TTRLXzJGRTZDUzRyRDZNTWJZekU5bENXVzhhX1lsdHlnSjlKMmFPMXB2WkZWMEZFUkVLM3A1UVRLR0huMlo1NDM5NDcyTEM2RnhGR0FvcVpsS1RzUHVmeDM0LTJDbVBpd1NHUmU5MDJiTTEwZmowQXRCUncwVl9TMlVvbFRLa25wMFBGMjhpN1A3ejdTTEdlekRGb1U1RVNsYw?oc=5",
-     "pubDate": "Sat, 13 Jun 2026 01:44:56 GMT",
-     "source": "Stock Titan"
-    },
-    {
-     "title": "KULR Technology Group Appoints New Chief Financial Officer and Independent Board Member - GlobeNewswire",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeWtIQmRMYXhILWNHNGlMNnRuV2E2dFdzMW9wcHJWaTN4VVJPMTJvX3hpa1VhaldVX1pITFJndWhJOFlzaVdKX3lvdDU5bFVna3lnYmt5LXdoTUhJZ1pUSWFLUDZ4cnduZ1BpWmNQdE9BSzdXNXJHMWdXcnBVMFQ2RjdURm9XS0JZWkNPbmhaR1Q0cWZaODJrbE5TMVdYbUM1MlBxMFBUdFE5QW13Y0ZCaXMtVzlvUWttbkVGZmdXNHZ0RTZjMDNJYmE0eXNjR055Z0dCRmp4ak1HTlBnRktwZUJEUG9heW5QYS1tZ2t4MTg?oc=5",
-     "pubDate": "Tue, 09 Jun 2026 12:45:00 GMT",
-     "source": "GlobeNewswire"
-    },
-    {
-     "title": "Defense Drone Battery Prototype Deal Could Be A Game Changer For KULR Technology Group (KULR) - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRHpvT0FxbW5XU21TR1NoV1RPRGtlVEJjT0NfZUlxMmhnaHVvVnQyendFVUNuREJDWGxvcTZldFRaVk1SVDFVUzdseGt6Vk9NZGJCUHVMZXJTNl9PMWJlMURVUHNBc2V2WC1rbkNmZGk4WWpWbGlmWlBuMVVXYU9CT1lFdmU1SVNoeWlMeGZWNE52RmhaYTBUdlFNTHUwNVl4bFNTUGR0V0hadXJkMG1pQllweWxXbWVYY25mX2wtOTZ6QTRmWThZWTAyZGhobHFrTFQtNDhwY0o3Tkpvc1Uw0gHkAUFVX3lxTE0zMEJ6R3kyVkExWVhUWDZfRUppTWIzUkotN0g4MlBiUm9rNFp3Yjh3U1RCNGRhT3JjVEdQMjRLNGc4YzZCckxOWjFyc01Xa1ZiN1g3NVlZMlRTb19MNkpPV3JvdTFON1k1RVV2TzVtQ2FLZ2wwVkFrYTBPRXJOdXV6OUtrbWY2YmVSQWRJSHB6VDI1dVl4bXpBdDhhOTRneXBMSzd6LUpJWFJnY3FGUVJOZUJFcDRDMFhlZEN4cGo4ZktlWUY3bjU1MmFFdTlDT1JPaUZUN1hjc2Q5ZGlPSjFzMHFJUw?oc=5",
-     "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-     "source": "simplywall.st"
-    }
-   ]
-  },
-  {
-   "spark": [
     527.56,
     519.97,
     520.16,
@@ -495,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 481.85,
-    "changePct": 3.31
+    "price": 471.0,
+    "changePct": 0.98
    },
    "relVol": 1.3,
    "avgVolume": 210591,
@@ -577,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.96,
-    "changePct": -0.4
+    "price": 9.94,
+    "changePct": -0.6
    },
    "relVol": 1.0,
    "avgVolume": 38937918,
@@ -659,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 80.56,
-    "changePct": 0.0
+    "price": 81.31,
+    "changePct": 0.93
    },
    "relVol": 1.5,
    "avgVolume": 719997,
@@ -741,8 +659,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 32.82,
-    "changePct": 0.0
+    "price": 33.44,
+    "changePct": 1.89
    },
    "relVol": 1.8,
    "avgVolume": 1044692,
@@ -823,8 +741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.46,
-    "changePct": 0.77
+    "price": 14.35,
+    "changePct": -0.0
    },
    "relVol": 0.6,
    "avgVolume": 43402482,
@@ -1064,28 +982,29 @@ window.DASHBOARD_DATA = {
     106.97,
     106.88,
     106.7,
-    107.07
+    107.07,
+    107.12
    ],
    "ext": {
     "label": "after-hours",
     "price": 107.12,
-    "changePct": 0.05
+    "changePct": 0.0
    },
-   "relVol": 1.2,
+   "relVol": 3.8,
    "avgVolume": 1494159,
    "symbol": "LDOS",
    "name": "Leidos",
    "vertical": "Gov Services & IT",
    "description": "Largest federal IT/services contractor \u2014 defense digital modernization, hypersonics support, health and intel missions.",
-   "price": 107.07,
+   "price": 107.12,
    "prevClose": 113.58,
-   "changePct": -5.73,
-   "volume": 1852965,
+   "changePct": -5.69,
+   "volume": 5686831,
    "dayHigh": 109.5,
-   "dayLow": 106.095,
+   "dayLow": 106.08,
    "fiftyTwoWeekHigh": 205.77,
-   "fiftyTwoWeekLow": 106.095,
-   "marketTime": 1781812798,
+   "fiftyTwoWeekLow": 106.08,
+   "marketTime": 1781813040,
    "news": [
     {
      "title": "Why Leidos (LDOS) Shares Are Getting Obliterated Today - Yahoo Finance",
@@ -1150,10 +1069,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 522.15,
-    "changePct": 0.12
+    "price": 521.5,
+    "changePct": 0.0
    },
-   "relVol": 3.7,
+   "relVol": 3.9,
    "avgVolume": 612127,
    "symbol": "NOC",
    "name": "Northrop Grumman",
@@ -1162,9 +1081,9 @@ window.DASHBOARD_DATA = {
    "price": 521.5,
    "prevClose": 551.21,
    "changePct": -5.39,
-   "volume": 2241554,
+   "volume": 2380159,
    "dayHigh": 553.5,
-   "dayLow": 515.38,
+   "dayLow": 515.4,
    "fiftyTwoWeekHigh": 774.0,
    "fiftyTwoWeekLow": 481.28,
    "marketTime": 1781812802,
@@ -1232,10 +1151,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 294.82,
-    "changePct": 0.0
+    "price": 295.1,
+    "changePct": 0.09
    },
-   "relVol": 2.7,
+   "relVol": 1.9,
    "avgVolume": 952929,
    "symbol": "LHX",
    "name": "L3Harris",
@@ -1244,7 +1163,7 @@ window.DASHBOARD_DATA = {
    "price": 294.82,
    "prevClose": 310.45,
    "changePct": -5.03,
-   "volume": 2537725,
+   "volume": 1794441,
    "dayHigh": 317.572,
    "dayLow": 291.66,
    "fiftyTwoWeekHigh": 379.23,
@@ -1314,8 +1233,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.44,
-    "changePct": 0.02
+    "price": 11.45,
+    "changePct": 0.09
    },
    "relVol": 2.0,
    "avgVolume": 10676282,
@@ -1396,10 +1315,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 510.95,
-    "changePct": 0.0
+    "price": 511.3,
+    "changePct": 0.07
    },
-   "relVol": 4.3,
+   "relVol": 2.4,
    "avgVolume": 863922,
    "symbol": "LMT",
    "name": "Lockheed Martin",
@@ -1408,8 +1327,8 @@ window.DASHBOARD_DATA = {
    "price": 510.95,
    "prevClose": 535.95,
    "changePct": -4.66,
-   "volume": 3704894,
-   "dayHigh": 536.9,
+   "volume": 2080030,
+   "dayHigh": 536.0,
    "dayLow": 505.18,
    "fiftyTwoWeekHigh": 692.0,
    "fiftyTwoWeekLow": 410.11,
@@ -1481,7 +1400,7 @@ window.DASHBOARD_DATA = {
     "price": 89.47,
     "changePct": 0.0
    },
-   "relVol": 4.3,
+   "relVol": 5.1,
    "avgVolume": 850664,
    "symbol": "TXT",
    "name": "Textron",
@@ -1490,8 +1409,8 @@ window.DASHBOARD_DATA = {
    "price": 89.47,
    "prevClose": 93.74,
    "changePct": -4.56,
-   "volume": 3666972,
-   "dayHigh": 94.47,
+   "volume": 4305931,
+   "dayHigh": 94.17,
    "dayLow": 87.165,
    "fiftyTwoWeekHigh": 101.57,
    "fiftyTwoWeekLow": 75.8,
@@ -1560,10 +1479,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 285.41,
-    "changePct": -0.01
+    "price": 285.0,
+    "changePct": -0.15
    },
-   "relVol": 4.0,
+   "relVol": 1.8,
    "avgVolume": 268445,
    "symbol": "HII",
    "name": "Huntington Ingalls",
@@ -1572,7 +1491,7 @@ window.DASHBOARD_DATA = {
    "price": 285.43,
    "prevClose": 298.51,
    "changePct": -4.38,
-   "volume": 1070449,
+   "volume": 493660,
    "dayHigh": 299.03,
    "dayLow": 281.44,
    "fiftyTwoWeekHigh": 460.0,
@@ -1642,10 +1561,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 205.4,
-    "changePct": 0.0
+    "price": 206.0,
+    "changePct": 0.29
    },
-   "relVol": 3.0,
+   "relVol": 1.4,
    "avgVolume": 663034,
    "symbol": "BWXT",
    "name": "BWX Technologies",
@@ -1654,7 +1573,7 @@ window.DASHBOARD_DATA = {
    "price": 205.4,
    "prevClose": 196.93,
    "changePct": 4.3,
-   "volume": 1998458,
+   "volume": 961368,
    "dayHigh": 210.93,
    "dayLow": 202.775,
    "fiftyTwoWeekHigh": 241.82,
@@ -1806,10 +1725,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 350.01,
-    "changePct": 0.0
+    "price": 350.0,
+    "changePct": -0.0
    },
-   "relVol": 4.0,
+   "relVol": 1.9,
    "avgVolume": 754399,
    "symbol": "GD",
    "name": "General Dynamics",
@@ -1818,8 +1737,8 @@ window.DASHBOARD_DATA = {
    "price": 350.01,
    "prevClose": 364.11,
    "changePct": -3.87,
-   "volume": 2986856,
-   "dayHigh": 367.0,
+   "volume": 1432650,
+   "dayHigh": 366.75,
    "dayLow": 348.83,
    "fiftyTwoWeekHigh": 369.7,
    "fiftyTwoWeekLow": 275.49,
@@ -1888,8 +1807,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 54.21,
-    "changePct": 0.0
+    "price": 54.39,
+    "changePct": 0.33
    },
    "relVol": 2.0,
    "avgVolume": 3030099,
@@ -1970,8 +1889,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 128.43,
-    "changePct": -0.03
+    "price": 128.6,
+    "changePct": 0.1
    },
    "relVol": 1.7,
    "avgVolume": 29436710,
@@ -2052,8 +1971,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 423.4,
-    "changePct": 0.0
+    "price": 423.31,
+    "changePct": -0.02
    },
    "relVol": 2.4,
    "avgVolume": 659103,
@@ -2128,8 +2047,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 106.5,
-    "changePct": -0.69
+    "price": 106.7,
+    "changePct": -0.5
    },
    "relVol": 1.6,
    "avgVolume": 33647468,
@@ -2205,7 +2124,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 5.54,
-    "changePct": -0.54
+    "changePct": -0.46
    },
    "relVol": 0.7,
    "avgVolume": 45617018,
@@ -2280,8 +2199,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 22.94,
-    "changePct": 0.39
+    "price": 22.9,
+    "changePct": 0.22
    },
    "relVol": 1.1,
    "avgVolume": 14451217,
@@ -2365,7 +2284,7 @@ window.DASHBOARD_DATA = {
     "price": 223.0,
     "changePct": 0.13
    },
-   "relVol": 1.7,
+   "relVol": 1.3,
    "avgVolume": 4732604,
    "symbol": "BA",
    "name": "Boeing",
@@ -2374,7 +2293,7 @@ window.DASHBOARD_DATA = {
    "price": 222.72,
    "prevClose": 227.49,
    "changePct": -2.1,
-   "volume": 7976262,
+   "volume": 6184186,
    "dayHigh": 228.99,
    "dayLow": 220.12,
    "fiftyTwoWeekHigh": 254.35,
@@ -2438,10 +2357,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 1328.39,
-    "changePct": 0.01
+    "price": 1328.31,
+    "changePct": 0.0
    },
-   "relVol": 2.4,
+   "relVol": 1.4,
    "avgVolume": 279820,
    "symbol": "TDG",
    "name": "TransDigm",
@@ -2450,8 +2369,8 @@ window.DASHBOARD_DATA = {
    "price": 1328.31,
    "prevClose": 1301.2,
    "changePct": 2.08,
-   "volume": 664730,
-   "dayHigh": 1337.34,
+   "volume": 399767,
+   "dayHigh": 1337.26,
    "dayLow": 1304.86,
    "fiftyTwoWeekHigh": 1623.83,
    "fiftyTwoWeekLow": 1123.61,
@@ -2514,8 +2433,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 169.61,
-    "changePct": 0.0
+    "price": 170.01,
+    "changePct": 0.24
    },
    "relVol": 1.7,
    "avgVolume": 823804,
@@ -2590,10 +2509,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 357.64,
-    "changePct": 0.0
+    "price": 358.02,
+    "changePct": 0.11
    },
-   "relVol": 2.0,
+   "relVol": 1.1,
    "avgVolume": 3410683,
    "symbol": "GE",
    "name": "GE Aerospace",
@@ -2602,10 +2521,10 @@ window.DASHBOARD_DATA = {
    "price": 357.64,
    "prevClose": 351.73,
    "changePct": 1.68,
-   "volume": 6950516,
-   "dayHigh": 364.7,
-   "dayLow": 357.1,
-   "fiftyTwoWeekHigh": 364.7,
+   "volume": 3625115,
+   "dayHigh": 364.64,
+   "dayLow": 357.18,
+   "fiftyTwoWeekHigh": 364.64,
    "fiftyTwoWeekLow": 236.51,
    "marketTime": 1781812803,
    "news": [
@@ -2816,11 +2735,7 @@ window.DASHBOARD_DATA = {
     46.08,
     46.08
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 46.08,
-    "changePct": 0.0
-   },
+   "ext": null,
    "relVol": 1.4,
    "avgVolume": 879231,
    "symbol": "DRS",
@@ -2897,7 +2812,7 @@ window.DASHBOARD_DATA = {
     "price": 139.54,
     "changePct": 0.0
    },
-   "relVol": 1.6,
+   "relVol": 0.8,
    "avgVolume": 483354,
    "symbol": "OSK",
    "name": "Oshkosh",
@@ -2906,9 +2821,9 @@ window.DASHBOARD_DATA = {
    "price": 139.54,
    "prevClose": 138.1,
    "changePct": 1.04,
-   "volume": 769584,
+   "volume": 387998,
    "dayHigh": 142.29,
-   "dayLow": 139.49,
+   "dayLow": 139.555,
    "fiftyTwoWeekHigh": 180.49,
    "fiftyTwoWeekLow": 106.37,
    "marketTime": 1781812802,
@@ -2973,7 +2888,7 @@ window.DASHBOARD_DATA = {
     "price": 771.93,
     "changePct": 0.0
    },
-   "relVol": 4.5,
+   "relVol": 1.7,
    "avgVolume": 185370,
    "symbol": "CW",
    "name": "Curtiss-Wright",
@@ -2982,7 +2897,7 @@ window.DASHBOARD_DATA = {
    "price": 771.93,
    "prevClose": 764.61,
    "changePct": 0.96,
-   "volume": 841573,
+   "volume": 310131,
    "dayHigh": 800.0,
    "dayLow": 771.93,
    "fiftyTwoWeekHigh": 800.0,
@@ -3046,8 +2961,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 24.8,
-    "changePct": -0.72
+    "price": 24.61,
+    "changePct": -1.48
    },
    "relVol": 0.8,
    "avgVolume": 4926523,
@@ -3198,10 +3113,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 186.0,
-    "changePct": 0.22
+    "price": 185.32,
+    "changePct": -0.15
    },
-   "relVol": 1.9,
+   "relVol": 1.3,
    "avgVolume": 4147315,
    "symbol": "RTX",
    "name": "RTX Corp",
@@ -3210,8 +3125,8 @@ window.DASHBOARD_DATA = {
    "price": 185.6,
    "prevClose": 186.77,
    "changePct": -0.63,
-   "volume": 7841591,
-   "dayHigh": 194.17,
+   "volume": 5251185,
+   "dayHigh": 194.033,
    "dayLow": 184.42,
    "fiftyTwoWeekHigh": 214.5,
    "fiftyTwoWeekLow": 140.47,
@@ -3277,7 +3192,7 @@ window.DASHBOARD_DATA = {
     "price": 337.1,
     "changePct": 0.0
    },
-   "relVol": 1.8,
+   "relVol": 0.9,
    "avgVolume": 307846,
    "symbol": "HEI",
    "name": "HEICO",
@@ -3286,8 +3201,8 @@ window.DASHBOARD_DATA = {
    "price": 337.1,
    "prevClose": 335.53,
    "changePct": 0.47,
-   "volume": 566948,
-   "dayHigh": 343.99,
+   "volume": 276554,
+   "dayHigh": 343.4,
    "dayLow": 335.739,
    "fiftyTwoWeekHigh": 361.69,
    "fiftyTwoWeekLow": 256.11,
@@ -3350,10 +3265,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 277.66,
-    "changePct": 0.0
+    "price": 277.5,
+    "changePct": -0.06
    },
-   "relVol": 2.4,
+   "relVol": 1.3,
    "avgVolume": 1723707,
    "symbol": "HWM",
    "name": "Howmet Aerospace",
@@ -3362,7 +3277,7 @@ window.DASHBOARD_DATA = {
    "price": 277.66,
    "prevClose": 277.42,
    "changePct": 0.09,
-   "volume": 4140427,
+   "volume": 2323820,
    "dayHigh": 290.633,
    "dayLow": 276.01,
    "fiftyTwoWeekHigh": 290.633,
@@ -3428,8 +3343,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 66.95,
-    "changePct": 0.89
+    "price": 66.7,
+    "changePct": 0.51
    },
    "relVol": 4.1,
    "avgVolume": 1401102,
@@ -3563,88 +3478,6 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
-    3.92,
-    3.77,
-    3.82,
-    3.81,
-    3.85,
-    4.09,
-    4.1,
-    4.09,
-    4.05,
-    4.04,
-    3.75,
-    3.8,
-    3.8,
-    3.79,
-    3.71,
-    3.72,
-    3.74,
-    3.78,
-    3.62,
-    3.56,
-    3.78,
-    3.7,
-    3.68,
-    3.85,
-    3.93,
-    3.96
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 3.9,
-    "changePct": -1.47
-   },
-   "relVol": 1.2,
-   "avgVolume": 1600245,
-   "symbol": "KULR",
-   "name": "KULR Technology",
-   "vertical": "Defense Tech & Software",
-   "description": "Thermal management and battery-safety tech for space, defense, and energy storage; also holds bitcoin treasury.",
-   "price": 3.96,
-   "prevClose": 3.67,
-   "changePct": 7.9,
-   "volume": 1929117,
-   "dayHigh": 3.97,
-   "dayLow": 3.59,
-   "fiftyTwoWeekHigh": 7.94,
-   "fiftyTwoWeekLow": 1.94,
-   "marketTime": 1781812800,
-   "news": [
-    {
-     "title": "A Look At KULR Technology Group\u2019s (KULR) Valuation After Mixed Q1 Results And Growth Expansion Plans - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGJsRkV4SUZFOGdUN2xjUU1uaFBZRTUxdkUyZkI1ZWh1d0Vlb05LaFB1MEUwTUZjOEFVdnFGUVBfQmpPZ2JFVHU1ZFBySmU2VmlzbVV5a19OdnFTMnhXVWNkcUJoLVBhUzF3TUNmVXpyVG00SHlwN2xSLWtYWEZhd0tMZ2QtdWY3YnRDUnQzRXFPS3VNeEF2T2J0Q2I?oc=5",
-     "pubDate": "Sun, 17 May 2026 07:00:00 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "KULR Technology stock rises after naming new CFO and director - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeW1OcVUtTWJzdXBmVlp4U3ViajdzVmw2WlN1YmxiOFFBeUZYOEhxS0FGbVAyRDROYkM0QllEZTNnZFdnTFJHRUE3UnZDVHJISFNpYlFwcnFfazFla284VTB5Z2N1MjhCUWJqN2dqdXJYeG1tMHhjWjBuRXIxOTQxZW1hX29aa1FQbTFuTVFYYnh4clNFa2llVnBFRTd3M0UwTGNHcjhpRlA0V2s4YVlsbE94TnFmUGJZcy1YTENKZEI?oc=5",
-     "pubDate": "Wed, 10 Jun 2026 09:26:16 GMT",
-     "source": "Investing.com"
-    },
-    {
-     "title": "Director Steven John Perez discloses 1,250 KULR (NASDAQ: KULR) shares on Form 3 - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR3NaYjRreE1BekVHTEs2TndmU2xaUkQzaGxrbkRhZ3FNQWRhMklIX2M3TTRLXzJGRTZDUzRyRDZNTWJZekU5bENXVzhhX1lsdHlnSjlKMmFPMXB2WkZWMEZFUkVLM3A1UVRLR0huMlo1NDM5NDcyTEM2RnhGR0FvcVpsS1RzUHVmeDM0LTJDbVBpd1NHUmU5MDJiTTEwZmowQXRCUncwVl9TMlVvbFRLa25wMFBGMjhpN1A3ejdTTEdlekRGb1U1RVNsYw?oc=5",
-     "pubDate": "Sat, 13 Jun 2026 01:44:56 GMT",
-     "source": "Stock Titan"
-    },
-    {
-     "title": "KULR Technology Group Appoints New Chief Financial Officer and Independent Board Member - GlobeNewswire",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeWtIQmRMYXhILWNHNGlMNnRuV2E2dFdzMW9wcHJWaTN4VVJPMTJvX3hpa1VhaldVX1pITFJndWhJOFlzaVdKX3lvdDU5bFVna3lnYmt5LXdoTUhJZ1pUSWFLUDZ4cnduZ1BpWmNQdE9BSzdXNXJHMWdXcnBVMFQ2RjdURm9XS0JZWkNPbmhaR1Q0cWZaODJrbE5TMVdYbUM1MlBxMFBUdFE5QW13Y0ZCaXMtVzlvUWttbkVGZmdXNHZ0RTZjMDNJYmE0eXNjR055Z0dCRmp4ak1HTlBnRktwZUJEUG9heW5QYS1tZ2t4MTg?oc=5",
-     "pubDate": "Tue, 09 Jun 2026 12:45:00 GMT",
-     "source": "GlobeNewswire"
-    },
-    {
-     "title": "Defense Drone Battery Prototype Deal Could Be A Game Changer For KULR Technology Group (KULR) - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRHpvT0FxbW5XU21TR1NoV1RPRGtlVEJjT0NfZUlxMmhnaHVvVnQyendFVUNuREJDWGxvcTZldFRaVk1SVDFVUzdseGt6Vk9NZGJCUHVMZXJTNl9PMWJlMURVUHNBc2V2WC1rbkNmZGk4WWpWbGlmWlBuMVVXYU9CT1lFdmU1SVNoeWlMeGZWNE52RmhaYTBUdlFNTHUwNVl4bFNTUGR0V0hadXJkMG1pQllweWxXbWVYY25mX2wtOTZ6QTRmWThZWTAyZGhobHFrTFQtNDhwY0o3Tkpvc1Uw0gHkAUFVX3lxTE0zMEJ6R3kyVkExWVhUWDZfRUppTWIzUkotN0g4MlBiUm9rNFp3Yjh3U1RCNGRhT3JjVEdQMjRLNGc4YzZCckxOWjFyc01Xa1ZiN1g3NVlZMlRTb19MNkpPV3JvdTFON1k1RVV2TzVtQ2FLZ2wwVkFrYTBPRXJOdXV6OUtrbWY2YmVSQWRJSHB6VDI1dVl4bXpBdDhhOTRneXBMSzd6LUpJWFJnY3FGUVJOZUJFcDRDMFhlZEN4cGo4ZktlWUY3bjU1MmFFdTlDT1JPaUZUN1hjc2Q5ZGlPSjFzMHFJUw?oc=5",
-     "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-     "source": "simplywall.st"
-    }
-   ]
-  },
-  {
-   "spark": [
     527.56,
     519.97,
     520.16,
@@ -3674,8 +3507,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 481.85,
-    "changePct": 3.31
+    "price": 471.0,
+    "changePct": 0.98
    },
    "relVol": 1.3,
    "avgVolume": 210591,
@@ -3756,8 +3589,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.96,
-    "changePct": -0.4
+    "price": 9.94,
+    "changePct": -0.6
    },
    "relVol": 1.0,
    "avgVolume": 38937918,
@@ -3838,8 +3671,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 80.56,
-    "changePct": 0.0
+    "price": 81.31,
+    "changePct": 0.93
    },
    "relVol": 1.5,
    "avgVolume": 719997,
@@ -3920,8 +3753,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 32.82,
-    "changePct": 0.0
+    "price": 33.44,
+    "changePct": 1.89
    },
    "relVol": 1.8,
    "avgVolume": 1044692,
@@ -4002,8 +3835,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.46,
-    "changePct": 0.77
+    "price": 14.35,
+    "changePct": -0.0
    },
    "relVol": 0.6,
    "avgVolume": 43402482,
@@ -4243,28 +4076,29 @@ window.DASHBOARD_DATA = {
     106.97,
     106.88,
     106.7,
-    107.07
+    107.07,
+    107.12
    ],
    "ext": {
     "label": "after-hours",
     "price": 107.12,
-    "changePct": 0.05
+    "changePct": 0.0
    },
-   "relVol": 1.2,
+   "relVol": 3.8,
    "avgVolume": 1494159,
    "symbol": "LDOS",
    "name": "Leidos",
    "vertical": "Gov Services & IT",
    "description": "Largest federal IT/services contractor \u2014 defense digital modernization, hypersonics support, health and intel missions.",
-   "price": 107.07,
+   "price": 107.12,
    "prevClose": 113.58,
-   "changePct": -5.73,
-   "volume": 1852965,
+   "changePct": -5.69,
+   "volume": 5686831,
    "dayHigh": 109.5,
-   "dayLow": 106.095,
+   "dayLow": 106.08,
    "fiftyTwoWeekHigh": 205.77,
-   "fiftyTwoWeekLow": 106.095,
-   "marketTime": 1781812798,
+   "fiftyTwoWeekLow": 106.08,
+   "marketTime": 1781813040,
    "news": [
     {
      "title": "Why Leidos (LDOS) Shares Are Getting Obliterated Today - Yahoo Finance",
@@ -4329,10 +4163,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 522.15,
-    "changePct": 0.12
+    "price": 521.5,
+    "changePct": 0.0
    },
-   "relVol": 3.7,
+   "relVol": 3.9,
    "avgVolume": 612127,
    "symbol": "NOC",
    "name": "Northrop Grumman",
@@ -4341,9 +4175,9 @@ window.DASHBOARD_DATA = {
    "price": 521.5,
    "prevClose": 551.21,
    "changePct": -5.39,
-   "volume": 2241554,
+   "volume": 2380159,
    "dayHigh": 553.5,
-   "dayLow": 515.38,
+   "dayLow": 515.4,
    "fiftyTwoWeekHigh": 774.0,
    "fiftyTwoWeekLow": 481.28,
    "marketTime": 1781812802,
@@ -4411,10 +4245,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 294.82,
-    "changePct": 0.0
+    "price": 295.1,
+    "changePct": 0.09
    },
-   "relVol": 2.7,
+   "relVol": 1.9,
    "avgVolume": 952929,
    "symbol": "LHX",
    "name": "L3Harris",
@@ -4423,7 +4257,7 @@ window.DASHBOARD_DATA = {
    "price": 294.82,
    "prevClose": 310.45,
    "changePct": -5.03,
-   "volume": 2537725,
+   "volume": 1794441,
    "dayHigh": 317.572,
    "dayLow": 291.66,
    "fiftyTwoWeekHigh": 379.23,
@@ -4493,8 +4327,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.44,
-    "changePct": 0.02
+    "price": 11.45,
+    "changePct": 0.09
    },
    "relVol": 2.0,
    "avgVolume": 10676282,
@@ -4575,10 +4409,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 510.95,
-    "changePct": 0.0
+    "price": 511.3,
+    "changePct": 0.07
    },
-   "relVol": 4.3,
+   "relVol": 2.4,
    "avgVolume": 863922,
    "symbol": "LMT",
    "name": "Lockheed Martin",
@@ -4587,8 +4421,8 @@ window.DASHBOARD_DATA = {
    "price": 510.95,
    "prevClose": 535.95,
    "changePct": -4.66,
-   "volume": 3704894,
-   "dayHigh": 536.9,
+   "volume": 2080030,
+   "dayHigh": 536.0,
    "dayLow": 505.18,
    "fiftyTwoWeekHigh": 692.0,
    "fiftyTwoWeekLow": 410.11,
@@ -4660,7 +4494,7 @@ window.DASHBOARD_DATA = {
     "price": 89.47,
     "changePct": 0.0
    },
-   "relVol": 4.3,
+   "relVol": 5.1,
    "avgVolume": 850664,
    "symbol": "TXT",
    "name": "Textron",
@@ -4669,8 +4503,8 @@ window.DASHBOARD_DATA = {
    "price": 89.47,
    "prevClose": 93.74,
    "changePct": -4.56,
-   "volume": 3666972,
-   "dayHigh": 94.47,
+   "volume": 4305931,
+   "dayHigh": 94.17,
    "dayLow": 87.165,
    "fiftyTwoWeekHigh": 101.57,
    "fiftyTwoWeekLow": 75.8,
@@ -4739,10 +4573,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 285.41,
-    "changePct": -0.01
+    "price": 285.0,
+    "changePct": -0.15
    },
-   "relVol": 4.0,
+   "relVol": 1.8,
    "avgVolume": 268445,
    "symbol": "HII",
    "name": "Huntington Ingalls",
@@ -4751,7 +4585,7 @@ window.DASHBOARD_DATA = {
    "price": 285.43,
    "prevClose": 298.51,
    "changePct": -4.38,
-   "volume": 1070449,
+   "volume": 493660,
    "dayHigh": 299.03,
    "dayLow": 281.44,
    "fiftyTwoWeekHigh": 460.0,
@@ -4821,10 +4655,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 205.4,
-    "changePct": 0.0
+    "price": 206.0,
+    "changePct": 0.29
    },
-   "relVol": 3.0,
+   "relVol": 1.4,
    "avgVolume": 663034,
    "symbol": "BWXT",
    "name": "BWX Technologies",
@@ -4833,7 +4667,7 @@ window.DASHBOARD_DATA = {
    "price": 205.4,
    "prevClose": 196.93,
    "changePct": 4.3,
-   "volume": 1998458,
+   "volume": 961368,
    "dayHigh": 210.93,
    "dayLow": 202.775,
    "fiftyTwoWeekHigh": 241.82,
@@ -4985,10 +4819,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 350.01,
-    "changePct": 0.0
+    "price": 350.0,
+    "changePct": -0.0
    },
-   "relVol": 4.0,
+   "relVol": 1.9,
    "avgVolume": 754399,
    "symbol": "GD",
    "name": "General Dynamics",
@@ -4997,8 +4831,8 @@ window.DASHBOARD_DATA = {
    "price": 350.01,
    "prevClose": 364.11,
    "changePct": -3.87,
-   "volume": 2986856,
-   "dayHigh": 367.0,
+   "volume": 1432650,
+   "dayHigh": 366.75,
    "dayLow": 348.83,
    "fiftyTwoWeekHigh": 369.7,
    "fiftyTwoWeekLow": 275.49,
@@ -5067,8 +4901,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 54.21,
-    "changePct": 0.0
+    "price": 54.39,
+    "changePct": 0.33
    },
    "relVol": 2.0,
    "avgVolume": 3030099,
@@ -5149,8 +4983,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 128.43,
-    "changePct": -0.03
+    "price": 128.6,
+    "changePct": 0.1
    },
    "relVol": 1.7,
    "avgVolume": 29436710,
