@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-18T13:06:24.944200+00:00",
+ "generatedAt": "2026-06-18T13:12:21.832042+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 3.64,
-    "changePct": -0.82
+    "price": 3.65,
+    "changePct": -0.54
    },
    "relVol": 0.9,
    "avgVolume": 1596652,
@@ -331,8 +331,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 23.04,
-    "changePct": -1.37
+    "price": 23.1,
+    "changePct": -1.11
    },
    "relVol": 0.8,
    "avgVolume": 14962594,
@@ -413,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 11.4,
-    "changePct": 4.59
+    "price": 11.42,
+    "changePct": 4.77
    },
    "relVol": 1.2,
    "avgVolume": 10753700,
@@ -577,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 108.0,
-    "changePct": -4.91
+    "price": 108.19,
+    "changePct": -4.75
    },
    "relVol": 1.3,
    "avgVolume": 1306357,
@@ -659,8 +659,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 193.23,
-    "changePct": 3.46
+    "price": 193.11,
+    "changePct": 3.39
    },
    "relVol": 1.3,
    "avgVolume": 4369460,
@@ -823,8 +823,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 287.47,
-    "changePct": 3.62
+    "price": 286.61,
+    "changePct": 3.31
    },
    "relVol": 1.5,
    "avgVolume": 1752900,
@@ -849,6 +849,12 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "5-Day Rally Sends Howmet Aerospace Stock Up 14% - Trefis",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVnR3SWRmZmNvREQ2bXF0S1lBV0FyZkFEeS1jODBoQy0yMkVZRG5GUTI3dkZJUTFqeWRmeElnbWtvZElTWldZVVF0MUQwWGpLY3NIX2tkLUJDRTNtRWJtMVgzcHZTN211S3BsSVNMeF9DLTFmWlZhUi1wOGV0TGs0SXVSR2F2TFhPU2ctcmlwNnJnRFQxWHNlZUdsU2JWRENldTFsbXF4TDB3OW5BaGYxdVctNEpuX00?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 13:00:52 GMT",
+     "source": "Trefis"
+    },
+    {
      "title": "This Aerospace Supplier Breaks Out. Another Is On The Cusp. - Investor's Business Daily",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QcE1GdHhMMUNxQVJReDM2LUtUbTFrLXpqRVgwOGpmSVRtRlN2ZHlaY2h1UWtiN0Vic1ByUjAtdkdzZElqZnoxY2daaXJxQTRzRGg3bTlTZVViTklEUHZRbGprMjhxdmtUeldNV0xLTTJ1YjlldHc?oc=5",
      "pubDate": "Wed, 17 Jun 2026 17:35:00 GMT",
@@ -865,12 +871,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU3M3cFNBQkVZQWFSZUZ0ekMxTkNCbThsa1RjZWNSS1N0Yk1xZXlPeEVaS1JVNnk4TVNoRGQ1UjVIMkRkQTNWOXlfWEtORzN0b2RWaGZIVmdQaTNoZHFhRkFrbHQwN0t1bzdZanBNTjBfQWpra2JOU2Y2LXo4bzVRRnhudDkxa1haWFppNzRramZtSk1SVmdWXzNBWDFfTEkzc3BsTnRoNkkzU0h4Wmc?oc=5",
      "pubDate": "Thu, 18 Jun 2026 03:11:49 GMT",
      "source": "Investing.com South Africa"
-    },
-    {
-     "title": "Howmet Aerospace Board Approves Common Stock Dividend - PR Newswire",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ21DU2ZmM0VsaHlsWndVdmUwVUlvMlFWNnVUQlNsTTFGb1BUMDBMdF82ZmxUb2pmSE1wUDlyZlVnVkYwbks2eFZVa1otUVBQU3ZickpPUnBYTWgyVHVEaUhmNm10NmpNX3FoeEgwcEJ0dGNTalRnWmJYbVBPc1pMMk9SUXNkZEFDV0ZCS2xtemhnbmpCdWZaMk51MXZrVXRjMEt1VHM0cEhIN2JWVnc?oc=5",
-     "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
-     "source": "PR Newswire"
     }
    ]
   },
@@ -987,8 +987,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 70.11,
-    "changePct": -5.23
+    "price": 70.69,
+    "changePct": -4.45
    },
    "relVol": 1.6,
    "avgVolume": 1301967,
@@ -1089,10 +1089,22 @@ window.DASHBOARD_DATA = {
    "marketTime": 1781726401,
    "news": [
     {
+     "title": "Axon Enterprise (AXON) Stock After 45% Slide Can The Growth Story Justify Today\u2019s Price - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTVUdExyWGJUWldmU2ZkWTFZSEkzdnBuWXRZZ2dtWGxSLUU1TFhPQmNya1NMbzlWWE0zQWpQbmZsLVNhYUxZajRzMEpnY20wbkYyWVpGMjZpVk5MR1ZHa0hfOVlxVGNIX3ZIZW03a0FfX0NjeWEyc1RGSTF2aDFfRFZUOGhRZ3V6VUdQaEo5aG5tcTlEN2tkOWY1UUpKSnVMWXhOYmVicTVLU0hHZXBFdmZ6M3ozanZsRFlGeWdHQ1FLY3VOV19NS2VoVTZJQWNXMGdhSVdB0gHbAUFVX3lxTE9VZUFqcEFGdUVVeFpSY25ES0lzYVd2aUxLRVl0QjlOQXFGN2xjY1dyYmNoYUpqQlNiSzMzZVVHcmw5cTZLZVMyV3NaS2VsbWJSeHI0dV9TUzhFS3ZaLTlaR0dlbUMydUluOGxNSUpWSTBDMDFkdE4tUFluREVKOE0zT05QTWpQakVWLTV2Rl80dVlIbUR3c0pfTjk5TVJEUEQtY3htNkRja1JvR1V3YVlSLWFaM2wxcS1Hb2VEUkltZlZvay1OaFZ0NGVRY3p6XzQ2ZEMxMC1FWUpQQQ?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 08:43:20 GMT",
+     "source": "simplywall.st"
+    },
+    {
      "title": "Is Axon Enterprise Stock Underperforming the S&P 500? - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVW1sQUhaQmNqdkEyUGNzWHZXTEJtZkdXWHM1bnFJV2ZQUTRXR1hrTGd2ODlSdjRVQk5EdGQyWXlZUzJScFZzU0o4TWxpeV9MSHV2RnhIaEwzNUF5aEd2bmdidWxvV2dKTHJkMzlCVmdLbDhmc1NyWFFxVGdvU2ZrblpNT1Z6U2FiRV8td1JpekgxSVB1cGVWdG9qa2E3RFY2Y0tBZFJ0dw?oc=5",
      "pubDate": "Mon, 15 Jun 2026 09:38:42 GMT",
      "source": "Yahoo Finance"
+    },
+    {
+     "title": "Axon Enterprise Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd2VjRnNJTHhvZHVuVVFJME9oYkg4TXhsRFdyRHFfVzJtaXYyZ253NGZsdVZsWWJ4SE83Qjg5X2lpd1pDQ19PQXBJcXpoMFVqQ0xMZUk3aE9Yd3c5cDNRSlR2RU8wdTV1bDZjTDFQdlRuaThLbUUtQWptQUgzOVUxR2pDQ05Ydkl2MjRHeXZDeUlwV25pSEFSZV9CUFN4ZUdxT1czd3RfZ0FFdFhKUU1CRTU3VHZBeGF5VG1zVHRVNEdmSkpQTXlmRzhCY25RRVVOUjFwSHdYMkFIcWlfZ3pteElWd0VyQ2U0WmtmcA?oc=5",
+     "pubDate": "Wed, 17 Jun 2026 20:56:00 GMT",
+     "source": "MarketWatch"
     },
     {
      "title": "Axon Enterprise Stock Slides 14% With A 6-Day Losing Spree - Trefis",
@@ -1105,18 +1117,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUENiTEJmMTFfdDliMVc2Sk90YUdZMTQ2a3hST21Ic0lWOEdST1FnRERxdzF0ZmNIZy1fTGZXVENJYklqNVRmTEo2eUVLSGhveGJUSW4zUmdvZmJPVzlhMmNWeWZBN0RnVUpRejVwR3lfVTNPMjgtMEtqUFBmM3ZJakdFdWJmRUktaF9HbjVuTDh1UQ?oc=5",
      "pubDate": "Tue, 16 Jun 2026 17:15:00 GMT",
      "source": "The Motley Fool"
-    },
-    {
-     "title": "Axon Enterprise (AXON) Stock Valuation Check After Recent Share Price Volatility - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVjJvQWQ2Znh2WllNWmhZMmNvNldWbGZPYXlESnk0Wi0xekhocVhwa0RBM1h3RUtvR3drb2Y4SnJQZG1nOGZTMnVVbkpiT1BXUktZNzVuMjZtTlp6bnRGWXZOR0p2Q25lSk1PUTV4d0RzRlpsRDRSTlFVTmVlNlY2M0F4eEpmcGwxWnBvcXZkbHhUVm1lVjhCUDVTUEhnenZvbUVJUFFvNDdPV2FZamhIQTBqcXU1VlFfbzNzdEJGdGJSdWxLVkthZVNYZUp5emRZZlpzTXZn0gHbAUFVX3lxTFBQdm9sWkxINDk2Rm1mR3JhSEhULTFYcUduMUpyeS1LN0FtLThnb3ZCTi1YblNxTzd3OEN3d2FFZGZXdV9lbFp3R0dGYkE2OUUtZm5Xemw1Tm1uX0plenhsUkNwOU5pNnZJUWU0bC1FMXFnSHl6T3ptYVYzQ25NZWJqNUg5cWlMTjhjbm5aMGN2dGZLckV2Z3dnVnYya2YxQWlQZllhS244MHNYT09BNTFBSWpBWkt5UkxoY2tWc1JQSjhRT2xGZE5vamRyX29rM0poaE5ramdsNWRRZw?oc=5",
-     "pubDate": "Sat, 13 Jun 2026 05:23:50 GMT",
-     "source": "simplywall.st"
-    },
-    {
-     "title": "Why is Axon Enterprise stock surging today? - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFFxc01DZnRBRUg2Umh0ZzFGVVBPbzRxSG9sZVJkTGtOVFpGNnhJMjBtejJEaTlETkREMkZLdERxMkg5Ulh5OTRrSkNSa1JLbExRLVV0OFVGS1c5YWtuSUx2bVhHak1HSHdZX0pXNXpOaGZTUHl6Rk9vbHMyblNqRzhsNVBMczRTZExxLXNuRXB0dU12QUliem1LWW5nWHluQzY5U3Rubw?oc=5",
-     "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-     "source": "Investing.com"
     }
    ]
   },
@@ -1151,8 +1151,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 360.85,
-    "changePct": 2.59
+    "price": 360.81,
+    "changePct": 2.58
    },
    "relVol": 1.1,
    "avgVolume": 3371895,
@@ -1397,8 +1397,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 14.47,
-    "changePct": 7.19
+    "price": 14.46,
+    "changePct": 7.11
    },
    "relVol": 0.7,
    "avgVolume": 47398055,
@@ -1561,8 +1561,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 130.7,
-    "changePct": -1.91
+    "price": 130.95,
+    "changePct": -1.73
    },
    "relVol": 1.1,
    "avgVolume": 28046032,
@@ -1643,8 +1643,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 310.28,
-    "changePct": -0.05
+    "price": 311.68,
+    "changePct": 0.4
    },
    "relVol": 1.6,
    "avgVolume": 947717,
@@ -1719,8 +1719,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 9.56,
-    "changePct": 2.36
+    "price": 9.57,
+    "changePct": 2.46
    },
    "relVol": 1.0,
    "avgVolume": 36076436,
@@ -1795,8 +1795,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 169.0,
-    "changePct": 1.37
+    "price": 169.1,
+    "changePct": 1.43
    },
    "relVol": 0.9,
    "avgVolume": 776946,
@@ -1871,8 +1871,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 33.93,
-    "changePct": -3.14
+    "price": 34.25,
+    "changePct": -2.23
    },
    "relVol": 1.1,
    "avgVolume": 1084006,
@@ -2175,8 +2175,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 56.5,
-    "changePct": 0.28
+    "price": 56.89,
+    "changePct": 0.98
    },
    "relVol": 1.0,
    "avgVolume": 3098537,
@@ -2251,8 +2251,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 228.3,
-    "changePct": 0.36
+    "price": 228.26,
+    "changePct": 0.34
    },
    "relVol": 1.0,
    "avgVolume": 4830808,
@@ -2479,8 +2479,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 109.15,
-    "changePct": 4.32
+    "price": 109.2,
+    "changePct": 4.36
    },
    "relVol": 0.9,
    "avgVolume": 31419502,
@@ -2631,8 +2631,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 25.2,
-    "changePct": 0.0
+    "price": 25.17,
+    "changePct": -0.12
    },
    "relVol": 0.8,
    "avgVolume": 5043538,
@@ -2707,8 +2707,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 550.1,
-    "changePct": -0.2
+    "price": 549.77,
+    "changePct": -0.26
    },
    "relVol": 1.1,
    "avgVolume": 636886,
@@ -2783,8 +2783,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 363.32,
-    "changePct": -0.22
+    "price": 367.11,
+    "changePct": 0.82
    },
    "relVol": 0.7,
    "avgVolume": 850880,
@@ -3087,8 +3087,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 533.14,
-    "changePct": -0.52
+    "price": 533.0,
+    "changePct": -0.55
    },
    "relVol": 1.2,
    "avgVolume": 928802,
@@ -3163,8 +3163,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 119.56,
-    "changePct": 6.33
+    "price": 123.34,
+    "changePct": 9.69
    },
    "relVol": 1.2,
    "avgVolume": 518126,
@@ -3393,8 +3393,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 3.64,
-    "changePct": -0.82
+    "price": 3.65,
+    "changePct": -0.54
    },
    "relVol": 0.9,
    "avgVolume": 1596652,
@@ -3475,8 +3475,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 23.04,
-    "changePct": -1.37
+    "price": 23.1,
+    "changePct": -1.11
    },
    "relVol": 0.8,
    "avgVolume": 14962594,
@@ -3557,8 +3557,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 11.4,
-    "changePct": 4.59
+    "price": 11.42,
+    "changePct": 4.77
    },
    "relVol": 1.2,
    "avgVolume": 10753700,
@@ -3721,8 +3721,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 108.0,
-    "changePct": -4.91
+    "price": 108.19,
+    "changePct": -4.75
    },
    "relVol": 1.3,
    "avgVolume": 1306357,
@@ -3803,8 +3803,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 193.23,
-    "changePct": 3.46
+    "price": 193.11,
+    "changePct": 3.39
    },
    "relVol": 1.3,
    "avgVolume": 4369460,
@@ -3967,8 +3967,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 287.47,
-    "changePct": 3.62
+    "price": 286.61,
+    "changePct": 3.31
    },
    "relVol": 1.5,
    "avgVolume": 1752900,
@@ -3993,6 +3993,12 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "5-Day Rally Sends Howmet Aerospace Stock Up 14% - Trefis",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVnR3SWRmZmNvREQ2bXF0S1lBV0FyZkFEeS1jODBoQy0yMkVZRG5GUTI3dkZJUTFqeWRmeElnbWtvZElTWldZVVF0MUQwWGpLY3NIX2tkLUJDRTNtRWJtMVgzcHZTN211S3BsSVNMeF9DLTFmWlZhUi1wOGV0TGs0SXVSR2F2TFhPU2ctcmlwNnJnRFQxWHNlZUdsU2JWRENldTFsbXF4TDB3OW5BaGYxdVctNEpuX00?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 13:00:52 GMT",
+     "source": "Trefis"
+    },
+    {
      "title": "This Aerospace Supplier Breaks Out. Another Is On The Cusp. - Investor's Business Daily",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QcE1GdHhMMUNxQVJReDM2LUtUbTFrLXpqRVgwOGpmSVRtRlN2ZHlaY2h1UWtiN0Vic1ByUjAtdkdzZElqZnoxY2daaXJxQTRzRGg3bTlTZVViTklEUHZRbGprMjhxdmtUeldNV0xLTTJ1YjlldHc?oc=5",
      "pubDate": "Wed, 17 Jun 2026 17:35:00 GMT",
@@ -4009,12 +4015,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU3M3cFNBQkVZQWFSZUZ0ekMxTkNCbThsa1RjZWNSS1N0Yk1xZXlPeEVaS1JVNnk4TVNoRGQ1UjVIMkRkQTNWOXlfWEtORzN0b2RWaGZIVmdQaTNoZHFhRkFrbHQwN0t1bzdZanBNTjBfQWpra2JOU2Y2LXo4bzVRRnhudDkxa1haWFppNzRramZtSk1SVmdWXzNBWDFfTEkzc3BsTnRoNkkzU0h4Wmc?oc=5",
      "pubDate": "Thu, 18 Jun 2026 03:11:49 GMT",
      "source": "Investing.com South Africa"
-    },
-    {
-     "title": "Howmet Aerospace Board Approves Common Stock Dividend - PR Newswire",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ21DU2ZmM0VsaHlsWndVdmUwVUlvMlFWNnVUQlNsTTFGb1BUMDBMdF82ZmxUb2pmSE1wUDlyZlVnVkYwbks2eFZVa1otUVBQU3ZickpPUnBYTWgyVHVEaUhmNm10NmpNX3FoeEgwcEJ0dGNTalRnWmJYbVBPc1pMMk9SUXNkZEFDV0ZCS2xtemhnbmpCdWZaMk51MXZrVXRjMEt1VHM0cEhIN2JWVnc?oc=5",
-     "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT",
-     "source": "PR Newswire"
     }
    ]
   },
@@ -4131,8 +4131,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 70.11,
-    "changePct": -5.23
+    "price": 70.69,
+    "changePct": -4.45
    },
    "relVol": 1.6,
    "avgVolume": 1301967,
@@ -4233,10 +4233,22 @@ window.DASHBOARD_DATA = {
    "marketTime": 1781726401,
    "news": [
     {
+     "title": "Axon Enterprise (AXON) Stock After 45% Slide Can The Growth Story Justify Today\u2019s Price - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTVUdExyWGJUWldmU2ZkWTFZSEkzdnBuWXRZZ2dtWGxSLUU1TFhPQmNya1NMbzlWWE0zQWpQbmZsLVNhYUxZajRzMEpnY20wbkYyWVpGMjZpVk5MR1ZHa0hfOVlxVGNIX3ZIZW03a0FfX0NjeWEyc1RGSTF2aDFfRFZUOGhRZ3V6VUdQaEo5aG5tcTlEN2tkOWY1UUpKSnVMWXhOYmVicTVLU0hHZXBFdmZ6M3ozanZsRFlGeWdHQ1FLY3VOV19NS2VoVTZJQWNXMGdhSVdB0gHbAUFVX3lxTE9VZUFqcEFGdUVVeFpSY25ES0lzYVd2aUxLRVl0QjlOQXFGN2xjY1dyYmNoYUpqQlNiSzMzZVVHcmw5cTZLZVMyV3NaS2VsbWJSeHI0dV9TUzhFS3ZaLTlaR0dlbUMydUluOGxNSUpWSTBDMDFkdE4tUFluREVKOE0zT05QTWpQakVWLTV2Rl80dVlIbUR3c0pfTjk5TVJEUEQtY3htNkRja1JvR1V3YVlSLWFaM2wxcS1Hb2VEUkltZlZvay1OaFZ0NGVRY3p6XzQ2ZEMxMC1FWUpQQQ?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 08:43:20 GMT",
+     "source": "simplywall.st"
+    },
+    {
      "title": "Is Axon Enterprise Stock Underperforming the S&P 500? - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVW1sQUhaQmNqdkEyUGNzWHZXTEJtZkdXWHM1bnFJV2ZQUTRXR1hrTGd2ODlSdjRVQk5EdGQyWXlZUzJScFZzU0o4TWxpeV9MSHV2RnhIaEwzNUF5aEd2bmdidWxvV2dKTHJkMzlCVmdLbDhmc1NyWFFxVGdvU2ZrblpNT1Z6U2FiRV8td1JpekgxSVB1cGVWdG9qa2E3RFY2Y0tBZFJ0dw?oc=5",
      "pubDate": "Mon, 15 Jun 2026 09:38:42 GMT",
      "source": "Yahoo Finance"
+    },
+    {
+     "title": "Axon Enterprise Inc. stock underperforms Wednesday when compared to competitors - MarketWatch",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNd2VjRnNJTHhvZHVuVVFJME9oYkg4TXhsRFdyRHFfVzJtaXYyZ253NGZsdVZsWWJ4SE83Qjg5X2lpd1pDQ19PQXBJcXpoMFVqQ0xMZUk3aE9Yd3c5cDNRSlR2RU8wdTV1bDZjTDFQdlRuaThLbUUtQWptQUgzOVUxR2pDQ05Ydkl2MjRHeXZDeUlwV25pSEFSZV9CUFN4ZUdxT1czd3RfZ0FFdFhKUU1CRTU3VHZBeGF5VG1zVHRVNEdmSkpQTXlmRzhCY25RRVVOUjFwSHdYMkFIcWlfZ3pteElWd0VyQ2U0WmtmcA?oc=5",
+     "pubDate": "Wed, 17 Jun 2026 20:56:00 GMT",
+     "source": "MarketWatch"
     },
     {
      "title": "Axon Enterprise Stock Slides 14% With A 6-Day Losing Spree - Trefis",
@@ -4249,18 +4261,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUENiTEJmMTFfdDliMVc2Sk90YUdZMTQ2a3hST21Ic0lWOEdST1FnRERxdzF0ZmNIZy1fTGZXVENJYklqNVRmTEo2eUVLSGhveGJUSW4zUmdvZmJPVzlhMmNWeWZBN0RnVUpRejVwR3lfVTNPMjgtMEtqUFBmM3ZJakdFdWJmRUktaF9HbjVuTDh1UQ?oc=5",
      "pubDate": "Tue, 16 Jun 2026 17:15:00 GMT",
      "source": "The Motley Fool"
-    },
-    {
-     "title": "Axon Enterprise (AXON) Stock Valuation Check After Recent Share Price Volatility - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVjJvQWQ2Znh2WllNWmhZMmNvNldWbGZPYXlESnk0Wi0xekhocVhwa0RBM1h3RUtvR3drb2Y4SnJQZG1nOGZTMnVVbkpiT1BXUktZNzVuMjZtTlp6bnRGWXZOR0p2Q25lSk1PUTV4d0RzRlpsRDRSTlFVTmVlNlY2M0F4eEpmcGwxWnBvcXZkbHhUVm1lVjhCUDVTUEhnenZvbUVJUFFvNDdPV2FZamhIQTBqcXU1VlFfbzNzdEJGdGJSdWxLVkthZVNYZUp5emRZZlpzTXZn0gHbAUFVX3lxTFBQdm9sWkxINDk2Rm1mR3JhSEhULTFYcUduMUpyeS1LN0FtLThnb3ZCTi1YblNxTzd3OEN3d2FFZGZXdV9lbFp3R0dGYkE2OUUtZm5Xemw1Tm1uX0plenhsUkNwOU5pNnZJUWU0bC1FMXFnSHl6T3ptYVYzQ25NZWJqNUg5cWlMTjhjbm5aMGN2dGZLckV2Z3dnVnYya2YxQWlQZllhS244MHNYT09BNTFBSWpBWkt5UkxoY2tWc1JQSjhRT2xGZE5vamRyX29rM0poaE5ramdsNWRRZw?oc=5",
-     "pubDate": "Sat, 13 Jun 2026 05:23:50 GMT",
-     "source": "simplywall.st"
-    },
-    {
-     "title": "Why is Axon Enterprise stock surging today? - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFFxc01DZnRBRUg2Umh0ZzFGVVBPbzRxSG9sZVJkTGtOVFpGNnhJMjBtejJEaTlETkREMkZLdERxMkg5Ulh5OTRrSkNSa1JLbExRLVV0OFVGS1c5YWtuSUx2bVhHak1HSHdZX0pXNXpOaGZTUHl6Rk9vbHMyblNqRzhsNVBMczRTZExxLXNuRXB0dU12QUliem1LWW5nWHluQzY5U3Rubw?oc=5",
-     "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
-     "source": "Investing.com"
     }
    ]
   },
@@ -4295,8 +4295,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 360.85,
-    "changePct": 2.59
+    "price": 360.81,
+    "changePct": 2.58
    },
    "relVol": 1.1,
    "avgVolume": 3371895,
@@ -4541,8 +4541,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 14.47,
-    "changePct": 7.19
+    "price": 14.46,
+    "changePct": 7.11
    },
    "relVol": 0.7,
    "avgVolume": 47398055,
@@ -4705,8 +4705,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 130.7,
-    "changePct": -1.91
+    "price": 130.95,
+    "changePct": -1.73
    },
    "relVol": 1.1,
    "avgVolume": 28046032,
@@ -4789,16 +4789,16 @@ window.DASHBOARD_DATA = {
    "source": "Centre for Strategic and Contemporary Research"
   },
   {
-   "title": "Polymarket's geopolitics category surges amid Iran war policy bets and insider trading allegations - Crypto Briefing",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mbEk1RVlyeFFtN21ibHBaenM4eTR4STBVakFJd1VHWXJXX3ktN0ExTkFXcENOTFR6blQxYlRSa1FvX0dCaEFQVE1SdlNpSi1rY1Azd3hyaGVva29Bb3FrRVdza1FsMmVJRjRRSENmekhWQQ?oc=5",
-   "pubDate": "Thu, 18 Jun 2026 01:11:43 GMT",
-   "source": "Crypto Briefing"
-  },
-  {
    "title": "The U.S.\u2013Iran memorandum is a ceasefire, not peace - Defence24.com",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb3JjODVpSmJsbno4dllXTko2VURyQ193dFlHQkcwNWNlckM4U0lkXzBpd2p0M0FnSW1vblhHNWl2WHlsRUZUWWtOU29NNHVtN2V3c0NaRTQxYWx0QlFZbnk1T3drTkN3aVIxUk55em8yTm9iRVR3MldCdlQ5dVkxb2twUVVfUDdU?oc=5",
    "pubDate": "Thu, 18 Jun 2026 08:52:45 GMT",
    "source": "Defence24.com"
+  },
+  {
+   "title": "Polymarket's geopolitics category surges amid Iran war policy bets and insider trading allegations - Crypto Briefing",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mbEk1RVlyeFFtN21ibHBaenM4eTR4STBVakFJd1VHWXJXX3ktN0ExTkFXcENOTFR6blQxYlRSa1FvX0dCaEFQVE1SdlNpSi1rY1Azd3hyaGVva29Bb3FrRVdza1FsMmVJRjRRSENmekhWQQ?oc=5",
+   "pubDate": "Thu, 18 Jun 2026 01:11:43 GMT",
+   "source": "Crypto Briefing"
   },
   {
    "title": "Why No One Trusts the Iran Ceasefire - The National Interest",
@@ -4907,6 +4907,12 @@ window.DASHBOARD_DATA = {
    "source": "Georgia Economic Development"
   },
   {
+   "title": "Divergent Appoints Ben Nicholson As Chief Commercial Officer - Pulse 2.0",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNmlTMGdxOE8tdXBSYTBjMFI5blJyNDlfR3pxcWtxS1hnYjdOdEdvM081VkNDWXRDMlExNVhkQW84ZVhiVXRlRkc3UTdSZ0FISUR4bi1XM3lmTFNPMHFxYzFaeHdmald3ejNVaWtTWTVyZjNmWmdxTUlNXzh6UlMtaWxWT3FxdTDSAYwBQVVfeXFMTjFvMHVRSTltTVdrY19rY0J0dGVHZl9wd0JvcW42UUxTVkV5bF9wWFpvTUpOMF9hYXhubXhmZm1FLURWYlVNV25mdVh1cXVKZF9OaHNnd1l5Mzh1RThhSWtjbjdxNmNzN0xZU1dqcXc5bnpLNTZZTVRJV2g5aUZ6LUV2SjRPcVVnVzRoY2o?oc=5",
+   "pubDate": "Thu, 18 Jun 2026 11:37:30 GMT",
+   "source": "Pulse 2.0"
+  },
+  {
    "title": "ATI Stock And Two Aerospace And Defense Quiet Margin Stories - simplywall.st",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWnRscWc2WURPWDUwUUFVV3RwRWxqQW1hemd3VGFYSTFhN3ZXMjJtS0lDVzRZSkJ4UUdsb0VFV2ZFc1FWRGJhUnVGS3p4YVNNOFdhNnFFSTZLbkd0TVZLN2o5R0JRQUQ4ZXozaXZ5M0pvV25WbVN4RElyT3BuRFREX2lacV9QNlpRal9lWjgwVDFoM19zYVFrd0xsNFFGdTdsTUZrTWlYNWxjNkdWTDUxOUVTWlRqdWRDY2tDZktLM1U1d9IBxwFBVV95cUxQSXZFUGk0eXZVN2V1dm53UWVGSVZHSFFMQ2hYNkg0bHhCT3dGdWk5OG5MTW5aaEJpX3E1Z01KTzh5X3N1MFo5TnVnaXcyaW5kcF9XMmdGTzhTSl9OcWhqcWo5SV9GSlJaNlI2ZVQxNlhWbGthaVE0T0N4TjZuZnE4RWVwenA2c3g0MUs0d1UxcHg5YUF3TzdXQ29FSHVWbVE3aEhOZG1LQzhTaVYybWUtOXZtYS1KWGxna0lzaDl6UXNSODVlWFUw?oc=5",
    "pubDate": "Thu, 18 Jun 2026 03:35:01 GMT",
@@ -4937,22 +4943,16 @@ window.DASHBOARD_DATA = {
    "source": "Kalkine Media"
   },
   {
-   "title": "Japan's big banks weigh financing arms makers in break with past - Nikkei Asia",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZHFVTHBkOHI2VFZPZGZvNHN2VWN4bUo4MWZXTXdYQlFsSEhDX0hZajlFUmVRV3lxanl2Nnlkc3JwTEIzZDY0Tkp6M0pFVWZZenpaenlvb0tiSzU2RjY2b1FFdlctV1hyeWpyYXBueElqdXZhRlBCMFFsYk4yMGhnX2pwb21HR1BOdDhoN1Z2aGFRcWV5eDN6NGhQLVA0bTQ1RDkxSGptVkFIeTdyOUFhSi1iRURSX2pRZVhRR0ZBMk1EaGZE?oc=5",
-   "pubDate": "Wed, 17 Jun 2026 21:33:00 GMT",
-   "source": "Nikkei Asia"
+   "title": "DMSC model-based characteristics approved as American National Standard - Aerospace Manufacturing and Design",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0tYTkM5T1ZKOU92U0tWVDBTMnA5Ymx5cVhLUU9XdEttcXVkclBXVVFqbTd5azhPQUZGcHJ3cV9DdWdjRlc3SkVMT0I0SWx6Zzh1bVdSUVhXUUJtaFZHSVJRcjY2TE1EanlqUm5hTVFQNnZUVmwyVEpVb2lCamFzSTZ0Q0wzNTdBLUhjcFMxbmhRRlNreGhDMXZrcmZITlVJdkJBc2JmWTB6VDhPbDhvaTlZbU9lRldaaWtGa2Jzcw?oc=5",
+   "pubDate": "Thu, 18 Jun 2026 06:00:00 GMT",
+   "source": "Aerospace Manufacturing and Design"
   },
   {
    "title": "Thermosyphon Radiators Market Forecast Points Higher Toward 2035 Driven by Space and Semiconductor Demand - IndexBox",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdVVjU3R0MHMwVVROZHNjeU4tdC0xOHlhM2NZZ1BHa2FCVXh6d0lXQ28zdUp5akx2Z25CTGM0YldVQUc2d0VNUkFYeEhaSm85UWJrRHQ3enBVZWF1UWg0WlVDNFhHVm9QRzRpYUZYTzdnYi13Y1FkNXktTjF3SHpuN1pNaEQ5VlRaY2JCUVFucGt2WFVWOVdFSHJITW9jUFhvZkRxb191aFZzLXZKc1FqMzdsSUxOaFFqMmp5UmdaUzkyVEV0OVA4ZmQyNnRzNzlN?oc=5",
    "pubDate": "Thu, 18 Jun 2026 07:26:18 GMT",
    "source": "IndexBox"
-  },
-  {
-   "title": "How Honeywell Aerospace plans to tap into the global CCA market - Breaking Defense",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWQ0Q3N0VWtwM1VRckVBVlk2Y0pvOWJGanotNW5rbExBUG5vT014VWZFMDg5TGV1cDJ0WklQbzV2MU9JN25YTENhenNjTVdrXzZTbzFYNWdLN1E0U29CRFBab0NjTk10VnpVV05WNURWM0JzSUJESllpWUZQelM4YW04cU55dkxrZE9IT1I4MTIxekFFQVhvbWxIY25JWnhiUkE?oc=5",
-   "pubDate": "Wed, 17 Jun 2026 18:16:28 GMT",
-   "source": "Breaking Defense"
   }
  ],
  "industrialsNews": [
