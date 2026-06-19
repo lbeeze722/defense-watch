@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-19T16:11:04.849080+00:00",
+ "generatedAt": "2026-06-19T16:17:03.328071+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -252,7 +252,7 @@ window.DASHBOARD_DATA = {
     "price": 67.4,
     "changePct": 1.57
    },
-   "relVol": 8.7,
+   "relVol": 8.4,
    "avgVolume": 1623523,
    "symbol": "BAH",
    "name": "Booz Allen",
@@ -334,7 +334,7 @@ window.DASHBOARD_DATA = {
     "price": 214.84,
     "changePct": -2.0
    },
-   "relVol": 4.4,
+   "relVol": 4.3,
    "avgVolume": 421553,
    "symbol": "VSEC",
    "name": "VSE Corp",
@@ -352,7 +352,7 @@ window.DASHBOARD_DATA = {
    "news": [
     {
      "title": "VSE Corp (VSEC) Shares Surge 5.3% -- What GF Score of 83 Tells I - GuruFocus",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeVFLNjdnQUhVZzdueXNCanFRNmxwYXFKUmlZYjhwa05oOU5hb2NPZWxxM19NTVVmMUhJYmYxaThYWGdNeWVKZ1J3bDk5azYyQThWenhhTndPMEdiUmUwX1BlSVU3Vks2dkN0Z21sdmx0UURUOEJ4bE1yU3ZMZTNNQU8xb1FfRnJHNDFHaVBMdW1zOE1BbUg3TXN3ZmwzOVNSdmVXUUh2QQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGtHWHlmcnpmT2RiN3llWldWZzBKUmFybHdhM2t2cG1kTDRpMVN3c214bnlncXBPTXc3MlhUcWlvdGpsS3RpVnktTkVLMmRFOHdmWk8tZVlROGg2S3IwMTZjcTJOdW1UUzBDOEFQTWNaT01xTG1SMjNCMVNyQjVELTFaYjBtVmpSQjdkSzd2Nmk4d3lJMWsxY3JUaGpTWURVOXNmUjUzOC1UUUVNTzc2bVdGTnQ3M1E?oc=5",
      "pubDate": "Fri, 19 Jun 2026 00:21:02 GMT",
      "source": "GuruFocus"
     },
@@ -416,7 +416,7 @@ window.DASHBOARD_DATA = {
     "price": 3.92,
     "changePct": -1.01
    },
-   "relVol": 2.8,
+   "relVol": 2.7,
    "avgVolume": 1666181,
    "symbol": "KULR",
    "name": "KULR Technology",
@@ -498,7 +498,7 @@ window.DASHBOARD_DATA = {
     "price": 466.0,
     "changePct": -0.09
    },
-   "relVol": 4.8,
+   "relVol": 4.6,
    "avgVolume": 226166,
    "symbol": "CACI",
    "name": "CACI Intl",
@@ -580,7 +580,7 @@ window.DASHBOARD_DATA = {
     "price": 9.94,
     "changePct": -0.61
    },
-   "relVol": 2.4,
+   "relVol": 2.3,
    "avgVolume": 38806152,
    "symbol": "JOBY",
    "name": "Joby Aviation",
@@ -662,7 +662,7 @@ window.DASHBOARD_DATA = {
     "price": 81.0,
     "changePct": 0.55
    },
-   "relVol": 3.7,
+   "relVol": 3.6,
    "avgVolume": 687594,
    "symbol": "ATRO",
    "name": "Astronics",
@@ -744,7 +744,7 @@ window.DASHBOARD_DATA = {
     "price": 32.72,
     "changePct": -0.3
    },
-   "relVol": 3.8,
+   "relVol": 3.7,
    "avgVolume": 1212798,
    "symbol": "KBR",
    "name": "KBR",
@@ -779,16 +779,16 @@ window.DASHBOARD_DATA = {
      "source": "StockStory"
     },
     {
-     "title": "KBR Inc. undervalued due to market ignoring distinct value of its two businesses, potential 69%+ upside. - Pluang",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMDNPMG5UYURjMXhzcjJfSHZPNFNkNTM2Nzh3UjZuUGhRNFozNjBmTm5Ick1mUDdkRHRBRzlQNGtKODJvc056dDhTWDFNZGtnSE0zaEJrLWpmM05MdjZLTjRBalVybmZEUVpnT1V6N2xKZzN3ZkNwUTZuWTdEM0FXVk9SLUN6QTZIXzBMV2pxbw?oc=5",
-     "pubDate": "Fri, 19 Jun 2026 09:27:44 GMT",
-     "source": "Pluang"
-    },
-    {
      "title": "Inside KBR\u2019s new Bengaluru control room for industrial AI - Stock Titan",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFdST3EtNUZESG1sOEFJVXVCMmowNUxjbTlDZV9JM0t0SHlTeFVFRzE1aUdaMmJQeURNcEt3VWRzcDNCWWRSWWg2azJPUEFoSXFiYnZEczJCZmVZUk41Z3BURUxMVjdPbF8yZGZ5M05KT3liVlg5dTh3ZkRnV3hoSDltNlF5Mmt6dEpJMl9XdVVDa0Zqb3JTLVZjajg5dFZUdUk0UVd1TmZSeUVtQ0Y4aDFuMA?oc=5",
      "pubDate": "Tue, 16 Jun 2026 07:31:00 GMT",
      "source": "Stock Titan"
+    },
+    {
+     "title": "KBR Inc. undervalued due to market ignoring distinct value of its two businesses, potential 69%+ upside. - Pluang",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMDNPMG5UYURjMXhzcjJfSHZPNFNkNTM2Nzh3UjZuUGhRNFozNjBmTm5Ick1mUDdkRHRBRzlQNGtKODJvc056dDhTWDFNZGtnSE0zaEJrLWpmM05MdjZLTjRBalVybmZEUVpnT1V6N2xKZzN3ZkNwUTZuWTdEM0FXVk9SLUN6QTZIXzBMV2pxbw?oc=5",
+     "pubDate": "Fri, 19 Jun 2026 09:27:44 GMT",
+     "source": "Pluang"
     }
    ]
   },
@@ -826,7 +826,7 @@ window.DASHBOARD_DATA = {
     "price": 14.2,
     "changePct": -1.05
    },
-   "relVol": 1.7,
+   "relVol": 1.6,
    "avgVolume": 40352294,
    "symbol": "RDW",
    "name": "Redwire",
@@ -908,7 +908,7 @@ window.DASHBOARD_DATA = {
     "price": 52.8,
     "changePct": 1.13
    },
-   "relVol": 3.4,
+   "relVol": 3.3,
    "avgVolume": 673970,
    "symbol": "PSN",
    "name": "Parsons",
@@ -937,12 +937,6 @@ window.DASHBOARD_DATA = {
      "source": "GuruFocus"
     },
     {
-     "title": "Inside the AI cyber tools Parsons built for contested battlefields - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdG5RYUdpeTVzT3ZPX1dVcTd2Q2RZZ3JEdkJnOUtJZlhrSEdtVjF3OG9Lb3loZ0JUVkJzTHFuQmdDdjUwajlVaklEVThlSmdVODlNV2Jia0swUE1iSmg5TE83WUZUazM0TDhZU1Z3TEZDWHpxb3RzZzNCUzF5SmY3akRsVGs2RVEtdWJKbW00OGlGMDNGTGhseEdjekpSckR3TFEyQzZBbmMwdGVpN0xybkdUNkMxdw?oc=5",
-     "pubDate": "Wed, 17 Jun 2026 10:30:00 GMT",
-     "source": "Stock Titan"
-    },
-    {
      "title": "1 Industrials Stock with Exciting Potential and 2 We Avoid - StockStory",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUIzcU95WUtrOGJBOVZ5UlZPN2R6MlZuQ0hmNVpRMUJZWHAyQnZyZlFVa3RFb3NzVDZlNWluMWhOMTNUeFNtZ2k2Y0tGLUJfQkxtUWlSS2RVVEEtX3RjLVhhc2ZTY1g1VHlNX2FFVUtVcEZSbXQ5VGZiUFdobVRUcTVXbVMzT3FuMHdoelMxRnlpZklNUWZhekxjUWw1aW5QRTc4eEZiRGZuV1RWM0V0Zy14YnhUOGpC?oc=5",
      "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
@@ -953,6 +947,12 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XWngtc0loQ0FWc1ZvUmRaTjZEdFAtcEdhcUduTXo3THBHLXVfc2ZtQXZnV0N0bmJzTUcybklJVkJTdE93T1ZSd3NER1l0MUhKSDVXM21pOXFsUkhGRmFsc1hsV0xlZlNQdUg3clBzYWZsaDkyUEJwYVczZ27SAXxBVV95cUxPV1p4LXNJaENBVnNWb1JkWk42RHRQLXBHYXFHbk16N0xwRy11X3NmbUF2Z1dDdG5ic01HMm5JSVZCU3RPd09WUndzREdZdDFISkg1VzNtaTlxbFJIRkZhbHNYbFdMZWZTUHVIN3JQc2FmbGg5MlBCcGFXM2du?oc=5",
      "pubDate": "Fri, 19 Jun 2026 00:32:37 GMT",
      "source": "AlphaStreet"
+    },
+    {
+     "title": "$1.1\u2013$1.4B Duluth-Superior bridge replacement to close span and reroute cars - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNWxoWVZ6aHpHVjBoQXVKbFNTTDZHUUF1QzZNeXZ1Tlg1bEJBaUlMcHlHbU1iLVVFMHlyNHl0QlN3T21NS3JEUEswc1ZBdG04bHFUb1E2dzVkSWtxQjNONC1rQUx1UGpZSjIxWjdIemJMZ2VSUzhzOTF2MUNsWm1ZYVJURVRJcWZkaXE0eXZLWG9ybHFqcXM0dFRkSlhLYUh4U1d1S3pVNjd4MFpDTVVTRXFVVTR3bFRSNjU4?oc=5",
+     "pubDate": "Tue, 16 Jun 2026 10:30:00 GMT",
+     "source": "Stock Titan"
     }
    ]
   },
@@ -990,7 +990,7 @@ window.DASHBOARD_DATA = {
     "price": 102.6,
     "changePct": 0.21
    },
-   "relVol": 6.6,
+   "relVol": 6.4,
    "avgVolume": 445183,
    "symbol": "SAIC",
    "name": "SAIC",
@@ -1072,7 +1072,7 @@ window.DASHBOARD_DATA = {
     "price": 107.12,
     "changePct": 0.0
    },
-   "relVol": 2.9,
+   "relVol": 2.8,
    "avgVolume": 1566241,
    "symbol": "LDOS",
    "name": "Leidos",
@@ -1154,7 +1154,7 @@ window.DASHBOARD_DATA = {
     "price": 522.0,
     "changePct": 0.1
    },
-   "relVol": 7.7,
+   "relVol": 7.5,
    "avgVolume": 748649,
    "symbol": "NOC",
    "name": "Northrop Grumman",
@@ -1236,7 +1236,7 @@ window.DASHBOARD_DATA = {
     "price": 295.5,
     "changePct": 0.23
    },
-   "relVol": 3.9,
+   "relVol": 3.8,
    "avgVolume": 1121676,
    "symbol": "LHX",
    "name": "L3Harris",
@@ -1251,7 +1251,38 @@ window.DASHBOARD_DATA = {
    "fiftyTwoWeekHigh": 379.23,
    "fiftyTwoWeekLow": 243.84,
    "marketTime": 1781812803,
-   "news": []
+   "news": [
+    {
+     "title": "Why is L3Harris Technologies stock sliding today? - Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlFzV2EtMkpWVVlneElaMXdvSkNsai0xUGUtZi13YlVlX3hRODBLVkh6N0VBM05KdHFOMHhkYjNSckpjMU94NXJBR01Idk16MTItSk9ONlF6WmFjalNMTlE4TUh3UHE2MFR3UFRUUXVoU0JHTno2YlNPS2lmN21ncGhTMUI3RDBrN3ZmbWV2UDVTand5QVBDUUFUSjFMaXZnNjFLS1lBX3FUWEgzVTdR?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 19:52:30 GMT",
+     "source": "Investing.com"
+    },
+    {
+     "title": "L3Harris (LHX) Deepens Missile Focus With VAMPIRE Deal and Axyv IPO Plan \u2013 What Shifts Next? - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVGNBanFtRk96bDBLRjE0N0I4VW5GcWJPcWdaQW1BbUV5MDZPVDNENXNmclUyMzJ5Sm41dkIydjFaWDFYYlVfd1BSRjFRNm4tMl9pRnlfbEtrMTNSXzlpeFZTRWZjc0RiMjhNNjVOZ3FGTzR3aVN5Y0c4czRHQkZsOXZVSFpEZkFwc3NxZ0NrdHJ5Z2NOcGdMQnhvLXhYS1ZpREl4Z1lNX09jbjhkeFlhVE1iMU5UMV9iaVRRcVpReUhXbnFjS3F3ZHZKb0o5NUxvUjh4OFExRnNad9IB3wFBVV95cUxQN0s0djQ0emgtZmZHdTlFVkNCbTJDM3UzVGppMFBiSjFDQWN0cURkMTVmTVpUWlpzUmIycE5SeWsteWlqWEhOR3R5bGJSeVFOTzVwT0U4MXNKN1RlTFgzWDMyeHJnVERDRUZndFl4UjUxREN3ckt2UE53bm11MGFNTktXeVlzbDVOOTJwS1dzN3QyYUg5anJnai05S2pQTkxRYlBBenpWWWpiNWMxVk1DN3NhNERVY0FwRzNKV3N6Y2lXbVVVbFA1WG1lR0laUmZZRzFCeFpBUGY4NGdMQTdv?oc=5",
+     "pubDate": "Fri, 19 Jun 2026 05:05:37 GMT",
+     "source": "simplywall.st"
+    },
+    {
+     "title": "L3Harris Technologies Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmM2eDVudFBNUk11NmFpSFY2TGM5TlNSc29FLUpHSHRQMzR4dHJRclF5dHFYcFlKQThmZ1ltc0UxT2VsNWFia2ozNWtnMUtDRExLVGZ4S0xIR19JTGVHYm1sUGlmdUZ2YUZxVnQwdkViQ2JyYUpWbEo2dFEwWVhIaFhLTEFrSWJaSkh2NERtdmZNR2lBcWdNazVvbDBkdGJRYUxpbXhHdDlaVHV6QjhLUEZqeGhEUDFhTy1KZUo2OE8wcjZMeDJjS2dSNkdGMlZrTGp1WnNiQkdfUmc?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 20:48:00 GMT",
+     "source": "MarketWatch"
+    },
+    {
+     "title": "L3Harris Missile Arm Axyv Picks JPMorgan, Morgan Stanley for IPO - Bloomberg.com",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzJTTTFHZEdrcnh2Vk9hY2Z1QVFGWExaTFB4NjRYVFNUSFpoU1hiZV8xTmU4d1Q2UlRPYUpFTTdmTGFOUkg1NlEtTjI1YkoxaWV3RGhkY3ZuWHVnTzMxZ2M1REhlX0hFYV9IMXJTcVZWYnFTVWtSN2pKZjVMemFCSlJwTExqRmpTWjdLUmNLWVRRaXJMaHpYeHM4Zlp2RFpCeFk1UW5aR3F6dUVZemlObXUtX0U?oc=5",
+     "pubDate": "Tue, 16 Jun 2026 15:41:15 GMT",
+     "source": "Bloomberg.com"
+    },
+    {
+     "title": "L3Harris Falls as Defense Names Pull Back and No New Company-Specific Catalyst Emerges - Quiver Quantitative",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1NCUVRVdHBMVWtsRFR1QTNfLWQyVW4zMW1KUlNoODdyODJWdTdOSkZtTEN0WXFFaWxzX0QxUVZfc2RpdlF1cUlFQ29sdEp4TWJVbVNnQnVuR05IWGt3SWM4ZGlQYzFqOF8zb25OMmZtU2RvRTZLNzMwSDJ5VUxWQXEyQ3N4XzBsbGljMzM3RkVxaWgyMlZwRzBJU3VSRTUxRkNDME1rSXRCMGdHQ3Z6bmxqdjd3OGIzOHhz?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 14:52:00 GMT",
+     "source": "Quiver Quantitative"
+    }
+   ]
   },
   {
    "spark": [
@@ -1287,7 +1318,7 @@ window.DASHBOARD_DATA = {
     "price": 11.42,
     "changePct": -0.17
    },
-   "relVol": 5.3,
+   "relVol": 5.1,
    "avgVolume": 10567544,
    "symbol": "RCAT",
    "name": "Red Cat Holdings",
@@ -1369,7 +1400,7 @@ window.DASHBOARD_DATA = {
     "price": 511.04,
     "changePct": 0.02
    },
-   "relVol": 4.6,
+   "relVol": 4.4,
    "avgVolume": 1107165,
    "symbol": "LMT",
    "name": "Lockheed Martin",
@@ -1451,7 +1482,7 @@ window.DASHBOARD_DATA = {
     "price": 89.6,
     "changePct": 0.15
    },
-   "relVol": 9.3,
+   "relVol": 9.0,
    "avgVolume": 1125146,
    "symbol": "TXT",
    "name": "Textron",
@@ -1533,7 +1564,7 @@ window.DASHBOARD_DATA = {
     "price": 287.38,
     "changePct": 0.68
    },
-   "relVol": 3.8,
+   "relVol": 3.7,
    "avgVolume": 314096,
    "symbol": "HII",
    "name": "Huntington Ingalls",
@@ -1615,7 +1646,7 @@ window.DASHBOARD_DATA = {
     "price": 205.25,
     "changePct": -0.07
    },
-   "relVol": 7.7,
+   "relVol": 7.4,
    "avgVolume": 722494,
    "symbol": "BWXT",
    "name": "BWX Technologies",
@@ -1697,7 +1728,7 @@ window.DASHBOARD_DATA = {
     "price": 798.71,
     "changePct": 1.33
    },
-   "relVol": 4.8,
+   "relVol": 4.6,
    "avgVolume": 99788,
    "symbol": "ESLT",
    "name": "Elbit Systems",
@@ -1779,7 +1810,7 @@ window.DASHBOARD_DATA = {
     "price": 349.29,
     "changePct": -0.21
    },
-   "relVol": 3.9,
+   "relVol": 3.8,
    "avgVolume": 889750,
    "symbol": "GD",
    "name": "General Dynamics",
@@ -1861,7 +1892,7 @@ window.DASHBOARD_DATA = {
     "price": 54.18,
     "changePct": -0.06
    },
-   "relVol": 4.6,
+   "relVol": 4.4,
    "avgVolume": 3157352,
    "symbol": "KTOS",
    "name": "Kratos Defense",
@@ -1943,7 +1974,7 @@ window.DASHBOARD_DATA = {
     "price": 128.66,
     "changePct": 0.15
    },
-   "relVol": 3.9,
+   "relVol": 3.8,
    "avgVolume": 31124301,
    "symbol": "PLTR",
    "name": "Palantir",
@@ -1978,16 +2009,16 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "PLTR Stock: The Math Hidden In Its Price - Trefis",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGZMTU9FSnpseVZaY0JvQWJIbGExZHRNUURJeXhQN0lxTk9pXzFyVFBYdXk3YWl4NXZGeWpjSnZYVDVHeDdObkpWZGVFLTBlUEFmX25EVkJULVJkbTVhalNaM2FZUG5zYjJ6SElfNVFLbl9UaUZxRHpMcm9ubnpLM1NuTzAxLXFFeUhwbjVEUXFxZXc3eEh2REZFcU1FN1hmMFdBVQ?oc=5",
-     "pubDate": "Thu, 18 Jun 2026 22:42:45 GMT",
-     "source": "Trefis"
-    },
-    {
      "title": "Palantir: The $185 Billion Contract Nobody's Pricing In (NASDAQ:PLTR) - Seeking Alpha",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNC1HZnV4TDA2LXVFNE9fOTVBaHhod2IxRTZ6SnVJeUhDY1NJbTE0SFdLNTJiN1Z1WUI0QWhyMlo3a21lY08wQXhJaDJ0QUx6TVN4d2poSWE2b0VybW5aV1dPVTVsZ3ZWdXRTbHByRnlyVE5BbHZZRU1NeGprVUVWb0w3VF9WUlRSRF9YMVAyYklmNGktSWxkcw?oc=5",
      "pubDate": "Thu, 18 Jun 2026 14:00:52 GMT",
      "source": "Seeking Alpha"
+    },
+    {
+     "title": "Palantir stock slips below a crucial technical price: here\u2019s why - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHJoczJsTVoyVDZJWEZRc2RpWXpOQm5RT0dfU05GdkZZdkJRaGdNb2pxc1g4Y3JRVXYtakJpZUdqZTlMWlo1V1BnMFBxaG5JbUpvZVJMM2RJRkNMbzBHVE9sbkp2dDd5RVRsMUlFQWV3b1o3U0pFSGs0ckxGOWEwMTMwWUpWdGhQN3EwMGJpTXZBUnBHMTZUdU9sZDNFTjNxY3lnWWotcFUxUUNtbVhVcDRvVTFLRUYzWGRlZQ?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 15:56:48 GMT",
+     "source": "TradingView"
     }
    ]
   },
@@ -2025,7 +2056,7 @@ window.DASHBOARD_DATA = {
     "price": 422.38,
     "changePct": -0.24
    },
-   "relVol": 5.3,
+   "relVol": 5.1,
    "avgVolume": 735598,
    "symbol": "AXON",
    "name": "Axon Enterprise",
@@ -2101,7 +2132,7 @@ window.DASHBOARD_DATA = {
     "price": 106.2,
     "changePct": -0.97
    },
-   "relVol": 5.4,
+   "relVol": 5.2,
    "avgVolume": 31435479,
    "symbol": "RKLB",
    "name": "Rocket Lab",
@@ -2177,7 +2208,7 @@ window.DASHBOARD_DATA = {
     "price": 5.56,
     "changePct": -0.18
    },
-   "relVol": 1.7,
+   "relVol": 1.6,
    "avgVolume": 42425397,
    "symbol": "ACHR",
    "name": "Archer Aviation",
@@ -2253,7 +2284,7 @@ window.DASHBOARD_DATA = {
     "price": 22.5,
     "changePct": -1.53
    },
-   "relVol": 2.7,
+   "relVol": 2.6,
    "avgVolume": 13752701,
    "symbol": "LUNR",
    "name": "Intuitive Machines",
@@ -2329,7 +2360,7 @@ window.DASHBOARD_DATA = {
     "price": 222.97,
     "changePct": 0.11
    },
-   "relVol": 4.2,
+   "relVol": 4.0,
    "avgVolume": 5024372,
    "symbol": "BA",
    "name": "Boeing",
@@ -2405,7 +2436,7 @@ window.DASHBOARD_DATA = {
     "price": 1331.43,
     "changePct": 0.23
    },
-   "relVol": 5.9,
+   "relVol": 5.7,
    "avgVolume": 303733,
    "symbol": "TDG",
    "name": "TransDigm",
@@ -2481,7 +2512,7 @@ window.DASHBOARD_DATA = {
     "price": 168.73,
     "changePct": -0.52
    },
-   "relVol": 4.3,
+   "relVol": 4.2,
    "avgVolume": 873964,
    "symbol": "AVAV",
    "name": "AeroVironment",
@@ -2557,7 +2588,7 @@ window.DASHBOARD_DATA = {
     "price": 357.5,
     "changePct": -0.04
    },
-   "relVol": 2.6,
+   "relVol": 2.5,
    "avgVolume": 3454320,
    "symbol": "GE",
    "name": "GE Aerospace",
@@ -2633,7 +2664,7 @@ window.DASHBOARD_DATA = {
     "price": 85.9,
     "changePct": 0.41
    },
-   "relVol": 2.9,
+   "relVol": 2.8,
    "avgVolume": 400756,
    "symbol": "VVX",
    "name": "V2X",
@@ -2709,7 +2740,7 @@ window.DASHBOARD_DATA = {
     "price": 115.11,
     "changePct": 1.05
    },
-   "relVol": 6.9,
+   "relVol": 6.7,
    "avgVolume": 537572,
    "symbol": "MRCY",
    "name": "Mercury Systems",
@@ -2785,7 +2816,7 @@ window.DASHBOARD_DATA = {
     "price": 44.89,
     "changePct": -2.58
    },
-   "relVol": 4.1,
+   "relVol": 4.0,
    "avgVolume": 846763,
    "symbol": "DRS",
    "name": "Leonardo DRS",
@@ -2937,7 +2968,7 @@ window.DASHBOARD_DATA = {
     "price": 788.44,
     "changePct": 2.14
    },
-   "relVol": 3.6,
+   "relVol": 3.5,
    "avgVolume": 210259,
    "symbol": "CW",
    "name": "Curtiss-Wright",
@@ -3013,7 +3044,7 @@ window.DASHBOARD_DATA = {
     "price": 24.95,
     "changePct": -0.12
    },
-   "relVol": 2.1,
+   "relVol": 2.0,
    "avgVolume": 4750484,
    "symbol": "UMAC",
    "name": "Unusual Machines",
@@ -3089,7 +3120,7 @@ window.DASHBOARD_DATA = {
     "price": 9.27,
     "changePct": 0.01
    },
-   "relVol": 3.1,
+   "relVol": 3.0,
    "avgVolume": 49637192,
    "symbol": "ONDS",
    "name": "Ondas Holdings",
@@ -3165,7 +3196,7 @@ window.DASHBOARD_DATA = {
     "price": 185.74,
     "changePct": 0.07
    },
-   "relVol": 4.8,
+   "relVol": 4.6,
    "avgVolume": 4368089,
    "symbol": "RTX",
    "name": "RTX Corp",
@@ -3317,7 +3348,7 @@ window.DASHBOARD_DATA = {
     "price": 278.0,
     "changePct": 0.12
    },
-   "relVol": 3.1,
+   "relVol": 3.0,
    "avgVolume": 1844668,
    "symbol": "HWM",
    "name": "Howmet Aerospace",
@@ -3395,7 +3426,7 @@ window.DASHBOARD_DATA = {
     "price": 67.4,
     "changePct": 1.57
    },
-   "relVol": 8.7,
+   "relVol": 8.4,
    "avgVolume": 1623523,
    "symbol": "BAH",
    "name": "Booz Allen",
@@ -3477,7 +3508,7 @@ window.DASHBOARD_DATA = {
     "price": 214.84,
     "changePct": -2.0
    },
-   "relVol": 4.4,
+   "relVol": 4.3,
    "avgVolume": 421553,
    "symbol": "VSEC",
    "name": "VSE Corp",
@@ -3495,7 +3526,7 @@ window.DASHBOARD_DATA = {
    "news": [
     {
      "title": "VSE Corp (VSEC) Shares Surge 5.3% -- What GF Score of 83 Tells I - GuruFocus",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeVFLNjdnQUhVZzdueXNCanFRNmxwYXFKUmlZYjhwa05oOU5hb2NPZWxxM19NTVVmMUhJYmYxaThYWGdNeWVKZ1J3bDk5azYyQThWenhhTndPMEdiUmUwX1BlSVU3Vks2dkN0Z21sdmx0UURUOEJ4bE1yU3ZMZTNNQU8xb1FfRnJHNDFHaVBMdW1zOE1BbUg3TXN3ZmwzOVNSdmVXUUh2QQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGtHWHlmcnpmT2RiN3llWldWZzBKUmFybHdhM2t2cG1kTDRpMVN3c214bnlncXBPTXc3MlhUcWlvdGpsS3RpVnktTkVLMmRFOHdmWk8tZVlROGg2S3IwMTZjcTJOdW1UUzBDOEFQTWNaT01xTG1SMjNCMVNyQjVELTFaYjBtVmpSQjdkSzd2Nmk4d3lJMWsxY3JUaGpTWURVOXNmUjUzOC1UUUVNTzc2bVdGTnQ3M1E?oc=5",
      "pubDate": "Fri, 19 Jun 2026 00:21:02 GMT",
      "source": "GuruFocus"
     },
@@ -3559,7 +3590,7 @@ window.DASHBOARD_DATA = {
     "price": 3.92,
     "changePct": -1.01
    },
-   "relVol": 2.8,
+   "relVol": 2.7,
    "avgVolume": 1666181,
    "symbol": "KULR",
    "name": "KULR Technology",
@@ -3641,7 +3672,7 @@ window.DASHBOARD_DATA = {
     "price": 466.0,
     "changePct": -0.09
    },
-   "relVol": 4.8,
+   "relVol": 4.6,
    "avgVolume": 226166,
    "symbol": "CACI",
    "name": "CACI Intl",
@@ -3723,7 +3754,7 @@ window.DASHBOARD_DATA = {
     "price": 9.94,
     "changePct": -0.61
    },
-   "relVol": 2.4,
+   "relVol": 2.3,
    "avgVolume": 38806152,
    "symbol": "JOBY",
    "name": "Joby Aviation",
@@ -3805,7 +3836,7 @@ window.DASHBOARD_DATA = {
     "price": 81.0,
     "changePct": 0.55
    },
-   "relVol": 3.7,
+   "relVol": 3.6,
    "avgVolume": 687594,
    "symbol": "ATRO",
    "name": "Astronics",
@@ -3887,7 +3918,7 @@ window.DASHBOARD_DATA = {
     "price": 32.72,
     "changePct": -0.3
    },
-   "relVol": 3.8,
+   "relVol": 3.7,
    "avgVolume": 1212798,
    "symbol": "KBR",
    "name": "KBR",
@@ -3922,16 +3953,16 @@ window.DASHBOARD_DATA = {
      "source": "StockStory"
     },
     {
-     "title": "KBR Inc. undervalued due to market ignoring distinct value of its two businesses, potential 69%+ upside. - Pluang",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMDNPMG5UYURjMXhzcjJfSHZPNFNkNTM2Nzh3UjZuUGhRNFozNjBmTm5Ick1mUDdkRHRBRzlQNGtKODJvc056dDhTWDFNZGtnSE0zaEJrLWpmM05MdjZLTjRBalVybmZEUVpnT1V6N2xKZzN3ZkNwUTZuWTdEM0FXVk9SLUN6QTZIXzBMV2pxbw?oc=5",
-     "pubDate": "Fri, 19 Jun 2026 09:27:44 GMT",
-     "source": "Pluang"
-    },
-    {
      "title": "Inside KBR\u2019s new Bengaluru control room for industrial AI - Stock Titan",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFdST3EtNUZESG1sOEFJVXVCMmowNUxjbTlDZV9JM0t0SHlTeFVFRzE1aUdaMmJQeURNcEt3VWRzcDNCWWRSWWg2azJPUEFoSXFiYnZEczJCZmVZUk41Z3BURUxMVjdPbF8yZGZ5M05KT3liVlg5dTh3ZkRnV3hoSDltNlF5Mmt6dEpJMl9XdVVDa0Zqb3JTLVZjajg5dFZUdUk0UVd1TmZSeUVtQ0Y4aDFuMA?oc=5",
      "pubDate": "Tue, 16 Jun 2026 07:31:00 GMT",
      "source": "Stock Titan"
+    },
+    {
+     "title": "KBR Inc. undervalued due to market ignoring distinct value of its two businesses, potential 69%+ upside. - Pluang",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMDNPMG5UYURjMXhzcjJfSHZPNFNkNTM2Nzh3UjZuUGhRNFozNjBmTm5Ick1mUDdkRHRBRzlQNGtKODJvc056dDhTWDFNZGtnSE0zaEJrLWpmM05MdjZLTjRBalVybmZEUVpnT1V6N2xKZzN3ZkNwUTZuWTdEM0FXVk9SLUN6QTZIXzBMV2pxbw?oc=5",
+     "pubDate": "Fri, 19 Jun 2026 09:27:44 GMT",
+     "source": "Pluang"
     }
    ]
   },
@@ -3969,7 +4000,7 @@ window.DASHBOARD_DATA = {
     "price": 14.2,
     "changePct": -1.05
    },
-   "relVol": 1.7,
+   "relVol": 1.6,
    "avgVolume": 40352294,
    "symbol": "RDW",
    "name": "Redwire",
@@ -4051,7 +4082,7 @@ window.DASHBOARD_DATA = {
     "price": 52.8,
     "changePct": 1.13
    },
-   "relVol": 3.4,
+   "relVol": 3.3,
    "avgVolume": 673970,
    "symbol": "PSN",
    "name": "Parsons",
@@ -4080,12 +4111,6 @@ window.DASHBOARD_DATA = {
      "source": "GuruFocus"
     },
     {
-     "title": "Inside the AI cyber tools Parsons built for contested battlefields - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdG5RYUdpeTVzT3ZPX1dVcTd2Q2RZZ3JEdkJnOUtJZlhrSEdtVjF3OG9Lb3loZ0JUVkJzTHFuQmdDdjUwajlVaklEVThlSmdVODlNV2Jia0swUE1iSmg5TE83WUZUazM0TDhZU1Z3TEZDWHpxb3RzZzNCUzF5SmY3akRsVGs2RVEtdWJKbW00OGlGMDNGTGhseEdjekpSckR3TFEyQzZBbmMwdGVpN0xybkdUNkMxdw?oc=5",
-     "pubDate": "Wed, 17 Jun 2026 10:30:00 GMT",
-     "source": "Stock Titan"
-    },
-    {
      "title": "1 Industrials Stock with Exciting Potential and 2 We Avoid - StockStory",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYUIzcU95WUtrOGJBOVZ5UlZPN2R6MlZuQ0hmNVpRMUJZWHAyQnZyZlFVa3RFb3NzVDZlNWluMWhOMTNUeFNtZ2k2Y0tGLUJfQkxtUWlSS2RVVEEtX3RjLVhhc2ZTY1g1VHlNX2FFVUtVcEZSbXQ5VGZiUFdobVRUcTVXbVMzT3FuMHdoelMxRnlpZklNUWZhekxjUWw1aW5QRTc4eEZiRGZuV1RWM0V0Zy14YnhUOGpC?oc=5",
      "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
@@ -4096,6 +4121,12 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XWngtc0loQ0FWc1ZvUmRaTjZEdFAtcEdhcUduTXo3THBHLXVfc2ZtQXZnV0N0bmJzTUcybklJVkJTdE93T1ZSd3NER1l0MUhKSDVXM21pOXFsUkhGRmFsc1hsV0xlZlNQdUg3clBzYWZsaDkyUEJwYVczZ27SAXxBVV95cUxPV1p4LXNJaENBVnNWb1JkWk42RHRQLXBHYXFHbk16N0xwRy11X3NmbUF2Z1dDdG5ic01HMm5JSVZCU3RPd09WUndzREdZdDFISkg1VzNtaTlxbFJIRkZhbHNYbFdMZWZTUHVIN3JQc2FmbGg5MlBCcGFXM2du?oc=5",
      "pubDate": "Fri, 19 Jun 2026 00:32:37 GMT",
      "source": "AlphaStreet"
+    },
+    {
+     "title": "$1.1\u2013$1.4B Duluth-Superior bridge replacement to close span and reroute cars - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNWxoWVZ6aHpHVjBoQXVKbFNTTDZHUUF1QzZNeXZ1Tlg1bEJBaUlMcHlHbU1iLVVFMHlyNHl0QlN3T21NS3JEUEswc1ZBdG04bHFUb1E2dzVkSWtxQjNONC1rQUx1UGpZSjIxWjdIemJMZ2VSUzhzOTF2MUNsWm1ZYVJURVRJcWZkaXE0eXZLWG9ybHFqcXM0dFRkSlhLYUh4U1d1S3pVNjd4MFpDTVVTRXFVVTR3bFRSNjU4?oc=5",
+     "pubDate": "Tue, 16 Jun 2026 10:30:00 GMT",
+     "source": "Stock Titan"
     }
    ]
   },
@@ -4133,7 +4164,7 @@ window.DASHBOARD_DATA = {
     "price": 102.6,
     "changePct": 0.21
    },
-   "relVol": 6.6,
+   "relVol": 6.4,
    "avgVolume": 445183,
    "symbol": "SAIC",
    "name": "SAIC",
@@ -4215,7 +4246,7 @@ window.DASHBOARD_DATA = {
     "price": 107.12,
     "changePct": 0.0
    },
-   "relVol": 2.9,
+   "relVol": 2.8,
    "avgVolume": 1566241,
    "symbol": "LDOS",
    "name": "Leidos",
@@ -4297,7 +4328,7 @@ window.DASHBOARD_DATA = {
     "price": 522.0,
     "changePct": 0.1
    },
-   "relVol": 7.7,
+   "relVol": 7.5,
    "avgVolume": 748649,
    "symbol": "NOC",
    "name": "Northrop Grumman",
@@ -4379,7 +4410,7 @@ window.DASHBOARD_DATA = {
     "price": 295.5,
     "changePct": 0.23
    },
-   "relVol": 3.9,
+   "relVol": 3.8,
    "avgVolume": 1121676,
    "symbol": "LHX",
    "name": "L3Harris",
@@ -4394,7 +4425,38 @@ window.DASHBOARD_DATA = {
    "fiftyTwoWeekHigh": 379.23,
    "fiftyTwoWeekLow": 243.84,
    "marketTime": 1781812803,
-   "news": []
+   "news": [
+    {
+     "title": "Why is L3Harris Technologies stock sliding today? - Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlFzV2EtMkpWVVlneElaMXdvSkNsai0xUGUtZi13YlVlX3hRODBLVkh6N0VBM05KdHFOMHhkYjNSckpjMU94NXJBR01Idk16MTItSk9ONlF6WmFjalNMTlE4TUh3UHE2MFR3UFRUUXVoU0JHTno2YlNPS2lmN21ncGhTMUI3RDBrN3ZmbWV2UDVTand5QVBDUUFUSjFMaXZnNjFLS1lBX3FUWEgzVTdR?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 19:52:30 GMT",
+     "source": "Investing.com"
+    },
+    {
+     "title": "L3Harris (LHX) Deepens Missile Focus With VAMPIRE Deal and Axyv IPO Plan \u2013 What Shifts Next? - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVGNBanFtRk96bDBLRjE0N0I4VW5GcWJPcWdaQW1BbUV5MDZPVDNENXNmclUyMzJ5Sm41dkIydjFaWDFYYlVfd1BSRjFRNm4tMl9pRnlfbEtrMTNSXzlpeFZTRWZjc0RiMjhNNjVOZ3FGTzR3aVN5Y0c4czRHQkZsOXZVSFpEZkFwc3NxZ0NrdHJ5Z2NOcGdMQnhvLXhYS1ZpREl4Z1lNX09jbjhkeFlhVE1iMU5UMV9iaVRRcVpReUhXbnFjS3F3ZHZKb0o5NUxvUjh4OFExRnNad9IB3wFBVV95cUxQN0s0djQ0emgtZmZHdTlFVkNCbTJDM3UzVGppMFBiSjFDQWN0cURkMTVmTVpUWlpzUmIycE5SeWsteWlqWEhOR3R5bGJSeVFOTzVwT0U4MXNKN1RlTFgzWDMyeHJnVERDRUZndFl4UjUxREN3ckt2UE53bm11MGFNTktXeVlzbDVOOTJwS1dzN3QyYUg5anJnai05S2pQTkxRYlBBenpWWWpiNWMxVk1DN3NhNERVY0FwRzNKV3N6Y2lXbVVVbFA1WG1lR0laUmZZRzFCeFpBUGY4NGdMQTdv?oc=5",
+     "pubDate": "Fri, 19 Jun 2026 05:05:37 GMT",
+     "source": "simplywall.st"
+    },
+    {
+     "title": "L3Harris Technologies Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmM2eDVudFBNUk11NmFpSFY2TGM5TlNSc29FLUpHSHRQMzR4dHJRclF5dHFYcFlKQThmZ1ltc0UxT2VsNWFia2ozNWtnMUtDRExLVGZ4S0xIR19JTGVHYm1sUGlmdUZ2YUZxVnQwdkViQ2JyYUpWbEo2dFEwWVhIaFhLTEFrSWJaSkh2NERtdmZNR2lBcWdNazVvbDBkdGJRYUxpbXhHdDlaVHV6QjhLUEZqeGhEUDFhTy1KZUo2OE8wcjZMeDJjS2dSNkdGMlZrTGp1WnNiQkdfUmc?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 20:48:00 GMT",
+     "source": "MarketWatch"
+    },
+    {
+     "title": "L3Harris Missile Arm Axyv Picks JPMorgan, Morgan Stanley for IPO - Bloomberg.com",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzJTTTFHZEdrcnh2Vk9hY2Z1QVFGWExaTFB4NjRYVFNUSFpoU1hiZV8xTmU4d1Q2UlRPYUpFTTdmTGFOUkg1NlEtTjI1YkoxaWV3RGhkY3ZuWHVnTzMxZ2M1REhlX0hFYV9IMXJTcVZWYnFTVWtSN2pKZjVMemFCSlJwTExqRmpTWjdLUmNLWVRRaXJMaHpYeHM4Zlp2RFpCeFk1UW5aR3F6dUVZemlObXUtX0U?oc=5",
+     "pubDate": "Tue, 16 Jun 2026 15:41:15 GMT",
+     "source": "Bloomberg.com"
+    },
+    {
+     "title": "L3Harris Falls as Defense Names Pull Back and No New Company-Specific Catalyst Emerges - Quiver Quantitative",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1NCUVRVdHBMVWtsRFR1QTNfLWQyVW4zMW1KUlNoODdyODJWdTdOSkZtTEN0WXFFaWxzX0QxUVZfc2RpdlF1cUlFQ29sdEp4TWJVbVNnQnVuR05IWGt3SWM4ZGlQYzFqOF8zb25OMmZtU2RvRTZLNzMwSDJ5VUxWQXEyQ3N4XzBsbGljMzM3RkVxaWgyMlZwRzBJU3VSRTUxRkNDME1rSXRCMGdHQ3Z6bmxqdjd3OGIzOHhz?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 14:52:00 GMT",
+     "source": "Quiver Quantitative"
+    }
+   ]
   },
   {
    "spark": [
@@ -4430,7 +4492,7 @@ window.DASHBOARD_DATA = {
     "price": 11.42,
     "changePct": -0.17
    },
-   "relVol": 5.3,
+   "relVol": 5.1,
    "avgVolume": 10567544,
    "symbol": "RCAT",
    "name": "Red Cat Holdings",
@@ -4512,7 +4574,7 @@ window.DASHBOARD_DATA = {
     "price": 511.04,
     "changePct": 0.02
    },
-   "relVol": 4.6,
+   "relVol": 4.4,
    "avgVolume": 1107165,
    "symbol": "LMT",
    "name": "Lockheed Martin",
@@ -4594,7 +4656,7 @@ window.DASHBOARD_DATA = {
     "price": 89.6,
     "changePct": 0.15
    },
-   "relVol": 9.3,
+   "relVol": 9.0,
    "avgVolume": 1125146,
    "symbol": "TXT",
    "name": "Textron",
@@ -4676,7 +4738,7 @@ window.DASHBOARD_DATA = {
     "price": 287.38,
     "changePct": 0.68
    },
-   "relVol": 3.8,
+   "relVol": 3.7,
    "avgVolume": 314096,
    "symbol": "HII",
    "name": "Huntington Ingalls",
@@ -4758,7 +4820,7 @@ window.DASHBOARD_DATA = {
     "price": 205.25,
     "changePct": -0.07
    },
-   "relVol": 7.7,
+   "relVol": 7.4,
    "avgVolume": 722494,
    "symbol": "BWXT",
    "name": "BWX Technologies",
@@ -4840,7 +4902,7 @@ window.DASHBOARD_DATA = {
     "price": 798.71,
     "changePct": 1.33
    },
-   "relVol": 4.8,
+   "relVol": 4.6,
    "avgVolume": 99788,
    "symbol": "ESLT",
    "name": "Elbit Systems",
@@ -4922,7 +4984,7 @@ window.DASHBOARD_DATA = {
     "price": 349.29,
     "changePct": -0.21
    },
-   "relVol": 3.9,
+   "relVol": 3.8,
    "avgVolume": 889750,
    "symbol": "GD",
    "name": "General Dynamics",
@@ -5004,7 +5066,7 @@ window.DASHBOARD_DATA = {
     "price": 54.18,
     "changePct": -0.06
    },
-   "relVol": 4.6,
+   "relVol": 4.4,
    "avgVolume": 3157352,
    "symbol": "KTOS",
    "name": "Kratos Defense",
@@ -5086,7 +5148,7 @@ window.DASHBOARD_DATA = {
     "price": 128.66,
     "changePct": 0.15
    },
-   "relVol": 3.9,
+   "relVol": 3.8,
    "avgVolume": 31124301,
    "symbol": "PLTR",
    "name": "Palantir",
@@ -5121,16 +5183,16 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "PLTR Stock: The Math Hidden In Its Price - Trefis",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGZMTU9FSnpseVZaY0JvQWJIbGExZHRNUURJeXhQN0lxTk9pXzFyVFBYdXk3YWl4NXZGeWpjSnZYVDVHeDdObkpWZGVFLTBlUEFmX25EVkJULVJkbTVhalNaM2FZUG5zYjJ6SElfNVFLbl9UaUZxRHpMcm9ubnpLM1NuTzAxLXFFeUhwbjVEUXFxZXc3eEh2REZFcU1FN1hmMFdBVQ?oc=5",
-     "pubDate": "Thu, 18 Jun 2026 22:42:45 GMT",
-     "source": "Trefis"
-    },
-    {
      "title": "Palantir: The $185 Billion Contract Nobody's Pricing In (NASDAQ:PLTR) - Seeking Alpha",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNC1HZnV4TDA2LXVFNE9fOTVBaHhod2IxRTZ6SnVJeUhDY1NJbTE0SFdLNTJiN1Z1WUI0QWhyMlo3a21lY08wQXhJaDJ0QUx6TVN4d2poSWE2b0VybW5aV1dPVTVsZ3ZWdXRTbHByRnlyVE5BbHZZRU1NeGprVUVWb0w3VF9WUlRSRF9YMVAyYklmNGktSWxkcw?oc=5",
      "pubDate": "Thu, 18 Jun 2026 14:00:52 GMT",
      "source": "Seeking Alpha"
+    },
+    {
+     "title": "Palantir stock slips below a crucial technical price: here\u2019s why - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHJoczJsTVoyVDZJWEZRc2RpWXpOQm5RT0dfU05GdkZZdkJRaGdNb2pxc1g4Y3JRVXYtakJpZUdqZTlMWlo1V1BnMFBxaG5JbUpvZVJMM2RJRkNMbzBHVE9sbkp2dDd5RVRsMUlFQWV3b1o3U0pFSGs0ckxGOWEwMTMwWUpWdGhQN3EwMGJpTXZBUnBHMTZUdU9sZDNFTjNxY3lnWWotcFUxUUNtbVhVcDRvVTFLRUYzWGRlZQ?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 15:56:48 GMT",
+     "source": "TradingView"
     }
    ]
   }
@@ -5155,16 +5217,16 @@ window.DASHBOARD_DATA = {
    "source": "Modern War Institute -"
   },
   {
-   "title": "Egypt, Eritrea, and the Militarization of Eastern Sudan - horn review",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWDk4aUpHdmp3OHNnZGpOUTVqaFlvVkdYaFZSS3p4eHdER0RGdUZMM1RZTUw4NzAyb0pqd0RsU2xjVll1R0NBeG81QUYwOHpHdHZjRHhGV0dGUnM4SEVHSE9rd2VTSnhucmdpVXZjWWo2YXFHYVBwSVJXbUxLdVYxMlRBQ2VsNk5Rby1SLW5NNkRPZw?oc=5",
-   "pubDate": "Fri, 19 Jun 2026 12:03:26 GMT",
-   "source": "horn review"
-  },
-  {
    "title": "The Paradox of Resilience: IMEC and the Iran Conflict - ORF Middle East",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZW9vSUJEMUZxM0lVOVdVNVRiNzVjX1A3ZGJWNWRMa3V4M0FMSmFLS0R3cWk1R3B2b1hJWldNNmR3d0tmalkyUm5ocXRYelRLTjNicEdtT0p3MlRycVBUbjhJRWU2d0VfanF3OWFDdUhVbUZQRXBsSjlGNHlKX1BPbkIzUkVoYmg2OVBNcw?oc=5",
    "pubDate": "Fri, 19 Jun 2026 13:50:11 GMT",
    "source": "ORF Middle East"
+  },
+  {
+   "title": "Egypt, Eritrea, and the Militarization of Eastern Sudan - horn review",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWDk4aUpHdmp3OHNnZGpOUTVqaFlvVkdYaFZSS3p4eHdER0RGdUZMM1RZTUw4NzAyb0pqd0RsU2xjVll1R0NBeG81QUYwOHpHdHZjRHhGV0dGUnM4SEVHSE9rd2VTSnhucmdpVXZjWWo2YXFHYVBwSVJXbUxLdVYxMlRBQ2VsNk5Rby1SLW5NNkRPZw?oc=5",
+   "pubDate": "Fri, 19 Jun 2026 12:03:26 GMT",
+   "source": "horn review"
   },
   {
    "title": "2026 Iran war | Deal, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
@@ -5179,16 +5241,16 @@ window.DASHBOARD_DATA = {
    "source": "E-International Relations"
   },
   {
-   "title": "Lloyd's moves to redefine war as grey-zone conflict exposes gaps in century-old exclusions - Insurance Business",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOamprU2tIY2d0N0tRUEVFclE4VS1yQTVpcE0tRjR6Nk9YWUJVckYzbEVkVlFyUnVKVlR0NzlyeDRVN3FPUl9WREJnN1Z6TmM0RXZ3QXFMQVJzTlh1d3haa3RxVVVzcWxEdWY0QjhhTklRRXRSSDNCQjd6dGtHM0Y5c0ZUSjlYSUJkT05UVjVqSk52ZjBzYXdXa0dOMkxRaHUwcW40QUZ3a0VfcGJKZFQ0RnlCRG9qTnp0V1BhTlk5UmF4WWJnQjNQS2JIVDlqWVVvVkVYaFFSVU9hcmc2cnh2WTdqU3FKUQ?oc=5",
-   "pubDate": "Fri, 19 Jun 2026 09:26:36 GMT",
-   "source": "Insurance Business"
-  },
-  {
    "title": "Iran Ceasefire Deal Confirms Military Might doesn\u2019t Work - Informed Comment",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wak12MmR2eVNLYmZPVjI4bUg0YU9ycjBTeDV3clk3NUluVFViVDRxQXduQnZUWEYwdXA4RUF2a2tMT2NHa2dSNjd3N1R1MDh5Y0pOeUZVcXl1RVNqc0l1WG4xSGNGbExjekUtSDdNTVhhRkk?oc=5",
    "pubDate": "Fri, 19 Jun 2026 04:06:27 GMT",
    "source": "Informed Comment"
+  },
+  {
+   "title": "Lloyd's moves to redefine war as grey-zone conflict exposes gaps in century-old exclusions - Insurance Business",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOamprU2tIY2d0N0tRUEVFclE4VS1yQTVpcE0tRjR6Nk9YWUJVckYzbEVkVlFyUnVKVlR0NzlyeDRVN3FPUl9WREJnN1Z6TmM0RXZ3QXFMQVJzTlh1d3haa3RxVVVzcWxEdWY0QjhhTklRRXRSSDNCQjd6dGtHM0Y5c0ZUSjlYSUJkT05UVjVqSk52ZjBzYXdXa0dOMkxRaHUwcW40QUZ3a0VfcGJKZFQ0RnlCRG9qTnp0V1BhTlk5UmF4WWJnQjNQS2JIVDlqWVVvVkVYaFFSVU9hcmc2cnh2WTdqU3FKUQ?oc=5",
+   "pubDate": "Fri, 19 Jun 2026 09:26:36 GMT",
+   "source": "Insurance Business"
   },
   {
    "title": "Iran Talks Collapsed Again. Oil Is Bouncing. Here's the Trade. - Money Morning",
@@ -5273,6 +5335,12 @@ window.DASHBOARD_DATA = {
  ],
  "sectorNews": [
   {
+   "title": "MS Spring Lockwasher Fastener Market Growth Driven by Aerospace and Defense Demand Through 2035 - News and Statistics - IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaXcyV3JDd2N0WmZ3OFVWRUozWl9ndkhsdVpGUUpudFpYOE5yVGtQYTZTakdIOEdsdWNyTUNIRFVMU2VlMEtPRG84WFJBTVdNU3p3c01DU0VKc1JVMnB4cW5nVU1vc1E0LTUxSDR0QUpLeFloNk1fbGF6c0w2ODlKTXVPV1FuV0FuZGt0WjFhLWEtTnBxUjZOUWF6WTR3bFpuSTQ2S3F2SmZ3ejdlWE01UzJtTUpsX0ZPVllaQ1hZM3V6WXAtZER4WUN2TWNxQ2dFWjFfaG85Zw?oc=5",
+   "pubDate": "Fri, 19 Jun 2026 15:41:19 GMT",
+   "source": "IndexBox"
+  },
+  {
    "title": "Defense companies gain greater weight in Turkish industry - H\u00fcrriyet Daily News",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT2FOQ0JqSFJ0REJ6cVRnOExSS3hGTEthUDZFM0VVM2dJOE1MR0c0anNrNk1HNmVfYmdidEhBVk1KVmVWTjhjUGdPZkJhV2RIaVFzQmFsdUhSTVdfcDZpNllidXNHOUpKM2pkVlozVHkyZUpWQVR1T2ZObkszWWlKS0l4NmxkeG9CeWpMOVIxYjVrbkFOdWk1eGUzNFRjS1k?oc=5",
    "pubDate": "Fri, 19 Jun 2026 06:50:20 GMT",
@@ -5325,12 +5393,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmVka2k0M3dxLTRpTkwtaEd3SjhPSHNYajJzQzExYlBjTlFNejJEdTBOMmZnOHpybjdGUHNQcHN0OHFxQWVxVHo0TTVNSllzSmI1SHhobHBTcjNSSlI3MlBSZ0dqZVoxTEYxZjRCWm9oQWU2ell3R0NJNlV1QTByOFZwTnFuWDZsbjdKQkpmUGVTZFZNeG9QUlpDcXZ1c2tMcnVGUVdrdkxId0xUTVJYdGN5a3ZOeU1NRlFOWmJhSQ?oc=5",
    "pubDate": "Fri, 19 Jun 2026 05:10:00 GMT",
    "source": "news.financial"
-  },
-  {
-   "title": "RTX (RTX) Stock Near Fair Value After $100 Million Defense Expansion - simplywall.st",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG1xQ3NQLWp1dTA0YjhPRVdCODFBYk5yNTVNcFhVaF9FU1ZTdVZmU3pCenE5TEw5c25FUDVCakZaVk9pajBWZjNxNTNBY3k1VHNNeTFtREt1N1ctU2YzN3VLMDRNUFMtaGNmRGllTkFEUWxZUXhESkFZMjdyZ3VuSzZrSTA2blBib2sxWHFXaWFCR0dRRUtsbzY5MThxNHVnR0V3MzlwQkxVUDVaOUtfNXAyQmRLa1c0Nmk5UlNGX2tiZ9IBxwFBVV95cUxNemZSbUtYUjdEYkc5dFNwdlhtZ0V0MGFQQkFUUUQzcExoVzM4V0NYMFFuMWhqTGl6YlV4YWp5bnBYYWRXMHhrc2daa2pNVDBsZ2Mwc2VGUlhid212Y0xTalhaVFREZkp4YWhmejBvY0lBaXA5RGVOLTdkdWJpemJxR0swMTBwa1BTay1vdldLZTZMMUdEM0Q0eERpbGwzWTBIcW0zMEhpN1BpRTBwN2p5QlN3SjM2bk9lOFpyVVlNSFMyWU1fRmdB?oc=5",
-   "pubDate": "Thu, 18 Jun 2026 22:53:42 GMT",
-   "source": "simplywall.st"
   }
  ],
  "industrialsNews": [
@@ -5415,9 +5477,9 @@ window.DASHBOARD_DATA = {
    "source": "U.S. Department of War (.gov)"
   },
   {
-   "title": "DoD\u2019s $9.7B award for Microsoft products derailed by protest - Federal News Network",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeV9QckdUYk5KNmZMd1U3MFBELXd0X3hIV0ZNQlQ2dTFtS0hRb1lSeGZSZ2I1ZmEwU3FQd3M0VHptYUR2V3lsbTVPal9jMlJ3c0k0TTBnb3VGN3NnaUctR1lpTGs5dURtMmJnMjJEck1tZWo4b29uMEVpbEhDQk9mTzY4SlgwU203ZnJJTmJBVE1QWk44cGhfVjdieHNVUHhUejU5V3ZDZTNvLTJkTEhCaFlrS3o?oc=5",
-   "pubDate": "Wed, 17 Jun 2026 19:43:35 GMT",
+   "title": "Senate lawmakers bring back acquisition reforms dropped from final 2026 NDAA - Federal News Network",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUzF6VmFyc0paUUwyM0Jpb2lyenJOR3U0SkVWRE9qbnZLck8zZlRRWmlxcTMzZ0JYNWw4Y3BXZVl2U0lGd3VqeG9Pd3ZMbUlqNGdHYTdRVDVvYjRSZC0xaDl0T1NBNHNLXzZ0bFJhSmJYb1hCR1YtT2R4S3dQRTRrMHRCdDRXZFBmX2xUblBaMGptNUxZYmdEVmF2TW9lZG5WRkFhbFdoQ010TGxRYUVQa0h5cWtTLWJWWHozS1BNNU4ydms?oc=5",
+   "pubDate": "Fri, 19 Jun 2026 16:15:28 GMT",
    "source": "Federal News Network"
   },
   {
