@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-19T18:06:36.766007+00:00",
+ "generatedAt": "2026-06-19T18:12:32.888397+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -252,7 +252,7 @@ window.DASHBOARD_DATA = {
     "price": 67.4,
     "changePct": 1.57
    },
-   "relVol": 5.1,
+   "relVol": 5.0,
    "avgVolume": 1623523,
    "symbol": "BAH",
    "name": "Booz Allen",
@@ -334,7 +334,7 @@ window.DASHBOARD_DATA = {
     "price": 214.84,
     "changePct": -2.0
    },
-   "relVol": 2.6,
+   "relVol": 2.5,
    "avgVolume": 421553,
    "symbol": "VSEC",
    "name": "VSE Corp",
@@ -352,7 +352,7 @@ window.DASHBOARD_DATA = {
    "news": [
     {
      "title": "VSE Corp (VSEC) Shares Surge 5.3% -- What GF Score of 83 Tells I - GuruFocus",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeVFLNjdnQUhVZzdueXNCanFRNmxwYXFKUmlZYjhwa05oOU5hb2NPZWxxM19NTVVmMUhJYmYxaThYWGdNeWVKZ1J3bDk5azYyQThWenhhTndPMEdiUmUwX1BlSVU3Vks2dkN0Z21sdmx0UURUOEJ4bE1yU3ZMZTNNQU8xb1FfRnJHNDFHaVBMdW1zOE1BbUg3TXN3ZmwzOVNSdmVXUUh2QQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGtHWHlmcnpmT2RiN3llWldWZzBKUmFybHdhM2t2cG1kTDRpMVN3c214bnlncXBPTXc3MlhUcWlvdGpsS3RpVnktTkVLMmRFOHdmWk8tZVlROGg2S3IwMTZjcTJOdW1UUzBDOEFQTWNaT01xTG1SMjNCMVNyQjVELTFaYjBtVmpSQjdkSzd2Nmk4d3lJMWsxY3JUaGpTWURVOXNmUjUzOC1UUUVNTzc2bVdGTnQ3M1E?oc=5",
      "pubDate": "Fri, 19 Jun 2026 00:21:02 GMT",
      "source": "GuruFocus"
     },
@@ -498,7 +498,7 @@ window.DASHBOARD_DATA = {
     "price": 466.0,
     "changePct": -0.09
    },
-   "relVol": 2.8,
+   "relVol": 2.7,
    "avgVolume": 226166,
    "symbol": "CACI",
    "name": "CACI Intl",
@@ -662,7 +662,7 @@ window.DASHBOARD_DATA = {
     "price": 81.0,
     "changePct": 0.55
    },
-   "relVol": 2.2,
+   "relVol": 2.1,
    "avgVolume": 687594,
    "symbol": "ATRO",
    "name": "Astronics",
@@ -744,7 +744,7 @@ window.DASHBOARD_DATA = {
     "price": 32.72,
     "changePct": -0.3
    },
-   "relVol": 2.2,
+   "relVol": 2.1,
    "avgVolume": 1212798,
    "symbol": "KBR",
    "name": "KBR",
@@ -990,7 +990,7 @@ window.DASHBOARD_DATA = {
     "price": 102.6,
     "changePct": 0.21
    },
-   "relVol": 3.8,
+   "relVol": 3.7,
    "avgVolume": 445183,
    "symbol": "SAIC",
    "name": "SAIC",
@@ -1072,7 +1072,7 @@ window.DASHBOARD_DATA = {
     "price": 107.12,
     "changePct": 0.0
    },
-   "relVol": 1.7,
+   "relVol": 1.6,
    "avgVolume": 1566241,
    "symbol": "LDOS",
    "name": "Leidos",
@@ -1154,7 +1154,7 @@ window.DASHBOARD_DATA = {
     "price": 522.0,
     "changePct": 0.1
    },
-   "relVol": 4.5,
+   "relVol": 4.4,
    "avgVolume": 748649,
    "symbol": "NOC",
    "name": "Northrop Grumman",
@@ -1236,7 +1236,7 @@ window.DASHBOARD_DATA = {
     "price": 295.5,
     "changePct": 0.23
    },
-   "relVol": 2.3,
+   "relVol": 2.2,
    "avgVolume": 1121676,
    "symbol": "LHX",
    "name": "L3Harris",
@@ -1265,16 +1265,16 @@ window.DASHBOARD_DATA = {
      "source": "simplywall.st"
     },
     {
-     "title": "L3Harris Technologies Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVVpMeEs3Z05tRGxCTXh0TWZsNEtRZEpFQlpmLW9naGthTTBTSHA5Q1BoZVg4eTM1TmNMTUdaSndZLTI1ZTVKcXNrNFVtNTZBbU1VZlliRDJJQUNDeEdndkhXVzBvWkp3VklBZzBZcE9xdEExMGRfNVRkZWNDRVAxUjM1Qzdib3NsWEFIUlhSenBrS0ZLalBGaFQ3RElTM04waFJUYXdxb1Z1SGZIM28wS1NDdWwtWHZmdGFBYUVGU1dTY295ZEFTcGZIcndLUEJUYjhHYnJYS0NtZWY1YnlubGlJXzd4RFNTTzVrY1BCekduVGs?oc=5",
-     "pubDate": "Thu, 18 Jun 2026 20:48:00 GMT",
-     "source": "MarketWatch"
-    },
-    {
      "title": "L3Harris Missile Arm Axyv Picks JPMorgan, Morgan Stanley for IPO - Bloomberg.com",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzJTTTFHZEdrcnh2Vk9hY2Z1QVFGWExaTFB4NjRYVFNUSFpoU1hiZV8xTmU4d1Q2UlRPYUpFTTdmTGFOUkg1NlEtTjI1YkoxaWV3RGhkY3ZuWHVnTzMxZ2M1REhlX0hFYV9IMXJTcVZWYnFTVWtSN2pKZjVMemFCSlJwTExqRmpTWjdLUmNLWVRRaXJMaHpYeHM4Zlp2RFpCeFk1UW5aR3F6dUVZemlObXUtX0U?oc=5",
      "pubDate": "Tue, 16 Jun 2026 15:41:15 GMT",
      "source": "Bloomberg.com"
+    },
+    {
+     "title": "L3Harris Technologies Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVVpMeEs3Z05tRGxCTXh0TWZsNEtRZEpFQlpmLW9naGthTTBTSHA5Q1BoZVg4eTM1TmNMTUdaSndZLTI1ZTVKcXNrNFVtNTZBbU1VZlliRDJJQUNDeEdndkhXVzBvWkp3VklBZzBZcE9xdEExMGRfNVRkZWNDRVAxUjM1Qzdib3NsWEFIUlhSenBrS0ZLalBGaFQ3RElTM04waFJUYXdxb1Z1SGZIM28wS1NDdWwtWHZmdGFBYUVGU1dTY295ZEFTcGZIcndLUEJUYjhHYnJYS0NtZWY1YnlubGlJXzd4RFNTTzVrY1BCekduVGs?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 20:48:00 GMT",
+     "source": "MarketWatch"
     },
     {
      "title": "L3Harris Falls as Defense Names Pull Back and No New Company-Specific Catalyst Emerges - Quiver Quantitative",
@@ -1318,7 +1318,7 @@ window.DASHBOARD_DATA = {
     "price": 11.42,
     "changePct": -0.17
    },
-   "relVol": 3.1,
+   "relVol": 3.0,
    "avgVolume": 10567544,
    "symbol": "RCAT",
    "name": "Red Cat Holdings",
@@ -1335,9 +1335,15 @@ window.DASHBOARD_DATA = {
    "marketTime": 1781812801,
    "news": [
     {
-     "title": "Is Red Cat Holdings, Inc. (RCAT) A Good Stock To Buy Now? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU2FXcGJZTW9OcGZVdnQwVkZlUGNzWjU0ZXBHeUtjX19iUDRtaF9KQ0tiUG03dmcza2Z1cFhvei1rb3lMM3R1b2cxZzhCM1UwcnFOMy1DZmJFTDN3QzZfTks4VjAyVGx6VU9vUVZxbHduTERFdi1lZXJ5dXo1UjUyOUFHMHhtSVF5SHdEYUQ1Q05BcU8z?oc=5",
-     "pubDate": "Fri, 19 Jun 2026 15:33:07 GMT",
+     "title": "Is Red Cat Holdings, Inc. (RCAT) A Good Stock To Buy Now? - Insider Monkey",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRktIZ0U3X1F1R0syWkJYZDRhTjdHc042dHFQbnRKcW0ta2VIM2xQMnZzYzNvRGt0S0pOZWdycDdwSElRNUR2bTR2TlBDb3RSMElRLVBaSkViMXN3MGFQbjZ5cGZHVEU4c0x2YndWVjNjcXpncUFiMjZjVnhJMG5VbEVOWGJDNFhOTDM2Qi0zVm05cTJocnZQUk9uWVJpSDjSAacBQVVfeXFMUHRRSHFnYmZ0eThJVFNxRW95clVBMXVxNXRZX1ZmMzRWU0RTejdUS25QWTk1STZrX05XYTZ6R1VTa1lFVjk4VHMzb05famF0Ums3em1qN0EySXZDZ01rZk9uZE1oMUp2LWt0cWgzRURxWFhXX3pDeFlRdlJhREFPVjJpZHZqWHlMWWIxRnJTdWk5Zm5XRElEMjZ1R2xfS3prbXZOMHZ1LTQ?oc=5",
+     "pubDate": "Fri, 19 Jun 2026 15:38:49 GMT",
+     "source": "Insider Monkey"
+    },
+    {
+     "title": "Red Cat Holdings (RCAT) Stock Valuation After Pentagon Drone Program And Analyst Optimism - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3dsNUJQdGQ3MmVnMENHOU42R3Zxa2ZhbW1OSmJiVmZZYVJHNDA0MVhkLWRKTXFDVVRwdlVUQjJPZzVjamI0bXhhM3FxcDY4MHpGaHg3MkdqeGRSZGxNNTJ3UXR4RmpnS1VoY0hYYjJWM3ZjOEQwZkcxLUU3Smk5SXpZTHRjTVNzLTNHX005blVWS0FSRS1Z?oc=5",
+     "pubDate": "Fri, 12 Jun 2026 15:09:28 GMT",
      "source": "Yahoo Finance"
     },
     {
@@ -1357,12 +1363,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVFCYVExdV91WnhOVVNuN1RhTHF0MUtJZ2ZpTUlkZGdXZ2Z5OWRELTJFbUczSmxVaG9MQUVBS0FRMms1OVFobTZDZ2JOeEVndF9QMDhCVlVxYzJZWGljSjNzcFZhNDJPelU1Sy0tTllyaHJUYXNYVllndVdzalVCTVBwT1NHTXBDVGV5RHQtSWhUQ0xZYTY4X0xmd01WY0Q4RkNmNk1Hb0tEUQ?oc=5",
      "pubDate": "Wed, 17 Jun 2026 05:50:15 GMT",
      "source": "Stocktwits"
-    },
-    {
-     "title": "Red Cat Holdings director Paul Funk II sells $1.89m in stock - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU095cEs3eHE4TFRxeE1iQVFBdnV4Sm1WSzRKc29nRUt5dkQtUmx2aW0wZ2w0WnlSX1lVUzUtUjByRDRkdE5veDhuTDJDOTZHZUJmVnBFYnRoSmN4Sy04ZDNMbmp4RnlFUlBGc0Y1ZDQtdnJIOFBpNjNVVF9LeENSMGdma0VsM2xrekpHMU9nS1hZcHQ1YzF1bkNwdE9aV3BMT0d2by1obzVwX3drakE2eFJBdHdPZ3FSLUhGTnlfbmk?oc=5",
-     "pubDate": "Tue, 16 Jun 2026 00:48:33 GMT",
-     "source": "Investing.com"
     }
    ]
   },
@@ -1400,7 +1400,7 @@ window.DASHBOARD_DATA = {
     "price": 511.04,
     "changePct": 0.02
    },
-   "relVol": 2.7,
+   "relVol": 2.6,
    "avgVolume": 1107165,
    "symbol": "LMT",
    "name": "Lockheed Martin",
@@ -1482,7 +1482,7 @@ window.DASHBOARD_DATA = {
     "price": 89.6,
     "changePct": 0.15
    },
-   "relVol": 5.4,
+   "relVol": 5.3,
    "avgVolume": 1125146,
    "symbol": "TXT",
    "name": "Textron",
@@ -1646,7 +1646,7 @@ window.DASHBOARD_DATA = {
     "price": 205.25,
     "changePct": -0.07
    },
-   "relVol": 4.5,
+   "relVol": 4.4,
    "avgVolume": 722494,
    "symbol": "BWXT",
    "name": "BWX Technologies",
@@ -1728,7 +1728,7 @@ window.DASHBOARD_DATA = {
     "price": 798.71,
     "changePct": 1.33
    },
-   "relVol": 2.8,
+   "relVol": 2.7,
    "avgVolume": 99788,
    "symbol": "ESLT",
    "name": "Elbit Systems",
@@ -1810,7 +1810,7 @@ window.DASHBOARD_DATA = {
     "price": 349.29,
     "changePct": -0.21
    },
-   "relVol": 2.3,
+   "relVol": 2.2,
    "avgVolume": 889750,
    "symbol": "GD",
    "name": "General Dynamics",
@@ -1833,28 +1833,28 @@ window.DASHBOARD_DATA = {
      "source": "simplywall.st"
     },
     {
-     "title": "General Dynamics Corp. stock outperforms competitors despite losses on the day - MarketWatch",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOVRzVEVwSzItZWUyY2o3V1phcDBHemtDYVFIMmV6ZGVWM01LdDBuZC11Z01kZGlZa1N3eXhyUW85VFpuaEhBUEpvelJicDN2Qi1NSVJqVzJ4NjF0QkNNRDdWUDVKRWpjeEI5ZkM0dFBrZUtlYzZkamwyWGcyLXJmdGJfSEJ6Y3JwWW85MEUyMG5UaloxY2lRdGxEcGkwVm5BUTBuMnV1S2ZnRkxxV3FTaDZVQXV2RG1xV2tGbFNrTURQXzVkdkt1M2RSVmVjdTZZZ2ZseDNSMWNnYlhTQmw0WjJfLVJwNWI4QkpB?oc=5",
-     "pubDate": "Thu, 18 Jun 2026 20:40:00 GMT",
-     "source": "MarketWatch"
-    },
-    {
-     "title": "General Dynamics (GD) director granted 104 shares as stock compensation and now holds 7,426 directly - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0Q2QlV5a05NbzcxZGJlY3NDZ0hGTlIxY3JLRVdGYl9qTlpxeDZxcXJheVYyVkt2akxLX1YxZGc1LVlDdGQ4NHRYazR2U09PTzVTMmxjWHlTSEdCV1FILTdJR1puNXVRRmVvREFKZ0hBa1lKRGxYU2JqWEdhT0RMM1lPWlBBNF9HeEVMRXVVR2UwMmdjRHdQX1kwU1R4M2JnQmFVd1diYkFGVHJpNnFVMUU0cw?oc=5",
-     "pubDate": "Thu, 18 Jun 2026 20:18:37 GMT",
-     "source": "Stock Titan"
-    },
-    {
      "title": "General Dynamics: Impressive Results, Challenging Risk/Reward - Seeking Alpha",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUNENW15LUc1azBYbkZlTTUteXpKTjBveXdCejM4TTVvNnR1Q2d4dVhvdk1YMWxxRFQxcjNTRXAzQXBPUTE5Z29WUGNveTNNdG1wV0xlZ0FZOFZhUU1KTUF5X2xPMEptNFF0bThPVXVoeE5QamhYdEJBU2dad2cwNVg3V0ltcDM2aFAwSEVocnJzTXhwdUFGYllQYUs5YXpDR0E?oc=5",
      "pubDate": "Mon, 15 Jun 2026 14:24:57 GMT",
      "source": "Seeking Alpha"
     },
     {
+     "title": "General Dynamics Corp. stock outperforms competitors despite losses on the day - MarketWatch",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOVRzVEVwSzItZWUyY2o3V1phcDBHemtDYVFIMmV6ZGVWM01LdDBuZC11Z01kZGlZa1N3eXhyUW85VFpuaEhBUEpvelJicDN2Qi1NSVJqVzJ4NjF0QkNNRDdWUDVKRWpjeEI5ZkM0dFBrZUtlYzZkamwyWGcyLXJmdGJfSEJ6Y3JwWW85MEUyMG5UaloxY2lRdGxEcGkwVm5BUTBuMnV1S2ZnRkxxV3FTaDZVQXV2RG1xV2tGbFNrTURQXzVkdkt1M2RSVmVjdTZZZ2ZseDNSMWNnYlhTQmw0WjJfLVJwNWI4QkpB?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 20:40:00 GMT",
+     "source": "MarketWatch"
+    },
+    {
      "title": "Wick Capital Partners LLC Invests $10.10 Million in General Dynamics Corporation $GD - MarketBeat",
      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTU1KaHViOVpLVE5iLWgzbDlnVUEzLW9aLXJrT2t1bm9TM0xhM3NYQlhrRHhWS1FoRU9YYnRlTmhkdnFMdTVZN3hGMFZVUHBJWndMZkF4bTg1cWx3ODNTYTYtdmVsSFNaRWFVSVd0d05HZW1BaW9BSlF5ZkVQZHN2YmJuY1RnMzhDMTNZaGppaHp2Q01kMGNyWXlZWjhqWG5SY3dIZmNRM1pTY2Z3WHNpV1IzeEl3M01kc3R5aFZPTzlRZ1VNNU8zMzJFdE53c1NxeDZFWVlLWHFHUQ?oc=5",
      "pubDate": "Fri, 19 Jun 2026 10:36:21 GMT",
      "source": "MarketBeat"
+    },
+    {
+     "title": "General Dynamics (GD) director granted 104 shares as stock compensation and now holds 7,426 directly - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0Q2QlV5a05NbzcxZGJlY3NDZ0hGTlIxY3JLRVdGYl9qTlpxeDZxcXJheVYyVkt2akxLX1YxZGc1LVlDdGQ4NHRYazR2U09PTzVTMmxjWHlTSEdCV1FILTdJR1puNXVRRmVvREFKZ0hBa1lKRGxYU2JqWEdhT0RMM1lPWlBBNF9HeEVMRXVVR2UwMmdjRHdQX1kwU1R4M2JnQmFVd1diYkFGVHJpNnFVMUU0cw?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 20:18:37 GMT",
+     "source": "Stock Titan"
     }
    ]
   },
@@ -1974,7 +1974,7 @@ window.DASHBOARD_DATA = {
     "price": 128.66,
     "changePct": 0.15
    },
-   "relVol": 2.3,
+   "relVol": 2.2,
    "avgVolume": 31124301,
    "symbol": "PLTR",
    "name": "Palantir",
@@ -2056,7 +2056,7 @@ window.DASHBOARD_DATA = {
     "price": 422.38,
     "changePct": -0.24
    },
-   "relVol": 3.1,
+   "relVol": 3.0,
    "avgVolume": 735598,
    "symbol": "AXON",
    "name": "Axon Enterprise",
@@ -2132,7 +2132,7 @@ window.DASHBOARD_DATA = {
     "price": 106.2,
     "changePct": -0.97
    },
-   "relVol": 3.2,
+   "relVol": 3.1,
    "avgVolume": 31435479,
    "symbol": "RKLB",
    "name": "Rocket Lab",
@@ -2284,7 +2284,7 @@ window.DASHBOARD_DATA = {
     "price": 22.5,
     "changePct": -1.53
    },
-   "relVol": 1.6,
+   "relVol": 1.5,
    "avgVolume": 13752701,
    "symbol": "LUNR",
    "name": "Intuitive Machines",
@@ -2740,7 +2740,7 @@ window.DASHBOARD_DATA = {
     "price": 115.11,
     "changePct": 1.05
    },
-   "relVol": 4.0,
+   "relVol": 3.9,
    "avgVolume": 537572,
    "symbol": "MRCY",
    "name": "Mercury Systems",
@@ -2968,7 +2968,7 @@ window.DASHBOARD_DATA = {
     "price": 788.44,
     "changePct": 2.14
    },
-   "relVol": 2.1,
+   "relVol": 2.0,
    "avgVolume": 210259,
    "symbol": "CW",
    "name": "Curtiss-Wright",
@@ -3196,7 +3196,7 @@ window.DASHBOARD_DATA = {
     "price": 185.74,
     "changePct": 0.07
    },
-   "relVol": 2.8,
+   "relVol": 2.7,
    "avgVolume": 4368089,
    "symbol": "RTX",
    "name": "RTX Corp",
@@ -3348,7 +3348,7 @@ window.DASHBOARD_DATA = {
     "price": 278.0,
     "changePct": 0.12
    },
-   "relVol": 1.8,
+   "relVol": 1.7,
    "avgVolume": 1844668,
    "symbol": "HWM",
    "name": "Howmet Aerospace",
@@ -3426,7 +3426,7 @@ window.DASHBOARD_DATA = {
     "price": 67.4,
     "changePct": 1.57
    },
-   "relVol": 5.1,
+   "relVol": 5.0,
    "avgVolume": 1623523,
    "symbol": "BAH",
    "name": "Booz Allen",
@@ -3508,7 +3508,7 @@ window.DASHBOARD_DATA = {
     "price": 214.84,
     "changePct": -2.0
    },
-   "relVol": 2.6,
+   "relVol": 2.5,
    "avgVolume": 421553,
    "symbol": "VSEC",
    "name": "VSE Corp",
@@ -3526,7 +3526,7 @@ window.DASHBOARD_DATA = {
    "news": [
     {
      "title": "VSE Corp (VSEC) Shares Surge 5.3% -- What GF Score of 83 Tells I - GuruFocus",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeVFLNjdnQUhVZzdueXNCanFRNmxwYXFKUmlZYjhwa05oOU5hb2NPZWxxM19NTVVmMUhJYmYxaThYWGdNeWVKZ1J3bDk5azYyQThWenhhTndPMEdiUmUwX1BlSVU3Vks2dkN0Z21sdmx0UURUOEJ4bE1yU3ZMZTNNQU8xb1FfRnJHNDFHaVBMdW1zOE1BbUg3TXN3ZmwzOVNSdmVXUUh2QQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGtHWHlmcnpmT2RiN3llWldWZzBKUmFybHdhM2t2cG1kTDRpMVN3c214bnlncXBPTXc3MlhUcWlvdGpsS3RpVnktTkVLMmRFOHdmWk8tZVlROGg2S3IwMTZjcTJOdW1UUzBDOEFQTWNaT01xTG1SMjNCMVNyQjVELTFaYjBtVmpSQjdkSzd2Nmk4d3lJMWsxY3JUaGpTWURVOXNmUjUzOC1UUUVNTzc2bVdGTnQ3M1E?oc=5",
      "pubDate": "Fri, 19 Jun 2026 00:21:02 GMT",
      "source": "GuruFocus"
     },
@@ -3672,7 +3672,7 @@ window.DASHBOARD_DATA = {
     "price": 466.0,
     "changePct": -0.09
    },
-   "relVol": 2.8,
+   "relVol": 2.7,
    "avgVolume": 226166,
    "symbol": "CACI",
    "name": "CACI Intl",
@@ -3836,7 +3836,7 @@ window.DASHBOARD_DATA = {
     "price": 81.0,
     "changePct": 0.55
    },
-   "relVol": 2.2,
+   "relVol": 2.1,
    "avgVolume": 687594,
    "symbol": "ATRO",
    "name": "Astronics",
@@ -3918,7 +3918,7 @@ window.DASHBOARD_DATA = {
     "price": 32.72,
     "changePct": -0.3
    },
-   "relVol": 2.2,
+   "relVol": 2.1,
    "avgVolume": 1212798,
    "symbol": "KBR",
    "name": "KBR",
@@ -4164,7 +4164,7 @@ window.DASHBOARD_DATA = {
     "price": 102.6,
     "changePct": 0.21
    },
-   "relVol": 3.8,
+   "relVol": 3.7,
    "avgVolume": 445183,
    "symbol": "SAIC",
    "name": "SAIC",
@@ -4246,7 +4246,7 @@ window.DASHBOARD_DATA = {
     "price": 107.12,
     "changePct": 0.0
    },
-   "relVol": 1.7,
+   "relVol": 1.6,
    "avgVolume": 1566241,
    "symbol": "LDOS",
    "name": "Leidos",
@@ -4328,7 +4328,7 @@ window.DASHBOARD_DATA = {
     "price": 522.0,
     "changePct": 0.1
    },
-   "relVol": 4.5,
+   "relVol": 4.4,
    "avgVolume": 748649,
    "symbol": "NOC",
    "name": "Northrop Grumman",
@@ -4410,7 +4410,7 @@ window.DASHBOARD_DATA = {
     "price": 295.5,
     "changePct": 0.23
    },
-   "relVol": 2.3,
+   "relVol": 2.2,
    "avgVolume": 1121676,
    "symbol": "LHX",
    "name": "L3Harris",
@@ -4439,16 +4439,16 @@ window.DASHBOARD_DATA = {
      "source": "simplywall.st"
     },
     {
-     "title": "L3Harris Technologies Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVVpMeEs3Z05tRGxCTXh0TWZsNEtRZEpFQlpmLW9naGthTTBTSHA5Q1BoZVg4eTM1TmNMTUdaSndZLTI1ZTVKcXNrNFVtNTZBbU1VZlliRDJJQUNDeEdndkhXVzBvWkp3VklBZzBZcE9xdEExMGRfNVRkZWNDRVAxUjM1Qzdib3NsWEFIUlhSenBrS0ZLalBGaFQ3RElTM04waFJUYXdxb1Z1SGZIM28wS1NDdWwtWHZmdGFBYUVGU1dTY295ZEFTcGZIcndLUEJUYjhHYnJYS0NtZWY1YnlubGlJXzd4RFNTTzVrY1BCekduVGs?oc=5",
-     "pubDate": "Thu, 18 Jun 2026 20:48:00 GMT",
-     "source": "MarketWatch"
-    },
-    {
      "title": "L3Harris Missile Arm Axyv Picks JPMorgan, Morgan Stanley for IPO - Bloomberg.com",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzJTTTFHZEdrcnh2Vk9hY2Z1QVFGWExaTFB4NjRYVFNUSFpoU1hiZV8xTmU4d1Q2UlRPYUpFTTdmTGFOUkg1NlEtTjI1YkoxaWV3RGhkY3ZuWHVnTzMxZ2M1REhlX0hFYV9IMXJTcVZWYnFTVWtSN2pKZjVMemFCSlJwTExqRmpTWjdLUmNLWVRRaXJMaHpYeHM4Zlp2RFpCeFk1UW5aR3F6dUVZemlObXUtX0U?oc=5",
      "pubDate": "Tue, 16 Jun 2026 15:41:15 GMT",
      "source": "Bloomberg.com"
+    },
+    {
+     "title": "L3Harris Technologies Inc. stock underperforms Thursday when compared to competitors - MarketWatch",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVVpMeEs3Z05tRGxCTXh0TWZsNEtRZEpFQlpmLW9naGthTTBTSHA5Q1BoZVg4eTM1TmNMTUdaSndZLTI1ZTVKcXNrNFVtNTZBbU1VZlliRDJJQUNDeEdndkhXVzBvWkp3VklBZzBZcE9xdEExMGRfNVRkZWNDRVAxUjM1Qzdib3NsWEFIUlhSenBrS0ZLalBGaFQ3RElTM04waFJUYXdxb1Z1SGZIM28wS1NDdWwtWHZmdGFBYUVGU1dTY295ZEFTcGZIcndLUEJUYjhHYnJYS0NtZWY1YnlubGlJXzd4RFNTTzVrY1BCekduVGs?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 20:48:00 GMT",
+     "source": "MarketWatch"
     },
     {
      "title": "L3Harris Falls as Defense Names Pull Back and No New Company-Specific Catalyst Emerges - Quiver Quantitative",
@@ -4492,7 +4492,7 @@ window.DASHBOARD_DATA = {
     "price": 11.42,
     "changePct": -0.17
    },
-   "relVol": 3.1,
+   "relVol": 3.0,
    "avgVolume": 10567544,
    "symbol": "RCAT",
    "name": "Red Cat Holdings",
@@ -4509,9 +4509,15 @@ window.DASHBOARD_DATA = {
    "marketTime": 1781812801,
    "news": [
     {
-     "title": "Is Red Cat Holdings, Inc. (RCAT) A Good Stock To Buy Now? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU2FXcGJZTW9OcGZVdnQwVkZlUGNzWjU0ZXBHeUtjX19iUDRtaF9KQ0tiUG03dmcza2Z1cFhvei1rb3lMM3R1b2cxZzhCM1UwcnFOMy1DZmJFTDN3QzZfTks4VjAyVGx6VU9vUVZxbHduTERFdi1lZXJ5dXo1UjUyOUFHMHhtSVF5SHdEYUQ1Q05BcU8z?oc=5",
-     "pubDate": "Fri, 19 Jun 2026 15:33:07 GMT",
+     "title": "Is Red Cat Holdings, Inc. (RCAT) A Good Stock To Buy Now? - Insider Monkey",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRktIZ0U3X1F1R0syWkJYZDRhTjdHc042dHFQbnRKcW0ta2VIM2xQMnZzYzNvRGt0S0pOZWdycDdwSElRNUR2bTR2TlBDb3RSMElRLVBaSkViMXN3MGFQbjZ5cGZHVEU4c0x2YndWVjNjcXpncUFiMjZjVnhJMG5VbEVOWGJDNFhOTDM2Qi0zVm05cTJocnZQUk9uWVJpSDjSAacBQVVfeXFMUHRRSHFnYmZ0eThJVFNxRW95clVBMXVxNXRZX1ZmMzRWU0RTejdUS25QWTk1STZrX05XYTZ6R1VTa1lFVjk4VHMzb05famF0Ums3em1qN0EySXZDZ01rZk9uZE1oMUp2LWt0cWgzRURxWFhXX3pDeFlRdlJhREFPVjJpZHZqWHlMWWIxRnJTdWk5Zm5XRElEMjZ1R2xfS3prbXZOMHZ1LTQ?oc=5",
+     "pubDate": "Fri, 19 Jun 2026 15:38:49 GMT",
+     "source": "Insider Monkey"
+    },
+    {
+     "title": "Red Cat Holdings (RCAT) Stock Valuation After Pentagon Drone Program And Analyst Optimism - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb3dsNUJQdGQ3MmVnMENHOU42R3Zxa2ZhbW1OSmJiVmZZYVJHNDA0MVhkLWRKTXFDVVRwdlVUQjJPZzVjamI0bXhhM3FxcDY4MHpGaHg3MkdqeGRSZGxNNTJ3UXR4RmpnS1VoY0hYYjJWM3ZjOEQwZkcxLUU3Smk5SXpZTHRjTVNzLTNHX005blVWS0FSRS1Z?oc=5",
+     "pubDate": "Fri, 12 Jun 2026 15:09:28 GMT",
      "source": "Yahoo Finance"
     },
     {
@@ -4531,12 +4537,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVFCYVExdV91WnhOVVNuN1RhTHF0MUtJZ2ZpTUlkZGdXZ2Z5OWRELTJFbUczSmxVaG9MQUVBS0FRMms1OVFobTZDZ2JOeEVndF9QMDhCVlVxYzJZWGljSjNzcFZhNDJPelU1Sy0tTllyaHJUYXNYVllndVdzalVCTVBwT1NHTXBDVGV5RHQtSWhUQ0xZYTY4X0xmd01WY0Q4RkNmNk1Hb0tEUQ?oc=5",
      "pubDate": "Wed, 17 Jun 2026 05:50:15 GMT",
      "source": "Stocktwits"
-    },
-    {
-     "title": "Red Cat Holdings director Paul Funk II sells $1.89m in stock - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU095cEs3eHE4TFRxeE1iQVFBdnV4Sm1WSzRKc29nRUt5dkQtUmx2aW0wZ2w0WnlSX1lVUzUtUjByRDRkdE5veDhuTDJDOTZHZUJmVnBFYnRoSmN4Sy04ZDNMbmp4RnlFUlBGc0Y1ZDQtdnJIOFBpNjNVVF9LeENSMGdma0VsM2xrekpHMU9nS1hZcHQ1YzF1bkNwdE9aV3BMT0d2by1obzVwX3drakE2eFJBdHdPZ3FSLUhGTnlfbmk?oc=5",
-     "pubDate": "Tue, 16 Jun 2026 00:48:33 GMT",
-     "source": "Investing.com"
     }
    ]
   },
@@ -4574,7 +4574,7 @@ window.DASHBOARD_DATA = {
     "price": 511.04,
     "changePct": 0.02
    },
-   "relVol": 2.7,
+   "relVol": 2.6,
    "avgVolume": 1107165,
    "symbol": "LMT",
    "name": "Lockheed Martin",
@@ -4656,7 +4656,7 @@ window.DASHBOARD_DATA = {
     "price": 89.6,
     "changePct": 0.15
    },
-   "relVol": 5.4,
+   "relVol": 5.3,
    "avgVolume": 1125146,
    "symbol": "TXT",
    "name": "Textron",
@@ -4820,7 +4820,7 @@ window.DASHBOARD_DATA = {
     "price": 205.25,
     "changePct": -0.07
    },
-   "relVol": 4.5,
+   "relVol": 4.4,
    "avgVolume": 722494,
    "symbol": "BWXT",
    "name": "BWX Technologies",
@@ -4902,7 +4902,7 @@ window.DASHBOARD_DATA = {
     "price": 798.71,
     "changePct": 1.33
    },
-   "relVol": 2.8,
+   "relVol": 2.7,
    "avgVolume": 99788,
    "symbol": "ESLT",
    "name": "Elbit Systems",
@@ -4984,7 +4984,7 @@ window.DASHBOARD_DATA = {
     "price": 349.29,
     "changePct": -0.21
    },
-   "relVol": 2.3,
+   "relVol": 2.2,
    "avgVolume": 889750,
    "symbol": "GD",
    "name": "General Dynamics",
@@ -5007,28 +5007,28 @@ window.DASHBOARD_DATA = {
      "source": "simplywall.st"
     },
     {
-     "title": "General Dynamics Corp. stock outperforms competitors despite losses on the day - MarketWatch",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOVRzVEVwSzItZWUyY2o3V1phcDBHemtDYVFIMmV6ZGVWM01LdDBuZC11Z01kZGlZa1N3eXhyUW85VFpuaEhBUEpvelJicDN2Qi1NSVJqVzJ4NjF0QkNNRDdWUDVKRWpjeEI5ZkM0dFBrZUtlYzZkamwyWGcyLXJmdGJfSEJ6Y3JwWW85MEUyMG5UaloxY2lRdGxEcGkwVm5BUTBuMnV1S2ZnRkxxV3FTaDZVQXV2RG1xV2tGbFNrTURQXzVkdkt1M2RSVmVjdTZZZ2ZseDNSMWNnYlhTQmw0WjJfLVJwNWI4QkpB?oc=5",
-     "pubDate": "Thu, 18 Jun 2026 20:40:00 GMT",
-     "source": "MarketWatch"
-    },
-    {
-     "title": "General Dynamics (GD) director granted 104 shares as stock compensation and now holds 7,426 directly - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0Q2QlV5a05NbzcxZGJlY3NDZ0hGTlIxY3JLRVdGYl9qTlpxeDZxcXJheVYyVkt2akxLX1YxZGc1LVlDdGQ4NHRYazR2U09PTzVTMmxjWHlTSEdCV1FILTdJR1puNXVRRmVvREFKZ0hBa1lKRGxYU2JqWEdhT0RMM1lPWlBBNF9HeEVMRXVVR2UwMmdjRHdQX1kwU1R4M2JnQmFVd1diYkFGVHJpNnFVMUU0cw?oc=5",
-     "pubDate": "Thu, 18 Jun 2026 20:18:37 GMT",
-     "source": "Stock Titan"
-    },
-    {
      "title": "General Dynamics: Impressive Results, Challenging Risk/Reward - Seeking Alpha",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUNENW15LUc1azBYbkZlTTUteXpKTjBveXdCejM4TTVvNnR1Q2d4dVhvdk1YMWxxRFQxcjNTRXAzQXBPUTE5Z29WUGNveTNNdG1wV0xlZ0FZOFZhUU1KTUF5X2xPMEptNFF0bThPVXVoeE5QamhYdEJBU2dad2cwNVg3V0ltcDM2aFAwSEVocnJzTXhwdUFGYllQYUs5YXpDR0E?oc=5",
      "pubDate": "Mon, 15 Jun 2026 14:24:57 GMT",
      "source": "Seeking Alpha"
     },
     {
+     "title": "General Dynamics Corp. stock outperforms competitors despite losses on the day - MarketWatch",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOVRzVEVwSzItZWUyY2o3V1phcDBHemtDYVFIMmV6ZGVWM01LdDBuZC11Z01kZGlZa1N3eXhyUW85VFpuaEhBUEpvelJicDN2Qi1NSVJqVzJ4NjF0QkNNRDdWUDVKRWpjeEI5ZkM0dFBrZUtlYzZkamwyWGcyLXJmdGJfSEJ6Y3JwWW85MEUyMG5UaloxY2lRdGxEcGkwVm5BUTBuMnV1S2ZnRkxxV3FTaDZVQXV2RG1xV2tGbFNrTURQXzVkdkt1M2RSVmVjdTZZZ2ZseDNSMWNnYlhTQmw0WjJfLVJwNWI4QkpB?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 20:40:00 GMT",
+     "source": "MarketWatch"
+    },
+    {
      "title": "Wick Capital Partners LLC Invests $10.10 Million in General Dynamics Corporation $GD - MarketBeat",
      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTU1KaHViOVpLVE5iLWgzbDlnVUEzLW9aLXJrT2t1bm9TM0xhM3NYQlhrRHhWS1FoRU9YYnRlTmhkdnFMdTVZN3hGMFZVUHBJWndMZkF4bTg1cWx3ODNTYTYtdmVsSFNaRWFVSVd0d05HZW1BaW9BSlF5ZkVQZHN2YmJuY1RnMzhDMTNZaGppaHp2Q01kMGNyWXlZWjhqWG5SY3dIZmNRM1pTY2Z3WHNpV1IzeEl3M01kc3R5aFZPTzlRZ1VNNU8zMzJFdE53c1NxeDZFWVlLWHFHUQ?oc=5",
      "pubDate": "Fri, 19 Jun 2026 10:36:21 GMT",
      "source": "MarketBeat"
+    },
+    {
+     "title": "General Dynamics (GD) director granted 104 shares as stock compensation and now holds 7,426 directly - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0Q2QlV5a05NbzcxZGJlY3NDZ0hGTlIxY3JLRVdGYl9qTlpxeDZxcXJheVYyVkt2akxLX1YxZGc1LVlDdGQ4NHRYazR2U09PTzVTMmxjWHlTSEdCV1FILTdJR1puNXVRRmVvREFKZ0hBa1lKRGxYU2JqWEdhT0RMM1lPWlBBNF9HeEVMRXVVR2UwMmdjRHdQX1kwU1R4M2JnQmFVd1diYkFGVHJpNnFVMUU0cw?oc=5",
+     "pubDate": "Thu, 18 Jun 2026 20:18:37 GMT",
+     "source": "Stock Titan"
     }
    ]
   },
@@ -5148,7 +5148,7 @@ window.DASHBOARD_DATA = {
     "price": 128.66,
     "changePct": 0.15
    },
-   "relVol": 2.3,
+   "relVol": 2.2,
    "avgVolume": 31124301,
    "symbol": "PLTR",
    "name": "Palantir",
@@ -5223,16 +5223,16 @@ window.DASHBOARD_DATA = {
    "source": "ORF Middle East"
   },
   {
-   "title": "Egypt, Eritrea, and the Militarization of Eastern Sudan - horn review",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWDk4aUpHdmp3OHNnZGpOUTVqaFlvVkdYaFZSS3p4eHdER0RGdUZMM1RZTUw4NzAyb0pqd0RsU2xjVll1R0NBeG81QUYwOHpHdHZjRHhGV0dGUnM4SEVHSE9rd2VTSnhucmdpVXZjWWo2YXFHYVBwSVJXbUxLdVYxMlRBQ2VsNk5Rby1SLW5NNkRPZw?oc=5",
-   "pubDate": "Fri, 19 Jun 2026 12:03:26 GMT",
-   "source": "horn review"
-  },
-  {
    "title": "2026 Iran war | Deal, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
    "pubDate": "Fri, 19 Jun 2026 05:00:00 GMT",
    "source": "Britannica"
+  },
+  {
+   "title": "Egypt, Eritrea, and the Militarization of Eastern Sudan - horn review",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWDk4aUpHdmp3OHNnZGpOUTVqaFlvVkdYaFZSS3p4eHdER0RGdUZMM1RZTUw4NzAyb0pqd0RsU2xjVll1R0NBeG81QUYwOHpHdHZjRHhGV0dGUnM4SEVHSE9rd2VTSnhucmdpVXZjWWo2YXFHYVBwSVJXbUxLdVYxMlRBQ2VsNk5Rby1SLW5NNkRPZw?oc=5",
+   "pubDate": "Fri, 19 Jun 2026 12:03:26 GMT",
+   "source": "horn review"
   },
   {
    "title": "America\u2019s Suez Moment? The Middle East Conflict and the Limits of U.S. Primacy - E-International Relations",
@@ -5245,6 +5245,12 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wak12MmR2eVNLYmZPVjI4bUg0YU9ycjBTeDV3clk3NUluVFViVDRxQXduQnZUWEYwdXA4RUF2a2tMT2NHa2dSNjd3N1R1MDh5Y0pOeUZVcXl1RVNqc0l1WG4xSGNGbExjekUtSDdNTVhhRkk?oc=5",
    "pubDate": "Fri, 19 Jun 2026 04:06:27 GMT",
    "source": "Informed Comment"
+  },
+  {
+   "title": "Iran Talks Collapsed Again. Oil Is Bouncing. Here's the Trade. - Money Morning",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMS0yUk91YzNMLUZ2RTI3SGZYRDh3U24zZ1dxT2RFSkFSQmk3UlhkNkhWaC0tVzVJR3VWa1Q1aGg1eXUyRl9VMms3aUxJeEhFMXlvRmxuNmdXUDNHb1pkczBkMkpjUmJBaTZLTFZKcFFhSlpVNzdYekswREpUNXN6V3hTbWhoRW9JbWlB?oc=5",
+   "pubDate": "Fri, 19 Jun 2026 15:46:54 GMT",
+   "source": "Money Morning"
   },
   {
    "title": "Lloyd's moves to redefine war as grey-zone conflict exposes gaps in century-old exclusions - Insurance Business",
@@ -5263,12 +5269,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdldRWkVFd3VrbTZkcE1pSmlOcDhUVHVBZ3MyaWxWX081cnhab1RBMGdPYTNxVHJGSkJVSlZpM1U3bDJqVmxzZDNpcGZZVjZHR3NzMEY0SFd2UkYyU3dMTVFPOWM2NTJ1?oc=5",
    "pubDate": "Fri, 19 Jun 2026 03:50:20 GMT",
    "source": "World Socialist Web Site"
-  },
-  {
-   "title": "United Nations Climate Talks in Bonn Marked by \u2018Sidestepping and Stalling\u2019 - Inside Climate News",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeWx1cjdEOXk3d1J5ZHBJUHFrYnhXQi1ObXFTUkUxLWVTcURiZmx2ZTRuNkxWLXl4TTRmdUwwWXNKUTNEZTN3OHdVRzg4U2VGSGN2U1o5Y3RpZHJkaEVnTjJwcmRsZjRVa0JmMXFOSjM0UHlDSzBSQW5uVkRpMGFCMFFBZHgwazZqdDR3X2haUFgyN1pyRkNzeUZqd0k4ZldVQXc?oc=5",
-   "pubDate": "Thu, 18 Jun 2026 20:22:51 GMT",
-   "source": "Inside Climate News"
   }
  ],
  "mna": [
