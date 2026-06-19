@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-19T18:12:32.888397+00:00",
+ "generatedAt": "2026-06-19T18:18:19.089813+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -252,7 +252,7 @@ window.DASHBOARD_DATA = {
     "price": 67.4,
     "changePct": 1.57
    },
-   "relVol": 5.0,
+   "relVol": 4.8,
    "avgVolume": 1623523,
    "symbol": "BAH",
    "name": "Booz Allen",
@@ -580,7 +580,7 @@ window.DASHBOARD_DATA = {
     "price": 9.94,
     "changePct": -0.61
    },
-   "relVol": 1.4,
+   "relVol": 1.3,
    "avgVolume": 38806152,
    "symbol": "JOBY",
    "name": "Joby Aviation",
@@ -826,7 +826,7 @@ window.DASHBOARD_DATA = {
     "price": 14.2,
     "changePct": -1.05
    },
-   "relVol": 1.0,
+   "relVol": 0.9,
    "avgVolume": 40352294,
    "symbol": "RDW",
    "name": "Redwire",
@@ -908,7 +908,7 @@ window.DASHBOARD_DATA = {
     "price": 52.8,
     "changePct": 1.13
    },
-   "relVol": 2.0,
+   "relVol": 1.9,
    "avgVolume": 673970,
    "symbol": "PSN",
    "name": "Parsons",
@@ -1154,7 +1154,7 @@ window.DASHBOARD_DATA = {
     "price": 522.0,
     "changePct": 0.1
    },
-   "relVol": 4.4,
+   "relVol": 4.3,
    "avgVolume": 748649,
    "symbol": "NOC",
    "name": "Northrop Grumman",
@@ -1318,7 +1318,7 @@ window.DASHBOARD_DATA = {
     "price": 11.42,
     "changePct": -0.17
    },
-   "relVol": 3.0,
+   "relVol": 2.9,
    "avgVolume": 10567544,
    "symbol": "RCAT",
    "name": "Red Cat Holdings",
@@ -1482,7 +1482,7 @@ window.DASHBOARD_DATA = {
     "price": 89.6,
     "changePct": 0.15
    },
-   "relVol": 5.3,
+   "relVol": 5.2,
    "avgVolume": 1125146,
    "symbol": "TXT",
    "name": "Textron",
@@ -1564,7 +1564,7 @@ window.DASHBOARD_DATA = {
     "price": 287.38,
     "changePct": 0.68
    },
-   "relVol": 2.2,
+   "relVol": 2.1,
    "avgVolume": 314096,
    "symbol": "HII",
    "name": "Huntington Ingalls",
@@ -1646,7 +1646,7 @@ window.DASHBOARD_DATA = {
     "price": 205.25,
     "changePct": -0.07
    },
-   "relVol": 4.4,
+   "relVol": 4.3,
    "avgVolume": 722494,
    "symbol": "BWXT",
    "name": "BWX Technologies",
@@ -1892,7 +1892,7 @@ window.DASHBOARD_DATA = {
     "price": 54.18,
     "changePct": -0.06
    },
-   "relVol": 2.6,
+   "relVol": 2.5,
    "avgVolume": 3157352,
    "symbol": "KTOS",
    "name": "Kratos Defense",
@@ -2056,7 +2056,7 @@ window.DASHBOARD_DATA = {
     "price": 422.38,
     "changePct": -0.24
    },
-   "relVol": 3.0,
+   "relVol": 2.9,
    "avgVolume": 735598,
    "symbol": "AXON",
    "name": "Axon Enterprise",
@@ -2132,7 +2132,7 @@ window.DASHBOARD_DATA = {
     "price": 106.2,
     "changePct": -0.97
    },
-   "relVol": 3.1,
+   "relVol": 3.0,
    "avgVolume": 31435479,
    "symbol": "RKLB",
    "name": "Rocket Lab",
@@ -2208,7 +2208,7 @@ window.DASHBOARD_DATA = {
     "price": 5.56,
     "changePct": -0.18
    },
-   "relVol": 1.0,
+   "relVol": 0.9,
    "avgVolume": 42425397,
    "symbol": "ACHR",
    "name": "Archer Aviation",
@@ -2360,7 +2360,7 @@ window.DASHBOARD_DATA = {
     "price": 222.97,
     "changePct": 0.11
    },
-   "relVol": 2.4,
+   "relVol": 2.3,
    "avgVolume": 5024372,
    "symbol": "BA",
    "name": "Boeing",
@@ -2436,7 +2436,7 @@ window.DASHBOARD_DATA = {
     "price": 1331.43,
     "changePct": 0.23
    },
-   "relVol": 3.4,
+   "relVol": 3.3,
    "avgVolume": 303733,
    "symbol": "TDG",
    "name": "TransDigm",
@@ -2512,7 +2512,7 @@ window.DASHBOARD_DATA = {
     "price": 168.73,
     "changePct": -0.52
    },
-   "relVol": 2.5,
+   "relVol": 2.4,
    "avgVolume": 873964,
    "symbol": "AVAV",
    "name": "AeroVironment",
@@ -2588,7 +2588,7 @@ window.DASHBOARD_DATA = {
     "price": 357.5,
     "changePct": -0.04
    },
-   "relVol": 1.5,
+   "relVol": 1.4,
    "avgVolume": 3454320,
    "symbol": "GE",
    "name": "GE Aerospace",
@@ -2664,7 +2664,7 @@ window.DASHBOARD_DATA = {
     "price": 85.9,
     "changePct": 0.41
    },
-   "relVol": 1.7,
+   "relVol": 1.6,
    "avgVolume": 400756,
    "symbol": "VVX",
    "name": "V2X",
@@ -2816,7 +2816,7 @@ window.DASHBOARD_DATA = {
     "price": 44.89,
     "changePct": -2.58
    },
-   "relVol": 2.4,
+   "relVol": 2.3,
    "avgVolume": 846763,
    "symbol": "DRS",
    "name": "Leonardo DRS",
@@ -2892,7 +2892,7 @@ window.DASHBOARD_DATA = {
     "price": 139.54,
     "changePct": 0.0
    },
-   "relVol": 1.2,
+   "relVol": 1.1,
    "avgVolume": 463614,
    "symbol": "OSK",
    "name": "Oshkosh",
@@ -3120,7 +3120,7 @@ window.DASHBOARD_DATA = {
     "price": 9.27,
     "changePct": 0.01
    },
-   "relVol": 1.8,
+   "relVol": 1.7,
    "avgVolume": 49637192,
    "symbol": "ONDS",
    "name": "Ondas Holdings",
@@ -3272,7 +3272,7 @@ window.DASHBOARD_DATA = {
     "price": 343.84,
     "changePct": 2.0
    },
-   "relVol": 1.3,
+   "relVol": 1.2,
    "avgVolume": 302135,
    "symbol": "HEI",
    "name": "HEICO",
@@ -3426,7 +3426,7 @@ window.DASHBOARD_DATA = {
     "price": 67.4,
     "changePct": 1.57
    },
-   "relVol": 5.0,
+   "relVol": 4.8,
    "avgVolume": 1623523,
    "symbol": "BAH",
    "name": "Booz Allen",
@@ -3754,7 +3754,7 @@ window.DASHBOARD_DATA = {
     "price": 9.94,
     "changePct": -0.61
    },
-   "relVol": 1.4,
+   "relVol": 1.3,
    "avgVolume": 38806152,
    "symbol": "JOBY",
    "name": "Joby Aviation",
@@ -4000,7 +4000,7 @@ window.DASHBOARD_DATA = {
     "price": 14.2,
     "changePct": -1.05
    },
-   "relVol": 1.0,
+   "relVol": 0.9,
    "avgVolume": 40352294,
    "symbol": "RDW",
    "name": "Redwire",
@@ -4082,7 +4082,7 @@ window.DASHBOARD_DATA = {
     "price": 52.8,
     "changePct": 1.13
    },
-   "relVol": 2.0,
+   "relVol": 1.9,
    "avgVolume": 673970,
    "symbol": "PSN",
    "name": "Parsons",
@@ -4328,7 +4328,7 @@ window.DASHBOARD_DATA = {
     "price": 522.0,
     "changePct": 0.1
    },
-   "relVol": 4.4,
+   "relVol": 4.3,
    "avgVolume": 748649,
    "symbol": "NOC",
    "name": "Northrop Grumman",
@@ -4492,7 +4492,7 @@ window.DASHBOARD_DATA = {
     "price": 11.42,
     "changePct": -0.17
    },
-   "relVol": 3.0,
+   "relVol": 2.9,
    "avgVolume": 10567544,
    "symbol": "RCAT",
    "name": "Red Cat Holdings",
@@ -4656,7 +4656,7 @@ window.DASHBOARD_DATA = {
     "price": 89.6,
     "changePct": 0.15
    },
-   "relVol": 5.3,
+   "relVol": 5.2,
    "avgVolume": 1125146,
    "symbol": "TXT",
    "name": "Textron",
@@ -4738,7 +4738,7 @@ window.DASHBOARD_DATA = {
     "price": 287.38,
     "changePct": 0.68
    },
-   "relVol": 2.2,
+   "relVol": 2.1,
    "avgVolume": 314096,
    "symbol": "HII",
    "name": "Huntington Ingalls",
@@ -4820,7 +4820,7 @@ window.DASHBOARD_DATA = {
     "price": 205.25,
     "changePct": -0.07
    },
-   "relVol": 4.4,
+   "relVol": 4.3,
    "avgVolume": 722494,
    "symbol": "BWXT",
    "name": "BWX Technologies",
@@ -5066,7 +5066,7 @@ window.DASHBOARD_DATA = {
     "price": 54.18,
     "changePct": -0.06
    },
-   "relVol": 2.6,
+   "relVol": 2.5,
    "avgVolume": 3157352,
    "symbol": "KTOS",
    "name": "Kratos Defense",
