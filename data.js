@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-22T20:22:44.445272+00:00",
+ "generatedAt": "2026-06-22T20:28:36.199226+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -190,8 +190,8 @@ window.DASHBOARD_DATA = {
   {
    "date": "2026-06-22",
    "advancers": 8,
-   "decliners": 29,
-   "avgChangePct": -3.58,
+   "decliners": 32,
+   "avgChangePct": -3.83,
    "topMovers": [
     {
      "symbol": "KULR",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.96,
-    "changePct": -0.68
+    "price": 3.94,
+    "changePct": -1.18
    },
    "relVol": 1.0,
    "avgVolume": 1638231,
@@ -413,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 63.9,
-    "changePct": 0.9
+    "price": 63.89,
+    "changePct": 0.88
    },
    "relVol": 2.0,
    "avgVolume": 1767161,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 150.5,
-    "changePct": -0.55
+    "price": 151.26,
+    "changePct": -0.05
    },
    "relVol": 2.7,
    "avgVolume": 871130,
@@ -577,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 12.8,
-    "changePct": -1.72
+    "price": 12.79,
+    "changePct": -1.77
    },
    "relVol": 0.8,
    "avgVolume": 35246896,
@@ -659,8 +659,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 440.01,
-    "changePct": -2.16
+    "price": 452.0,
+    "changePct": 0.51
    },
    "relVol": 1.5,
    "avgVolume": 252790,
@@ -741,8 +741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 51.36,
-    "changePct": 0.53
+    "price": 51.02,
+    "changePct": -0.14
    },
    "relVol": 1.5,
    "avgVolume": 2978334,
@@ -823,8 +823,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 285.83,
-    "changePct": 0.0
+    "price": 286.0,
+    "changePct": 0.06
    },
    "relVol": 1.6,
    "avgVolume": 1222490,
@@ -905,8 +905,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 119.58,
-    "changePct": 0.07
+    "price": 119.63,
+    "changePct": 0.11
    },
    "relVol": 1.8,
    "avgVolume": 31194733,
@@ -958,6 +958,57 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    538.42,
+    542.79,
+    544.71,
+    542.7,
+    544.67,
+    549.79,
+    550.74,
+    552.22,
+    552.6,
+    551.04,
+    555.12,
+    556.48,
+    553.88,
+    547.99,
+    549.96,
+    525.35,
+    518.27,
+    519.56,
+    516.78,
+    521.36,
+    506.17,
+    505.67,
+    505.55,
+    506.9,
+    507.07,
+    507.33
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 506.0,
+    "changePct": -0.26
+   },
+   "relVol": 1.2,
+   "avgVolume": 787506,
+   "symbol": "NOC",
+   "name": "Northrop Grumman",
+   "vertical": "Prime Contractors",
+   "description": "Prime behind the B-21 stealth bomber, Sentinel ICBM, military space systems, and advanced sensors.",
+   "price": 507.33,
+   "prevClose": 550.15,
+   "changePct": -7.78,
+   "volume": 917436,
+   "dayHigh": 516.07,
+   "dayLow": 503.7,
+   "fiftyTwoWeekHigh": 774.0,
+   "fiftyTwoWeekLow": 481.28,
+   "marketTime": 1782158403,
+   "news": []
+  },
+  {
+   "spark": [
     25.94,
     26.71,
     26.36,
@@ -987,8 +1038,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 22.6,
-    "changePct": 0.13
+    "price": 22.77,
+    "changePct": 0.89
    },
    "relVol": 0.9,
    "avgVolume": 4757029,
@@ -1122,6 +1173,57 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    530.19,
+    532.89,
+    535.44,
+    529.98,
+    530.52,
+    533.53,
+    534.78,
+    537.25,
+    536.09,
+    536.29,
+    534.5,
+    537.43,
+    535.05,
+    529.98,
+    532.31,
+    514.31,
+    508.67,
+    508.68,
+    508.0,
+    511.0,
+    494.79,
+    493.4,
+    491.66,
+    493.62,
+    493.53,
+    493.6
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 493.6,
+    "changePct": 0.0
+   },
+   "relVol": 1.0,
+   "avgVolume": 1169797,
+   "symbol": "LMT",
+   "name": "Lockheed Martin",
+   "vertical": "Prime Contractors",
+   "description": "Largest US defense prime \u2014 F-35 fighter, missiles & fire control (PAC-3, HIMARS), Sikorsky helicopters, and space systems.",
+   "price": 493.6,
+   "prevClose": 532.32,
+   "changePct": -7.27,
+   "volume": 1125122,
+   "dayHigh": 510.0,
+   "dayLow": 490.05,
+   "fiftyTwoWeekHigh": 692.0,
+   "fiftyTwoWeekLow": 410.11,
+   "marketTime": 1782158402,
+   "news": []
+  },
+  {
+   "spark": [
     106.57,
     109.9,
     109.85,
@@ -1151,8 +1253,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 100.3,
-    "changePct": 0.01
+    "price": 100.2,
+    "changePct": -0.09
    },
    "relVol": 1.1,
    "avgVolume": 24226400,
@@ -1315,8 +1417,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 86.94,
-    "changePct": 0.0
+    "price": 87.5,
+    "changePct": 0.65
    },
    "relVol": 1.4,
    "avgVolume": 1165044,
@@ -1532,6 +1634,57 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    183.57,
+    185.12,
+    186.31,
+    184.73,
+    183.65,
+    184.08,
+    185.51,
+    186.01,
+    186.46,
+    186.81,
+    190.22,
+    192.46,
+    193.02,
+    191.42,
+    192.57,
+    187.66,
+    185.54,
+    185.29,
+    185.68,
+    185.68,
+    181.58,
+    182.05,
+    181.44,
+    182.38,
+    181.83,
+    181.83
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 182.52,
+    "changePct": 0.38
+   },
+   "relVol": 1.3,
+   "avgVolume": 4812480,
+   "symbol": "RTX",
+   "name": "RTX Corp",
+   "vertical": "Prime Contractors",
+   "description": "Defense and aerospace giant \u2014 Raytheon missiles & air defense (Patriot, AMRAAM), Pratt & Whitney engines, Collins Aerospace avionics.",
+   "price": 181.83,
+   "prevClose": 192.58,
+   "changePct": -5.58,
+   "volume": 6344729,
+   "dayHigh": 185.71,
+   "dayLow": 180.97,
+   "fiftyTwoWeekHigh": 214.5,
+   "fiftyTwoWeekLow": 140.47,
+   "marketTime": 1782158402,
+   "news": []
+  },
+  {
+   "spark": [
     359.05,
     359.17,
     361.98,
@@ -1725,8 +1878,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.76,
-    "changePct": 1.22
+    "price": 10.69,
+    "changePct": 0.56
    },
    "relVol": 0.9,
    "avgVolume": 10585639,
@@ -1805,7 +1958,11 @@ window.DASHBOARD_DATA = {
     9.82,
     9.86
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 9.86,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 42948310,
    "symbol": "JOBY",
@@ -1937,14 +2094,41 @@ window.DASHBOARD_DATA = {
    ]
   },
   {
-   "spark": [],
+   "spark": [
+    115.61,
+    116.25,
+    114.86,
+    114.69,
+    114.59,
+    114.13,
+    113.98,
+    114.67,
+    114.42,
+    113.57,
+    110.61,
+    110.41,
+    110.27,
+    108.44,
+    108.7,
+    107.8,
+    106.97,
+    106.88,
+    106.7,
+    107.07,
+    103.0,
+    102.36,
+    101.47,
+    102.49,
+    104.77,
+    104.84
+   ],
    "ext": {
     "label": "after-hours",
-    "price": 105.0,
-    "changePct": 0.15
+    "price": 106.5,
+    "changePct": 1.58
    },
-   "relVol": null,
-   "avgVolume": null,
+   "relVol": 1.8,
+   "avgVolume": 1720186,
    "symbol": "LDOS",
    "name": "Leidos",
    "vertical": "Gov Services & IT",
@@ -2022,8 +2206,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 209.6,
-    "changePct": -0.19
+    "price": 208.41,
+    "changePct": -0.76
    },
    "relVol": 1.2,
    "avgVolume": 774884,
@@ -2350,8 +2534,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 21.83,
-    "changePct": -0.75
+    "price": 21.8,
+    "changePct": -0.86
    },
    "relVol": 1.0,
    "avgVolume": 11949133,
@@ -2432,8 +2616,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 412.0,
-    "changePct": 0.48
+    "price": 410.08,
+    "changePct": 0.01
    },
    "relVol": 1.1,
    "avgVolume": 767726,
@@ -2514,8 +2698,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.95,
-    "changePct": 0.67
+    "price": 8.93,
+    "changePct": 0.44
    },
    "relVol": 1.2,
    "avgVolume": 49077230,
@@ -2588,7 +2772,11 @@ window.DASHBOARD_DATA = {
     81.82,
     81.85
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 81.85,
+    "changePct": 0.0
+   },
    "relVol": 0.8,
    "avgVolume": 675493,
    "symbol": "ATRO",
@@ -2632,14 +2820,41 @@ window.DASHBOARD_DATA = {
    ]
   },
   {
-   "spark": [],
+   "spark": [
+    228.77,
+    228.83,
+    230.74,
+    229.36,
+    229.01,
+    227.24,
+    227.69,
+    228.39,
+    227.58,
+    227.5,
+    226.69,
+    230.25,
+    230.03,
+    226.98,
+    225.6,
+    225.1,
+    222.27,
+    222.49,
+    222.58,
+    222.78,
+    221.3,
+    221.96,
+    220.65,
+    221.36,
+    220.84,
+    220.83
+   ],
    "ext": {
     "label": "after-hours",
-    "price": 220.56,
-    "changePct": -0.12
+    "price": 220.74,
+    "changePct": -0.04
    },
-   "relVol": null,
-   "avgVolume": null,
+   "relVol": 0.8,
+   "avgVolume": 5157447,
    "symbol": "BA",
    "name": "Boeing",
    "vertical": "Prime Contractors",
@@ -2863,8 +3078,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.43,
-    "changePct": 0.0
+    "price": 5.45,
+    "changePct": 0.37
    },
    "relVol": 0.7,
    "avgVolume": 46032316,
@@ -2937,7 +3152,11 @@ window.DASHBOARD_DATA = {
     280.33,
     280.36
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 280.36,
+    "changePct": 0.0
+   },
    "relVol": 0.9,
    "avgVolume": 1978568,
    "symbol": "HWM",
@@ -3085,7 +3304,11 @@ window.DASHBOARD_DATA = {
     355.41,
     355.12
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 355.61,
+    "changePct": 0.14
+   },
    "relVol": 0.9,
    "avgVolume": 3584400,
    "symbol": "GE",
@@ -3161,8 +3384,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.96,
-    "changePct": -0.68
+    "price": 3.94,
+    "changePct": -1.18
    },
    "relVol": 1.0,
    "avgVolume": 1638231,
@@ -3325,8 +3548,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 63.9,
-    "changePct": 0.9
+    "price": 63.89,
+    "changePct": 0.88
    },
    "relVol": 2.0,
    "avgVolume": 1767161,
@@ -3407,8 +3630,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 150.5,
-    "changePct": -0.55
+    "price": 151.26,
+    "changePct": -0.05
    },
    "relVol": 2.7,
    "avgVolume": 871130,
@@ -3489,8 +3712,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 12.8,
-    "changePct": -1.72
+    "price": 12.79,
+    "changePct": -1.77
    },
    "relVol": 0.8,
    "avgVolume": 35246896,
@@ -3571,8 +3794,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 440.01,
-    "changePct": -2.16
+    "price": 452.0,
+    "changePct": 0.51
    },
    "relVol": 1.5,
    "avgVolume": 252790,
@@ -3653,8 +3876,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 51.36,
-    "changePct": 0.53
+    "price": 51.02,
+    "changePct": -0.14
    },
    "relVol": 1.5,
    "avgVolume": 2978334,
@@ -3735,8 +3958,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 285.83,
-    "changePct": 0.0
+    "price": 286.0,
+    "changePct": 0.06
    },
    "relVol": 1.6,
    "avgVolume": 1222490,
@@ -3817,8 +4040,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 119.58,
-    "changePct": 0.07
+    "price": 119.63,
+    "changePct": 0.11
    },
    "relVol": 1.8,
    "avgVolume": 31194733,
@@ -3870,6 +4093,57 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    538.42,
+    542.79,
+    544.71,
+    542.7,
+    544.67,
+    549.79,
+    550.74,
+    552.22,
+    552.6,
+    551.04,
+    555.12,
+    556.48,
+    553.88,
+    547.99,
+    549.96,
+    525.35,
+    518.27,
+    519.56,
+    516.78,
+    521.36,
+    506.17,
+    505.67,
+    505.55,
+    506.9,
+    507.07,
+    507.33
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 506.0,
+    "changePct": -0.26
+   },
+   "relVol": 1.2,
+   "avgVolume": 787506,
+   "symbol": "NOC",
+   "name": "Northrop Grumman",
+   "vertical": "Prime Contractors",
+   "description": "Prime behind the B-21 stealth bomber, Sentinel ICBM, military space systems, and advanced sensors.",
+   "price": 507.33,
+   "prevClose": 550.15,
+   "changePct": -7.78,
+   "volume": 917436,
+   "dayHigh": 516.07,
+   "dayLow": 503.7,
+   "fiftyTwoWeekHigh": 774.0,
+   "fiftyTwoWeekLow": 481.28,
+   "marketTime": 1782158403,
+   "news": []
+  },
+  {
+   "spark": [
     25.94,
     26.71,
     26.36,
@@ -3899,8 +4173,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 22.6,
-    "changePct": 0.13
+    "price": 22.77,
+    "changePct": 0.89
    },
    "relVol": 0.9,
    "avgVolume": 4757029,
@@ -4034,6 +4308,57 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    530.19,
+    532.89,
+    535.44,
+    529.98,
+    530.52,
+    533.53,
+    534.78,
+    537.25,
+    536.09,
+    536.29,
+    534.5,
+    537.43,
+    535.05,
+    529.98,
+    532.31,
+    514.31,
+    508.67,
+    508.68,
+    508.0,
+    511.0,
+    494.79,
+    493.4,
+    491.66,
+    493.62,
+    493.53,
+    493.6
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 493.6,
+    "changePct": 0.0
+   },
+   "relVol": 1.0,
+   "avgVolume": 1169797,
+   "symbol": "LMT",
+   "name": "Lockheed Martin",
+   "vertical": "Prime Contractors",
+   "description": "Largest US defense prime \u2014 F-35 fighter, missiles & fire control (PAC-3, HIMARS), Sikorsky helicopters, and space systems.",
+   "price": 493.6,
+   "prevClose": 532.32,
+   "changePct": -7.27,
+   "volume": 1125122,
+   "dayHigh": 510.0,
+   "dayLow": 490.05,
+   "fiftyTwoWeekHigh": 692.0,
+   "fiftyTwoWeekLow": 410.11,
+   "marketTime": 1782158402,
+   "news": []
+  },
+  {
+   "spark": [
     106.57,
     109.9,
     109.85,
@@ -4063,8 +4388,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 100.3,
-    "changePct": 0.01
+    "price": 100.2,
+    "changePct": -0.09
    },
    "relVol": 1.1,
    "avgVolume": 24226400,
@@ -4227,8 +4552,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 86.94,
-    "changePct": 0.0
+    "price": 87.5,
+    "changePct": 0.65
    },
    "relVol": 1.4,
    "avgVolume": 1165044,
@@ -4444,6 +4769,57 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    183.57,
+    185.12,
+    186.31,
+    184.73,
+    183.65,
+    184.08,
+    185.51,
+    186.01,
+    186.46,
+    186.81,
+    190.22,
+    192.46,
+    193.02,
+    191.42,
+    192.57,
+    187.66,
+    185.54,
+    185.29,
+    185.68,
+    185.68,
+    181.58,
+    182.05,
+    181.44,
+    182.38,
+    181.83,
+    181.83
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 182.52,
+    "changePct": 0.38
+   },
+   "relVol": 1.3,
+   "avgVolume": 4812480,
+   "symbol": "RTX",
+   "name": "RTX Corp",
+   "vertical": "Prime Contractors",
+   "description": "Defense and aerospace giant \u2014 Raytheon missiles & air defense (Patriot, AMRAAM), Pratt & Whitney engines, Collins Aerospace avionics.",
+   "price": 181.83,
+   "prevClose": 192.58,
+   "changePct": -5.58,
+   "volume": 6344729,
+   "dayHigh": 185.71,
+   "dayLow": 180.97,
+   "fiftyTwoWeekHigh": 214.5,
+   "fiftyTwoWeekLow": 140.47,
+   "marketTime": 1782158402,
+   "news": []
+  },
+  {
+   "spark": [
     359.05,
     359.17,
     361.98,
@@ -4637,8 +5013,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.76,
-    "changePct": 1.22
+    "price": 10.69,
+    "changePct": 0.56
    },
    "relVol": 0.9,
    "avgVolume": 10585639,
@@ -4717,7 +5093,11 @@ window.DASHBOARD_DATA = {
     9.82,
     9.86
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 9.86,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 42948310,
    "symbol": "JOBY",
@@ -4849,14 +5229,41 @@ window.DASHBOARD_DATA = {
    ]
   },
   {
-   "spark": [],
+   "spark": [
+    115.61,
+    116.25,
+    114.86,
+    114.69,
+    114.59,
+    114.13,
+    113.98,
+    114.67,
+    114.42,
+    113.57,
+    110.61,
+    110.41,
+    110.27,
+    108.44,
+    108.7,
+    107.8,
+    106.97,
+    106.88,
+    106.7,
+    107.07,
+    103.0,
+    102.36,
+    101.47,
+    102.49,
+    104.77,
+    104.84
+   ],
    "ext": {
     "label": "after-hours",
-    "price": 105.0,
-    "changePct": 0.15
+    "price": 106.5,
+    "changePct": 1.58
    },
-   "relVol": null,
-   "avgVolume": null,
+   "relVol": 1.8,
+   "avgVolume": 1720186,
    "symbol": "LDOS",
    "name": "Leidos",
    "vertical": "Gov Services & IT",
@@ -4934,8 +5341,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 209.6,
-    "changePct": -0.19
+    "price": 208.41,
+    "changePct": -0.76
    },
    "relVol": 1.2,
    "avgVolume": 774884,
@@ -5262,8 +5669,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 21.83,
-    "changePct": -0.75
+    "price": 21.8,
+    "changePct": -0.86
    },
    "relVol": 1.0,
    "avgVolume": 11949133,
@@ -5344,8 +5751,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 412.0,
-    "changePct": 0.48
+    "price": 410.08,
+    "changePct": 0.01
    },
    "relVol": 1.1,
    "avgVolume": 767726,
