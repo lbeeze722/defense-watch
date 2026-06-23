@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-23T13:08:35.196122+00:00",
+ "generatedAt": "2026-06-23T13:14:14.591111+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -190,8 +190,8 @@ window.DASHBOARD_DATA = {
   {
    "date": "2026-06-23",
    "advancers": 8,
-   "decliners": 28,
-   "avgChangePct": -3.75,
+   "decliners": 32,
+   "avgChangePct": -3.83,
    "topMovers": [
     {
      "symbol": "KULR",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 3.83,
-    "changePct": -3.28
+    "price": 3.79,
+    "changePct": -4.29
    },
    "relVol": 1.0,
    "avgVolume": 1634197,
@@ -413,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 63.9,
-    "changePct": -3.71
+    "price": 63.69,
+    "changePct": -4.02
    },
    "relVol": 1.8,
    "avgVolume": 1901560,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 148.03,
-    "changePct": -12.72
+    "price": 150.0,
+    "changePct": -11.56
    },
    "relVol": 2.1,
    "avgVolume": 1126331,
@@ -577,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 12.23,
-    "changePct": -14.77
+    "price": 12.26,
+    "changePct": -14.56
    },
    "relVol": 0.9,
    "avgVolume": 34140080,
@@ -741,8 +741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 49.6,
-    "changePct": -8.5
+    "price": 49.57,
+    "changePct": -8.55
    },
    "relVol": 1.4,
    "avgVolume": 3216005,
@@ -823,8 +823,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 288.9,
-    "changePct": -2.01
+    "price": 287.4,
+    "changePct": -2.52
    },
    "relVol": 1.4,
    "avgVolume": 1376341,
@@ -905,8 +905,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 120.33,
-    "changePct": -6.34
+    "price": 120.41,
+    "changePct": -6.27
    },
    "relVol": 1.6,
    "avgVolume": 34986369,
@@ -987,8 +987,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 514.0,
-    "changePct": -1.44
+    "price": 511.0,
+    "changePct": -2.01
    },
    "relVol": 1.1,
    "avgVolume": 813554,
@@ -1069,8 +1069,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 20.97,
-    "changePct": -16.05
+    "price": 21.12,
+    "changePct": -15.45
    },
    "relVol": 0.9,
    "avgVolume": 4646247,
@@ -1151,8 +1151,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 81.99,
-    "changePct": -4.16
+    "price": 81.59,
+    "changePct": -4.63
    },
    "relVol": 0.8,
    "avgVolume": 387609,
@@ -1204,6 +1204,108 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    530.19,
+    532.89,
+    535.44,
+    529.98,
+    530.52,
+    533.53,
+    534.78,
+    537.25,
+    536.09,
+    536.29,
+    534.5,
+    537.43,
+    535.05,
+    529.98,
+    532.31,
+    514.31,
+    508.67,
+    508.68,
+    508.0,
+    511.0,
+    494.79,
+    493.4,
+    491.66,
+    493.62,
+    493.53,
+    493.6
+   ],
+   "ext": {
+    "label": "pre-market",
+    "price": 495.02,
+    "changePct": -3.12
+   },
+   "relVol": 1.0,
+   "avgVolume": 1161005,
+   "symbol": "LMT",
+   "name": "Lockheed Martin",
+   "vertical": "Prime Contractors",
+   "description": "Largest US defense prime \u2014 F-35 fighter, missiles & fire control (PAC-3, HIMARS), Sikorsky helicopters, and space systems.",
+   "price": 493.6,
+   "prevClose": 532.32,
+   "changePct": -7.27,
+   "volume": 1125122,
+   "dayHigh": 510.0,
+   "dayLow": 490.05,
+   "fiftyTwoWeekHigh": 692.0,
+   "fiftyTwoWeekLow": 410.11,
+   "marketTime": 1782158402,
+   "news": []
+  },
+  {
+   "spark": [
+    106.57,
+    109.9,
+    109.85,
+    109.23,
+    109.28,
+    104.86,
+    106.97,
+    106.7,
+    106.25,
+    104.67,
+    107.55,
+    109.51,
+    109.85,
+    109.18,
+    107.86,
+    104.78,
+    103.77,
+    103.92,
+    106.4,
+    107.3,
+    98.58,
+    98.43,
+    99.48,
+    99.79,
+    100.26,
+    100.29
+   ],
+   "ext": {
+    "label": "pre-market",
+    "price": 94.58,
+    "changePct": -11.81
+   },
+   "relVol": 1.1,
+   "avgVolume": 24149287,
+   "symbol": "RKLB",
+   "name": "Rocket Lab",
+   "vertical": "Space",
+   "description": "Electron small-launch rocket, Neutron medium rocket in development, and a growing satellite/components business.",
+   "price": 100.29,
+   "prevClose": 107.98,
+   "changePct": -7.12,
+   "volume": 27544518,
+   "dayHigh": 107.4,
+   "dayLow": 96.5,
+   "fiftyTwoWeekHigh": 151.0,
+   "fiftyTwoWeekLow": 31.78,
+   "marketTime": 1782158401,
+   "news": []
+  },
+  {
+   "spark": [
     298.16,
     300.16,
     301.33,
@@ -1231,7 +1333,11 @@ window.DASHBOARD_DATA = {
     278.17,
     278.19
    ],
-   "ext": null,
+   "ext": {
+    "label": "pre-market",
+    "price": 277.99,
+    "changePct": -2.61
+   },
    "relVol": 1.7,
    "avgVolume": 358807,
    "symbol": "HII",
@@ -1391,7 +1497,11 @@ window.DASHBOARD_DATA = {
     775.73,
     774.62
    ],
-   "ext": null,
+   "ext": {
+    "label": "pre-market",
+    "price": 770.44,
+    "changePct": -2.26
+   },
    "relVol": 1.1,
    "avgVolume": 102306,
    "symbol": "ESLT",
@@ -1523,14 +1633,41 @@ window.DASHBOARD_DATA = {
    ]
   },
   {
-   "spark": [],
+   "spark": [
+    183.57,
+    185.12,
+    186.31,
+    184.73,
+    183.65,
+    184.08,
+    185.51,
+    186.01,
+    186.46,
+    186.81,
+    190.22,
+    192.46,
+    193.02,
+    191.42,
+    192.57,
+    187.66,
+    185.54,
+    185.29,
+    185.68,
+    185.68,
+    181.58,
+    182.05,
+    181.44,
+    182.38,
+    181.83,
+    181.83
+   ],
    "ext": {
     "label": "pre-market",
-    "price": 181.33,
-    "changePct": -2.3
+    "price": 182.06,
+    "changePct": -1.91
    },
-   "relVol": null,
-   "avgVolume": null,
+   "relVol": 1.3,
+   "avgVolume": 4756822,
    "symbol": "RTX",
    "name": "RTX Corp",
    "vertical": "Prime Contractors",
@@ -1606,7 +1743,11 @@ window.DASHBOARD_DATA = {
     343.5,
     343.36
    ],
-   "ext": null,
+   "ext": {
+    "label": "pre-market",
+    "price": 342.0,
+    "changePct": -2.29
+   },
    "relVol": 1.1,
    "avgVolume": 940202,
    "symbol": "GD",
@@ -1768,8 +1909,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 10.16,
-    "changePct": -11.2
+    "price": 10.12,
+    "changePct": -11.54
    },
    "relVol": 0.9,
    "avgVolume": 10160834,
@@ -1850,8 +1991,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 9.41,
-    "changePct": -5.9
+    "price": 9.4,
+    "changePct": -5.99
    },
    "relVol": 1.1,
    "avgVolume": 43559769,
@@ -2096,8 +2237,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 203.0,
-    "changePct": -1.17
+    "price": 200.02,
+    "changePct": -2.62
    },
    "relVol": 1.2,
    "avgVolume": 810117,
@@ -2260,8 +2401,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 141.16,
-    "changePct": 1.16
+    "price": 139.46,
+    "changePct": -0.06
    },
    "relVol": 1.1,
    "avgVolume": 472622,
@@ -2424,8 +2565,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 20.56,
-    "changePct": -10.02
+    "price": 20.67,
+    "changePct": -9.54
    },
    "relVol": 1.1,
    "avgVolume": 11602350,
@@ -2506,8 +2647,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 405.96,
-    "changePct": -4.12
+    "price": 405.25,
+    "changePct": -4.29
    },
    "relVol": 1.2,
    "avgVolume": 759713,
@@ -2588,8 +2729,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 8.55,
-    "changePct": -7.77
+    "price": 8.56,
+    "changePct": -7.66
    },
    "relVol": 1.2,
    "avgVolume": 49778116,
@@ -2711,6 +2852,57 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    228.77,
+    228.83,
+    230.74,
+    229.36,
+    229.01,
+    227.24,
+    227.69,
+    228.39,
+    227.58,
+    227.5,
+    226.69,
+    230.25,
+    230.03,
+    226.98,
+    225.6,
+    225.1,
+    222.27,
+    222.49,
+    222.58,
+    222.78,
+    221.3,
+    221.96,
+    220.65,
+    221.36,
+    220.84,
+    220.83
+   ],
+   "ext": {
+    "label": "pre-market",
+    "price": 218.86,
+    "changePct": -1.73
+   },
+   "relVol": 0.9,
+   "avgVolume": 4782037,
+   "symbol": "BA",
+   "name": "Boeing",
+   "vertical": "Prime Contractors",
+   "description": "Commercial jets plus defense: F-15EX, KC-46 tanker, Apache helicopter, satellites, and weapons programs.",
+   "price": 220.83,
+   "prevClose": 225.63,
+   "changePct": -2.13,
+   "volume": 4289474,
+   "dayHigh": 223.512,
+   "dayLow": 220.11,
+   "fiftyTwoWeekHigh": 254.35,
+   "fiftyTwoWeekLow": 176.77,
+   "marketTime": 1782158403,
+   "news": []
+  },
+  {
+   "spark": [
     338.51,
     339.28,
     338.28,
@@ -2784,6 +2976,57 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     }
    ]
+  },
+  {
+   "spark": [
+    1278.13,
+    1280.76,
+    1278.93,
+    1276.62,
+    1277.04,
+    1307.86,
+    1300.35,
+    1302.78,
+    1304.69,
+    1301.14,
+    1317.13,
+    1329.68,
+    1328.79,
+    1319.67,
+    1317.31,
+    1324.77,
+    1317.89,
+    1326.13,
+    1322.8,
+    1330.24,
+    1297.62,
+    1295.89,
+    1290.32,
+    1288.54,
+    1295.21,
+    1295.9
+   ],
+   "ext": {
+    "label": "pre-market",
+    "price": 1292.23,
+    "changePct": -2.72
+   },
+   "relVol": 0.9,
+   "avgVolume": 326169,
+   "symbol": "TDG",
+   "name": "TransDigm",
+   "vertical": "Engines & Suppliers",
+   "description": "Roll-up of proprietary aerospace components with strong pricing power; large aftermarket and defense exposure.",
+   "price": 1295.9,
+   "prevClose": 1316.75,
+   "changePct": -1.58,
+   "volume": 291104,
+   "dayHigh": 1320.65,
+   "dayLow": 1281.936,
+   "fiftyTwoWeekHigh": 1623.83,
+   "fiftyTwoWeekLow": 1123.61,
+   "marketTime": 1782158403,
+   "news": []
   },
   {
    "spark": [
@@ -2890,7 +3133,11 @@ window.DASHBOARD_DATA = {
     280.33,
     280.36
    ],
-   "ext": null,
+   "ext": {
+    "label": "pre-market",
+    "price": 277.1,
+    "changePct": -0.2
+   },
    "relVol": 1.3,
    "avgVolume": 1920052,
    "symbol": "HWM",
@@ -2964,8 +3211,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 774.97,
-    "changePct": 0.39
+    "price": 777.75,
+    "changePct": 0.75
    },
    "relVol": 0.9,
    "avgVolume": 221907,
@@ -3040,8 +3287,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 349.99,
-    "changePct": -2.14
+    "price": 349.4,
+    "changePct": -2.3
    },
    "relVol": 0.9,
    "avgVolume": 3528323,
@@ -3118,8 +3365,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 3.83,
-    "changePct": -3.28
+    "price": 3.79,
+    "changePct": -4.29
    },
    "relVol": 1.0,
    "avgVolume": 1634197,
@@ -3282,8 +3529,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 63.9,
-    "changePct": -3.71
+    "price": 63.69,
+    "changePct": -4.02
    },
    "relVol": 1.8,
    "avgVolume": 1901560,
@@ -3364,8 +3611,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 148.03,
-    "changePct": -12.72
+    "price": 150.0,
+    "changePct": -11.56
    },
    "relVol": 2.1,
    "avgVolume": 1126331,
@@ -3446,8 +3693,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 12.23,
-    "changePct": -14.77
+    "price": 12.26,
+    "changePct": -14.56
    },
    "relVol": 0.9,
    "avgVolume": 34140080,
@@ -3610,8 +3857,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 49.6,
-    "changePct": -8.5
+    "price": 49.57,
+    "changePct": -8.55
    },
    "relVol": 1.4,
    "avgVolume": 3216005,
@@ -3692,8 +3939,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 288.9,
-    "changePct": -2.01
+    "price": 287.4,
+    "changePct": -2.52
    },
    "relVol": 1.4,
    "avgVolume": 1376341,
@@ -3774,8 +4021,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 120.33,
-    "changePct": -6.34
+    "price": 120.41,
+    "changePct": -6.27
    },
    "relVol": 1.6,
    "avgVolume": 34986369,
@@ -3856,8 +4103,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 514.0,
-    "changePct": -1.44
+    "price": 511.0,
+    "changePct": -2.01
    },
    "relVol": 1.1,
    "avgVolume": 813554,
@@ -3938,8 +4185,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 20.97,
-    "changePct": -16.05
+    "price": 21.12,
+    "changePct": -15.45
    },
    "relVol": 0.9,
    "avgVolume": 4646247,
@@ -4020,8 +4267,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 81.99,
-    "changePct": -4.16
+    "price": 81.59,
+    "changePct": -4.63
    },
    "relVol": 0.8,
    "avgVolume": 387609,
@@ -4073,6 +4320,108 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    530.19,
+    532.89,
+    535.44,
+    529.98,
+    530.52,
+    533.53,
+    534.78,
+    537.25,
+    536.09,
+    536.29,
+    534.5,
+    537.43,
+    535.05,
+    529.98,
+    532.31,
+    514.31,
+    508.67,
+    508.68,
+    508.0,
+    511.0,
+    494.79,
+    493.4,
+    491.66,
+    493.62,
+    493.53,
+    493.6
+   ],
+   "ext": {
+    "label": "pre-market",
+    "price": 495.02,
+    "changePct": -3.12
+   },
+   "relVol": 1.0,
+   "avgVolume": 1161005,
+   "symbol": "LMT",
+   "name": "Lockheed Martin",
+   "vertical": "Prime Contractors",
+   "description": "Largest US defense prime \u2014 F-35 fighter, missiles & fire control (PAC-3, HIMARS), Sikorsky helicopters, and space systems.",
+   "price": 493.6,
+   "prevClose": 532.32,
+   "changePct": -7.27,
+   "volume": 1125122,
+   "dayHigh": 510.0,
+   "dayLow": 490.05,
+   "fiftyTwoWeekHigh": 692.0,
+   "fiftyTwoWeekLow": 410.11,
+   "marketTime": 1782158402,
+   "news": []
+  },
+  {
+   "spark": [
+    106.57,
+    109.9,
+    109.85,
+    109.23,
+    109.28,
+    104.86,
+    106.97,
+    106.7,
+    106.25,
+    104.67,
+    107.55,
+    109.51,
+    109.85,
+    109.18,
+    107.86,
+    104.78,
+    103.77,
+    103.92,
+    106.4,
+    107.3,
+    98.58,
+    98.43,
+    99.48,
+    99.79,
+    100.26,
+    100.29
+   ],
+   "ext": {
+    "label": "pre-market",
+    "price": 94.58,
+    "changePct": -11.81
+   },
+   "relVol": 1.1,
+   "avgVolume": 24149287,
+   "symbol": "RKLB",
+   "name": "Rocket Lab",
+   "vertical": "Space",
+   "description": "Electron small-launch rocket, Neutron medium rocket in development, and a growing satellite/components business.",
+   "price": 100.29,
+   "prevClose": 107.98,
+   "changePct": -7.12,
+   "volume": 27544518,
+   "dayHigh": 107.4,
+   "dayLow": 96.5,
+   "fiftyTwoWeekHigh": 151.0,
+   "fiftyTwoWeekLow": 31.78,
+   "marketTime": 1782158401,
+   "news": []
+  },
+  {
+   "spark": [
     298.16,
     300.16,
     301.33,
@@ -4100,7 +4449,11 @@ window.DASHBOARD_DATA = {
     278.17,
     278.19
    ],
-   "ext": null,
+   "ext": {
+    "label": "pre-market",
+    "price": 277.99,
+    "changePct": -2.61
+   },
    "relVol": 1.7,
    "avgVolume": 358807,
    "symbol": "HII",
@@ -4260,7 +4613,11 @@ window.DASHBOARD_DATA = {
     775.73,
     774.62
    ],
-   "ext": null,
+   "ext": {
+    "label": "pre-market",
+    "price": 770.44,
+    "changePct": -2.26
+   },
    "relVol": 1.1,
    "avgVolume": 102306,
    "symbol": "ESLT",
@@ -4392,14 +4749,41 @@ window.DASHBOARD_DATA = {
    ]
   },
   {
-   "spark": [],
+   "spark": [
+    183.57,
+    185.12,
+    186.31,
+    184.73,
+    183.65,
+    184.08,
+    185.51,
+    186.01,
+    186.46,
+    186.81,
+    190.22,
+    192.46,
+    193.02,
+    191.42,
+    192.57,
+    187.66,
+    185.54,
+    185.29,
+    185.68,
+    185.68,
+    181.58,
+    182.05,
+    181.44,
+    182.38,
+    181.83,
+    181.83
+   ],
    "ext": {
     "label": "pre-market",
-    "price": 181.33,
-    "changePct": -2.3
+    "price": 182.06,
+    "changePct": -1.91
    },
-   "relVol": null,
-   "avgVolume": null,
+   "relVol": 1.3,
+   "avgVolume": 4756822,
    "symbol": "RTX",
    "name": "RTX Corp",
    "vertical": "Prime Contractors",
@@ -4475,7 +4859,11 @@ window.DASHBOARD_DATA = {
     343.5,
     343.36
    ],
-   "ext": null,
+   "ext": {
+    "label": "pre-market",
+    "price": 342.0,
+    "changePct": -2.29
+   },
    "relVol": 1.1,
    "avgVolume": 940202,
    "symbol": "GD",
@@ -4637,8 +5025,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 10.16,
-    "changePct": -11.2
+    "price": 10.12,
+    "changePct": -11.54
    },
    "relVol": 0.9,
    "avgVolume": 10160834,
@@ -4719,8 +5107,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 9.41,
-    "changePct": -5.9
+    "price": 9.4,
+    "changePct": -5.99
    },
    "relVol": 1.1,
    "avgVolume": 43559769,
@@ -4965,8 +5353,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 203.0,
-    "changePct": -1.17
+    "price": 200.02,
+    "changePct": -2.62
    },
    "relVol": 1.2,
    "avgVolume": 810117,
@@ -5129,8 +5517,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 141.16,
-    "changePct": 1.16
+    "price": 139.46,
+    "changePct": -0.06
    },
    "relVol": 1.1,
    "avgVolume": 472622,
@@ -5293,8 +5681,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 20.56,
-    "changePct": -10.02
+    "price": 20.67,
+    "changePct": -9.54
    },
    "relVol": 1.1,
    "avgVolume": 11602350,
@@ -5375,8 +5763,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "pre-market",
-    "price": 405.96,
-    "changePct": -4.12
+    "price": 405.25,
+    "changePct": -4.29
    },
    "relVol": 1.2,
    "avgVolume": 759713,
