@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-24T20:05:00.623799+00:00",
+ "generatedAt": "2026-06-24T20:10:35.240434+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 85.36,
-    "changePct": -0.06
+    "price": 85.4,
+    "changePct": -0.01
    },
    "relVol": 1.1,
    "avgVolume": 22375020,
@@ -494,8 +494,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 19.28,
-    "changePct": 0.6
+    "price": 19.26,
+    "changePct": 0.5
    },
    "relVol": 1.1,
    "avgVolume": 9773968,
@@ -576,8 +576,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.38,
-    "changePct": -0.22
+    "price": 11.36,
+    "changePct": -0.39
    },
    "relVol": 0.7,
    "avgVolume": 28616008,
@@ -735,12 +735,13 @@ window.DASHBOARD_DATA = {
     462.34,
     461.46,
     460.52,
-    456.64
+    456.64,
+    456.73
    ],
    "ext": {
     "label": "after-hours",
     "price": 456.73,
-    "changePct": 0.02
+    "changePct": 0.0
    },
    "relVol": 1.4,
    "avgVolume": 854582,
@@ -748,15 +749,15 @@ window.DASHBOARD_DATA = {
    "name": "Axon Enterprise",
    "vertical": "Defense Tech & Software",
    "description": "Tasers, body cameras, and the Axon Evidence cloud for law enforcement; expanding into drones and counter-drone.",
-   "price": 456.64,
+   "price": 456.73,
    "prevClose": 410.03,
-   "changePct": 11.37,
+   "changePct": 11.39,
    "volume": 1201258,
    "dayHigh": 468.04,
    "dayLow": 430.0,
    "fiftyTwoWeekHigh": 885.92,
    "fiftyTwoWeekLow": 339.01,
-   "marketTime": 1782331199,
+   "marketTime": 1782331201,
    "news": [
     {
      "title": "Axon\u2019s Strong Results And Scottsdale Controversy Might Change The Case For Investing In Axon Enterprise (AXON) - simplywall.st",
@@ -982,7 +983,11 @@ window.DASHBOARD_DATA = {
     75.21,
     76.04
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 76.03,
+    "changePct": -0.01
+   },
    "relVol": 4.0,
    "avgVolume": 333275,
    "symbol": "VVX",
@@ -1302,12 +1307,13 @@ window.DASHBOARD_DATA = {
     145.85,
     143.56,
     143.5,
+    142.18,
     142.18
    ],
    "ext": {
     "label": "after-hours",
     "price": 142.18,
-    "changePct": -0.01
+    "changePct": 0.0
    },
    "relVol": 0.8,
    "avgVolume": 1187670,
@@ -1315,15 +1321,15 @@ window.DASHBOARD_DATA = {
    "name": "AeroVironment",
    "vertical": "Drones & Counter-UAS",
    "description": "Switchblade loitering munitions and small recon drones (Puma/Raven); acquired BlueHalo for space/counter-UAS scale.",
-   "price": 142.19,
+   "price": 142.18,
    "prevClose": 151.33,
-   "changePct": -6.04,
+   "changePct": -6.05,
    "volume": 902832,
    "dayHigh": 148.66,
    "dayLow": 141.73,
    "fiftyTwoWeekHigh": 417.86,
    "fiftyTwoWeekLow": 141.73,
-   "marketTime": 1782331199,
+   "marketTime": 1782331201,
    "news": [
     {
      "title": "AeroVironment (AVAV) Stock Price Slides As Valuation Models Suggest Limited Upside - Yahoo Finance",
@@ -1469,8 +1475,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 113.79,
-    "changePct": 0.25
+    "price": 112.53,
+    "changePct": -0.87
    },
    "relVol": 1.2,
    "avgVolume": 38225360,
@@ -2179,8 +2185,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 185.06,
-    "changePct": 0.02
+    "price": 184.15,
+    "changePct": -0.48
    },
    "relVol": 0.7,
    "avgVolume": 4633345,
@@ -2405,8 +2411,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 62.68,
-    "changePct": -0.02
+    "price": 62.83,
+    "changePct": 0.22
    },
    "relVol": 1.0,
    "avgVolume": 2242206,
@@ -2557,8 +2563,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 503.01,
-    "changePct": 0.02
+    "price": 510.0,
+    "changePct": 1.41
    },
    "relVol": 1.1,
    "avgVolume": 840791,
@@ -2934,8 +2940,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 292.89,
-    "changePct": 1.96
+    "price": 287.27,
+    "changePct": 0.0
    },
    "relVol": 1.2,
    "avgVolume": 1680234,
@@ -3085,8 +3091,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 492.57,
-    "changePct": 0.21
+    "price": 492.0,
+    "changePct": 0.09
    },
    "relVol": 0.8,
    "avgVolume": 1190904,
@@ -3389,8 +3395,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 85.36,
-    "changePct": -0.06
+    "price": 85.4,
+    "changePct": -0.01
    },
    "relVol": 1.1,
    "avgVolume": 22375020,
@@ -3634,8 +3640,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 19.28,
-    "changePct": 0.6
+    "price": 19.26,
+    "changePct": 0.5
    },
    "relVol": 1.1,
    "avgVolume": 9773968,
@@ -3716,8 +3722,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.38,
-    "changePct": -0.22
+    "price": 11.36,
+    "changePct": -0.39
    },
    "relVol": 0.7,
    "avgVolume": 28616008,
@@ -3875,12 +3881,13 @@ window.DASHBOARD_DATA = {
     462.34,
     461.46,
     460.52,
-    456.64
+    456.64,
+    456.73
    ],
    "ext": {
     "label": "after-hours",
     "price": 456.73,
-    "changePct": 0.02
+    "changePct": 0.0
    },
    "relVol": 1.4,
    "avgVolume": 854582,
@@ -3888,15 +3895,15 @@ window.DASHBOARD_DATA = {
    "name": "Axon Enterprise",
    "vertical": "Defense Tech & Software",
    "description": "Tasers, body cameras, and the Axon Evidence cloud for law enforcement; expanding into drones and counter-drone.",
-   "price": 456.64,
+   "price": 456.73,
    "prevClose": 410.03,
-   "changePct": 11.37,
+   "changePct": 11.39,
    "volume": 1201258,
    "dayHigh": 468.04,
    "dayLow": 430.0,
    "fiftyTwoWeekHigh": 885.92,
    "fiftyTwoWeekLow": 339.01,
-   "marketTime": 1782331199,
+   "marketTime": 1782331201,
    "news": [
     {
      "title": "Axon\u2019s Strong Results And Scottsdale Controversy Might Change The Case For Investing In Axon Enterprise (AXON) - simplywall.st",
@@ -4122,7 +4129,11 @@ window.DASHBOARD_DATA = {
     75.21,
     76.04
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 76.03,
+    "changePct": -0.01
+   },
    "relVol": 4.0,
    "avgVolume": 333275,
    "symbol": "VVX",
@@ -4442,12 +4453,13 @@ window.DASHBOARD_DATA = {
     145.85,
     143.56,
     143.5,
+    142.18,
     142.18
    ],
    "ext": {
     "label": "after-hours",
     "price": 142.18,
-    "changePct": -0.01
+    "changePct": 0.0
    },
    "relVol": 0.8,
    "avgVolume": 1187670,
@@ -4455,15 +4467,15 @@ window.DASHBOARD_DATA = {
    "name": "AeroVironment",
    "vertical": "Drones & Counter-UAS",
    "description": "Switchblade loitering munitions and small recon drones (Puma/Raven); acquired BlueHalo for space/counter-UAS scale.",
-   "price": 142.19,
+   "price": 142.18,
    "prevClose": 151.33,
-   "changePct": -6.04,
+   "changePct": -6.05,
    "volume": 902832,
    "dayHigh": 148.66,
    "dayLow": 141.73,
    "fiftyTwoWeekHigh": 417.86,
    "fiftyTwoWeekLow": 141.73,
-   "marketTime": 1782331199,
+   "marketTime": 1782331201,
    "news": [
     {
      "title": "AeroVironment (AVAV) Stock Price Slides As Valuation Models Suggest Limited Upside - Yahoo Finance",
@@ -4609,8 +4621,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 113.79,
-    "changePct": 0.25
+    "price": 112.53,
+    "changePct": -0.87
    },
    "relVol": 1.2,
    "avgVolume": 38225360,
