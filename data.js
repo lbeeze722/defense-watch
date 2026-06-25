@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-25T20:16:41.503828+00:00",
+ "generatedAt": "2026-06-25T20:22:17.708994+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 83.19,
-    "changePct": 3.1
+    "price": 83.82,
+    "changePct": 3.88
    },
    "relVol": 1.2,
    "avgVolume": 22112957,
@@ -334,7 +334,7 @@ window.DASHBOARD_DATA = {
     "price": 72.14,
     "changePct": 0.0
    },
-   "relVol": 1.1,
+   "relVol": 1.0,
    "avgVolume": 596476,
    "symbol": "VVX",
    "name": "V2X",
@@ -343,7 +343,7 @@ window.DASHBOARD_DATA = {
    "price": 72.14,
    "prevClose": 83.29,
    "changePct": -13.39,
-   "volume": 647522,
+   "volume": 578953,
    "dayHigh": 77.2,
    "dayLow": 71.91,
    "fiftyTwoWeekHigh": 91.8,
@@ -414,7 +414,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 18.85,
-    "changePct": 0.21
+    "changePct": 0.22
    },
    "relVol": 0.8,
    "avgVolume": 3693294,
@@ -425,7 +425,7 @@ window.DASHBOARD_DATA = {
    "price": 18.81,
    "prevClose": 21.51,
    "changePct": -12.55,
-   "volume": 3095408,
+   "volume": 3023038,
    "dayHigh": 20.19,
    "dayLow": 18.41,
    "fiftyTwoWeekHigh": 34.36,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.98,
-    "changePct": 0.78
+    "price": 8.97,
+    "changePct": 0.67
    },
    "relVol": 1.1,
    "avgVolume": 8342115,
@@ -577,10 +577,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.9,
-    "changePct": 0.93
+    "price": 11.04,
+    "changePct": 2.22
    },
-   "relVol": 1.1,
+   "relVol": 1.0,
    "avgVolume": 25069009,
    "symbol": "RDW",
    "name": "Redwire",
@@ -589,9 +589,9 @@ window.DASHBOARD_DATA = {
    "price": 10.8,
    "prevClose": 12.22,
    "changePct": -11.62,
-   "volume": 26596406,
-   "dayHigh": 11.37,
-   "dayLow": 10.11,
+   "volume": 24564266,
+   "dayHigh": 11.35,
+   "dayLow": 10.37,
    "fiftyTwoWeekHigh": 26.64,
    "fiftyTwoWeekLow": 4.87,
    "marketTime": 1782417602,
@@ -659,8 +659,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 18.78,
-    "changePct": 0.43
+    "price": 18.82,
+    "changePct": 0.64
    },
    "relVol": 1.1,
    "avgVolume": 9653400,
@@ -741,8 +741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.73,
-    "changePct": 0.72
+    "price": 7.78,
+    "changePct": 1.37
    },
    "relVol": 0.9,
    "avgVolume": 53298979,
@@ -823,8 +823,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 46.32,
-    "changePct": 0.0
+    "price": 46.01,
+    "changePct": -0.67
    },
    "relVol": 1.5,
    "avgVolume": 3481958,
@@ -906,9 +906,9 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 4.8,
-    "changePct": 0.2
+    "changePct": 0.21
    },
-   "relVol": 1.2,
+   "relVol": 1.1,
    "avgVolume": 33423753,
    "symbol": "ACHR",
    "name": "Archer Aviation",
@@ -917,7 +917,7 @@ window.DASHBOARD_DATA = {
    "price": 4.79,
    "prevClose": 5.25,
    "changePct": -8.76,
-   "volume": 38985250,
+   "volume": 36768090,
    "dayHigh": 5.13,
    "dayLow": 4.745,
    "fiftyTwoWeekHigh": 14.62,
@@ -987,8 +987,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 136.78,
-    "changePct": 0.07
+    "price": 136.99,
+    "changePct": 0.23
    },
    "relVol": 1.2,
    "avgVolume": 1253067,
@@ -1064,6 +1064,7 @@ window.DASHBOARD_DATA = {
     149.51,
     149.18,
     149.66,
+    151.03,
     150.99
    ],
    "ext": {
@@ -1085,7 +1086,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 146.1,
    "fiftyTwoWeekHigh": 180.49,
    "fiftyTwoWeekLow": 109.8,
-   "marketTime": 1782417597,
+   "marketTime": 1782417602,
    "news": [
     {
      "title": "Why Oshkosh Stock Crashed Today - The Motley Fool",
@@ -1150,8 +1151,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 107.46,
-    "changePct": 0.18
+    "price": 107.8,
+    "changePct": 0.49
    },
    "relVol": 1.4,
    "avgVolume": 41484215,
@@ -1232,8 +1233,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.91,
-    "changePct": 0.45
+    "price": 8.93,
+    "changePct": 0.66
    },
    "relVol": 1.3,
    "avgVolume": 42380061,
@@ -1244,7 +1245,7 @@ window.DASHBOARD_DATA = {
    "price": 8.87,
    "prevClose": 9.55,
    "changePct": -7.12,
-   "volume": 53656891,
+   "volume": 53881016,
    "dayHigh": 9.4,
    "dayLow": 8.68,
    "fiftyTwoWeekHigh": 20.95,
@@ -1326,11 +1327,11 @@ window.DASHBOARD_DATA = {
    "price": 59.71,
    "prevClose": 63.88,
    "changePct": -6.53,
-   "volume": 2339000,
+   "volume": 2368856,
    "dayHigh": 62.86,
-   "dayLow": 59.63,
+   "dayLow": 59.635,
    "fiftyTwoWeekHigh": 120.05,
-   "fiftyTwoWeekLow": 59.63,
+   "fiftyTwoWeekLow": 59.635,
    "marketTime": 1782417602,
    "news": [
     {
@@ -1396,10 +1397,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 100.0,
-    "changePct": 0.0
+    "price": 101.84,
+    "changePct": 1.84
    },
-   "relVol": 1.0,
+   "relVol": 0.8,
    "avgVolume": 1572439,
    "symbol": "LDOS",
    "name": "Leidos",
@@ -1408,8 +1409,8 @@ window.DASHBOARD_DATA = {
    "price": 100.0,
    "prevClose": 106.11,
    "changePct": -5.76,
-   "volume": 1540757,
-   "dayHigh": 105.39,
+   "volume": 1250571,
+   "dayHigh": 105.36,
    "dayLow": 99.65,
    "fiftyTwoWeekHigh": 205.77,
    "fiftyTwoWeekLow": 99.65,
@@ -1478,8 +1479,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 87.15,
-    "changePct": 0.0
+    "price": 85.41,
+    "changePct": -2.0
    },
    "relVol": 1.2,
    "avgVolume": 497447,
@@ -1560,10 +1561,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 443.26,
-    "changePct": 0.0
+    "price": 443.77,
+    "changePct": 0.12
    },
-   "relVol": 1.1,
+   "relVol": 1.0,
    "avgVolume": 273072,
    "symbol": "CACI",
    "name": "CACI Intl",
@@ -1572,9 +1573,9 @@ window.DASHBOARD_DATA = {
    "price": 443.26,
    "prevClose": 467.68,
    "changePct": -5.22,
-   "volume": 305049,
+   "volume": 274074,
    "dayHigh": 460.77,
-   "dayLow": 439.8,
+   "dayLow": 440.855,
    "fiftyTwoWeekHigh": 683.5,
    "fiftyTwoWeekLow": 434.7,
    "marketTime": 1782417602,
@@ -1888,10 +1889,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 47.05,
-    "changePct": 0.0
+    "price": 47.15,
+    "changePct": 0.21
    },
-   "relVol": 1.4,
+   "relVol": 1.2,
    "avgVolume": 1056265,
    "symbol": "PSN",
    "name": "Parsons",
@@ -1900,8 +1901,8 @@ window.DASHBOARD_DATA = {
    "price": 47.05,
    "prevClose": 49.24,
    "changePct": -4.45,
-   "volume": 1477359,
-   "dayHigh": 49.4,
+   "volume": 1288840,
+   "dayHigh": 49.385,
    "dayLow": 46.88,
    "fiftyTwoWeekHigh": 89.5,
    "fiftyTwoWeekLow": 46.88,
@@ -1965,12 +1966,13 @@ window.DASHBOARD_DATA = {
     373.88,
     373.05,
     370.79,
+    371.38,
     371.36
    ],
    "ext": {
     "label": "after-hours",
-    "price": 371.36,
-    "changePct": 0.0
+    "price": 372.97,
+    "changePct": 0.43
    },
    "relVol": 1.1,
    "avgVolume": 3752388,
@@ -1986,7 +1988,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 367.98,
    "fiftyTwoWeekHigh": 379.67,
    "fiftyTwoWeekLow": 243.34,
-   "marketTime": 1782417598,
+   "marketTime": 1782417602,
    "news": [
     {
      "title": "The Number That Could Test GE Stock - Trefis",
@@ -2051,8 +2053,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.73,
-    "changePct": -0.3
+    "price": 3.72,
+    "changePct": -0.56
    },
    "relVol": 0.7,
    "avgVolume": 1578851,
@@ -2063,9 +2065,9 @@ window.DASHBOARD_DATA = {
    "price": 3.74,
    "prevClose": 3.86,
    "changePct": -3.11,
-   "volume": 1133629,
+   "volume": 1091137,
    "dayHigh": 3.8,
-   "dayLow": 3.61,
+   "dayLow": 3.615,
    "fiftyTwoWeekHigh": 7.94,
    "fiftyTwoWeekLow": 1.94,
    "marketTime": 1782417600,
@@ -2128,12 +2130,13 @@ window.DASHBOARD_DATA = {
     87.86,
     87.92,
     88.55,
+    89.07,
     89.06
    ],
    "ext": {
     "label": "after-hours",
-    "price": 89.6,
-    "changePct": 0.61
+    "price": 89.06,
+    "changePct": 0.0
    },
    "relVol": 1.1,
    "avgVolume": 1531726,
@@ -2149,7 +2152,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 86.15,
    "fiftyTwoWeekHigh": 101.57,
    "fiftyTwoWeekLow": 75.8,
-   "marketTime": 1782417596,
+   "marketTime": 1782417602,
    "news": [
     {
      "title": "Textron Stock 5-Day Losing Spree: Stock Falls -7.8% - Trefis",
@@ -2299,7 +2302,7 @@ window.DASHBOARD_DATA = {
     "price": 32.25,
     "changePct": 0.0
    },
-   "relVol": 0.9,
+   "relVol": 0.8,
    "avgVolume": 1353266,
    "symbol": "KBR",
    "name": "KBR",
@@ -2308,9 +2311,9 @@ window.DASHBOARD_DATA = {
    "price": 32.25,
    "prevClose": 33.2,
    "changePct": -2.86,
-   "volume": 1282169,
+   "volume": 1060669,
    "dayHigh": 33.45,
-   "dayLow": 32.16,
+   "dayLow": 32.18,
    "fiftyTwoWeekHigh": 52.23,
    "fiftyTwoWeekLow": 29.94,
    "marketTime": 1782417602,
@@ -2367,12 +2370,13 @@ window.DASHBOARD_DATA = {
     505.71,
     501.33,
     500.13,
+    499.59,
     499.33
    ],
    "ext": {
     "label": "after-hours",
-    "price": 501.0,
-    "changePct": 0.33
+    "price": 499.33,
+    "changePct": 0.0
    },
    "relVol": 0.8,
    "avgVolume": 933502,
@@ -2388,7 +2392,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 498.81,
    "fiftyTwoWeekHigh": 774.0,
    "fiftyTwoWeekLow": 487.68,
-   "marketTime": 1782417599,
+   "marketTime": 1782417602,
    "news": [
     {
      "title": "Northrop Grumman (NOC) Stock After Recent Pullback Is The Valuation Opportunity Closing? - Yahoo Finance",
@@ -2447,8 +2451,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 444.73,
-    "changePct": 0.0
+    "price": 442.08,
+    "changePct": -0.6
    },
    "relVol": 0.8,
    "avgVolume": 979489,
@@ -2518,6 +2522,7 @@ window.DASHBOARD_DATA = {
     1339.84,
     1335.89,
     1327.37,
+    1332.0,
     1332.56
    ],
    "ext": {
@@ -2539,7 +2544,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 1324.31,
    "fiftyTwoWeekHigh": 1623.83,
    "fiftyTwoWeekLow": 1123.61,
-   "marketTime": 1782417599,
+   "marketTime": 1782417603,
    "news": [
     {
      "title": "Is TransDigm Group Incorporated (TDG) A Good Stock To Buy Now? - Yahoo Finance",
@@ -2593,6 +2598,7 @@ window.DASHBOARD_DATA = {
     343.77,
     342.6,
     341.05,
+    342.66,
     342.45
    ],
    "ext": {
@@ -2614,7 +2620,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 333.655,
    "fiftyTwoWeekHigh": 361.69,
    "fiftyTwoWeekLow": 256.11,
-   "marketTime": 1782417599,
+   "marketTime": 1782417602,
    "news": [
     {
      "title": "Heico (HEI) Stock Weighs Lofty Valuation After Strong Multi\u2011Year Run - Yahoo Finance",
@@ -2668,6 +2674,7 @@ window.DASHBOARD_DATA = {
     205.49,
     205.45,
     203.57,
+    204.79,
     204.77
    ],
    "ext": {
@@ -2689,7 +2696,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 203.01,
    "fiftyTwoWeekHigh": 241.82,
    "fiftyTwoWeekLow": 133.84,
-   "marketTime": 1782417596,
+   "marketTime": 1782417603,
    "news": [
     {
      "title": "BWX Technologies (BWXT) Stock Could Be 11.6% Undervalued After mPower Licensing Deal - simplywall.st",
@@ -2743,6 +2750,7 @@ window.DASHBOARD_DATA = {
     288.03,
     287.08,
     288.32,
+    288.67,
     288.52
    ],
    "ext": {
@@ -2764,7 +2772,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 286.5,
    "fiftyTwoWeekHigh": 379.23,
    "fiftyTwoWeekLow": 245.12,
-   "marketTime": 1782417597,
+   "marketTime": 1782417602,
    "news": [
     {
      "title": "L3Harris Technologies (LHX) Following Defense Sell Off And Leadership Questions Looks Undervalued - simplywall.st",
@@ -2818,6 +2826,7 @@ window.DASHBOARD_DATA = {
     345.48,
     344.24,
     344.67,
+    344.79,
     344.7
    ],
    "ext": {
@@ -2839,7 +2848,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 341.94,
    "fiftyTwoWeekHigh": 369.7,
    "fiftyTwoWeekLow": 286.36,
-   "marketTime": 1782417599,
+   "marketTime": 1782417602,
    "news": [
     {
      "title": "General Dynamics Corp (NYSE:GD) Balances Strong Dividend Rating with Solid Profitability and Financial Health - ChartMill",
@@ -2893,6 +2902,7 @@ window.DASHBOARD_DATA = {
     278.89,
     279.26,
     277.31,
+    279.13,
     279.09
    ],
    "ext": {
@@ -2914,7 +2924,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 276.945,
    "fiftyTwoWeekHigh": 460.0,
    "fiftyTwoWeekLow": 236.19,
-   "marketTime": 1782417598,
+   "marketTime": 1782417602,
    "news": [
     {
      "title": "Is Huntington Ingalls Industries Stock Underperforming the Nasdaq? - Barchart.com",
@@ -3044,12 +3054,13 @@ window.DASHBOARD_DATA = {
     274.0,
     274.2,
     271.29,
+    273.08,
     273.14
    ],
    "ext": {
     "label": "after-hours",
-    "price": 273.14,
-    "changePct": 0.0
+    "price": 273.95,
+    "changePct": 0.3
    },
    "relVol": 1.9,
    "avgVolume": 2053145,
@@ -3065,7 +3076,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 269.825,
    "fiftyTwoWeekHigh": 290.63,
    "fiftyTwoWeekLow": 169.45,
-   "marketTime": 1782417598,
+   "marketTime": 1782417603,
    "news": [
     {
      "title": "Howmet Aerospace (HWM) Stock After 7x Gain Are Recent Valuations Justified - Yahoo Finance",
@@ -3119,12 +3130,13 @@ window.DASHBOARD_DATA = {
     219.98,
     219.6,
     217.96,
+    218.22,
     218.12
    ],
    "ext": {
     "label": "after-hours",
-    "price": 218.17,
-    "changePct": 0.02
+    "price": 217.98,
+    "changePct": -0.06
    },
    "relVol": 0.9,
    "avgVolume": 4132849,
@@ -3140,7 +3152,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 217.16,
    "fiftyTwoWeekHigh": 254.35,
    "fiftyTwoWeekLow": 176.77,
-   "marketTime": 1782417595,
+   "marketTime": 1782417602,
    "news": [
     {
      "title": "Boeing, Lockheed Land Big Contracts; Senate Passes War Powers Resolution - Investor's Business Daily",
@@ -3194,6 +3206,7 @@ window.DASHBOARD_DATA = {
     777.47,
     775.58,
     766.95,
+    767.79,
     767.73
    ],
    "ext": {
@@ -3215,7 +3228,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 765.01,
    "fiftyTwoWeekHigh": 800.0,
    "fiftyTwoWeekLow": 463.0,
-   "marketTime": 1782417594,
+   "marketTime": 1782417603,
    "news": [
     {
      "title": "Hsbc Holdings PLC Purchases 11,660 Shares of Curtiss-Wright Corporation $CW - MarketBeat",
@@ -3269,6 +3282,7 @@ window.DASHBOARD_DATA = {
     507.73,
     504.55,
     505.36,
+    505.03,
     505.02
    ],
    "ext": {
@@ -3276,7 +3290,7 @@ window.DASHBOARD_DATA = {
     "price": 505.02,
     "changePct": 0.0
    },
-   "relVol": 1.0,
+   "relVol": 1.1,
    "avgVolume": 1196338,
    "symbol": "LMT",
    "name": "Lockheed Martin",
@@ -3285,12 +3299,12 @@ window.DASHBOARD_DATA = {
    "price": 505.02,
    "prevClose": 503.67,
    "changePct": 0.27,
-   "volume": 1160036,
+   "volume": 1327012,
    "dayHigh": 512.57,
    "dayLow": 494.25,
    "fiftyTwoWeekHigh": 692.0,
    "fiftyTwoWeekLow": 410.11,
-   "marketTime": 1782417597,
+   "marketTime": 1782417676,
    "news": [
     {
      "title": "Why Lockheed Martin Stock Just Popped - The Globe and Mail",
@@ -3344,12 +3358,13 @@ window.DASHBOARD_DATA = {
     186.74,
     186.0,
     185.86,
+    186.59,
     186.59
    ],
    "ext": {
     "label": "after-hours",
-    "price": 186.89,
-    "changePct": 0.16
+    "price": 186.9,
+    "changePct": 0.17
    },
    "relVol": 0.9,
    "avgVolume": 3930248,
@@ -3365,7 +3380,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 184.35,
    "fiftyTwoWeekHigh": 214.5,
    "fiftyTwoWeekLow": 141.26,
-   "marketTime": 1782417598,
+   "marketTime": 1782417602,
    "news": [
     {
      "title": "RTX Corp Stock (RTX) Moved Down by 3.61% on Jun 21: Key Drivers Unveiled - TradingKey",
@@ -3426,8 +3441,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 83.19,
-    "changePct": 3.1
+    "price": 83.82,
+    "changePct": 3.88
    },
    "relVol": 1.2,
    "avgVolume": 22112957,
@@ -3511,7 +3526,7 @@ window.DASHBOARD_DATA = {
     "price": 72.14,
     "changePct": 0.0
    },
-   "relVol": 1.1,
+   "relVol": 1.0,
    "avgVolume": 596476,
    "symbol": "VVX",
    "name": "V2X",
@@ -3520,7 +3535,7 @@ window.DASHBOARD_DATA = {
    "price": 72.14,
    "prevClose": 83.29,
    "changePct": -13.39,
-   "volume": 647522,
+   "volume": 578953,
    "dayHigh": 77.2,
    "dayLow": 71.91,
    "fiftyTwoWeekHigh": 91.8,
@@ -3591,7 +3606,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 18.85,
-    "changePct": 0.21
+    "changePct": 0.22
    },
    "relVol": 0.8,
    "avgVolume": 3693294,
@@ -3602,7 +3617,7 @@ window.DASHBOARD_DATA = {
    "price": 18.81,
    "prevClose": 21.51,
    "changePct": -12.55,
-   "volume": 3095408,
+   "volume": 3023038,
    "dayHigh": 20.19,
    "dayLow": 18.41,
    "fiftyTwoWeekHigh": 34.36,
@@ -3672,8 +3687,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.98,
-    "changePct": 0.78
+    "price": 8.97,
+    "changePct": 0.67
    },
    "relVol": 1.1,
    "avgVolume": 8342115,
@@ -3754,10 +3769,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.9,
-    "changePct": 0.93
+    "price": 11.04,
+    "changePct": 2.22
    },
-   "relVol": 1.1,
+   "relVol": 1.0,
    "avgVolume": 25069009,
    "symbol": "RDW",
    "name": "Redwire",
@@ -3766,9 +3781,9 @@ window.DASHBOARD_DATA = {
    "price": 10.8,
    "prevClose": 12.22,
    "changePct": -11.62,
-   "volume": 26596406,
-   "dayHigh": 11.37,
-   "dayLow": 10.11,
+   "volume": 24564266,
+   "dayHigh": 11.35,
+   "dayLow": 10.37,
    "fiftyTwoWeekHigh": 26.64,
    "fiftyTwoWeekLow": 4.87,
    "marketTime": 1782417602,
@@ -3836,8 +3851,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 18.78,
-    "changePct": 0.43
+    "price": 18.82,
+    "changePct": 0.64
    },
    "relVol": 1.1,
    "avgVolume": 9653400,
@@ -3918,8 +3933,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.73,
-    "changePct": 0.72
+    "price": 7.78,
+    "changePct": 1.37
    },
    "relVol": 0.9,
    "avgVolume": 53298979,
@@ -4000,8 +4015,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 46.32,
-    "changePct": 0.0
+    "price": 46.01,
+    "changePct": -0.67
    },
    "relVol": 1.5,
    "avgVolume": 3481958,
@@ -4083,9 +4098,9 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 4.8,
-    "changePct": 0.2
+    "changePct": 0.21
    },
-   "relVol": 1.2,
+   "relVol": 1.1,
    "avgVolume": 33423753,
    "symbol": "ACHR",
    "name": "Archer Aviation",
@@ -4094,7 +4109,7 @@ window.DASHBOARD_DATA = {
    "price": 4.79,
    "prevClose": 5.25,
    "changePct": -8.76,
-   "volume": 38985250,
+   "volume": 36768090,
    "dayHigh": 5.13,
    "dayLow": 4.745,
    "fiftyTwoWeekHigh": 14.62,
@@ -4164,8 +4179,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 136.78,
-    "changePct": 0.07
+    "price": 136.99,
+    "changePct": 0.23
    },
    "relVol": 1.2,
    "avgVolume": 1253067,
@@ -4241,6 +4256,7 @@ window.DASHBOARD_DATA = {
     149.51,
     149.18,
     149.66,
+    151.03,
     150.99
    ],
    "ext": {
@@ -4262,7 +4278,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 146.1,
    "fiftyTwoWeekHigh": 180.49,
    "fiftyTwoWeekLow": 109.8,
-   "marketTime": 1782417597,
+   "marketTime": 1782417602,
    "news": [
     {
      "title": "Why Oshkosh Stock Crashed Today - The Motley Fool",
@@ -4327,8 +4343,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 107.46,
-    "changePct": 0.18
+    "price": 107.8,
+    "changePct": 0.49
    },
    "relVol": 1.4,
    "avgVolume": 41484215,
@@ -4409,8 +4425,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.91,
-    "changePct": 0.45
+    "price": 8.93,
+    "changePct": 0.66
    },
    "relVol": 1.3,
    "avgVolume": 42380061,
@@ -4421,7 +4437,7 @@ window.DASHBOARD_DATA = {
    "price": 8.87,
    "prevClose": 9.55,
    "changePct": -7.12,
-   "volume": 53656891,
+   "volume": 53881016,
    "dayHigh": 9.4,
    "dayLow": 8.68,
    "fiftyTwoWeekHigh": 20.95,
@@ -4503,11 +4519,11 @@ window.DASHBOARD_DATA = {
    "price": 59.71,
    "prevClose": 63.88,
    "changePct": -6.53,
-   "volume": 2339000,
+   "volume": 2368856,
    "dayHigh": 62.86,
-   "dayLow": 59.63,
+   "dayLow": 59.635,
    "fiftyTwoWeekHigh": 120.05,
-   "fiftyTwoWeekLow": 59.63,
+   "fiftyTwoWeekLow": 59.635,
    "marketTime": 1782417602,
    "news": [
     {
@@ -4573,10 +4589,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 100.0,
-    "changePct": 0.0
+    "price": 101.84,
+    "changePct": 1.84
    },
-   "relVol": 1.0,
+   "relVol": 0.8,
    "avgVolume": 1572439,
    "symbol": "LDOS",
    "name": "Leidos",
@@ -4585,8 +4601,8 @@ window.DASHBOARD_DATA = {
    "price": 100.0,
    "prevClose": 106.11,
    "changePct": -5.76,
-   "volume": 1540757,
-   "dayHigh": 105.39,
+   "volume": 1250571,
+   "dayHigh": 105.36,
    "dayLow": 99.65,
    "fiftyTwoWeekHigh": 205.77,
    "fiftyTwoWeekLow": 99.65,
@@ -4655,8 +4671,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 87.15,
-    "changePct": 0.0
+    "price": 85.41,
+    "changePct": -2.0
    },
    "relVol": 1.2,
    "avgVolume": 497447,
@@ -4737,10 +4753,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 443.26,
-    "changePct": 0.0
+    "price": 443.77,
+    "changePct": 0.12
    },
-   "relVol": 1.1,
+   "relVol": 1.0,
    "avgVolume": 273072,
    "symbol": "CACI",
    "name": "CACI Intl",
@@ -4749,9 +4765,9 @@ window.DASHBOARD_DATA = {
    "price": 443.26,
    "prevClose": 467.68,
    "changePct": -5.22,
-   "volume": 305049,
+   "volume": 274074,
    "dayHigh": 460.77,
-   "dayLow": 439.8,
+   "dayLow": 440.855,
    "fiftyTwoWeekHigh": 683.5,
    "fiftyTwoWeekLow": 434.7,
    "marketTime": 1782417602,
@@ -5065,10 +5081,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 47.05,
-    "changePct": 0.0
+    "price": 47.15,
+    "changePct": 0.21
    },
-   "relVol": 1.4,
+   "relVol": 1.2,
    "avgVolume": 1056265,
    "symbol": "PSN",
    "name": "Parsons",
@@ -5077,8 +5093,8 @@ window.DASHBOARD_DATA = {
    "price": 47.05,
    "prevClose": 49.24,
    "changePct": -4.45,
-   "volume": 1477359,
-   "dayHigh": 49.4,
+   "volume": 1288840,
+   "dayHigh": 49.385,
    "dayLow": 46.88,
    "fiftyTwoWeekHigh": 89.5,
    "fiftyTwoWeekLow": 46.88,
@@ -5142,12 +5158,13 @@ window.DASHBOARD_DATA = {
     373.88,
     373.05,
     370.79,
+    371.38,
     371.36
    ],
    "ext": {
     "label": "after-hours",
-    "price": 371.36,
-    "changePct": 0.0
+    "price": 372.97,
+    "changePct": 0.43
    },
    "relVol": 1.1,
    "avgVolume": 3752388,
@@ -5163,7 +5180,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 367.98,
    "fiftyTwoWeekHigh": 379.67,
    "fiftyTwoWeekLow": 243.34,
-   "marketTime": 1782417598,
+   "marketTime": 1782417602,
    "news": [
     {
      "title": "The Number That Could Test GE Stock - Trefis",
@@ -5228,8 +5245,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.73,
-    "changePct": -0.3
+    "price": 3.72,
+    "changePct": -0.56
    },
    "relVol": 0.7,
    "avgVolume": 1578851,
@@ -5240,9 +5257,9 @@ window.DASHBOARD_DATA = {
    "price": 3.74,
    "prevClose": 3.86,
    "changePct": -3.11,
-   "volume": 1133629,
+   "volume": 1091137,
    "dayHigh": 3.8,
-   "dayLow": 3.61,
+   "dayLow": 3.615,
    "fiftyTwoWeekHigh": 7.94,
    "fiftyTwoWeekLow": 1.94,
    "marketTime": 1782417600,
@@ -5305,12 +5322,13 @@ window.DASHBOARD_DATA = {
     87.86,
     87.92,
     88.55,
+    89.07,
     89.06
    ],
    "ext": {
     "label": "after-hours",
-    "price": 89.6,
-    "changePct": 0.61
+    "price": 89.06,
+    "changePct": 0.0
    },
    "relVol": 1.1,
    "avgVolume": 1531726,
@@ -5326,7 +5344,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 86.15,
    "fiftyTwoWeekHigh": 101.57,
    "fiftyTwoWeekLow": 75.8,
-   "marketTime": 1782417596,
+   "marketTime": 1782417602,
    "news": [
     {
      "title": "Textron Stock 5-Day Losing Spree: Stock Falls -7.8% - Trefis",
