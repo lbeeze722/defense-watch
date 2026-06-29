@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-29T20:01:55.502948+00:00",
+ "generatedAt": "2026-06-29T20:07:52.005091+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 97.9,
-    "changePct": -0.05
+    "price": 97.48,
+    "changePct": -0.48
    },
    "relVol": 1.8,
    "avgVolume": 22531012,
@@ -275,28 +275,28 @@ window.DASHBOARD_DATA = {
      "source": "Barron's"
     },
     {
-     "title": "Stocks to Watch: Comcast, Rocket Lab, Palantir, Verizon - WSJ",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORlhJSlhtZlFacFZxWVhSLXJTQnpiSTRWRkJxcVExYzZjSGc0VVlhLVA5YXh4ZjhCWHhqQnA1b1pXbVFTTFBBdlBQVWhwcXBQc3RpSmpNZlEyUkppLUFUX0I5SElnM3ZNOGJ4bXNRTGgyaWxvb2V4Q1Q3dnFFOVNUYTJfSlY5N2dpUXhHTGwxMEMwWVVvenV6RnhJZkVVODhJUEtTZm9Eamw3T0JpOHVzZS0zeGJwWTY0c0ZTU0FldC1scDVSbE16TGFkd2lOX0lVX1JkdWd6V0FXNzYtZnd6Tnd5ci1fRzNhUE01Zw?oc=5",
-     "pubDate": "Mon, 29 Jun 2026 18:47:39 GMT",
-     "source": "WSJ"
-    },
-    {
      "title": "Stocks making the biggest moves midday: Comcast, Charter Communications, Rocket Lab, Alphabet, Verizon & more - CNBC",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYnpZZDRJNEZjaEZkUjQyQ0dUSnJhclc1M2xpVWxDM2xtdWxabXJScjV2S1RXa3pjZkc1YWpkVTFidDR5Um8wNEx5MDhfZnpUdkt6bFQ5Q29BcmhfaU1ZUHpLbkhaSURCNzlKdDdmSHpBczVIdzM1b2NtTmM5WnB4cTh1ZmJaSDhfSVI3ZENhX1J2WkxrZk8yTHctSkJzQmc?oc=5",
      "pubDate": "Mon, 29 Jun 2026 16:19:09 GMT",
      "source": "CNBC"
     },
     {
-     "title": "Rocket Lab: The Bear Case Has Never Been Stronger (NASDAQ:RKLB) - Seeking Alpha",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb1NBRnpPNm5fQWEzQmZ5TFRPX3dQN1dRUFhVc2dUSmlfT0pTR0hkOEh6TTNNTEttMXVoLTVxalF1dFgtbmRYc2pYRV90WVlIb3hNLWtfRnlGbWwtOWZnczRnYzc1SEdfbUcwX25QYmloc0JpcFl1V2xRVlU3ZHM2SWJvdFhjcFZ5?oc=5",
-     "pubDate": "Sat, 27 Jun 2026 17:00:00 GMT",
-     "source": "Seeking Alpha"
+     "title": "Why Is Rocket Lab (RKLB) Stock Soaring Today - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjFKRXZfdm5CeFZ4aUEzS2gtemZWYVVlODlXaVBmVGFpQ1g1SVB3d2tzUWxlUWozVEZhNUltTXhEbEtBY3dWWGJvVUhVNFpJS0FnOUdSS2sza3p0cllpZ1lBU3VNRkduUXNGenRfM2xBR2pwY05MNGZTdXdwTEcwUEgzQzVKcUw5TDItZTVXZjZtX3Nz?oc=5",
+     "pubDate": "Fri, 26 Jun 2026 22:32:25 GMT",
+     "source": "Yahoo Finance"
     },
     {
      "title": "Watch Comcast Rises on Split; Iridium Up on Rocket Lab Deal | Stock Movers - Bloomberg.com",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVDFnX2lWZ205TWxlMWRFbWhjYzVxTFFKQUw4RGtMaG5OSnlqOURaOUctYnk1eWxUenladXFQMWVUWE8wYmM1c2k3MDFyQXJyczREWF9iMHZaNzQyeEY2OUhGQnJ0NHc4WnJHNmdWSERrMXd4WjUzUjd6RFhkQlRON29uOWxWdy02bVVkNEh2RE5WSWVLOUM1R0JVdG84cXRpUjl5eDItYjczOXc?oc=5",
      "pubDate": "Mon, 29 Jun 2026 00:00:00 GMT",
      "source": "Bloomberg.com"
+    },
+    {
+     "title": "Rocket Lab Just Shattered This Space Force Record: Does That Make The Stock a Buy? - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFFDNGp2T2NCTnJxODlfMTlsY3dNUm02RkJiODFLcllwZ2ZrR2p1NmNKel9LYnhtb0g4RUdYcXl0VTVZNkREYzJ2N2xLZHR2eHFSOEdQdm9yOGZuTF9lcy1pbGMxa2JuYWxjSEQwODNuSnAwWUVhdmNxY3FOR1plcFVmNXNsOVNTRGV1Z2dpVGpZRGRJNmhB?oc=5",
+     "pubDate": "Fri, 26 Jun 2026 20:19:00 GMT",
+     "source": "The Motley Fool"
     }
    ]
   },
@@ -331,8 +331,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.32,
-    "changePct": 0.0
+    "price": 10.3,
+    "changePct": -0.19
    },
    "relVol": 1.7,
    "avgVolume": 7641521,
@@ -358,8 +358,8 @@ window.DASHBOARD_DATA = {
     },
     {
      "title": "Is Red Cat Holdings (RCAT) Using Hellcat\u2019s Modular UAS Platform To Redefine Its Defense Narrative? - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeTZ2WDlwdmY0cDFBVW83TTE2eHJPU1U1WmR5OGFaR3VGcUtuRV92azkyQnhkYTl1QnY2WERlZDRSUUxhVE1RNlA1azhzaFBJdXRTMFNsT2c4aUZETHZHZUtPaEh3S05XTFVSVEdqUnhNb1lZd0hfdTJTTFBYUF9hZjI4VEI4emM0bGtsdV94bEhIMEtRYVZqVklZRDUzdFYzVHJfWXJ3T0xPMnFCdjFSeW5UWUd0bGIzcl9aTTdHZmYyWlV3RGV3S1hIT2ppOG5vM2RXWHdtWdIB3AFBVV95cUxNSHc5X05rNTBkUmlZbVRZUUc3R2FtWjVzSG1yLTNrZzdINUtuOHg3VnhJNHJlczRncDJuNjlkaHEyRE1zM195WTlPUVBjWHhXY0ZjaXp6MmRueWx4emloZ2ItUVc1WFhaVTh1dWpWNEZFVFM5X056akdIT0xna09TTUVENHduQkpyUkw2blpySDlvVFpJSWtVaklqdVByVkEyZmFTMjBUb0VIZFFGWXhaZ0czU2RpMmNOSWpXQmFrZ3lFNW9kbzBoRlZ4bzlzWVAySFBhcUk3SHdXZHF0?oc=5",
-     "pubDate": "Mon, 29 Jun 2026 12:36:05 GMT",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSHc5X05rNTBkUmlZbVRZUUc3R2FtWjVzSG1yLTNrZzdINUtuOHg3VnhJNHJlczRncDJuNjlkaHEyRE1zM195WTlPUVBjWHhXY0ZjaXp6MmRueWx4emloZ2ItUVc1WFhaVTh1dWpWNEZFVFM5X056akdIT0xna09TTUVENHduQkpyUkw2blpySDlvVFpJSWtVaklqdVByVkEyZmFTMjBUb0VIZFFGWXhaZ0czU2RpMmNOSWpXQmFrZ3lFNW9kbzBoRlZ4bzlzWVAySFBhcUk3SHdXZHF00gHcAUFVX3lxTE1IdzlfTms1MGRSaVltVFlRRzdHYW1aNXNIbXItM2tnN0g1S244eDdWeEk0cmVzNGdwMm42OWRocTJETXMzX3lZOU9RUGNYeFdjRmNpenoyZG55bHh6aWhnYi1RVzVYWFpVOHV1alY0RkVUUzlfTnpqR0hPTGdrT1NNRUQ0d25CSnJSTDZuWnJIOW9UWklJa1VqSWp1UHJWQTJmYVMyMFRvRUhkUUZZeFpnRzNTZGkyY05JaldCYWtneUU1b2RvMGhGVnhvOXNZUDJIUGFxSTdId1dkcXQ?oc=5",
+     "pubDate": "Mon, 29 Jun 2026 12:36:07 GMT",
      "source": "simplywall.st"
     },
     {
@@ -413,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 512.29,
-    "changePct": 0.33
+    "price": 510.6,
+    "changePct": 0.0
    },
    "relVol": 1.9,
    "avgVolume": 948405,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 20.96,
-    "changePct": -0.05
+    "price": 21.0,
+    "changePct": 0.14
    },
    "relVol": 1.1,
    "avgVolume": 9015089,
@@ -521,6 +521,12 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "Why Intuitive Machines Stock Was Sliding This Week - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1BUZ3RCTUQ4bkMxVlh0Mjk0dmJoWFl4aXlVRWZ4aTVOd2xra1V3VlNMcFlrbm80ajFkV29FTmJ3S1FRNTdlQmk5bTlLSjhfam9GbXhwakVrbENObXlySkV4Z2Jhb2l4WlNlOE92QnlPWHpsdUpkczJrdDdPc0tMUFBPbHRtNkUyMVZtZU1hS0dxdW90MmpmNg?oc=5",
+     "pubDate": "Fri, 26 Jun 2026 10:33:00 GMT",
+     "source": "The Motley Fool"
+    },
+    {
      "title": "Intuitive Machines Slides as Dilution Fears Eclipse Space Hype - TipRanks",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRTlTZGtjT1hEbzctajJlTVRvcnlJTk5xOElCcjF0ZUlMUlNTamsyY1FDc0tiWkhTNkpjWjlKa09KYkl3bGZydFlVTDlGQ2tTakxpcVlHN3ZIT3k4ajhxUWE3TjhmTWhwV3ppWjVIaG1ENmhtOGhkanAzM004Ny1uQ3l6VzVnTGVCZno2NHVHbDl1X3p1R2tCaldiTV9ZM296NEJJ?oc=5",
      "pubDate": "Mon, 29 Jun 2026 11:50:56 GMT",
@@ -530,12 +536,6 @@ window.DASHBOARD_DATA = {
      "title": "Can Intuitive Machines' Acquisitions Unlock New Growth Opportunities? - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejRLVDNRM2NfOGN5cVBrVll1THhoQWt3d3ljbjNSOF9BOHZvS0NBYUdQb3pvX3BzMERmQjlqTklKU3VacVJpWHJEWVowZUFUaHF3OGxpTmV3YTNwUWRFc2tBc3B3Wk5Kd0dIYWNhYnN4NW5QZDJFRUlKdmhMRjZOZXI3b09uWmxYcFUwbEdFUFVPN2FZUTQ0Snh0ekFjaVI5cERvNDN5ZjBucTVrODhZ?oc=5",
      "pubDate": "Fri, 26 Jun 2026 14:04:00 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Why Intuitive Machines Stock Was Sliding This Week - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0hPYWUwZnlQVXloTDV1RGZtWUpPREVwYnJVNE1SZWJfVHAzV0ptbFR0NUV4MTZrLTZjVVVqNENKVGFiSFkxTnRjeEFwcG1hTVhzTW9UTlhIZ0xsWUFnZy0zekN4WmFYQlBYX3NJajVDMW8tSy1EUlZMOV9SYVNnMkVMeTlfX282bGpXZ1E0TExzOGxsdURfU3BCUWM2V1R1ZzFZ?oc=5",
-     "pubDate": "Fri, 26 Jun 2026 09:53:56 GMT",
      "source": "Yahoo Finance"
     },
     {
@@ -574,7 +574,11 @@ window.DASHBOARD_DATA = {
     50.77,
     51.3
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 51.32,
+    "changePct": 0.04
+   },
    "relVol": 0.6,
    "avgVolume": 1151643,
    "symbol": "PSN",
@@ -654,8 +658,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.67,
-    "changePct": -0.34
+    "price": 11.63,
+    "changePct": -0.68
    },
    "relVol": 1.2,
    "avgVolume": 21623905,
@@ -736,8 +740,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 115.76,
-    "changePct": 0.05
+    "price": 115.55,
+    "changePct": -0.13
    },
    "relVol": 0.9,
    "avgVolume": 46086187,
@@ -770,7 +774,7 @@ window.DASHBOARD_DATA = {
     {
      "title": "Stocks to Watch: Comcast, Rocket Lab, Palantir, Verizon - WSJ",
      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORlhJSlhtZlFacFZxWVhSLXJTQnpiSTRWRkJxcVExYzZjSGc0VVlhLVA5YXh4ZjhCWHhqQnA1b1pXbVFTTFBBdlBQVWhwcXBQc3RpSmpNZlEyUkppLUFUX0I5SElnM3ZNOGJ4bXNRTGgyaWxvb2V4Q1Q3dnFFOVNUYTJfSlY5N2dpUXhHTGwxMEMwWVVvenV6RnhJZkVVODhJUEtTZm9Eamw3T0JpOHVzZS0zeGJwWTY0c0ZTU0FldC1scDVSbE16TGFkd2lOX0lVX1JkdWd6V0FXNzYtZnd6Tnd5ci1fRzNhUE01Zw?oc=5",
-     "pubDate": "Mon, 29 Jun 2026 18:47:39 GMT",
+     "pubDate": "Mon, 29 Jun 2026 14:17:05 GMT",
      "source": "WSJ"
     },
     {
@@ -816,7 +820,11 @@ window.DASHBOARD_DATA = {
     40.99,
     40.95
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 40.95,
+    "changePct": 0.0
+   },
    "relVol": 2.0,
    "avgVolume": 756241,
    "symbol": "DRS",
@@ -893,7 +901,11 @@ window.DASHBOARD_DATA = {
     191.64,
     189.52
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 189.25,
+    "changePct": -0.14
+   },
    "relVol": 1.4,
    "avgVolume": 736411,
    "symbol": "BWXT",
@@ -970,7 +982,11 @@ window.DASHBOARD_DATA = {
     4.03,
     3.97
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 3.97,
+    "changePct": -0.09
+   },
    "relVol": 1.5,
    "avgVolume": 1380615,
    "symbol": "KULR",
@@ -1012,9 +1028,9 @@ window.DASHBOARD_DATA = {
      "source": "Seeking Alpha"
     },
     {
-     "title": "KULR Technology Group Reaffirms Non-Dilutive Growth - GlobeNewswire",
-     "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNSWUyWFR0SF9zOUlnWFpibmU0azZpem1SU201Vy1PY1pjVWR3cEJTdkxGYXN0NUY5dm8wa0p2UFVFNEZGTDhyRGdPbWFNeWR1dUlMZWlZeFcxTDNFZkpoVnhKSzZ0YmthMzJaaDVYQ3RLT08yOXBYQjBRMm81UnU3STZBWU9IM1pJLURDVEcyM1dqVlkxVUJDUERXMko5SW1HclI1UkwtLV9fWmJncVFCUUNEaXhjU1NiQ3VTOUNBZTN0ZWtFZVVJYXl2UHhjT2lILW55LU5mNGxjZjVEWEx1NE1RTkZqcnk5b01FM1IzLWpqVUVYYTZqcTc5b2JtRFR6VGJSOXV5cVFhWG1xQjhld0tLdVl6bXg0cHJ5RA?oc=5",
-     "pubDate": "Fri, 26 Jun 2026 12:30:00 GMT",
+     "title": "KULR Technology Group Chairman and CEO Michael Mo Releases Shareholder Letter - GlobeNewswire",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmV1ZTl6aGFUSURxSnJuMGtfaTVGRGo0WEFwSWFRWXVKRjdmLUVqcWEtM2JXVHVTLTlGNG8xbXhqMVVROXNpeXNYa1dxaXhmYlhfQjJhN2ZOeGhtWmJoaXpjbjBpVUM1anIwanZoM0RXQ3NEOEsyQmR1RXNlQkVzY3prdjZWUUtVUnRhVkR1SWJhYnRPUnBiOWtZQkFYcGNaVmJ0TkZlYXdvQmZYZ2E0MmdndTJKeHBQNEVTc0lXQ0dBd1gxLTN3ajZydWdXRlcyTW5OTGp6bEVxUFhZU3N6OTZSSQ?oc=5",
+     "pubDate": "Wed, 24 Jun 2026 20:15:00 GMT",
      "source": "GlobeNewswire"
     }
    ]
@@ -1048,7 +1064,11 @@ window.DASHBOARD_DATA = {
     113.01,
     112.96
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 112.96,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 519225,
    "symbol": "SAIC",
@@ -1125,7 +1145,11 @@ window.DASHBOARD_DATA = {
     33.87,
     33.72
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 33.71,
+    "changePct": -0.03
+   },
    "relVol": 3.1,
    "avgVolume": 1127931,
    "symbol": "KBR",
@@ -1206,7 +1230,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 8.04,
-    "changePct": 0.25
+    "changePct": 0.24
    },
    "relVol": 1.1,
    "avgVolume": 52370501,
@@ -1285,7 +1309,11 @@ window.DASHBOARD_DATA = {
     110.23,
     110.22
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 110.22,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
    "avgVolume": 533362,
    "symbol": "MRCY",
@@ -1362,7 +1390,11 @@ window.DASHBOARD_DATA = {
     739.88,
     737.43
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 737.39,
+    "changePct": -0.01
+   },
    "relVol": 1.6,
    "avgVolume": 169414,
    "symbol": "CW",
@@ -1398,16 +1430,16 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "Curtiss-Wright: A Great Business At A Valuation I Cannot Defend (NYSE:CW) - Seeking Alpha",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0xhZGFNWGtoRV9EQTk4ZE11QW9fTkRtWmppdEpEWklibzAtN1FwRVhDOGlBd0dqaHM3bEtJTnliVTBkdS1yalJiT1NONW9IdWFHa3FiQnF3SHdKbXRwZnN6bUZxZG8tZ204TjZ4QjY2VmZtX2daQjg0cXZLZ2JlM0VEaFNTMjNfUzhhWnFnUDN2Zmd4WElLTjNZUUtnS2lMMDVlVUNB?oc=5",
+     "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+     "source": "Seeking Alpha"
+    },
+    {
      "title": "OP Asset Management Ltd Takes Position in Curtiss-Wright Corporation $CW - MarketBeat",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmNrd18xaTZaTFlJYkRwSlZ1dXNESVlxSmhsSkwtSDNvYWhkS0tGR0s3V3ppY0RNSDVwZWM5NEFjU2VIQ2JhSUdYVl9MN2VrRmxoQXY1MHFtdHA5ejZ5MmE1R3lGaVlGN1RNOUZsVTdOVXU4MTRGc3l1M2lZS0lMT0kxbTlfSkp4NlN0MGVJM254aWxPZTZNdEpKel95dzhXQ1dQQmV1MVdhNzJYOHd5M3pEbTdrRjFFMVhGV2NpTDFHMGFWbFpjYkZfekE?oc=5",
      "pubDate": "Sun, 28 Jun 2026 09:00:42 GMT",
      "source": "MarketBeat"
-    },
-    {
-     "title": "Is Curtiss-Wright Corporation (CW) A Good Stock To Buy Now? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXI1bTJMLU9aSy1OektQT0d5N2lmUDJMRUVfNFkwUDAwRDNIZjZTdWZNX3BfWlNlZGRSaUM0ZXZRTTF5UHVLVnlQLXJZYVduM0NGUjRUTTVhSjRwSW1saFhIRUJIQ0pCODUybUJEYVZNWUJOWURWS3A5SElOSVFmQ1REMmxpQlpwejVRVmNGU083MXpDc1lCWWFsT2RQLW5B?oc=5",
-     "pubDate": "Sun, 26 Apr 2026 07:00:00 GMT",
-     "source": "Yahoo Finance"
     }
    ]
   },
@@ -1439,7 +1471,11 @@ window.DASHBOARD_DATA = {
     61.68,
     62.03
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 62.03,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 2140171,
    "symbol": "BAH",
@@ -1516,7 +1552,11 @@ window.DASHBOARD_DATA = {
     454.88,
     457.2
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 452.0,
+    "changePct": -1.14
+   },
    "relVol": 0.6,
    "avgVolume": 274009,
    "symbol": "CACI",
@@ -1593,7 +1633,11 @@ window.DASHBOARD_DATA = {
     8.62,
     8.61
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 8.62,
+    "changePct": 0.16
+   },
    "relVol": 1.1,
    "avgVolume": 43397118,
    "symbol": "JOBY",
@@ -1670,7 +1714,11 @@ window.DASHBOARD_DATA = {
     19.41,
     19.27
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 19.17,
+    "changePct": -0.52
+   },
    "relVol": 1.1,
    "avgVolume": 3101859,
    "symbol": "UMAC",
@@ -1741,7 +1789,11 @@ window.DASHBOARD_DATA = {
     349.83,
     350.33
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 350.44,
+    "changePct": 0.03
+   },
    "relVol": 1.4,
    "avgVolume": 317042,
    "symbol": "HEI",
@@ -1812,7 +1864,11 @@ window.DASHBOARD_DATA = {
     4.72,
     4.68
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 4.69,
+    "changePct": 0.21
+   },
    "relVol": 0.8,
    "avgVolume": 34611574,
    "symbol": "ACHR",
@@ -1883,7 +1939,11 @@ window.DASHBOARD_DATA = {
     153.1,
     153.63
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 153.64,
+    "changePct": 0.01
+   },
    "relVol": 1.1,
    "avgVolume": 458815,
    "symbol": "OSK",
@@ -1955,7 +2015,11 @@ window.DASHBOARD_DATA = {
     85.62,
     85.66
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 85.66,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 479061,
    "symbol": "ATRO",
@@ -2026,7 +2090,11 @@ window.DASHBOARD_DATA = {
     269.69,
     268.5
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 268.57,
+    "changePct": 0.03
+   },
    "relVol": 1.0,
    "avgVolume": 3318609,
    "symbol": "HWM",
@@ -2100,8 +2168,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 140.68,
-    "changePct": 1.21
+    "price": 141.07,
+    "changePct": 1.49
    },
    "relVol": 1.8,
    "avgVolume": 1091094,
@@ -2173,7 +2241,11 @@ window.DASHBOARD_DATA = {
     215.71,
     214.67
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 214.3,
+    "changePct": -0.17
+   },
    "relVol": 1.1,
    "avgVolume": 3629513,
    "symbol": "BA",
@@ -2244,7 +2316,11 @@ window.DASHBOARD_DATA = {
     70.94,
     71.04
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 71.03,
+    "changePct": -0.01
+   },
    "relVol": 0.5,
    "avgVolume": 634667,
    "symbol": "VVX",
@@ -2318,8 +2394,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 47.25,
-    "changePct": 0.64
+    "price": 46.71,
+    "changePct": -0.51
    },
    "relVol": 1.4,
    "avgVolume": 3929139,
@@ -2391,7 +2467,11 @@ window.DASHBOARD_DATA = {
     89.68,
     90.15
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 88.52,
+    "changePct": -1.81
+   },
    "relVol": 0.8,
    "avgVolume": 1362069,
    "symbol": "TXT",
@@ -2462,7 +2542,11 @@ window.DASHBOARD_DATA = {
     348.96,
     348.1
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 350.01,
+    "changePct": 0.55
+   },
    "relVol": 0.9,
    "avgVolume": 913588,
    "symbol": "GD",
@@ -2533,7 +2617,11 @@ window.DASHBOARD_DATA = {
     1328.8,
     1322.99
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 1341.17,
+    "changePct": 1.37
+   },
    "relVol": 1.1,
    "avgVolume": 294101,
    "symbol": "TDG",
@@ -2604,7 +2692,11 @@ window.DASHBOARD_DATA = {
     495.77,
     495.83
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 496.02,
+    "changePct": 0.04
+   },
    "relVol": 1.1,
    "avgVolume": 799616,
    "symbol": "NOC",
@@ -2675,7 +2767,11 @@ window.DASHBOARD_DATA = {
     278.22,
     277.34
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 277.39,
+    "changePct": 0.02
+   },
    "relVol": 0.8,
    "avgVolume": 425412,
    "symbol": "HII",
@@ -2749,8 +2845,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 502.07,
-    "changePct": 0.04
+    "price": 502.27,
+    "changePct": 0.08
    },
    "relVol": 0.8,
    "avgVolume": 932680,
@@ -2822,7 +2918,11 @@ window.DASHBOARD_DATA = {
     374.68,
     373.55
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 374.34,
+    "changePct": 0.21
+   },
    "relVol": 0.7,
    "avgVolume": 3997855,
    "symbol": "GE",
@@ -2893,7 +2993,11 @@ window.DASHBOARD_DATA = {
     99.9,
     100.45
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 100.44,
+    "changePct": -0.01
+   },
    "relVol": 1.1,
    "avgVolume": 1335653,
    "symbol": "LDOS",
@@ -2964,7 +3068,11 @@ window.DASHBOARD_DATA = {
     187.99,
     187.4
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 187.33,
+    "changePct": -0.03
+   },
    "relVol": 0.7,
    "avgVolume": 3148171,
    "symbol": "RTX",
@@ -3036,7 +3144,11 @@ window.DASHBOARD_DATA = {
     224.14,
     224.23
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 224.23,
+    "changePct": 0.0
+   },
    "relVol": 1.0,
    "avgVolume": 421311,
    "symbol": "VSEC",
@@ -3184,7 +3296,11 @@ window.DASHBOARD_DATA = {
     731.94,
     732.66
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 732.66,
+    "changePct": 0.0
+   },
    "relVol": 1.6,
    "avgVolume": 77163,
    "symbol": "ESLT",
@@ -3260,8 +3376,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 97.9,
-    "changePct": -0.05
+    "price": 97.48,
+    "changePct": -0.48
    },
    "relVol": 1.8,
    "avgVolume": 22531012,
@@ -3286,28 +3402,28 @@ window.DASHBOARD_DATA = {
      "source": "Barron's"
     },
     {
-     "title": "Stocks to Watch: Comcast, Rocket Lab, Palantir, Verizon - WSJ",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORlhJSlhtZlFacFZxWVhSLXJTQnpiSTRWRkJxcVExYzZjSGc0VVlhLVA5YXh4ZjhCWHhqQnA1b1pXbVFTTFBBdlBQVWhwcXBQc3RpSmpNZlEyUkppLUFUX0I5SElnM3ZNOGJ4bXNRTGgyaWxvb2V4Q1Q3dnFFOVNUYTJfSlY5N2dpUXhHTGwxMEMwWVVvenV6RnhJZkVVODhJUEtTZm9Eamw3T0JpOHVzZS0zeGJwWTY0c0ZTU0FldC1scDVSbE16TGFkd2lOX0lVX1JkdWd6V0FXNzYtZnd6Tnd5ci1fRzNhUE01Zw?oc=5",
-     "pubDate": "Mon, 29 Jun 2026 18:47:39 GMT",
-     "source": "WSJ"
-    },
-    {
      "title": "Stocks making the biggest moves midday: Comcast, Charter Communications, Rocket Lab, Alphabet, Verizon & more - CNBC",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYnpZZDRJNEZjaEZkUjQyQ0dUSnJhclc1M2xpVWxDM2xtdWxabXJScjV2S1RXa3pjZkc1YWpkVTFidDR5Um8wNEx5MDhfZnpUdkt6bFQ5Q29BcmhfaU1ZUHpLbkhaSURCNzlKdDdmSHpBczVIdzM1b2NtTmM5WnB4cTh1ZmJaSDhfSVI3ZENhX1J2WkxrZk8yTHctSkJzQmc?oc=5",
      "pubDate": "Mon, 29 Jun 2026 16:19:09 GMT",
      "source": "CNBC"
     },
     {
-     "title": "Rocket Lab: The Bear Case Has Never Been Stronger (NASDAQ:RKLB) - Seeking Alpha",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb1NBRnpPNm5fQWEzQmZ5TFRPX3dQN1dRUFhVc2dUSmlfT0pTR0hkOEh6TTNNTEttMXVoLTVxalF1dFgtbmRYc2pYRV90WVlIb3hNLWtfRnlGbWwtOWZnczRnYzc1SEdfbUcwX25QYmloc0JpcFl1V2xRVlU3ZHM2SWJvdFhjcFZ5?oc=5",
-     "pubDate": "Sat, 27 Jun 2026 17:00:00 GMT",
-     "source": "Seeking Alpha"
+     "title": "Why Is Rocket Lab (RKLB) Stock Soaring Today - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjFKRXZfdm5CeFZ4aUEzS2gtemZWYVVlODlXaVBmVGFpQ1g1SVB3d2tzUWxlUWozVEZhNUltTXhEbEtBY3dWWGJvVUhVNFpJS0FnOUdSS2sza3p0cllpZ1lBU3VNRkduUXNGenRfM2xBR2pwY05MNGZTdXdwTEcwUEgzQzVKcUw5TDItZTVXZjZtX3Nz?oc=5",
+     "pubDate": "Fri, 26 Jun 2026 22:32:25 GMT",
+     "source": "Yahoo Finance"
     },
     {
      "title": "Watch Comcast Rises on Split; Iridium Up on Rocket Lab Deal | Stock Movers - Bloomberg.com",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVDFnX2lWZ205TWxlMWRFbWhjYzVxTFFKQUw4RGtMaG5OSnlqOURaOUctYnk1eWxUenladXFQMWVUWE8wYmM1c2k3MDFyQXJyczREWF9iMHZaNzQyeEY2OUhGQnJ0NHc4WnJHNmdWSERrMXd4WjUzUjd6RFhkQlRON29uOWxWdy02bVVkNEh2RE5WSWVLOUM1R0JVdG84cXRpUjl5eDItYjczOXc?oc=5",
      "pubDate": "Mon, 29 Jun 2026 00:00:00 GMT",
      "source": "Bloomberg.com"
+    },
+    {
+     "title": "Rocket Lab Just Shattered This Space Force Record: Does That Make The Stock a Buy? - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFFDNGp2T2NCTnJxODlfMTlsY3dNUm02RkJiODFLcllwZ2ZrR2p1NmNKel9LYnhtb0g4RUdYcXl0VTVZNkREYzJ2N2xLZHR2eHFSOEdQdm9yOGZuTF9lcy1pbGMxa2JuYWxjSEQwODNuSnAwWUVhdmNxY3FOR1plcFVmNXNsOVNTRGV1Z2dpVGpZRGRJNmhB?oc=5",
+     "pubDate": "Fri, 26 Jun 2026 20:19:00 GMT",
+     "source": "The Motley Fool"
     }
    ]
   },
@@ -3342,8 +3458,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.32,
-    "changePct": 0.0
+    "price": 10.3,
+    "changePct": -0.19
    },
    "relVol": 1.7,
    "avgVolume": 7641521,
@@ -3369,8 +3485,8 @@ window.DASHBOARD_DATA = {
     },
     {
      "title": "Is Red Cat Holdings (RCAT) Using Hellcat\u2019s Modular UAS Platform To Redefine Its Defense Narrative? - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeTZ2WDlwdmY0cDFBVW83TTE2eHJPU1U1WmR5OGFaR3VGcUtuRV92azkyQnhkYTl1QnY2WERlZDRSUUxhVE1RNlA1azhzaFBJdXRTMFNsT2c4aUZETHZHZUtPaEh3S05XTFVSVEdqUnhNb1lZd0hfdTJTTFBYUF9hZjI4VEI4emM0bGtsdV94bEhIMEtRYVZqVklZRDUzdFYzVHJfWXJ3T0xPMnFCdjFSeW5UWUd0bGIzcl9aTTdHZmYyWlV3RGV3S1hIT2ppOG5vM2RXWHdtWdIB3AFBVV95cUxNSHc5X05rNTBkUmlZbVRZUUc3R2FtWjVzSG1yLTNrZzdINUtuOHg3VnhJNHJlczRncDJuNjlkaHEyRE1zM195WTlPUVBjWHhXY0ZjaXp6MmRueWx4emloZ2ItUVc1WFhaVTh1dWpWNEZFVFM5X056akdIT0xna09TTUVENHduQkpyUkw2blpySDlvVFpJSWtVaklqdVByVkEyZmFTMjBUb0VIZFFGWXhaZ0czU2RpMmNOSWpXQmFrZ3lFNW9kbzBoRlZ4bzlzWVAySFBhcUk3SHdXZHF0?oc=5",
-     "pubDate": "Mon, 29 Jun 2026 12:36:05 GMT",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSHc5X05rNTBkUmlZbVRZUUc3R2FtWjVzSG1yLTNrZzdINUtuOHg3VnhJNHJlczRncDJuNjlkaHEyRE1zM195WTlPUVBjWHhXY0ZjaXp6MmRueWx4emloZ2ItUVc1WFhaVTh1dWpWNEZFVFM5X056akdIT0xna09TTUVENHduQkpyUkw2blpySDlvVFpJSWtVaklqdVByVkEyZmFTMjBUb0VIZFFGWXhaZ0czU2RpMmNOSWpXQmFrZ3lFNW9kbzBoRlZ4bzlzWVAySFBhcUk3SHdXZHF00gHcAUFVX3lxTE1IdzlfTms1MGRSaVltVFlRRzdHYW1aNXNIbXItM2tnN0g1S244eDdWeEk0cmVzNGdwMm42OWRocTJETXMzX3lZOU9RUGNYeFdjRmNpenoyZG55bHh6aWhnYi1RVzVYWFpVOHV1alY0RkVUUzlfTnpqR0hPTGdrT1NNRUQ0d25CSnJSTDZuWnJIOW9UWklJa1VqSWp1UHJWQTJmYVMyMFRvRUhkUUZZeFpnRzNTZGkyY05JaldCYWtneUU1b2RvMGhGVnhvOXNZUDJIUGFxSTdId1dkcXQ?oc=5",
+     "pubDate": "Mon, 29 Jun 2026 12:36:07 GMT",
      "source": "simplywall.st"
     },
     {
@@ -3424,8 +3540,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 512.29,
-    "changePct": 0.33
+    "price": 510.6,
+    "changePct": 0.0
    },
    "relVol": 1.9,
    "avgVolume": 948405,
@@ -3506,8 +3622,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 20.96,
-    "changePct": -0.05
+    "price": 21.0,
+    "changePct": 0.14
    },
    "relVol": 1.1,
    "avgVolume": 9015089,
@@ -3532,6 +3648,12 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "Why Intuitive Machines Stock Was Sliding This Week - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1BUZ3RCTUQ4bkMxVlh0Mjk0dmJoWFl4aXlVRWZ4aTVOd2xra1V3VlNMcFlrbm80ajFkV29FTmJ3S1FRNTdlQmk5bTlLSjhfam9GbXhwakVrbENObXlySkV4Z2Jhb2l4WlNlOE92QnlPWHpsdUpkczJrdDdPc0tMUFBPbHRtNkUyMVZtZU1hS0dxdW90MmpmNg?oc=5",
+     "pubDate": "Fri, 26 Jun 2026 10:33:00 GMT",
+     "source": "The Motley Fool"
+    },
+    {
      "title": "Intuitive Machines Slides as Dilution Fears Eclipse Space Hype - TipRanks",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRTlTZGtjT1hEbzctajJlTVRvcnlJTk5xOElCcjF0ZUlMUlNTamsyY1FDc0tiWkhTNkpjWjlKa09KYkl3bGZydFlVTDlGQ2tTakxpcVlHN3ZIT3k4ajhxUWE3TjhmTWhwV3ppWjVIaG1ENmhtOGhkanAzM004Ny1uQ3l6VzVnTGVCZno2NHVHbDl1X3p1R2tCaldiTV9ZM296NEJJ?oc=5",
      "pubDate": "Mon, 29 Jun 2026 11:50:56 GMT",
@@ -3541,12 +3663,6 @@ window.DASHBOARD_DATA = {
      "title": "Can Intuitive Machines' Acquisitions Unlock New Growth Opportunities? - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejRLVDNRM2NfOGN5cVBrVll1THhoQWt3d3ljbjNSOF9BOHZvS0NBYUdQb3pvX3BzMERmQjlqTklKU3VacVJpWHJEWVowZUFUaHF3OGxpTmV3YTNwUWRFc2tBc3B3Wk5Kd0dIYWNhYnN4NW5QZDJFRUlKdmhMRjZOZXI3b09uWmxYcFUwbEdFUFVPN2FZUTQ0Snh0ekFjaVI5cERvNDN5ZjBucTVrODhZ?oc=5",
      "pubDate": "Fri, 26 Jun 2026 14:04:00 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Why Intuitive Machines Stock Was Sliding This Week - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0hPYWUwZnlQVXloTDV1RGZtWUpPREVwYnJVNE1SZWJfVHAzV0ptbFR0NUV4MTZrLTZjVVVqNENKVGFiSFkxTnRjeEFwcG1hTVhzTW9UTlhIZ0xsWUFnZy0zekN4WmFYQlBYX3NJajVDMW8tSy1EUlZMOV9SYVNnMkVMeTlfX282bGpXZ1E0TExzOGxsdURfU3BCUWM2V1R1ZzFZ?oc=5",
-     "pubDate": "Fri, 26 Jun 2026 09:53:56 GMT",
      "source": "Yahoo Finance"
     },
     {
@@ -3585,7 +3701,11 @@ window.DASHBOARD_DATA = {
     50.77,
     51.3
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 51.32,
+    "changePct": 0.04
+   },
    "relVol": 0.6,
    "avgVolume": 1151643,
    "symbol": "PSN",
@@ -3665,8 +3785,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.67,
-    "changePct": -0.34
+    "price": 11.63,
+    "changePct": -0.68
    },
    "relVol": 1.2,
    "avgVolume": 21623905,
@@ -3747,8 +3867,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 115.76,
-    "changePct": 0.05
+    "price": 115.55,
+    "changePct": -0.13
    },
    "relVol": 0.9,
    "avgVolume": 46086187,
@@ -3781,7 +3901,7 @@ window.DASHBOARD_DATA = {
     {
      "title": "Stocks to Watch: Comcast, Rocket Lab, Palantir, Verizon - WSJ",
      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORlhJSlhtZlFacFZxWVhSLXJTQnpiSTRWRkJxcVExYzZjSGc0VVlhLVA5YXh4ZjhCWHhqQnA1b1pXbVFTTFBBdlBQVWhwcXBQc3RpSmpNZlEyUkppLUFUX0I5SElnM3ZNOGJ4bXNRTGgyaWxvb2V4Q1Q3dnFFOVNUYTJfSlY5N2dpUXhHTGwxMEMwWVVvenV6RnhJZkVVODhJUEtTZm9Eamw3T0JpOHVzZS0zeGJwWTY0c0ZTU0FldC1scDVSbE16TGFkd2lOX0lVX1JkdWd6V0FXNzYtZnd6Tnd5ci1fRzNhUE01Zw?oc=5",
-     "pubDate": "Mon, 29 Jun 2026 18:47:39 GMT",
+     "pubDate": "Mon, 29 Jun 2026 14:17:05 GMT",
      "source": "WSJ"
     },
     {
@@ -3827,7 +3947,11 @@ window.DASHBOARD_DATA = {
     40.99,
     40.95
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 40.95,
+    "changePct": 0.0
+   },
    "relVol": 2.0,
    "avgVolume": 756241,
    "symbol": "DRS",
@@ -3904,7 +4028,11 @@ window.DASHBOARD_DATA = {
     191.64,
     189.52
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 189.25,
+    "changePct": -0.14
+   },
    "relVol": 1.4,
    "avgVolume": 736411,
    "symbol": "BWXT",
@@ -3981,7 +4109,11 @@ window.DASHBOARD_DATA = {
     4.03,
     3.97
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 3.97,
+    "changePct": -0.09
+   },
    "relVol": 1.5,
    "avgVolume": 1380615,
    "symbol": "KULR",
@@ -4023,9 +4155,9 @@ window.DASHBOARD_DATA = {
      "source": "Seeking Alpha"
     },
     {
-     "title": "KULR Technology Group Reaffirms Non-Dilutive Growth - GlobeNewswire",
-     "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNSWUyWFR0SF9zOUlnWFpibmU0azZpem1SU201Vy1PY1pjVWR3cEJTdkxGYXN0NUY5dm8wa0p2UFVFNEZGTDhyRGdPbWFNeWR1dUlMZWlZeFcxTDNFZkpoVnhKSzZ0YmthMzJaaDVYQ3RLT08yOXBYQjBRMm81UnU3STZBWU9IM1pJLURDVEcyM1dqVlkxVUJDUERXMko5SW1HclI1UkwtLV9fWmJncVFCUUNEaXhjU1NiQ3VTOUNBZTN0ZWtFZVVJYXl2UHhjT2lILW55LU5mNGxjZjVEWEx1NE1RTkZqcnk5b01FM1IzLWpqVUVYYTZqcTc5b2JtRFR6VGJSOXV5cVFhWG1xQjhld0tLdVl6bXg0cHJ5RA?oc=5",
-     "pubDate": "Fri, 26 Jun 2026 12:30:00 GMT",
+     "title": "KULR Technology Group Chairman and CEO Michael Mo Releases Shareholder Letter - GlobeNewswire",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORmV1ZTl6aGFUSURxSnJuMGtfaTVGRGo0WEFwSWFRWXVKRjdmLUVqcWEtM2JXVHVTLTlGNG8xbXhqMVVROXNpeXNYa1dxaXhmYlhfQjJhN2ZOeGhtWmJoaXpjbjBpVUM1anIwanZoM0RXQ3NEOEsyQmR1RXNlQkVzY3prdjZWUUtVUnRhVkR1SWJhYnRPUnBiOWtZQkFYcGNaVmJ0TkZlYXdvQmZYZ2E0MmdndTJKeHBQNEVTc0lXQ0dBd1gxLTN3ajZydWdXRlcyTW5OTGp6bEVxUFhZU3N6OTZSSQ?oc=5",
+     "pubDate": "Wed, 24 Jun 2026 20:15:00 GMT",
      "source": "GlobeNewswire"
     }
    ]
@@ -4059,7 +4191,11 @@ window.DASHBOARD_DATA = {
     113.01,
     112.96
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 112.96,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 519225,
    "symbol": "SAIC",
@@ -4136,7 +4272,11 @@ window.DASHBOARD_DATA = {
     33.87,
     33.72
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 33.71,
+    "changePct": -0.03
+   },
    "relVol": 3.1,
    "avgVolume": 1127931,
    "symbol": "KBR",
@@ -4217,7 +4357,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 8.04,
-    "changePct": 0.25
+    "changePct": 0.24
    },
    "relVol": 1.1,
    "avgVolume": 52370501,
@@ -4296,7 +4436,11 @@ window.DASHBOARD_DATA = {
     110.23,
     110.22
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 110.22,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
    "avgVolume": 533362,
    "symbol": "MRCY",
@@ -4373,7 +4517,11 @@ window.DASHBOARD_DATA = {
     739.88,
     737.43
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 737.39,
+    "changePct": -0.01
+   },
    "relVol": 1.6,
    "avgVolume": 169414,
    "symbol": "CW",
@@ -4409,16 +4557,16 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "Curtiss-Wright: A Great Business At A Valuation I Cannot Defend (NYSE:CW) - Seeking Alpha",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0xhZGFNWGtoRV9EQTk4ZE11QW9fTkRtWmppdEpEWklibzAtN1FwRVhDOGlBd0dqaHM3bEtJTnliVTBkdS1yalJiT1NONW9IdWFHa3FiQnF3SHdKbXRwZnN6bUZxZG8tZ204TjZ4QjY2VmZtX2daQjg0cXZLZ2JlM0VEaFNTMjNfUzhhWnFnUDN2Zmd4WElLTjNZUUtnS2lMMDVlVUNB?oc=5",
+     "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+     "source": "Seeking Alpha"
+    },
+    {
      "title": "OP Asset Management Ltd Takes Position in Curtiss-Wright Corporation $CW - MarketBeat",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmNrd18xaTZaTFlJYkRwSlZ1dXNESVlxSmhsSkwtSDNvYWhkS0tGR0s3V3ppY0RNSDVwZWM5NEFjU2VIQ2JhSUdYVl9MN2VrRmxoQXY1MHFtdHA5ejZ5MmE1R3lGaVlGN1RNOUZsVTdOVXU4MTRGc3l1M2lZS0lMT0kxbTlfSkp4NlN0MGVJM254aWxPZTZNdEpKel95dzhXQ1dQQmV1MVdhNzJYOHd5M3pEbTdrRjFFMVhGV2NpTDFHMGFWbFpjYkZfekE?oc=5",
      "pubDate": "Sun, 28 Jun 2026 09:00:42 GMT",
      "source": "MarketBeat"
-    },
-    {
-     "title": "Is Curtiss-Wright Corporation (CW) A Good Stock To Buy Now? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXI1bTJMLU9aSy1OektQT0d5N2lmUDJMRUVfNFkwUDAwRDNIZjZTdWZNX3BfWlNlZGRSaUM0ZXZRTTF5UHVLVnlQLXJZYVduM0NGUjRUTTVhSjRwSW1saFhIRUJIQ0pCODUybUJEYVZNWUJOWURWS3A5SElOSVFmQ1REMmxpQlpwejVRVmNGU083MXpDc1lCWWFsT2RQLW5B?oc=5",
-     "pubDate": "Sun, 26 Apr 2026 07:00:00 GMT",
-     "source": "Yahoo Finance"
     }
    ]
   },
@@ -4450,7 +4598,11 @@ window.DASHBOARD_DATA = {
     61.68,
     62.03
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 62.03,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 2140171,
    "symbol": "BAH",
@@ -4527,7 +4679,11 @@ window.DASHBOARD_DATA = {
     454.88,
     457.2
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 452.0,
+    "changePct": -1.14
+   },
    "relVol": 0.6,
    "avgVolume": 274009,
    "symbol": "CACI",
@@ -4621,12 +4777,6 @@ window.DASHBOARD_DATA = {
    "source": "Eurasia Review"
   },
   {
-   "title": "Israel Warns of 3rd War with Iran as Brent Crude Spikes 3.5% on Conflict Risk - sahi.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeVk1c3BjQ2s4MzBtaG9rOU1jUjdJbTFfR0M3N2wyS0NydU9PNllPS043MWU1SVZNRExtVTVTaXk0aHNKbHc4R1RuWG1xcTlkSW5kVVNuQmpoUkRQbG9lb1JrRnExQnBod3BEM0JEbFZCREd2MWhiQjVTS2xTTERhb1NGRUl5SzN5Y1Y1MkZHUGg2b3c4S045VzFKaDQ4c1YzRnh6Mnh2SjR0Zzc4eVlNOWw5V0RNdw?oc=5",
-   "pubDate": "Mon, 29 Jun 2026 17:54:01 GMT",
-   "source": "sahi.com"
-  },
-  {
    "title": "OPINION | Lessons from a global rupture: How warfare, power and resilience are being redefined - theweek.in",
    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWkVpMHdQcUpuVWxwQ3prdFJWaDRpNEJ5QURyWnBoV2NIVFhkaGlVZ0lzNG4yRHAzR0RiU2xVaHFmRGFqbEtRSmx2RDRRU0Nrbm5HbkVabFh5aWtRNFBMNDN5TEVYT180NVNxOGRMdnpudVlXT2FVdEVvTXQxYVlFZ1hOTGhOTjhyVzZFQjlmVktxNVoxOHBjajJFVEFBbVpRdW9MTjUtcExIQ2ZIaW4xcFJJRXVrSUk1d2VNaVhVaEpQWHlUNXgtMDB1V1pkRDJmVTR5ZVpudl8xd9IB3wFBVV95cUxQdWJnU0JnQ3ZoaFloNHFUQ1EzV2RhSnIzelFZdUtKNHFZWXphTmg1dUkwcnNPYjdSV2pOU3E1Vmo3Mjg5ODR1R0VVcTNvRnNEMTFpb1MzMThua2JfY0J1N0NqSmQ0THdtdDJVZ3NYX0I0bWhncGxjOXdPRnk2a3U5ZmhOWktFeXV0bE1JQXJBcjVWY2JPVXFSRUtIT1c4RWllUXFTRVNTcm9NeHF6aDV4UEY2dXdPd2FIWC1pVDhCX2E3OWtEYkNCU1RJZFhYWm1XNzZkMVVqV053NktHcTdz?oc=5",
    "pubDate": "Mon, 29 Jun 2026 10:28:46 GMT",
@@ -4637,6 +4787,12 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUUpjUE5ON1J4T2VvWUFqakJibWwtZmtEOEYtVEw4UHFXZUR1YXc4c0JJbWRiSksxbFk2SGxpTkpqNW1EVUhYUnNiSjlIT255UVBORTRRZ3Q4TmVMQUU1c09lYWcwTmJkTW9CajdRUGRGakRseWNPZXVSUmc2Qnk5dkNFeVB3eTZPT3F3eVlNdGEtZFc0T254c1Q1cm10bHAwZ0FmemtsWdIBtAFBVV95cUxNWU55N0lHV0RQMm1JWDFxX1dIamRVYXk5ZXIxSlp4RWJkSk9nVGRmRFF2Vy1icE5OVm9lUHpocXctU2laQUVzTzRvUXEtU04wSnBZQU9iME1OX0xtLWdYMWFoYlVrdGdITDA5QVYyOHBiQW1FN3JpTkp3dmxEdmRiOWlqaHNQS29wdG5fX0dBTVcyRzJtd0t6VEZ6U0FPZEt5VURnQl9JbW9lbHppWEVsLUNYVW0?oc=5",
    "pubDate": "Mon, 29 Jun 2026 09:59:12 GMT",
    "source": "outlookbusiness.com"
+  },
+  {
+   "title": "Israel Warns of 3rd War with Iran as Brent Crude Spikes 3.5% on Conflict Risk - sahi.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeVk1c3BjQ2s4MzBtaG9rOU1jUjdJbTFfR0M3N2wyS0NydU9PNllPS043MWU1SVZNRExtVTVTaXk0aHNKbHc4R1RuWG1xcTlkSW5kVVNuQmpoUkRQbG9lb1JrRnExQnBod3BEM0JEbFZCREd2MWhiQjVTS2xTTERhb1NGRUl5SzN5Y1Y1MkZHUGg2b3c4S045VzFKaDQ4c1YzRnh6Mnh2SjR0Zzc4eVlNOWw5V0RNdw?oc=5",
+   "pubDate": "Mon, 29 Jun 2026 17:54:01 GMT",
+   "source": "sahi.com"
   },
   {
    "title": "How China Sees the World 2026 - University of Alberta",
@@ -4715,6 +4871,12 @@ window.DASHBOARD_DATA = {
  ],
  "sectorNews": [
   {
+   "title": "Growing South Carolina's Defense Sector Economy - Greenville Business Magazine",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVElqd0ZXcXpueTl4VFdYM2otcHRWTjZva3k3dmRjcXpoWGxheGVVemFVMFJtbjExeXhkZTdDbjNiSE92N2hwQW93UUppemVjM2FCLUp2TDRfRUhSbkEzYXhCNHNOT3pOSEdobXhKclY5QUJ0U1N3QnR5U0oxYlQxZGxaZWh3NFVyVU1sX3BFSFp4ZnZnZmlKVkRid3JTQQ?oc=5",
+   "pubDate": "Mon, 29 Jun 2026 19:47:11 GMT",
+   "source": "Greenville Business Magazine"
+  },
+  {
    "title": "Top Aerospace & Defense Companies in Southern California - Los Angeles Times",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoVnZralFuT1g1TDgxSFg3X3RBYXBZWXhlQ3JITTVGb2pWeWhNN21rSGFlQ0hPWjRZdEZQbnR3cDI0LVlyOUxQRmNJYzRLWGhYWkVtS0JTQmt2elM1QkV4bnlBaEozWjVZTllDdnpLSl9IZVRXblN1Zmd4VnBHTlE?oc=5",
    "pubDate": "Mon, 29 Jun 2026 05:13:36 GMT",
@@ -4763,16 +4925,10 @@ window.DASHBOARD_DATA = {
    "source": "Voice of Alexandria"
   },
   {
-   "title": "Japan Renaming Air Force - Advanced Manufacturing",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVUZNR0VDUmdIaVhwcVR3dkZPYUR1blJUZGZhdjZJdm12NnZmalM1d2hTZk5QNFRpRFBWcmtGV2lqMWVNbUtCWFByUGhtRDR3UGVSYkdMVk9XOTF3b18yajMzSEE5WlZheU5xdGVIWWNIdlZNaEZmT2p0dTJnWXpWRDdEWHBWY0RsNmxrLUw0ZHNmRHRXaU8yQXF5VnJjX1hxMjlzQWJMZW1yZEZUSmtRVG56WW12QTNJQkh4NUlQRWVOUE1TalpTSU1WY0hCYnFtUmJUVjBMcDM?oc=5",
-   "pubDate": "Mon, 29 Jun 2026 13:34:33 GMT",
-   "source": "Advanced Manufacturing"
-  },
-  {
-   "title": "Israel's Defense Budget Boost: Positive Outlook for Elbit Systems (ESLT) - GuruFocus",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPam1VS19POUpEOU5GekxkTDJFVm54OVQ0eGhMcVBXeGdVQXp6LTBEd1FBRWVUWENxcFJOWklkVnZVM2Z6dmhrYndXWWRTX2hWbTcwaTBTYm9BalZjdmpBNzg3UXhUQ01zY21XYm1FNEl2WXkwVTZmOFNOWDJORlc4WTRqQnB5RGluSk9ESnF0eGJrelNxWXloWTJsNFVrQTNfbkg2Qm5BMUhYMUE?oc=5",
-   "pubDate": "Mon, 29 Jun 2026 17:35:03 GMT",
-   "source": "GuruFocus"
+   "title": "Q&A: Ryan Walters, former 160th Special Operations Regiment pilot - Vertical Mag",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVRyS0JRMi01aDc1TmpGWDN3Vm5rUjl3MG5qeU5lT0tZZWJ2M3YySW1kVTgzaVVESGdJdkZmZWhCbTJhVGdObTlpaVpXMHNtMjdnRWZKVEVJNF9NbjdUdlgxU1ZCa0RpMnAtbnQ0Q09wUHBfaXUzWmlWM0FmcGd2TzRmY1BFSHR1bUU3RllMamhVNlBIcEhON3pYbHc?oc=5",
+   "pubDate": "Mon, 29 Jun 2026 12:34:32 GMT",
+   "source": "Vertical Mag"
   }
  ],
  "industrialsNews": [
