@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-29T20:19:03.691467+00:00",
+ "generatedAt": "2026-06-29T20:25:06.459553+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 97.93,
-    "changePct": -0.08
+    "price": 98.2,
+    "changePct": 0.19
    },
    "relVol": 1.8,
    "avgVolume": 22531012,
@@ -293,10 +293,10 @@ window.DASHBOARD_DATA = {
      "source": "Bloomberg.com"
     },
     {
-     "title": "Rocket Lab Just Shattered This Space Force Record: Does That Make The Stock a Buy? - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFFDNGp2T2NCTnJxODlfMTlsY3dNUm02RkJiODFLcllwZ2ZrR2p1NmNKel9LYnhtb0g4RUdYcXl0VTVZNkREYzJ2N2xLZHR2eHFSOEdQdm9yOGZuTF9lcy1pbGMxa2JuYWxjSEQwODNuSnAwWUVhdmNxY3FOR1plcFVmNXNsOVNTRGV1Z2dpVGpZRGRJNmhB?oc=5",
-     "pubDate": "Fri, 26 Jun 2026 20:19:00 GMT",
-     "source": "The Motley Fool"
+     "title": "Rocket Lab's NASA Win Tests Key Support After Sharp Pullback - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd2hsUUc1Q0RkTWZQUl9TX281cXQ2WDlUbkNKZHNqeno2RUwzazNrd0lyQUptY3VnQkZ1NjlLZjNzVHJ6aHBiTEN3c2hxckJQNU1SVkpkZmRnOGxabUF6ZVlOWTRYT2pwUnpBdUVtYkdvazZaOGo3V1J4Qk5Gc0syLUZBSGNkX3hwa0xDU3E5bGJyaDdLQzQyVTB2QVA?oc=5",
+     "pubDate": "Fri, 26 Jun 2026 16:21:42 GMT",
+     "source": "MarketBeat"
     }
    ]
   },
@@ -331,8 +331,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.5,
-    "changePct": 1.74
+    "price": 10.58,
+    "changePct": 2.52
    },
    "relVol": 1.7,
    "avgVolume": 7641521,
@@ -441,7 +441,7 @@ window.DASHBOARD_DATA = {
     {
      "title": "Trump bought Axon stock before ICE sought $220M Taser contract - qz.com",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUXM1OTF5SHc5dEZCbDY2b293SUUxZ3g0REJwcXRmUFhJTmljQk9TaE8xTXB0bG9LV1RJd0xHb1FNNmQ2S09BWENjSmM4NWtjaWh2bnp6TEZ1ZzBHZ25UQUVXUlptQWw4?oc=5",
-     "pubDate": "Mon, 29 Jun 2026 11:17:16 GMT",
+     "pubDate": "Mon, 29 Jun 2026 12:09:47 GMT",
      "source": "qz.com"
     },
     {
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 20.9,
-    "changePct": -0.33
+    "price": 21.03,
+    "changePct": 0.29
    },
    "relVol": 1.2,
    "avgVolume": 9015089,
@@ -521,9 +521,9 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "Why Intuitive Machines Stock Was Sliding This Week - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1BUZ3RCTUQ4bkMxVlh0Mjk0dmJoWFl4aXlVRWZ4aTVOd2xra1V3VlNMcFlrbm80ajFkV29FTmJ3S1FRNTdlQmk5bTlLSjhfam9GbXhwakVrbENObXlySkV4Z2Jhb2l4WlNlOE92QnlPWHpsdUpkczJrdDdPc0tMUFBPbHRtNkUyMVZtZU1hS0dxdW90MmpmNg?oc=5",
-     "pubDate": "Fri, 26 Jun 2026 10:33:00 GMT",
+     "title": "Intuitive Machines Stock Is Falling: What Investors Need to Understand - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGU1MUk5NGZjY0hPMjZPb0EtT3FuT2VFenhsTHpyQ3dFb0RCVkRzUWQ3VlFnSGd0LUtXWHM3SHoyeGNvT09kZ0c3SzQ5QVhCeG1TN1FtVXNXckVRYmNsMlg1NEdZRUJEOWFpMGdQYUNKbFBTNjZHSVl1bTFBQzlOTDAydDlPLU1lWG95OWFuZmdwWGFiaFJLWg?oc=5",
+     "pubDate": "Mon, 29 Jun 2026 20:11:06 GMT",
      "source": "The Motley Fool"
     },
     {
@@ -539,10 +539,10 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "Stocks making the biggest moves premarket: Ferrari, Lear, Intuitive Machines, Micron Technology and more - CNBC",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2M3YXc3ZXY5VHBQemFQOUFqUnVDN2JLY0hGaXU5NWFkd2lwMU1RWlZrNDAxTmZoS1hxRWM3TVlBVjFHNHZIcV9IOGZfc25HNWtQNVFSYjFaY0JPb2NZVnZPaVc5aG1kR09Nem1kNnhfU0pJeGlFRGc5SERnalVFUjhpczFSMllVYnV1RDhaMlVsZnFoVU9SOUxNdw?oc=5",
-     "pubDate": "Tue, 26 May 2026 07:00:00 GMT",
-     "source": "CNBC"
+     "title": "What to Know About This $3.3 Million Intuitive Machines Insider Sale as Space Stocks Heat Up - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZWZscFJ4UmhSSGhlcWlublFBQ1J4QlN2emNQLVR3LXVHM0FtNWJ6bk9lNDBoa2RuNDl3bWFadmF4Zi0xRUUzUWNuWFZOSG1lNWhWYWJPZFhuNnFIUHRodWVBcjhBRG1CRjNDeUc3Z1o4Rl94cm9LNUxCa1hXcGFLdktjTWphcDFVaVcwWldsbHQwTmE1dE1nWlZjSzcwd3hOOWlKdEU4NUY2dG1HdDZlUWtZa1VCMTZ3VXZsNWpPdXdLb3pjSWNXMFpBamFGbXZKMkFTM1lmMmZ6NExs?oc=5",
+     "pubDate": "Sat, 27 Jun 2026 17:24:00 GMT",
+     "source": "The Motley Fool"
     }
    ]
   },
@@ -741,8 +741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 115.45,
-    "changePct": -0.22
+    "price": 115.56,
+    "changePct": -0.12
    },
    "relVol": 0.9,
    "avgVolume": 46086187,
@@ -905,8 +905,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 190.36,
-    "changePct": 0.59
+    "price": 189.25,
+    "changePct": 0.0
    },
    "relVol": 1.4,
    "avgVolume": 736411,
@@ -1151,8 +1151,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 33.71,
-    "changePct": 0.0
+    "price": 34.29,
+    "changePct": 1.73
    },
    "relVol": 3.1,
    "avgVolume": 1127931,
@@ -1233,8 +1233,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.09,
-    "changePct": 0.82
+    "price": 8.1,
+    "changePct": 0.98
    },
    "relVol": 1.1,
    "avgVolume": 52370501,
@@ -1397,8 +1397,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 737.39,
-    "changePct": 0.0
+    "price": 736.59,
+    "changePct": -0.11
    },
    "relVol": 1.9,
    "avgVolume": 169414,
@@ -1424,8 +1424,8 @@ window.DASHBOARD_DATA = {
     },
     {
      "title": "How Curtiss-Wright\u2019s (CW) Shift Into Russell Growth Indexes Has Changed Its Investment Story - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcHBOOUsteVFrblVJM1NxTVZJdjRSVnhBZURKWTBjNVIyU3g5U0I0aWpsTVNFaktyVDNMNlVuaThoV1BmNlNJSmlzZWQ5Q1ZkMW1pS0xWc01lUklZSWlNMHFsT0lPbEdMQkhtWDhQcmlyeDFGcThqZl81R1lmZEt0MG1xQlVLdkdWZE9udFZYcUdlYWI5X3ppR2VBNnlBU0EtdVFLZHppdjJZeDctck1hdUFzOE9lTlBTajNoSm53Vmk1NE1iM0ZLd20zeV84UVXSAdQBQVVfeXFMT0ZOV1BjdlFCcm51dEZSRU5GZWdDdVlFb09Eb3E4X2lyazhodHpuY25YcTg4R0NRblZxcFFnQXRzV2kzVmpoVHdhczY1Y1BjRTZPTDR6UUw2WmJxTGtGWTN3QmNCeXZuR0NJLWZJSlowTGhDZVptUkdXd2dYbGdnamt6VEFlVzZ4VFVhd0pBdzRTZER0MWVrc25ZNlZXVWRZYUtLZzJ6SnJJdW1aWVBNWTU2OC1JTHAtRnBPZ1lTMGlrTkJVQUlVTVlIcjNLQ3UtOGE0cmw?oc=5",
-     "pubDate": "Mon, 29 Jun 2026 04:43:58 GMT",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRk5XUGN2UUJybnV0RlJFTkZlZ0N1WUVvT0RvcThfaXJrOGh0em5jblhxODhHQ1FuVnFwUWdBdHNXaTNWamhUd2FzNjVjUGNFNk9MNHpRTDZaYnFMa0ZZM3dCY0J5dm5HQ0ktZklKWjBMaENlWm1SR1d3Z1hsZ2dqa3pUQWVXNnhUVWF3SkF3NFNkRHQxZWtzblk2VldVZFlhS0tnMnpKckl1bVpZUE1ZNTY4LUlMcC1GcE9nWVMwaWtOQlVBSVVNWUhyM0tDdS04YTRybNIB1AFBVV95cUxPRk5XUGN2UUJybnV0RlJFTkZlZ0N1WUVvT0RvcThfaXJrOGh0em5jblhxODhHQ1FuVnFwUWdBdHNXaTNWamhUd2FzNjVjUGNFNk9MNHpRTDZaYnFMa0ZZM3dCY0J5dm5HQ0ktZklKWjBMaENlWm1SR1d3Z1hsZ2dqa3pUQWVXNnhUVWF3SkF3NFNkRHQxZWtzblk2VldVZFlhS0tnMnpKckl1bVpZUE1ZNTY4LUlMcC1GcE9nWVMwaWtOQlVBSVVNWUhyM0tDdS04YTRybA?oc=5",
+     "pubDate": "Mon, 29 Jun 2026 04:43:59 GMT",
      "source": "simplywall.st"
     },
     {
@@ -1435,16 +1435,16 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "Curtiss-Wright: A Great Business At A Valuation I Cannot Defend (NYSE:CW) - Seeking Alpha",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0xhZGFNWGtoRV9EQTk4ZE11QW9fTkRtWmppdEpEWklibzAtN1FwRVhDOGlBd0dqaHM3bEtJTnliVTBkdS1yalJiT1NONW9IdWFHa3FiQnF3SHdKbXRwZnN6bUZxZG8tZ204TjZ4QjY2VmZtX2daQjg0cXZLZ2JlM0VEaFNTMjNfUzhhWnFnUDN2Zmd4WElLTjNZUUtnS2lMMDVlVUNB?oc=5",
-     "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
-     "source": "Seeking Alpha"
-    },
-    {
      "title": "OP Asset Management Ltd Takes Position in Curtiss-Wright Corporation $CW - MarketBeat",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmNrd18xaTZaTFlJYkRwSlZ1dXNESVlxSmhsSkwtSDNvYWhkS0tGR0s3V3ppY0RNSDVwZWM5NEFjU2VIQ2JhSUdYVl9MN2VrRmxoQXY1MHFtdHA5ejZ5MmE1R3lGaVlGN1RNOUZsVTdOVXU4MTRGc3l1M2lZS0lMT0kxbTlfSkp4NlN0MGVJM254aWxPZTZNdEpKel95dzhXQ1dQQmV1MVdhNzJYOHd5M3pEbTdrRjFFMVhGV2NpTDFHMGFWbFpjYkZfekE?oc=5",
      "pubDate": "Sun, 28 Jun 2026 09:00:42 GMT",
      "source": "MarketBeat"
+    },
+    {
+     "title": "Is Curtiss-Wright Corporation (CW) A Good Stock To Buy Now? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXI1bTJMLU9aSy1OektQT0d5N2lmUDJMRUVfNFkwUDAwRDNIZjZTdWZNX3BfWlNlZGRSaUM0ZXZRTTF5UHVLVnlQLXJZYVduM0NGUjRUTTVhSjRwSW1saFhIRUJIQ0pCODUybUJEYVZNWUJOWURWS3A5SElOSVFmQ1REMmxpQlpwejVRVmNGU083MXpDc1lCWWFsT2RQLW5B?oc=5",
+     "pubDate": "Sun, 26 Apr 2026 07:00:00 GMT",
+     "source": "Yahoo Finance"
     }
    ]
   },
@@ -1499,10 +1499,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1782763202,
    "news": [
     {
-     "title": "Booz Allen taps OpenAI to speed secure AI for U.S. agencies - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGhCbzBMQm9yREdsZG5PVWE4SVRZcmpISnJjb1RXYlM0QjU4RkVwWU5xRVVZZVgwRTBOMkJlSzhrUDZaOUxxa0kxLVJFczRUVlMxQi1LTDd5azF6MEJXQmVadjRjaEJueXJoZ0FmTTJLM2hkNlZKOE1IUU5aVGxuZjlwWWYzRndnUWJ3dVBrVTBLY1pRLXlPNzc3MlM5ZVFqQVRCRGUyMFp0NHly?oc=5",
-     "pubDate": "Mon, 29 Jun 2026 12:00:00 GMT",
-     "source": "Stock Titan"
+     "title": "Booz Allen Hamilton stock rises on OpenAI partnership deal By Investing.com - Investing.com South Africa",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLV9XcVB4blZRUjVvSlBLQUk3Z0wtNlFnSzdpellDVndHOElIbHZNNVNjSU40WDJPQTI5aTR4THRqbjRsUERDclNlWmJEdWhYX3ZGM3d0SEdGRGhrT0FBVWdvaVhBMTNuTjd2ZmNiVXJDTkdNMm1CNEh3RXI2RmxrRjBVUjlzVFVveUFOUl9aN1dKU250SnVqazRXc2hwRVlWR2duVFVLMHUtNlViVVBYZzhKN1J2Nkh5cW5N?oc=5",
+     "pubDate": "Mon, 29 Jun 2026 12:33:19 GMT",
+     "source": "Investing.com South Africa"
     },
     {
      "title": "Booz Allen Hamilton (BAH) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo! Finance Canada",
@@ -1523,10 +1523,10 @@ window.DASHBOARD_DATA = {
      "source": "MarketBeat"
     },
     {
-     "title": "Booz Allen Hamilton stock rises on OpenAI partnership deal - Investing.com UK",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSlY2WUZVdnJWU1FlamVndUQwemd3MkRYdTVwdFpvN1FIUWh6Z3BlbC1tYzlNYThBTllCODFyaDU0Ymw4S3JTRjVLRlZYNW5qMUtaWHBxTXhzRFlaS3JIaWV1eFFfeWhJWU1sSW1TZVBRbFR3R2JLczV0S2habFFOeW0wSTk0Zmh4VEhUX3ZSODFjcEppX0R0S3o0MTZWeERaaXZLdk9Ca0RsNkk4R2xjTy1VUU1pYk9nTm9TQmRkMWJ5TDMxMnNQSWxEaw?oc=5",
-     "pubDate": "Mon, 29 Jun 2026 12:32:46 GMT",
-     "source": "Investing.com UK"
+     "title": "Booz Allen Teams up with OpenAI, Shares Gain - Baystreet.ca",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT3RIZ0RoakR5TWFwb2ZwazBQczEzNXRLajRITEdpdWxiZm1LaHZmSzZJVGZYcUpzUXJJN1hueWdyOXAzM1ZWZDRfQWFWQ2tEdTM3c2tNZXRIV09veUMxSG1DLUJPQ0ZfNnZqRUx6cHBHNEF4cTNER2JWYm95RjJUeUFtZDlEMjlGaEFyWmpHMHRhZ9IBfkFVX3lxTE1ORDA0b0Fvd0s0LXFyTU9OQkQyelZaaF9tbnI2ekZGekYtTzRpbHhSbXMwWHZsTkZKa3BPbml6dnRuMFR5SXNYRmd1WDZ4SWo4dXJwUXhLLTRyZzVqOU1PdzlZUlNlQkxvM3V5M2JXZXFmUzJ5OTNQZ1dON1dDUQ?oc=5",
+     "pubDate": "Mon, 29 Jun 2026 14:00:00 GMT",
+     "source": "Baystreet.ca"
     }
    ]
   },
@@ -1877,8 +1877,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 19.11,
-    "changePct": -0.62
+    "price": 19.51,
+    "changePct": 1.46
    },
    "relVol": 1.1,
    "avgVolume": 3101859,
@@ -2105,8 +2105,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 157.99,
-    "changePct": 13.66
+    "price": 157.11,
+    "changePct": 13.03
    },
    "relVol": 2.0,
    "avgVolume": 1091094,
@@ -2181,8 +2181,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 270.2,
-    "changePct": 0.61
+    "price": 268.57,
+    "changePct": 0.0
    },
    "relVol": 1.0,
    "avgVolume": 3318609,
@@ -2333,8 +2333,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 71.03,
-    "changePct": 0.0
+    "price": 71.05,
+    "changePct": 0.03
    },
    "relVol": 0.5,
    "avgVolume": 634667,
@@ -2409,8 +2409,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 47.87,
-    "changePct": 1.96
+    "price": 48.11,
+    "changePct": 2.47
    },
    "relVol": 1.4,
    "avgVolume": 3929139,
@@ -2713,7 +2713,7 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 496.1,
+    "price": 496.14,
     "changePct": 0.02
    },
    "relVol": 1.1,
@@ -2789,8 +2789,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 374.18,
-    "changePct": 0.13
+    "price": 375.0,
+    "changePct": 0.35
    },
    "relVol": 0.7,
    "avgVolume": 3997855,
@@ -2865,8 +2865,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 277.39,
-    "changePct": 0.0
+    "price": 280.08,
+    "changePct": 0.97
    },
    "relVol": 0.8,
    "avgVolume": 425412,
@@ -2941,8 +2941,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 502.12,
-    "changePct": 0.01
+    "price": 508.46,
+    "changePct": 1.27
    },
    "relVol": 0.8,
    "avgVolume": 932680,
@@ -3017,8 +3017,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 100.44,
-    "changePct": 0.0
+    "price": 101.13,
+    "changePct": 0.69
    },
    "relVol": 1.1,
    "avgVolume": 1335653,
@@ -3093,8 +3093,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 187.33,
-    "changePct": 0.0
+    "price": 187.63,
+    "changePct": 0.16
    },
    "relVol": 0.7,
    "avgVolume": 3148171,
@@ -3169,8 +3169,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 289.38,
-    "changePct": 0.0
+    "price": 290.0,
+    "changePct": 0.21
    },
    "relVol": 0.5,
    "avgVolume": 1532276,
@@ -3399,8 +3399,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 97.93,
-    "changePct": -0.08
+    "price": 98.2,
+    "changePct": 0.19
    },
    "relVol": 1.8,
    "avgVolume": 22531012,
@@ -3443,10 +3443,10 @@ window.DASHBOARD_DATA = {
      "source": "Bloomberg.com"
     },
     {
-     "title": "Rocket Lab Just Shattered This Space Force Record: Does That Make The Stock a Buy? - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFFDNGp2T2NCTnJxODlfMTlsY3dNUm02RkJiODFLcllwZ2ZrR2p1NmNKel9LYnhtb0g4RUdYcXl0VTVZNkREYzJ2N2xLZHR2eHFSOEdQdm9yOGZuTF9lcy1pbGMxa2JuYWxjSEQwODNuSnAwWUVhdmNxY3FOR1plcFVmNXNsOVNTRGV1Z2dpVGpZRGRJNmhB?oc=5",
-     "pubDate": "Fri, 26 Jun 2026 20:19:00 GMT",
-     "source": "The Motley Fool"
+     "title": "Rocket Lab's NASA Win Tests Key Support After Sharp Pullback - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd2hsUUc1Q0RkTWZQUl9TX281cXQ2WDlUbkNKZHNqeno2RUwzazNrd0lyQUptY3VnQkZ1NjlLZjNzVHJ6aHBiTEN3c2hxckJQNU1SVkpkZmRnOGxabUF6ZVlOWTRYT2pwUnpBdUVtYkdvazZaOGo3V1J4Qk5Gc0syLUZBSGNkX3hwa0xDU3E5bGJyaDdLQzQyVTB2QVA?oc=5",
+     "pubDate": "Fri, 26 Jun 2026 16:21:42 GMT",
+     "source": "MarketBeat"
     }
    ]
   },
@@ -3481,8 +3481,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.5,
-    "changePct": 1.74
+    "price": 10.58,
+    "changePct": 2.52
    },
    "relVol": 1.7,
    "avgVolume": 7641521,
@@ -3591,7 +3591,7 @@ window.DASHBOARD_DATA = {
     {
      "title": "Trump bought Axon stock before ICE sought $220M Taser contract - qz.com",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rUXM1OTF5SHc5dEZCbDY2b293SUUxZ3g0REJwcXRmUFhJTmljQk9TaE8xTXB0bG9LV1RJd0xHb1FNNmQ2S09BWENjSmM4NWtjaWh2bnp6TEZ1ZzBHZ25UQUVXUlptQWw4?oc=5",
-     "pubDate": "Mon, 29 Jun 2026 11:17:16 GMT",
+     "pubDate": "Mon, 29 Jun 2026 12:09:47 GMT",
      "source": "qz.com"
     },
     {
@@ -3645,8 +3645,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 20.9,
-    "changePct": -0.33
+    "price": 21.03,
+    "changePct": 0.29
    },
    "relVol": 1.2,
    "avgVolume": 9015089,
@@ -3671,9 +3671,9 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "Why Intuitive Machines Stock Was Sliding This Week - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR1BUZ3RCTUQ4bkMxVlh0Mjk0dmJoWFl4aXlVRWZ4aTVOd2xra1V3VlNMcFlrbm80ajFkV29FTmJ3S1FRNTdlQmk5bTlLSjhfam9GbXhwakVrbENObXlySkV4Z2Jhb2l4WlNlOE92QnlPWHpsdUpkczJrdDdPc0tMUFBPbHRtNkUyMVZtZU1hS0dxdW90MmpmNg?oc=5",
-     "pubDate": "Fri, 26 Jun 2026 10:33:00 GMT",
+     "title": "Intuitive Machines Stock Is Falling: What Investors Need to Understand - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGU1MUk5NGZjY0hPMjZPb0EtT3FuT2VFenhsTHpyQ3dFb0RCVkRzUWQ3VlFnSGd0LUtXWHM3SHoyeGNvT09kZ0c3SzQ5QVhCeG1TN1FtVXNXckVRYmNsMlg1NEdZRUJEOWFpMGdQYUNKbFBTNjZHSVl1bTFBQzlOTDAydDlPLU1lWG95OWFuZmdwWGFiaFJLWg?oc=5",
+     "pubDate": "Mon, 29 Jun 2026 20:11:06 GMT",
      "source": "The Motley Fool"
     },
     {
@@ -3689,10 +3689,10 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "Stocks making the biggest moves premarket: Ferrari, Lear, Intuitive Machines, Micron Technology and more - CNBC",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2M3YXc3ZXY5VHBQemFQOUFqUnVDN2JLY0hGaXU5NWFkd2lwMU1RWlZrNDAxTmZoS1hxRWM3TVlBVjFHNHZIcV9IOGZfc25HNWtQNVFSYjFaY0JPb2NZVnZPaVc5aG1kR09Nem1kNnhfU0pJeGlFRGc5SERnalVFUjhpczFSMllVYnV1RDhaMlVsZnFoVU9SOUxNdw?oc=5",
-     "pubDate": "Tue, 26 May 2026 07:00:00 GMT",
-     "source": "CNBC"
+     "title": "What to Know About This $3.3 Million Intuitive Machines Insider Sale as Space Stocks Heat Up - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZWZscFJ4UmhSSGhlcWlublFBQ1J4QlN2emNQLVR3LXVHM0FtNWJ6bk9lNDBoa2RuNDl3bWFadmF4Zi0xRUUzUWNuWFZOSG1lNWhWYWJPZFhuNnFIUHRodWVBcjhBRG1CRjNDeUc3Z1o4Rl94cm9LNUxCa1hXcGFLdktjTWphcDFVaVcwWldsbHQwTmE1dE1nWlZjSzcwd3hOOWlKdEU4NUY2dG1HdDZlUWtZa1VCMTZ3VXZsNWpPdXdLb3pjSWNXMFpBamFGbXZKMkFTM1lmMmZ6NExs?oc=5",
+     "pubDate": "Sat, 27 Jun 2026 17:24:00 GMT",
+     "source": "The Motley Fool"
     }
    ]
   },
@@ -3891,8 +3891,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 115.45,
-    "changePct": -0.22
+    "price": 115.56,
+    "changePct": -0.12
    },
    "relVol": 0.9,
    "avgVolume": 46086187,
@@ -4055,8 +4055,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 190.36,
-    "changePct": 0.59
+    "price": 189.25,
+    "changePct": 0.0
    },
    "relVol": 1.4,
    "avgVolume": 736411,
@@ -4301,8 +4301,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 33.71,
-    "changePct": 0.0
+    "price": 34.29,
+    "changePct": 1.73
    },
    "relVol": 3.1,
    "avgVolume": 1127931,
@@ -4383,8 +4383,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.09,
-    "changePct": 0.82
+    "price": 8.1,
+    "changePct": 0.98
    },
    "relVol": 1.1,
    "avgVolume": 52370501,
@@ -4547,8 +4547,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 737.39,
-    "changePct": 0.0
+    "price": 736.59,
+    "changePct": -0.11
    },
    "relVol": 1.9,
    "avgVolume": 169414,
@@ -4574,8 +4574,8 @@ window.DASHBOARD_DATA = {
     },
     {
      "title": "How Curtiss-Wright\u2019s (CW) Shift Into Russell Growth Indexes Has Changed Its Investment Story - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcHBOOUsteVFrblVJM1NxTVZJdjRSVnhBZURKWTBjNVIyU3g5U0I0aWpsTVNFaktyVDNMNlVuaThoV1BmNlNJSmlzZWQ5Q1ZkMW1pS0xWc01lUklZSWlNMHFsT0lPbEdMQkhtWDhQcmlyeDFGcThqZl81R1lmZEt0MG1xQlVLdkdWZE9udFZYcUdlYWI5X3ppR2VBNnlBU0EtdVFLZHppdjJZeDctck1hdUFzOE9lTlBTajNoSm53Vmk1NE1iM0ZLd20zeV84UVXSAdQBQVVfeXFMT0ZOV1BjdlFCcm51dEZSRU5GZWdDdVlFb09Eb3E4X2lyazhodHpuY25YcTg4R0NRblZxcFFnQXRzV2kzVmpoVHdhczY1Y1BjRTZPTDR6UUw2WmJxTGtGWTN3QmNCeXZuR0NJLWZJSlowTGhDZVptUkdXd2dYbGdnamt6VEFlVzZ4VFVhd0pBdzRTZER0MWVrc25ZNlZXVWRZYUtLZzJ6SnJJdW1aWVBNWTU2OC1JTHAtRnBPZ1lTMGlrTkJVQUlVTVlIcjNLQ3UtOGE0cmw?oc=5",
-     "pubDate": "Mon, 29 Jun 2026 04:43:58 GMT",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRk5XUGN2UUJybnV0RlJFTkZlZ0N1WUVvT0RvcThfaXJrOGh0em5jblhxODhHQ1FuVnFwUWdBdHNXaTNWamhUd2FzNjVjUGNFNk9MNHpRTDZaYnFMa0ZZM3dCY0J5dm5HQ0ktZklKWjBMaENlWm1SR1d3Z1hsZ2dqa3pUQWVXNnhUVWF3SkF3NFNkRHQxZWtzblk2VldVZFlhS0tnMnpKckl1bVpZUE1ZNTY4LUlMcC1GcE9nWVMwaWtOQlVBSVVNWUhyM0tDdS04YTRybNIB1AFBVV95cUxPRk5XUGN2UUJybnV0RlJFTkZlZ0N1WUVvT0RvcThfaXJrOGh0em5jblhxODhHQ1FuVnFwUWdBdHNXaTNWamhUd2FzNjVjUGNFNk9MNHpRTDZaYnFMa0ZZM3dCY0J5dm5HQ0ktZklKWjBMaENlWm1SR1d3Z1hsZ2dqa3pUQWVXNnhUVWF3SkF3NFNkRHQxZWtzblk2VldVZFlhS0tnMnpKckl1bVpZUE1ZNTY4LUlMcC1GcE9nWVMwaWtOQlVBSVVNWUhyM0tDdS04YTRybA?oc=5",
+     "pubDate": "Mon, 29 Jun 2026 04:43:59 GMT",
      "source": "simplywall.st"
     },
     {
@@ -4585,16 +4585,16 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "Curtiss-Wright: A Great Business At A Valuation I Cannot Defend (NYSE:CW) - Seeking Alpha",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS0xhZGFNWGtoRV9EQTk4ZE11QW9fTkRtWmppdEpEWklibzAtN1FwRVhDOGlBd0dqaHM3bEtJTnliVTBkdS1yalJiT1NONW9IdWFHa3FiQnF3SHdKbXRwZnN6bUZxZG8tZ204TjZ4QjY2VmZtX2daQjg0cXZLZ2JlM0VEaFNTMjNfUzhhWnFnUDN2Zmd4WElLTjNZUUtnS2lMMDVlVUNB?oc=5",
-     "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
-     "source": "Seeking Alpha"
-    },
-    {
      "title": "OP Asset Management Ltd Takes Position in Curtiss-Wright Corporation $CW - MarketBeat",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmNrd18xaTZaTFlJYkRwSlZ1dXNESVlxSmhsSkwtSDNvYWhkS0tGR0s3V3ppY0RNSDVwZWM5NEFjU2VIQ2JhSUdYVl9MN2VrRmxoQXY1MHFtdHA5ejZ5MmE1R3lGaVlGN1RNOUZsVTdOVXU4MTRGc3l1M2lZS0lMT0kxbTlfSkp4NlN0MGVJM254aWxPZTZNdEpKel95dzhXQ1dQQmV1MVdhNzJYOHd5M3pEbTdrRjFFMVhGV2NpTDFHMGFWbFpjYkZfekE?oc=5",
      "pubDate": "Sun, 28 Jun 2026 09:00:42 GMT",
      "source": "MarketBeat"
+    },
+    {
+     "title": "Is Curtiss-Wright Corporation (CW) A Good Stock To Buy Now? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXI1bTJMLU9aSy1OektQT0d5N2lmUDJMRUVfNFkwUDAwRDNIZjZTdWZNX3BfWlNlZGRSaUM0ZXZRTTF5UHVLVnlQLXJZYVduM0NGUjRUTTVhSjRwSW1saFhIRUJIQ0pCODUybUJEYVZNWUJOWURWS3A5SElOSVFmQ1REMmxpQlpwejVRVmNGU083MXpDc1lCWWFsT2RQLW5B?oc=5",
+     "pubDate": "Sun, 26 Apr 2026 07:00:00 GMT",
+     "source": "Yahoo Finance"
     }
    ]
   },
@@ -4649,10 +4649,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1782763202,
    "news": [
     {
-     "title": "Booz Allen taps OpenAI to speed secure AI for U.S. agencies - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGhCbzBMQm9yREdsZG5PVWE4SVRZcmpISnJjb1RXYlM0QjU4RkVwWU5xRVVZZVgwRTBOMkJlSzhrUDZaOUxxa0kxLVJFczRUVlMxQi1LTDd5azF6MEJXQmVadjRjaEJueXJoZ0FmTTJLM2hkNlZKOE1IUU5aVGxuZjlwWWYzRndnUWJ3dVBrVTBLY1pRLXlPNzc3MlM5ZVFqQVRCRGUyMFp0NHly?oc=5",
-     "pubDate": "Mon, 29 Jun 2026 12:00:00 GMT",
-     "source": "Stock Titan"
+     "title": "Booz Allen Hamilton stock rises on OpenAI partnership deal By Investing.com - Investing.com South Africa",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLV9XcVB4blZRUjVvSlBLQUk3Z0wtNlFnSzdpellDVndHOElIbHZNNVNjSU40WDJPQTI5aTR4THRqbjRsUERDclNlWmJEdWhYX3ZGM3d0SEdGRGhrT0FBVWdvaVhBMTNuTjd2ZmNiVXJDTkdNMm1CNEh3RXI2RmxrRjBVUjlzVFVveUFOUl9aN1dKU250SnVqazRXc2hwRVlWR2duVFVLMHUtNlViVVBYZzhKN1J2Nkh5cW5N?oc=5",
+     "pubDate": "Mon, 29 Jun 2026 12:33:19 GMT",
+     "source": "Investing.com South Africa"
     },
     {
      "title": "Booz Allen Hamilton (BAH) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo! Finance Canada",
@@ -4673,10 +4673,10 @@ window.DASHBOARD_DATA = {
      "source": "MarketBeat"
     },
     {
-     "title": "Booz Allen Hamilton stock rises on OpenAI partnership deal - Investing.com UK",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSlY2WUZVdnJWU1FlamVndUQwemd3MkRYdTVwdFpvN1FIUWh6Z3BlbC1tYzlNYThBTllCODFyaDU0Ymw4S3JTRjVLRlZYNW5qMUtaWHBxTXhzRFlaS3JIaWV1eFFfeWhJWU1sSW1TZVBRbFR3R2JLczV0S2habFFOeW0wSTk0Zmh4VEhUX3ZSODFjcEppX0R0S3o0MTZWeERaaXZLdk9Ca0RsNkk4R2xjTy1VUU1pYk9nTm9TQmRkMWJ5TDMxMnNQSWxEaw?oc=5",
-     "pubDate": "Mon, 29 Jun 2026 12:32:46 GMT",
-     "source": "Investing.com UK"
+     "title": "Booz Allen Teams up with OpenAI, Shares Gain - Baystreet.ca",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT3RIZ0RoakR5TWFwb2ZwazBQczEzNXRLajRITEdpdWxiZm1LaHZmSzZJVGZYcUpzUXJJN1hueWdyOXAzM1ZWZDRfQWFWQ2tEdTM3c2tNZXRIV09veUMxSG1DLUJPQ0ZfNnZqRUx6cHBHNEF4cTNER2JWYm95RjJUeUFtZDlEMjlGaEFyWmpHMHRhZ9IBfkFVX3lxTE1ORDA0b0Fvd0s0LXFyTU9OQkQyelZaaF9tbnI2ekZGekYtTzRpbHhSbXMwWHZsTkZKa3BPbml6dnRuMFR5SXNYRmd1WDZ4SWo4dXJwUXhLLTRyZzVqOU1PdzlZUlNlQkxvM3V5M2JXZXFmUzJ5OTNQZ1dON1dDUQ?oc=5",
+     "pubDate": "Mon, 29 Jun 2026 14:00:00 GMT",
+     "source": "Baystreet.ca"
     }
    ]
   },
@@ -4795,10 +4795,10 @@ window.DASHBOARD_DATA = {
    "source": "Georgia Today"
   },
   {
-   "title": "U.S.-Iran tensions unlikely to trigger major oil price swings, though potential tail risks remain amid rational market pricing - \u5bcc\u9014\u725b\u725b",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNTd2ejJjdk9ZMEt5cFVIek1EdGVNT3F3Z3EtcHJOYVBIMmVoS1hEb0V4d19VYnA3OHp2ekNuZFBIa1dYWkZKcTQ5T1V4TDRNRWtOZjZIQi1jeUdUT2d4UHp2WEhOQklvdlBDSEFWSDFjbWFhU2dZbFRaMEpoUHJ2bHNGZGVmTGZORkFheTZTaTVTSXdud2VuaEllaU9tVFIyOGc?oc=5",
-   "pubDate": "Mon, 29 Jun 2026 12:21:01 GMT",
-   "source": "\u5bcc\u9014\u725b\u725b"
+   "title": "U.S.-Iran tensions unlikely to trigger major oil price swings, though potential tail risks remain amid rational market pricing - Moomoo",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMEhZSTlLYXU0b2UzNk55NGpqNEdkRk51TkJiUkliMkM3UWZybHJzMVJkNF92cFhqcDhiSXJaZVlVb1ZGbFNmVTlSYWx5X0wzNmFONThKSm4yYkZsd1g2aWJvRDlRMkRqR2tXSnhnQjBnU3ZIT0FoemZfOUV4SmhRSmRxbFVXUG91MzBpeEhyMGRWY0FqcEdDVzdQTQ?oc=5",
+   "pubDate": "Mon, 29 Jun 2026 12:24:45 GMT",
+   "source": "Moomoo"
   },
   {
    "title": "Africa\u2019s Security At A Crossroads \u2013 Analysis - Eurasia Review",
@@ -4831,10 +4831,10 @@ window.DASHBOARD_DATA = {
    "source": "University of Alberta"
   },
   {
-   "title": "Trump's gaze turns to inherited war, Xi's to order beyond - The New Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNREd3NWtTYWEwY0d5WDhLMXNFOGdreVowdE1Tc2poQ1ZVRVNXZm1vbl9vcHZCTTJjMGh2TEpJWm1DMGlaRFRuRGFEX3k4SVhFRTlfeDJaSl9ZS3BqS3dad2NXUDloUXhvbXFieUJLdmdhWHNjUTM1Z2R4QjhtNXBsUndQTWtFSlc2bklmVEtWdjJsVUppNWh3NXQtaGRocFJaaWZIRGpFTkJ0ZEnSAbgBQVVfeXFMTndaa2RfS2ZSSEE5aTczUmZfeng4WWhqUG1Ga0xNUllSakdick9pWnJKckgyVVNhWV9RSlZiRW9Md0JqLS15TnBJTGNSMHZVNmlwdHBnLXMyck1XaW1wNWtOMVl2dHpicjJYZmxLRnZaQjY3b09SUzJNWWRHby15UkFDZ2xab0h6Y004VzFuZFk1cTB6REFVc1gyZzBVaF9NWUpYSnotNUNiWExROTRjblRNR2JGaGtZSQ?oc=5",
-   "pubDate": "Mon, 29 Jun 2026 18:30:00 GMT",
-   "source": "The New Indian Express"
+   "title": "Oil Prices Gain as Renewed US-Iran Conflict Disrupts Strait of Hormuz - ChemAnalyst",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdE4xQnZFbVVjQ2I3TEU2V3ZfbENyNFpPa0xtVXNFTThURENqN01NaEowWWcxbjJsdm1QVG1GX0pCTW9LUzZ1UU1MSFNzbzBmUG1pVXJSeWpkMnNoc2J2S0hVY3VOeHdoMlB5SGd5cUFQbExaSENRLTBQb003bFpNQkgyU2Q3YnpmWXlTTHRZZDctMktfM2U0V19OQkxwcTF2SzJVMWF6NjZPU05JZ2JEa3lSV19OTVk3QjFPb041b3hWWHpxYlBJ?oc=5",
+   "pubDate": "Mon, 29 Jun 2026 14:10:36 GMT",
+   "source": "ChemAnalyst"
   }
  ],
  "mna": [
@@ -4957,7 +4957,7 @@ window.DASHBOARD_DATA = {
   {
    "title": "Q&A: Ryan Walters, former 160th Special Operations Regiment pilot - Vertical Mag",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVRyS0JRMi01aDc1TmpGWDN3Vm5rUjl3MG5qeU5lT0tZZWJ2M3YySW1kVTgzaVVESGdJdkZmZWhCbTJhVGdObTlpaVpXMHNtMjdnRWZKVEVJNF9NbjdUdlgxU1ZCa0RpMnAtbnQ0Q09wUHBfaXUzWmlWM0FmcGd2TzRmY1BFSHR1bUU3RllMamhVNlBIcEhON3pYbHc?oc=5",
-   "pubDate": "Mon, 29 Jun 2026 12:34:32 GMT",
+   "pubDate": "Mon, 29 Jun 2026 15:30:24 GMT",
    "source": "Vertical Mag"
   }
  ],
@@ -5049,6 +5049,12 @@ window.DASHBOARD_DATA = {
    "source": "U.S. Department of War (.gov)"
   },
   {
+   "title": "Poland awards $4.8 billion A26 submarine deal to Saab - Defense News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmRXd2JtQ1RPS1ZJejVCTFc0ZWd5Z2pmR1JncU5sS0tHeFJlREVuRUtqU0R5NGVOUDVRakZ0UXZzWm5MZm1CTU9iMGdpOGM1U21NdHhPcW80a1haRnppYjBUYTVGS3R6UlhRdTlBeDdSMmNxUmdyRUNjQThfZ1BPSmg4WHI1QWZkdHdSRmVpOWYyblNRQTRaNlNPVDJaMG5qOG9hYnJSR0s?oc=5",
+   "pubDate": "Mon, 29 Jun 2026 14:37:55 GMT",
+   "source": "Defense News"
+  },
+  {
    "title": "Pacific Defense Advances Assured PNT Leadership with U.S. Army APNT Contract Award - thecanadianpressnews.ca",
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOX2x4c0NqdERuTXJhRFNmVVg2aTh5Qng0WHhiQ2VMMWRyVkl4SjFFNjJPWVdWQ1ZYMHFSbE5nbXdPMUtyRWtSQ0VMRlhMQ2p3ZzNIemVjS0l6dHYyUFFuUk40TDR6anQ0NGhQQ3dnVTQtV0dsb0ptZlk5Sm9MVVVQWFZucXM4SnRsZHJ2dy1jWk1PeTRnZ0JpRmdxX0stVVZfYXBmd2ZGSVlNSHBSTUxiMVkwb014eU1uS0gzSnVKbnNiXzRPVTByUVEzQUFTMDJqRjkxZ3dyZmtkbkVTNVRzVTZQbFBGanVGc3FxWFVYMXh2ZE9DUXF0cFhubnVscklwaGNGT1UxLXY4RDZkTG9Tb20zZVpRenFTREhnSi1RNy0?oc=5",
    "pubDate": "Mon, 29 Jun 2026 11:00:14 GMT",
@@ -5077,12 +5083,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ0tzazB2QzFtZFNDTFNPU0QxZzZfaXVlekZUOXd3NHhYcVp3d0J5VmJqNXV0SzJNaGNpeWJ5eVVQRVVZVXNVbnVPV3NpSTdyOUpSWkF3UTRfOUtiR2RBYlRybEpKTm0zVHZycnBVQnpIMDN2N0dpN25TdFp3V3QybU1n?oc=5",
    "pubDate": "Mon, 29 Jun 2026 07:13:12 GMT",
    "source": "GovCon Wire"
-  },
-  {
-   "title": "Israel\u2019s Smart Shooter sees c-UAS demand grow across US military: Exec - Breaking Defense",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkV2NzRmZHU0aXIyUUxkc3Z3QkZRQ3NhS180ekN4TVhOdk9xcHJxaGEyX2ptZEZ3bmlUVEVNc1EzTVVoeHNqY01DYnVaZ1hNSklQbG51RHlQY3pmX2MzY2dUbEN6ak51R1ladFBYZVJpc2NYNVNvc3RYT0NDWUMxYklJMmlabWtpckE2VmtUdkpBdzFSaDVqM2tUQjcwZ01wSk9ZOEZtTFk?oc=5",
-   "pubDate": "Mon, 29 Jun 2026 12:16:10 GMT",
-   "source": "Breaking Defense"
   }
  ],
  "sdaNews": [
