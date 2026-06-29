@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-29T20:07:52.005091+00:00",
+ "generatedAt": "2026-06-29T20:13:25.545657+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 97.48,
-    "changePct": -0.48
+    "price": 97.77,
+    "changePct": -0.18
    },
    "relVol": 1.8,
    "avgVolume": 22531012,
@@ -331,8 +331,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.3,
-    "changePct": -0.19
+    "price": 10.39,
+    "changePct": 0.67
    },
    "relVol": 1.7,
    "avgVolume": 7641521,
@@ -413,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 510.6,
-    "changePct": 0.0
+    "price": 507.0,
+    "changePct": -0.71
    },
    "relVol": 1.9,
    "avgVolume": 948405,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 21.0,
-    "changePct": 0.14
+    "price": 20.85,
+    "changePct": -0.57
    },
    "relVol": 1.1,
    "avgVolume": 9015089,
@@ -658,8 +658,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.63,
-    "changePct": -0.68
+    "price": 11.67,
+    "changePct": -0.34
    },
    "relVol": 1.2,
    "avgVolume": 21623905,
@@ -740,8 +740,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 115.55,
-    "changePct": -0.13
+    "price": 115.49,
+    "changePct": -0.18
    },
    "relVol": 0.9,
    "avgVolume": 46086187,
@@ -822,8 +822,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 40.95,
-    "changePct": 0.0
+    "price": 41.1,
+    "changePct": 0.37
    },
    "relVol": 2.0,
    "avgVolume": 756241,
@@ -984,8 +984,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.97,
-    "changePct": -0.09
+    "price": 4.04,
+    "changePct": 1.64
    },
    "relVol": 1.5,
    "avgVolume": 1380615,
@@ -1229,8 +1229,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.04,
-    "changePct": 0.24
+    "price": 8.14,
+    "changePct": 1.5
    },
    "relVol": 1.1,
    "avgVolume": 52370501,
@@ -1554,8 +1554,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 452.0,
-    "changePct": -1.14
+    "price": 457.04,
+    "changePct": -0.03
    },
    "relVol": 0.6,
    "avgVolume": 274009,
@@ -1635,8 +1635,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.62,
-    "changePct": 0.16
+    "price": 8.63,
+    "changePct": 0.2
    },
    "relVol": 1.1,
    "avgVolume": 43397118,
@@ -1716,8 +1716,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 19.17,
-    "changePct": -0.52
+    "price": 19.3,
+    "changePct": 0.15
    },
    "relVol": 1.1,
    "avgVolume": 3101859,
@@ -1866,8 +1866,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.69,
-    "changePct": 0.21
+    "price": 4.68,
+    "changePct": 0.0
    },
    "relVol": 0.8,
    "avgVolume": 34611574,
@@ -2017,8 +2017,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 85.66,
-    "changePct": 0.0
+    "price": 87.58,
+    "changePct": 2.25
    },
    "relVol": 1.1,
    "avgVolume": 479061,
@@ -2168,8 +2168,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 141.07,
-    "changePct": 1.49
+    "price": 158.0,
+    "changePct": 13.67
    },
    "relVol": 1.8,
    "avgVolume": 1091094,
@@ -2243,8 +2243,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 214.3,
-    "changePct": -0.17
+    "price": 214.69,
+    "changePct": 0.01
    },
    "relVol": 1.1,
    "avgVolume": 3629513,
@@ -2394,8 +2394,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 46.71,
-    "changePct": -0.51
+    "price": 47.75,
+    "changePct": 1.7
    },
    "relVol": 1.4,
    "avgVolume": 3929139,
@@ -2469,8 +2469,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 88.52,
-    "changePct": -1.81
+    "price": 90.15,
+    "changePct": 0.0
    },
    "relVol": 0.8,
    "avgVolume": 1362069,
@@ -2544,8 +2544,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 350.01,
-    "changePct": 0.55
+    "price": 348.07,
+    "changePct": -0.01
    },
    "relVol": 0.9,
    "avgVolume": 913588,
@@ -2619,8 +2619,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 1341.17,
-    "changePct": 1.37
+    "price": 1323.44,
+    "changePct": 0.03
    },
    "relVol": 1.1,
    "avgVolume": 294101,
@@ -2845,8 +2845,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 502.27,
-    "changePct": 0.08
+    "price": 502.94,
+    "changePct": 0.21
    },
    "relVol": 0.8,
    "avgVolume": 932680,
@@ -2920,8 +2920,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 374.34,
-    "changePct": 0.21
+    "price": 373.71,
+    "changePct": 0.04
    },
    "relVol": 0.7,
    "avgVolume": 3997855,
@@ -3376,8 +3376,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 97.48,
-    "changePct": -0.48
+    "price": 97.77,
+    "changePct": -0.18
    },
    "relVol": 1.8,
    "avgVolume": 22531012,
@@ -3458,8 +3458,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.3,
-    "changePct": -0.19
+    "price": 10.39,
+    "changePct": 0.67
    },
    "relVol": 1.7,
    "avgVolume": 7641521,
@@ -3540,8 +3540,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 510.6,
-    "changePct": 0.0
+    "price": 507.0,
+    "changePct": -0.71
    },
    "relVol": 1.9,
    "avgVolume": 948405,
@@ -3622,8 +3622,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 21.0,
-    "changePct": 0.14
+    "price": 20.85,
+    "changePct": -0.57
    },
    "relVol": 1.1,
    "avgVolume": 9015089,
@@ -3785,8 +3785,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.63,
-    "changePct": -0.68
+    "price": 11.67,
+    "changePct": -0.34
    },
    "relVol": 1.2,
    "avgVolume": 21623905,
@@ -3867,8 +3867,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 115.55,
-    "changePct": -0.13
+    "price": 115.49,
+    "changePct": -0.18
    },
    "relVol": 0.9,
    "avgVolume": 46086187,
@@ -3949,8 +3949,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 40.95,
-    "changePct": 0.0
+    "price": 41.1,
+    "changePct": 0.37
    },
    "relVol": 2.0,
    "avgVolume": 756241,
@@ -4111,8 +4111,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.97,
-    "changePct": -0.09
+    "price": 4.04,
+    "changePct": 1.64
    },
    "relVol": 1.5,
    "avgVolume": 1380615,
@@ -4356,8 +4356,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.04,
-    "changePct": 0.24
+    "price": 8.14,
+    "changePct": 1.5
    },
    "relVol": 1.1,
    "avgVolume": 52370501,
@@ -4681,8 +4681,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 452.0,
-    "changePct": -1.14
+    "price": 457.04,
+    "changePct": -0.03
    },
    "relVol": 0.6,
    "avgVolume": 274009,
