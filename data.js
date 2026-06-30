@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-06-30T20:18:10.441896+00:00",
+ "generatedAt": "2026-06-30T20:24:08.098314+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 562.5,
-    "changePct": 0.34
+    "price": 561.74,
+    "changePct": 0.2
    },
    "relVol": 1.4,
    "avgVolume": 1078406,
@@ -331,8 +331,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 101.93,
-    "changePct": 0.28
+    "price": 101.94,
+    "changePct": 0.29
    },
    "relVol": 1.2,
    "avgVolume": 27371478,
@@ -413,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 165.69,
-    "changePct": 0.38
+    "price": 165.62,
+    "changePct": 0.33
    },
    "relVol": 6.2,
    "avgVolume": 1284002,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 22.26,
-    "changePct": -0.18
+    "price": 22.36,
+    "changePct": 0.26
    },
    "relVol": 2.9,
    "avgVolume": 3232739,
@@ -577,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.63,
-    "changePct": -0.19
+    "price": 10.62,
+    "changePct": -0.28
    },
    "relVol": 2.1,
    "avgVolume": 9038165,
@@ -659,8 +659,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 12.26,
-    "changePct": 0.24
+    "price": 12.27,
+    "changePct": 0.33
    },
    "relVol": 1.5,
    "avgVolume": 21964576,
@@ -679,12 +679,6 @@ window.DASHBOARD_DATA = {
    "marketTime": 1782849603,
    "news": [
     {
-     "title": "Why Are Redwire (RDW) Shares Soaring Today - StockStory",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHlDN2Jra2lSaXRwandMWmZuVHpGQWFwTC13cElhQWU5cENrX3JQb0M0WWZXQklKdHdYSVVrdXNrclpDZk1WV1ZpOUZLYXNJQXdGNWtQajd6YVdkc1dBZjk1dXBRMGQxdkprUXZMRUt3NjQ5REpaaGdmOER3ZXA4RmtmWGQteDFmTWM5NmVWVE96ODZ4ZnRqSW9vQnFtTHMyNHZR?oc=5",
-     "pubDate": "Tue, 30 Jun 2026 15:31:12 GMT",
-     "source": "StockStory"
-    },
-    {
      "title": "RDW Stock Has Slumped More Than 50% Over The Past Month \u2013 This Short Seller Still Believes The Shares Are Overvalued - TradingView",
      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMVBBYndlX2taNEUxdjZXdklhTEVYOElQNkR3eHZuYVBnbUluTkRadEpyTFNiUU5HcGJjeEtMVWdwdzVLWFluWXlfbWFWT1J1cjZrclNvWTRmeHdoZVg4LWpkbTR6bmY5cTRfZUM1RFRQMVhGXzFmdXRVMXRCYWh0V1pJTzFoOEtKYmEteUZTMFBLbzJiYUNhLVpMZWJHazNGT0FGX1ZUQ0xvZzRzYnNJY2ViVk9OMEdvTVNJb3ZMbUNmeVpxTWxnZ2FqUE5Fck8zbkRXOW9BWjlBUjdQTzFPbl9BZ2pVenBmUU9MODMzQ2kxTlpSZkcxRGhYODhhZWpfZFF0Yg?oc=5",
      "pubDate": "Mon, 29 Jun 2026 16:23:24 GMT",
@@ -701,6 +695,12 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcXJTczFEb1VYMjZCWUNra01nSlZCQlVIdUU2cnQ0SFJ5N3lmUEZtaHkyc0VHb2YzUUJ3S25rbTA2a09oUlpHLXc3ejNjNTZIMWNjU0lKR2JkUmRyZ0tDR1JYZGFQVlpISFVkSjZpTmV1SDlCN1c0Z1VjUmE2cGNSYUhQV1B3aHhXY2Q3MExiYw?oc=5",
      "pubDate": "Tue, 30 Jun 2026 11:51:31 GMT",
      "source": "TipRanks"
+    },
+    {
+     "title": "Why Redwire Stock Popped This Morning - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU01ldnVMRWFTQnhxY0dHWkF6TmlQanJxOWdyMDd1YXBLWEJzMmJmbUNjZ2xxbDNVeHR2NS14b2hiZE1CN0NLUDY5cm1FSk52U3BlbEVoeDlyOVFMMk52aEhkNEVCSW1nb0ROclltbFJZdVNSQWdoY01XVkxhdFJDLXdKOFlsQ28?oc=5",
+     "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+     "source": "The Motley Fool"
     },
     {
      "title": "SpaceX Gets the Attention, But These 4 Stocks Could Get the Returns - MarketBeat",
@@ -785,10 +785,10 @@ window.DASHBOARD_DATA = {
      "source": "Investing.com Canada"
     },
     {
-     "title": "Sterling Capital Management LLC Decreases Stock Position in Mercury Systems Inc $MRCY - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUnFEdG82RU1VR1N3UWxmM0IwdVlPU1lnREFCTFE4aHR4ZXkxZVptVWxCZ1VXaWhaZG5JRE1SV190R2dfVEgxZXNoZ0thM1JUdnhfRUV5dXFNSHRGdnlUcmFfT0tkUjZ1ZEE3bUdvRjJzdkpfNnhrY2NWV1NxdGUza1BKVzR5S0hTZ2RIWWM2NWRJUm0yclFKejNCZ2xsZUFERzBaRlJlQ2ZCd0I5NVdoQXZkYWhTa1cyMzlreG1EUXI1X1pPS0llZVNKNk1SS3RGeGk0NmhDOFFBX0NNMGc?oc=5",
-     "pubDate": "Tue, 30 Jun 2026 09:07:52 GMT",
-     "source": "MarketBeat"
+     "title": "MRCY Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OMTdpTWpvTHZteTNkaWh4dkRWeGZOdjhSbldqcWl3Z1doRjRkQWMtTDNXdjZaTXFqV0lRY3Rqc01xTW9jX09VcTg1aVQwUEJDamxYYWZKM2RDcEF5TTJ0ZzIyQ2pBX1p2Qmw0alEwS3M1R0dvTm10Wnl3?oc=5",
+     "pubDate": "Thu, 25 Jun 2026 14:19:33 GMT",
+     "source": "TradingView"
     }
    ]
   },
@@ -823,8 +823,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 21.32,
-    "changePct": -0.33
+    "price": 21.45,
+    "changePct": 0.28
    },
    "relVol": 1.4,
    "avgVolume": 9426105,
@@ -849,9 +849,9 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "What to Know About This $3.3 Million Intuitive Machines Insider Sale as Space Stocks Heat Up - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZWZscFJ4UmhSSGhlcWlublFBQ1J4QlN2emNQLVR3LXVHM0FtNWJ6bk9lNDBoa2RuNDl3bWFadmF4Zi0xRUUzUWNuWFZOSG1lNWhWYWJPZFhuNnFIUHRodWVBcjhBRG1CRjNDeUc3Z1o4Rl94cm9LNUxCa1hXcGFLdktjTWphcDFVaVcwWldsbHQwTmE1dE1nWlZjSzcwd3hOOWlKdEU4NUY2dG1HdDZlUWtZa1VCMTZ3VXZsNWpPdXdLb3pjSWNXMFpBamFGbXZKMkFTM1lmMmZ6NExs?oc=5",
-     "pubDate": "Sat, 27 Jun 2026 17:24:00 GMT",
+     "title": "Intuitive Machines Stock Is Falling: What Investors Need to Understand - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGU1MUk5NGZjY0hPMjZPb0EtT3FuT2VFenhsTHpyQ3dFb0RCVkRzUWQ3VlFnSGd0LUtXWHM3SHoyeGNvT09kZ0c3SzQ5QVhCeG1TN1FtVXNXckVRYmNsMlg1NEdZRUJEOWFpMGdQYUNKbFBTNjZHSVl1bTFBQzlOTDAydDlPLU1lWG95OWFuZmdwWGFiaFJLWg?oc=5",
+     "pubDate": "Mon, 29 Jun 2026 21:05:00 GMT",
      "source": "The Motley Fool"
     },
     {
@@ -1069,8 +1069,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 50.35,
-    "changePct": 0.98
+    "price": 50.16,
+    "changePct": 0.6
    },
    "relVol": 1.3,
    "avgVolume": 4324959,
@@ -1253,9 +1253,9 @@ window.DASHBOARD_DATA = {
    "marketTime": 1782849600,
    "news": [
     {
-     "title": "VSE CORP (VSEC) COO trims stake with 6,500-share stock sale - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQVFrR1RYanJjQVFfa2p2eEZOV2dlc1dSNENLX2dwaW53c1RvZllONzdoVDJNYWxyM1ZONjQwdV9yYjRJQk1MUDJaMW01QUZFLVZHU001bElSbVFzVDA1dk03UFlRTXVJa0FpOTY5X3p6eVBzTzJ5NklsVHFITEpDOElLWWNvY2NhRmMwR0dGTmFQOUIzQ3FfYU8yMVFtUmdfVlVaOQ?oc=5",
-     "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
+     "title": "VSE (VSEC) director paid partly in 60-share stock grant - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOEJsQXdxMENBTWN1YnM2bUdaeURpbF92Qjl5N1diNVJFOU5oc2pTalhjV2UwcGdETzdhYjlXVU5FcEJsaFdacWluaU5uSDNpYlkxTU82dzlnQ2NWSXBZRWlTOHFHaDl6eGxqSU9QRGx5eGoxRmJZZ3RkLTk3eGpvVjgzS0l0dmRpbUxZOU1TSVhJeUMzckNrMXgzbFZlakhvOWFyMQ?oc=5",
+     "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
      "source": "Stock Titan"
     },
     {
@@ -1315,8 +1315,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 79.95,
-    "changePct": -1.61
+    "price": 80.0,
+    "changePct": -1.55
    },
    "relVol": 3.3,
    "avgVolume": 526342,
@@ -1479,8 +1479,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 116.6,
-    "changePct": -0.06
+    "price": 116.45,
+    "changePct": -0.19
    },
    "relVol": 0.8,
    "avgVolume": 46813578,
@@ -1587,28 +1587,28 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "HEI News | HEICO CORP (NYSE:HEI) - ChartMill",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RlpfUEo0aTlBX2wyd2RpNUJuNWdmOF9iMDZ3LUVWWTVKcXRuTkRnNW9VN3dNYW1saF85TDNLd1dWUWp0S3JKNlFmaW5pdXlWc0Rwb2R1RW5RZw?oc=5",
-     "pubDate": "Sat, 27 Jun 2026 00:04:00 GMT",
-     "source": "ChartMill"
-    },
-    {
-     "title": "Diamant Asset Management Inc. Purchases 760,687 Shares of Heico Corporation $HEI - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbTB3ZjFGOXk0NFk5cFB5SU1XZDVrZklkNng1bVJrRklpZDkwRTFTU296UEJsWjFXcmdzUXhQNXdPUVJwU0dMMXhUS001eEIySWF6UFVrMlNCRU5BcTFrTk01cXo0V1ZIT1VzM3NiSGdIZ2ZMOGx2THJvdFRSTFM4cm96U1RRSFlQRVNhM1pWWkN1SEw0YzBOeWV1elJFbkZLVi1BWVJURGJRbnlUN2pHbkhuX1lScjNMZ0h6RDd6RFRnSDJfUm96R2FIQ0FRZ2JVN0drcQ?oc=5",
-     "pubDate": "Sun, 28 Jun 2026 08:34:56 GMT",
-     "source": "MarketBeat"
-    },
-    {
-     "title": "HEICO Corporation Actuals & Estimates (NYSE:HEI) - TradingView",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdC1PUmUxenBOSVJFOGdZYlZ4WTY5NGRISzIteG01TFRValAwSnlqVVZRdlB6UWtHYm81MS04a1NYei1jTnB2Y1prVmdxc0YtMWt1WGpZME1kb1NMNU9ITFVyNktfUU5sNHBJT0s1RXJ6eC1XTWt5ZjNhY2NWS1pMSUtB?oc=5",
-     "pubDate": "Sun, 28 Jun 2026 22:02:52 GMT",
-     "source": "TradingView"
-    },
-    {
      "title": "HEICO (HEI) Following Record Q2, Dividend Raise And New Credit Line Looks Near Fair Value - simplywall.st",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDRlVGJiSXpKdnVyMUI4LXliaGVBNTltWHRNdkNnZ09ubHMzUGY1b2FOOElzeTdrSXF2MDJRVkdKRFoxRGk4MFg3ZnBvWmNDU3hkX3NFOW9NT2d1aGNlUmlBaDRjSDE2OGI4RWhTUXBlUHcxcV9fYkhfRlZZTjlQNmdEeUJXUUFKa0lQY21laDEtTF9xRFl3ZXl5bzBqUm1uTl9YcmhwU2k4RGxmX1V1SlJFRmdkMXp1TjYtVjFNTzBmd0XSAcgBQVVfeXFMTk1VeGlscjNsMUVSU09FcnpTcnFSdlRmZFFsYTJ4dWZCV2o5YTdmdmNFV0JySXh2eWpBbkFGUmpuOW9xSXpodE90b09PbEMzdHkzTWdTNmJGZUoxdEF4RWliNnh1TUxpVVhYNlZxRDU1V1V3TXBwYTF1aGRhUWNZMnV5V2NIYjd2S1QwOUVaWXo4LURtZjBSbDNmUlhnNG52ZG9VN19VUHZXRnNWMDR4RF82b1FURGFFd0dRaHBpX240cElMV0Jrb2U?oc=5",
      "pubDate": "Sat, 27 Jun 2026 00:32:03 GMT",
      "source": "simplywall.st"
+    },
+    {
+     "title": "Heico Stock To $194? - Trefis",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNE5GU2pyUk84Skp4Q2dDb0xJQzdqRVBQUHY1SG83QTh0M1J3TWNZZXFpTWgzb2t0T3RPc2trb0FjMTdCMFBrUFprdUh0V3ZCSzRVVm5zV21NTk1UUWxaSTNidjhqVkoyMVlxM1dkcVdacjE4elZUVUxvUGFtdnY3RHhHaWVvZw?oc=5",
+     "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT",
+     "source": "Trefis"
+    },
+    {
+     "title": "Heico (HEI) Stock Weighs Lofty Valuation After Strong Multi\u2011Year Run - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTM3eTZCbTJwOTVIc1BoeFdnenlLWlN3MTNlQTZxVkJ2VHZScDNDd0N0WkgxZHIxMFdNVWpxUjF3ejBiYjFJRHdqR0RSUFZFZk1fRTZXSUhVZl9LbHc2cmREUFRhVk94Z3JNVGZhUUZEWFIycTRBM0M4Q2ZudWpmakVoN0txYUlISW9lV19YSzI4M3ppX0oyTw?oc=5",
+     "pubDate": "Wed, 24 Jun 2026 17:13:48 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Is HEICO Stock Undervalued After Q1 2026 Earnings? TIKR\u2019s Base Case Targets $505 - TIKR.com",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOGtGODNGbVpTNFY0WEdZZ29DN2hpMERQZ3l4QWIxQ1BsS0x1N2laNi1fRTlLUFpNbDNhMHlwbWllc09pb2FROXJfVkJBUkIzRWhlTU15M3FMYTdSSGNaTlRFVy1zVU55QldESXBKeTgwaWwxaXppdkpYRHoxS2thU090WXhMeUhjZTgxckpzYnR0Um15MzNLN0FHSnNGTGllaUNwendR?oc=5",
+     "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+     "source": "TIKR.com"
     }
    ]
   },
@@ -1643,8 +1643,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.74,
-    "changePct": 0.21
+    "price": 4.73,
+    "changePct": 0.0
    },
    "relVol": 0.9,
    "avgVolume": 33021165,
@@ -2028,8 +2028,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 463.26,
-    "changePct": 0.0
+    "price": 463.99,
+    "changePct": 0.16
    },
    "relVol": 0.9,
    "avgVolume": 242377,
@@ -2104,8 +2104,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 509.31,
-    "changePct": 0.0
+    "price": 510.49,
+    "changePct": 0.23
    },
    "relVol": 1.2,
    "avgVolume": 866897,
@@ -2180,8 +2180,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 194.65,
-    "changePct": 0.0
+    "price": 195.6,
+    "changePct": 0.49
    },
    "relVol": 0.7,
    "avgVolume": 769759,
@@ -2332,8 +2332,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 372.33,
-    "changePct": -0.37
+    "price": 373.36,
+    "changePct": -0.1
    },
    "relVol": 0.7,
    "avgVolume": 3955529,
@@ -2484,8 +2484,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 102.97,
-    "changePct": 0.0
+    "price": 103.89,
+    "changePct": 0.89
    },
    "relVol": 1.4,
    "avgVolume": 1384587,
@@ -2561,7 +2561,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 8.93,
-    "changePct": 0.11
+    "changePct": 0.1
    },
    "relVol": 1.2,
    "avgVolume": 45770497,
@@ -2636,8 +2636,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 189.8,
-    "changePct": 0.04
+    "price": 186.67,
+    "changePct": -1.61
    },
    "relVol": 0.7,
    "avgVolume": 3023700,
@@ -3015,8 +3015,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 509.46,
-    "changePct": 0.0
+    "price": 508.8,
+    "changePct": -0.13
    },
    "relVol": 0.9,
    "avgVolume": 957981,
@@ -3091,8 +3091,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 216.12,
-    "changePct": -0.16
+    "price": 216.07,
+    "changePct": -0.19
    },
    "relVol": 1.8,
    "avgVolume": 3763000,
@@ -3167,8 +3167,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 290.59,
-    "changePct": 0.0
+    "price": 290.42,
+    "changePct": -0.06
    },
    "relVol": 1.3,
    "avgVolume": 1258421,
@@ -3319,8 +3319,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 269.23,
-    "changePct": 0.14
+    "price": 268.87,
+    "changePct": 0.0
    },
    "relVol": 0.7,
    "avgVolume": 3661544,
@@ -3397,8 +3397,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 562.5,
-    "changePct": 0.34
+    "price": 561.74,
+    "changePct": 0.2
    },
    "relVol": 1.4,
    "avgVolume": 1078406,
@@ -3479,8 +3479,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 101.93,
-    "changePct": 0.28
+    "price": 101.94,
+    "changePct": 0.29
    },
    "relVol": 1.2,
    "avgVolume": 27371478,
@@ -3561,8 +3561,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 165.69,
-    "changePct": 0.38
+    "price": 165.62,
+    "changePct": 0.33
    },
    "relVol": 6.2,
    "avgVolume": 1284002,
@@ -3643,8 +3643,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 22.26,
-    "changePct": -0.18
+    "price": 22.36,
+    "changePct": 0.26
    },
    "relVol": 2.9,
    "avgVolume": 3232739,
@@ -3725,8 +3725,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.63,
-    "changePct": -0.19
+    "price": 10.62,
+    "changePct": -0.28
    },
    "relVol": 2.1,
    "avgVolume": 9038165,
@@ -3807,8 +3807,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 12.26,
-    "changePct": 0.24
+    "price": 12.27,
+    "changePct": 0.33
    },
    "relVol": 1.5,
    "avgVolume": 21964576,
@@ -3827,12 +3827,6 @@ window.DASHBOARD_DATA = {
    "marketTime": 1782849603,
    "news": [
     {
-     "title": "Why Are Redwire (RDW) Shares Soaring Today - StockStory",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHlDN2Jra2lSaXRwandMWmZuVHpGQWFwTC13cElhQWU5cENrX3JQb0M0WWZXQklKdHdYSVVrdXNrclpDZk1WV1ZpOUZLYXNJQXdGNWtQajd6YVdkc1dBZjk1dXBRMGQxdkprUXZMRUt3NjQ5REpaaGdmOER3ZXA4RmtmWGQteDFmTWM5NmVWVE96ODZ4ZnRqSW9vQnFtTHMyNHZR?oc=5",
-     "pubDate": "Tue, 30 Jun 2026 15:31:12 GMT",
-     "source": "StockStory"
-    },
-    {
      "title": "RDW Stock Has Slumped More Than 50% Over The Past Month \u2013 This Short Seller Still Believes The Shares Are Overvalued - TradingView",
      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMVBBYndlX2taNEUxdjZXdklhTEVYOElQNkR3eHZuYVBnbUluTkRadEpyTFNiUU5HcGJjeEtMVWdwdzVLWFluWXlfbWFWT1J1cjZrclNvWTRmeHdoZVg4LWpkbTR6bmY5cTRfZUM1RFRQMVhGXzFmdXRVMXRCYWh0V1pJTzFoOEtKYmEteUZTMFBLbzJiYUNhLVpMZWJHazNGT0FGX1ZUQ0xvZzRzYnNJY2ViVk9OMEdvTVNJb3ZMbUNmeVpxTWxnZ2FqUE5Fck8zbkRXOW9BWjlBUjdQTzFPbl9BZ2pVenBmUU9MODMzQ2kxTlpSZkcxRGhYODhhZWpfZFF0Yg?oc=5",
      "pubDate": "Mon, 29 Jun 2026 16:23:24 GMT",
@@ -3849,6 +3843,12 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcXJTczFEb1VYMjZCWUNra01nSlZCQlVIdUU2cnQ0SFJ5N3lmUEZtaHkyc0VHb2YzUUJ3S25rbTA2a09oUlpHLXc3ejNjNTZIMWNjU0lKR2JkUmRyZ0tDR1JYZGFQVlpISFVkSjZpTmV1SDlCN1c0Z1VjUmE2cGNSYUhQV1B3aHhXY2Q3MExiYw?oc=5",
      "pubDate": "Tue, 30 Jun 2026 11:51:31 GMT",
      "source": "TipRanks"
+    },
+    {
+     "title": "Why Redwire Stock Popped This Morning - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU01ldnVMRWFTQnhxY0dHWkF6TmlQanJxOWdyMDd1YXBLWEJzMmJmbUNjZ2xxbDNVeHR2NS14b2hiZE1CN0NLUDY5cm1FSk52U3BlbEVoeDlyOVFMMk52aEhkNEVCSW1nb0ROclltbFJZdVNSQWdoY01XVkxhdFJDLXdKOFlsQ28?oc=5",
+     "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+     "source": "The Motley Fool"
     },
     {
      "title": "SpaceX Gets the Attention, But These 4 Stocks Could Get the Returns - MarketBeat",
@@ -3933,10 +3933,10 @@ window.DASHBOARD_DATA = {
      "source": "Investing.com Canada"
     },
     {
-     "title": "Sterling Capital Management LLC Decreases Stock Position in Mercury Systems Inc $MRCY - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUnFEdG82RU1VR1N3UWxmM0IwdVlPU1lnREFCTFE4aHR4ZXkxZVptVWxCZ1VXaWhaZG5JRE1SV190R2dfVEgxZXNoZ0thM1JUdnhfRUV5dXFNSHRGdnlUcmFfT0tkUjZ1ZEE3bUdvRjJzdkpfNnhrY2NWV1NxdGUza1BKVzR5S0hTZ2RIWWM2NWRJUm0yclFKejNCZ2xsZUFERzBaRlJlQ2ZCd0I5NVdoQXZkYWhTa1cyMzlreG1EUXI1X1pPS0llZVNKNk1SS3RGeGk0NmhDOFFBX0NNMGc?oc=5",
-     "pubDate": "Tue, 30 Jun 2026 09:07:52 GMT",
-     "source": "MarketBeat"
+     "title": "MRCY Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OMTdpTWpvTHZteTNkaWh4dkRWeGZOdjhSbldqcWl3Z1doRjRkQWMtTDNXdjZaTXFqV0lRY3Rqc01xTW9jX09VcTg1aVQwUEJDamxYYWZKM2RDcEF5TTJ0ZzIyQ2pBX1p2Qmw0alEwS3M1R0dvTm10Wnl3?oc=5",
+     "pubDate": "Thu, 25 Jun 2026 14:19:33 GMT",
+     "source": "TradingView"
     }
    ]
   },
@@ -3971,8 +3971,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 21.32,
-    "changePct": -0.33
+    "price": 21.45,
+    "changePct": 0.28
    },
    "relVol": 1.4,
    "avgVolume": 9426105,
@@ -3997,9 +3997,9 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "What to Know About This $3.3 Million Intuitive Machines Insider Sale as Space Stocks Heat Up - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZWZscFJ4UmhSSGhlcWlublFBQ1J4QlN2emNQLVR3LXVHM0FtNWJ6bk9lNDBoa2RuNDl3bWFadmF4Zi0xRUUzUWNuWFZOSG1lNWhWYWJPZFhuNnFIUHRodWVBcjhBRG1CRjNDeUc3Z1o4Rl94cm9LNUxCa1hXcGFLdktjTWphcDFVaVcwWldsbHQwTmE1dE1nWlZjSzcwd3hOOWlKdEU4NUY2dG1HdDZlUWtZa1VCMTZ3VXZsNWpPdXdLb3pjSWNXMFpBamFGbXZKMkFTM1lmMmZ6NExs?oc=5",
-     "pubDate": "Sat, 27 Jun 2026 17:24:00 GMT",
+     "title": "Intuitive Machines Stock Is Falling: What Investors Need to Understand - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGU1MUk5NGZjY0hPMjZPb0EtT3FuT2VFenhsTHpyQ3dFb0RCVkRzUWQ3VlFnSGd0LUtXWHM3SHoyeGNvT09kZ0c3SzQ5QVhCeG1TN1FtVXNXckVRYmNsMlg1NEdZRUJEOWFpMGdQYUNKbFBTNjZHSVl1bTFBQzlOTDAydDlPLU1lWG95OWFuZmdwWGFiaFJLWg?oc=5",
+     "pubDate": "Mon, 29 Jun 2026 21:05:00 GMT",
      "source": "The Motley Fool"
     },
     {
@@ -4217,8 +4217,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 50.35,
-    "changePct": 0.98
+    "price": 50.16,
+    "changePct": 0.6
    },
    "relVol": 1.3,
    "avgVolume": 4324959,
@@ -4401,9 +4401,9 @@ window.DASHBOARD_DATA = {
    "marketTime": 1782849600,
    "news": [
     {
-     "title": "VSE CORP (VSEC) COO trims stake with 6,500-share stock sale - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQVFrR1RYanJjQVFfa2p2eEZOV2dlc1dSNENLX2dwaW53c1RvZllONzdoVDJNYWxyM1ZONjQwdV9yYjRJQk1MUDJaMW01QUZFLVZHU001bElSbVFzVDA1dk03UFlRTXVJa0FpOTY5X3p6eVBzTzJ5NklsVHFITEpDOElLWWNvY2NhRmMwR0dGTmFQOUIzQ3FfYU8yMVFtUmdfVlVaOQ?oc=5",
-     "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT",
+     "title": "VSE (VSEC) director paid partly in 60-share stock grant - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOEJsQXdxMENBTWN1YnM2bUdaeURpbF92Qjl5N1diNVJFOU5oc2pTalhjV2UwcGdETzdhYjlXVU5FcEJsaFdacWluaU5uSDNpYlkxTU82dzlnQ2NWSXBZRWlTOHFHaDl6eGxqSU9QRGx5eGoxRmJZZ3RkLTk3eGpvVjgzS0l0dmRpbUxZOU1TSVhJeUMzckNrMXgzbFZlakhvOWFyMQ?oc=5",
+     "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT",
      "source": "Stock Titan"
     },
     {
@@ -4463,8 +4463,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 79.95,
-    "changePct": -1.61
+    "price": 80.0,
+    "changePct": -1.55
    },
    "relVol": 3.3,
    "avgVolume": 526342,
@@ -4627,8 +4627,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 116.6,
-    "changePct": -0.06
+    "price": 116.45,
+    "changePct": -0.19
    },
    "relVol": 0.8,
    "avgVolume": 46813578,
@@ -4735,28 +4735,28 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "HEI News | HEICO CORP (NYSE:HEI) - ChartMill",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RlpfUEo0aTlBX2wyd2RpNUJuNWdmOF9iMDZ3LUVWWTVKcXRuTkRnNW9VN3dNYW1saF85TDNLd1dWUWp0S3JKNlFmaW5pdXlWc0Rwb2R1RW5RZw?oc=5",
-     "pubDate": "Sat, 27 Jun 2026 00:04:00 GMT",
-     "source": "ChartMill"
-    },
-    {
-     "title": "Diamant Asset Management Inc. Purchases 760,687 Shares of Heico Corporation $HEI - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbTB3ZjFGOXk0NFk5cFB5SU1XZDVrZklkNng1bVJrRklpZDkwRTFTU296UEJsWjFXcmdzUXhQNXdPUVJwU0dMMXhUS001eEIySWF6UFVrMlNCRU5BcTFrTk01cXo0V1ZIT1VzM3NiSGdIZ2ZMOGx2THJvdFRSTFM4cm96U1RRSFlQRVNhM1pWWkN1SEw0YzBOeWV1elJFbkZLVi1BWVJURGJRbnlUN2pHbkhuX1lScjNMZ0h6RDd6RFRnSDJfUm96R2FIQ0FRZ2JVN0drcQ?oc=5",
-     "pubDate": "Sun, 28 Jun 2026 08:34:56 GMT",
-     "source": "MarketBeat"
-    },
-    {
-     "title": "HEICO Corporation Actuals & Estimates (NYSE:HEI) - TradingView",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdC1PUmUxenBOSVJFOGdZYlZ4WTY5NGRISzIteG01TFRValAwSnlqVVZRdlB6UWtHYm81MS04a1NYei1jTnB2Y1prVmdxc0YtMWt1WGpZME1kb1NMNU9ITFVyNktfUU5sNHBJT0s1RXJ6eC1XTWt5ZjNhY2NWS1pMSUtB?oc=5",
-     "pubDate": "Sun, 28 Jun 2026 22:02:52 GMT",
-     "source": "TradingView"
-    },
-    {
      "title": "HEICO (HEI) Following Record Q2, Dividend Raise And New Credit Line Looks Near Fair Value - simplywall.st",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDRlVGJiSXpKdnVyMUI4LXliaGVBNTltWHRNdkNnZ09ubHMzUGY1b2FOOElzeTdrSXF2MDJRVkdKRFoxRGk4MFg3ZnBvWmNDU3hkX3NFOW9NT2d1aGNlUmlBaDRjSDE2OGI4RWhTUXBlUHcxcV9fYkhfRlZZTjlQNmdEeUJXUUFKa0lQY21laDEtTF9xRFl3ZXl5bzBqUm1uTl9YcmhwU2k4RGxmX1V1SlJFRmdkMXp1TjYtVjFNTzBmd0XSAcgBQVVfeXFMTk1VeGlscjNsMUVSU09FcnpTcnFSdlRmZFFsYTJ4dWZCV2o5YTdmdmNFV0JySXh2eWpBbkFGUmpuOW9xSXpodE90b09PbEMzdHkzTWdTNmJGZUoxdEF4RWliNnh1TUxpVVhYNlZxRDU1V1V3TXBwYTF1aGRhUWNZMnV5V2NIYjd2S1QwOUVaWXo4LURtZjBSbDNmUlhnNG52ZG9VN19VUHZXRnNWMDR4RF82b1FURGFFd0dRaHBpX240cElMV0Jrb2U?oc=5",
      "pubDate": "Sat, 27 Jun 2026 00:32:03 GMT",
      "source": "simplywall.st"
+    },
+    {
+     "title": "Heico Stock To $194? - Trefis",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNE5GU2pyUk84Skp4Q2dDb0xJQzdqRVBQUHY1SG83QTh0M1J3TWNZZXFpTWgzb2t0T3RPc2trb0FjMTdCMFBrUFprdUh0V3ZCSzRVVm5zV21NTk1UUWxaSTNidjhqVkoyMVlxM1dkcVdacjE4elZUVUxvUGFtdnY3RHhHaWVvZw?oc=5",
+     "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT",
+     "source": "Trefis"
+    },
+    {
+     "title": "Heico (HEI) Stock Weighs Lofty Valuation After Strong Multi\u2011Year Run - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTM3eTZCbTJwOTVIc1BoeFdnenlLWlN3MTNlQTZxVkJ2VHZScDNDd0N0WkgxZHIxMFdNVWpxUjF3ejBiYjFJRHdqR0RSUFZFZk1fRTZXSUhVZl9LbHc2cmREUFRhVk94Z3JNVGZhUUZEWFIycTRBM0M4Q2ZudWpmakVoN0txYUlISW9lV19YSzI4M3ppX0oyTw?oc=5",
+     "pubDate": "Wed, 24 Jun 2026 17:13:48 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Is HEICO Stock Undervalued After Q1 2026 Earnings? TIKR\u2019s Base Case Targets $505 - TIKR.com",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOGtGODNGbVpTNFY0WEdZZ29DN2hpMERQZ3l4QWIxQ1BsS0x1N2laNi1fRTlLUFpNbDNhMHlwbWllc09pb2FROXJfVkJBUkIzRWhlTU15M3FMYTdSSGNaTlRFVy1zVU55QldESXBKeTgwaWwxaXppdkpYRHoxS2thU090WXhMeUhjZTgxckpzYnR0Um15MzNLN0FHSnNGTGllaUNwendR?oc=5",
+     "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+     "source": "TIKR.com"
     }
    ]
   }
@@ -4793,6 +4793,12 @@ window.DASHBOARD_DATA = {
    "source": "Latest news from Azerbaijan"
   },
   {
+   "title": "China is a clear winner from Trump\u2019s war in Middle East, report concludes - The Guardian",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMVNPa2d6YllVbF9oSjFkeGlVOVpfYXU1ODF3cTJKVUZGY3R2Z2pSNGt3dFUxSGVvc0xJS1dzLVhvWVpGNWVpTHR5QWJoZG13eW9ZS215cVRaSkNOQ3BmVlR3dU5iUm5FLVA5akJuOURRcl96NzZwd2gzektIRWFHVnBUaWFrWmZ3cFdDWGgyXzh3QjJmNTZhdW8zUUlqWm41ZU1hREpWamtTclFCMGs1dlhVaE1UZw?oc=5",
+   "pubDate": "Tue, 30 Jun 2026 18:44:00 GMT",
+   "source": "The Guardian"
+  },
+  {
    "title": "SNB intervenes to stabilize franc amid Iran-US-Israel conflict - Crypto Briefing",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSHRrb0lXb0ptVEZ5cUlUQTQxVmZjci1fOVFoZTU2V25WMVhnZXMzMnZyVC1mWE9RVlFIaGk1d0YzLUZSMnJMVkNsdkVfLUpubnVRZ0FLeHIyWXpVc2JBeG4xMDJRUkRsOVlwWTg1UzV4d09tcWRMUFJrQ3NWY21ZQTJrYS0zQ1NTZDlaMXg1WWFUYkNv?oc=5",
    "pubDate": "Tue, 30 Jun 2026 07:18:01 GMT",
@@ -4827,12 +4833,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPalhkQWZFM3VKb0tPODNyQUZMTnBPbHF1eFlWa1lTWUFsRkQwTnVZYWNmZUtYVkl4VGhoQTctS0NvM3E0VVBDQ21HcGNjRlBOZkJBSDljbEl4SFVrejEzY1NyR19BMFRUX0ZHclFPWlI2U2h3UjdSRmVzd2dqYWx1US14NVY?oc=5",
    "pubDate": "Tue, 30 Jun 2026 03:59:37 GMT",
    "source": "The Singju Post"
-  },
-  {
-   "title": "Iran\u2019s Future Will Be Decided By Its People, Not By War Or Appeasement \u2013 OpEd - Eurasia Review",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeWVERXBIQmF0TXQxSVlmVlhHenpEcDVTeE13ejhpeHplN29RNXFGWHc3ZVhlSFZLaTBqdndwMGV0Y0dOV1JHNXZkNll5UUV0WHRnQVpuNG9JSHZVTFVlUk9vY201OFlYcXQwMUhrVDJuaGFXQ2V4UVFGR1Q3THJWcUhaX3YxWHNPZFAzT2hTRWwzcVBzYzFBdVVVQU9CdjU1M0hrUVVkTDVXOUlLTzI1VXlMYw?oc=5",
-   "pubDate": "Tue, 30 Jun 2026 00:46:22 GMT",
-   "source": "Eurasia Review"
   }
  ],
  "mna": [
@@ -4935,12 +4935,6 @@ window.DASHBOARD_DATA = {
    "source": "simplywall.st"
   },
   {
-   "title": "Half of new Pentagon advisory board works for military industry - Responsible Statecraft",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LLXhVVEdCYk9POGN1NHlKS3ZiV0cxNmhfMlR3SzVrczZhNzkxc0hfVHlyYmI3NlRJam5HSk1ZQlZBWnV0dFFOR3FUeWJFdUlxd3oxdGo5LTgwSnJVb2dJWUNoaEljT0VNVVNwWXZ3ei0?oc=5",
-   "pubDate": "Tue, 30 Jun 2026 13:47:51 GMT",
-   "source": "Responsible Statecraft"
-  },
-  {
    "title": "NIS 85,000 a month: which government company pays the highest salaries? - Ynetnews",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BYlFielN2RXFjcjdLY0dDT0NCNS1xSUIzeXEwRVpOY0NQNkFxV2VQS2paUW5pZW5qZnRmRnFUc0RienJYRkwxVzlERG5zcVd4T0VpMDdsTVdFcFlLM2pZMUln?oc=5",
    "pubDate": "Tue, 30 Jun 2026 08:04:16 GMT",
@@ -4954,9 +4948,15 @@ window.DASHBOARD_DATA = {
   },
   {
    "title": "8 Aerospace and Defense Stocks with the Largest 5Y Share Price Returns - Insider Monkey",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUtibzU4enJPZEpRVTN5R2s0cFFhaWhWZ1hjZTRTNDJtUmtaRmhGM1lMWFd0UmpCSUQtRHR2b3NiZ0dkWkRYUk8zR1RaTnZydE11dFBnMXFWUDBHZDV5VGlmQWFweVJRLVJCM3R2Y2RtV1hraHhBOENyMkdMM3prRzdFNXZ5cGJFdFgyR3I4Wk9ra1lFUFJ4dXV4TmpEYkl3ZE1PWmwxaVZaUE1YUnR2VTNONU_SAbwBQVVfeXFMTkVDcWpwbWJIREo0UjJxWFlvczhuNDlmWlBNT005azB5MWg1RWJ5dmV3alNEem1vY1FlYzJLV3BnMTVhWnd6Nnk4SFdWc2VNQmxnWlhhNlNyVmdXVUhaUFVYVzBma0NCYXRydmxRUjQ1QVNOYUdOdHVCUFRDSmRCdlQ3eFdXWXY2NFR1Mzg2UVh2UkhTTHp6bjhlMUllMmNidDVGRWJvWlFtSk0taDN0dTlYSFctUll0MURqaDA?oc=5",
-   "pubDate": "Tue, 30 Jun 2026 09:05:38 GMT",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWnVGbmlxNVdJVG9SQ3JRbDFDX2N4TGFqMGVwck96cGlTV2s5MnE1Mks1MEJpcWhvNXN6RXc2OGNtOHZkaFg4WFdOOVdQZmVORnkzVHBPY2wwckphNlBIamxjckxlaFZIakg3RTIzVjQ5UFd4ZG8yajhYdVRnSk01cnhZRktaX2R1SDJkOUZsZ0ZueGZLejRKaWJxbWtXMTRZUk5OTWRydUREdXFkMEVIVkZiTTVacS1SZEp2c2ZUQ05fUUZZaUE?oc=5",
+   "pubDate": "Tue, 30 Jun 2026 09:54:55 GMT",
    "source": "Insider Monkey"
+  },
+  {
+   "title": "EXCLUSIVE: Turkey says NATO adjusting to security landscape, US not withdrawing - Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFVFQjUtRlBWem5wdDBTbFUtMldwaF9NXzIyWXMwS0JkU0JBVXpTSTRjaElia1dLYTRpOG15X3g0a3gxWnZwbjJZQmxvNE9tZVN3SUZ4OTQzOGloOWdrTEFXZmZnSTF0MVFwT0gzTjZfUjJBdnE1R0VCRUV0NGRrN3VBRU5pcldkTFlrTU9sc2lOQ01VUllnZTNVWjRvSVdubFRxWmEwb05oRVNiSXlkUEx2eFBKUkR4dEZlQTV0bHl3LU9WbEE?oc=5",
+   "pubDate": "Tue, 30 Jun 2026 11:14:27 GMT",
+   "source": "Reuters"
   }
  ],
  "industrialsNews": [
