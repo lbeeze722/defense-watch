@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-07-16T20:28:38.394919+00:00",
+ "generatedAt": "2026-07-16T20:34:13.171386+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -144,8 +144,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 67.8,
-    "changePct": 0.67
+    "price": 67.92,
+    "changePct": 0.84
    },
    "relVol": 2.0,
    "avgVolume": 14951851,
@@ -390,8 +390,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 16.7,
-    "changePct": 0.36
+    "price": 16.83,
+    "changePct": 1.14
    },
    "relVol": 1.1,
    "avgVolume": 3530708,
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 2.68,
-    "changePct": 2.25
+    "changePct": 2.27
    },
    "relVol": 1.3,
    "avgVolume": 1275991,
@@ -554,8 +554,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 13.5,
-    "changePct": 0.45
+    "price": 13.64,
+    "changePct": 1.49
    },
    "relVol": 1.6,
    "avgVolume": 8361383,
@@ -636,8 +636,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.66,
-    "changePct": 0.15
+    "price": 6.64,
+    "changePct": -0.14
    },
    "relVol": 1.1,
    "avgVolume": 99335594,
@@ -964,8 +964,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.36,
-    "changePct": 0.27
+    "price": 7.34,
+    "changePct": 0.0
    },
    "relVol": 1.1,
    "avgVolume": 43549660,
@@ -1046,8 +1046,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 47.3,
-    "changePct": 0.72
+    "price": 47.1,
+    "changePct": 0.3
    },
    "relVol": 0.9,
    "avgVolume": 3266705,
@@ -1374,8 +1374,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 149.03,
-    "changePct": -0.17
+    "price": 149.48,
+    "changePct": 0.13
    },
    "relVol": 2.0,
    "avgVolume": 1092942,
@@ -1456,8 +1456,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 174.5,
-    "changePct": 0.44
+    "price": 172.51,
+    "changePct": -0.71
    },
    "relVol": 0.9,
    "avgVolume": 896052,
@@ -1778,8 +1778,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 347.0,
-    "changePct": 0.37
+    "price": 345.75,
+    "changePct": 0.01
    },
    "relVol": 2.2,
    "avgVolume": 2691705,
@@ -1854,8 +1854,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 271.19,
-    "changePct": 0.0
+    "price": 272.0,
+    "changePct": 0.3
    },
    "relVol": 1.5,
    "avgVolume": 1215404,
@@ -1930,8 +1930,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 284.43,
-    "changePct": 0.0
+    "price": 288.57,
+    "changePct": 1.46
    },
    "relVol": 1.2,
    "avgVolume": 602451,
@@ -2006,8 +2006,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 518.65,
-    "changePct": 0.0
+    "price": 519.9,
+    "changePct": 0.24
    },
    "relVol": 1.6,
    "avgVolume": 519892,
@@ -2161,7 +2161,7 @@ window.DASHBOARD_DATA = {
     "price": 107.72,
     "changePct": -0.53
    },
-   "relVol": 1.8,
+   "relVol": 1.5,
    "avgVolume": 868005,
    "symbol": "LDOS",
    "name": "Leidos",
@@ -2170,7 +2170,7 @@ window.DASHBOARD_DATA = {
    "price": 108.29,
    "prevClose": 106.56,
    "changePct": 1.62,
-   "volume": 1526869,
+   "volume": 1303656,
    "dayHigh": 109.66,
    "dayLow": 107.27,
    "fiftyTwoWeekHigh": 205.77,
@@ -2310,7 +2310,7 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 214.8,
+    "price": 214.79,
     "changePct": 0.21
    },
    "relVol": 1.2,
@@ -2462,8 +2462,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 463.0,
-    "changePct": 0.03
+    "price": 465.0,
+    "changePct": 0.46
    },
    "relVol": 0.7,
    "avgVolume": 226070,
@@ -2508,14 +2508,41 @@ window.DASHBOARD_DATA = {
    ]
   },
   {
-   "spark": [],
+   "spark": [
+    561.94,
+    569.25,
+    566.59,
+    565.77,
+    565.64,
+    559.66,
+    562.42,
+    560.53,
+    551.74,
+    546.98,
+    558.7,
+    552.69,
+    551.36,
+    552.97,
+    547.45,
+    541.66,
+    540.47,
+    540.77,
+    535.79,
+    541.26,
+    537.81,
+    537.25,
+    539.6,
+    538.52,
+    542.08,
+    541.75
+   ],
    "ext": {
     "label": "after-hours",
-    "price": 541.75,
-    "changePct": 0.0
+    "price": 535.0,
+    "changePct": -1.25
    },
-   "relVol": null,
-   "avgVolume": null,
+   "relVol": 0.9,
+   "avgVolume": 587983,
    "symbol": "AXON",
    "name": "Axon Enterprise",
    "vertical": "Defense Tech & Software",
@@ -2815,8 +2842,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 133.95,
-    "changePct": -0.36
+    "price": 133.75,
+    "changePct": -0.51
    },
    "relVol": 0.9,
    "avgVolume": 33036106,
@@ -2891,8 +2918,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 193.75,
-    "changePct": -0.31
+    "price": 194.33,
+    "changePct": -0.02
    },
    "relVol": 1.5,
    "avgVolume": 2283868,
@@ -3043,8 +3070,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 511.5,
-    "changePct": -0.39
+    "price": 512.52,
+    "changePct": -0.19
    },
    "relVol": 1.1,
    "avgVolume": 554803,
@@ -3195,8 +3222,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 370.99,
-    "changePct": 0.59
+    "price": 370.0,
+    "changePct": 0.32
    },
    "relVol": 0.8,
    "avgVolume": 636762,
@@ -3273,8 +3300,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 67.8,
-    "changePct": 0.67
+    "price": 67.92,
+    "changePct": 0.84
    },
    "relVol": 2.0,
    "avgVolume": 14951851,
@@ -3519,8 +3546,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 16.7,
-    "changePct": 0.36
+    "price": 16.83,
+    "changePct": 1.14
    },
    "relVol": 1.1,
    "avgVolume": 3530708,
@@ -3602,7 +3629,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 2.68,
-    "changePct": 2.25
+    "changePct": 2.27
    },
    "relVol": 1.3,
    "avgVolume": 1275991,
@@ -3683,8 +3710,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 13.5,
-    "changePct": 0.45
+    "price": 13.64,
+    "changePct": 1.49
    },
    "relVol": 1.6,
    "avgVolume": 8361383,
@@ -3765,8 +3792,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.66,
-    "changePct": 0.15
+    "price": 6.64,
+    "changePct": -0.14
    },
    "relVol": 1.1,
    "avgVolume": 99335594,
@@ -4093,8 +4120,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.36,
-    "changePct": 0.27
+    "price": 7.34,
+    "changePct": 0.0
    },
    "relVol": 1.1,
    "avgVolume": 43549660,
@@ -4175,8 +4202,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 47.3,
-    "changePct": 0.72
+    "price": 47.1,
+    "changePct": 0.3
    },
    "relVol": 0.9,
    "avgVolume": 3266705,
@@ -4503,8 +4530,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 149.03,
-    "changePct": -0.17
+    "price": 149.48,
+    "changePct": 0.13
    },
    "relVol": 2.0,
    "avgVolume": 1092942,
@@ -4585,8 +4612,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 174.5,
-    "changePct": 0.44
+    "price": 172.51,
+    "changePct": -0.71
    },
    "relVol": 0.9,
    "avgVolume": 896052,
