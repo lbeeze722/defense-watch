@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-07-17T20:28:50.616931+00:00",
+ "generatedAt": "2026-07-17T20:34:22.966313+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -127,7 +127,7 @@ window.DASHBOARD_DATA = {
     },
     {
      "symbol": "UMAC",
-     "changePct": -8.48
+     "changePct": -8.59
     }
    ],
    "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
@@ -165,8 +165,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 67.54,
-    "changePct": -0.12
+    "price": 67.6,
+    "changePct": -0.03
    },
    "relVol": 1.2,
    "avgVolume": 18738386,
@@ -247,8 +247,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.44,
-    "changePct": -0.12
+    "price": 8.46,
+    "changePct": 0.12
    },
    "relVol": 0.8,
    "avgVolume": 15719190,
@@ -329,8 +329,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 13.86,
-    "changePct": 2.51
+    "price": 13.97,
+    "changePct": 3.31
    },
    "relVol": 0.9,
    "avgVolume": 9155787,
@@ -489,12 +489,12 @@ window.DASHBOARD_DATA = {
     17.37,
     16.82,
     16.93,
-    16.95
+    16.93
    ],
    "ext": {
     "label": "after-hours",
-    "price": 16.88,
-    "changePct": -0.41
+    "price": 17.0,
+    "changePct": 0.41
    },
    "relVol": 0.7,
    "avgVolume": 3616416,
@@ -502,9 +502,9 @@ window.DASHBOARD_DATA = {
    "name": "Unusual Machines",
    "vertical": "Drones & Counter-UAS",
    "description": "NDAA-compliant drone components and FPV drones; positioned in the US drone supply-chain onshoring push.",
-   "price": 16.95,
+   "price": 16.93,
    "prevClose": 18.52,
-   "changePct": -8.48,
+   "changePct": -8.59,
    "volume": 2464711,
    "dayHigh": 17.63,
    "dayLow": 15.78,
@@ -657,8 +657,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 46.04,
-    "changePct": 0.02
+    "price": 46.24,
+    "changePct": 0.46
    },
    "relVol": 1.3,
    "avgVolume": 3414081,
@@ -740,7 +740,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 7.66,
-    "changePct": 0.2
+    "changePct": 0.26
    },
    "relVol": 1.0,
    "avgVolume": 6694243,
@@ -821,8 +821,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.47,
-    "changePct": 0.67
+    "price": 4.45,
+    "changePct": 0.32
    },
    "relVol": 1.0,
    "avgVolume": 24068336,
@@ -903,8 +903,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.24,
-    "changePct": 0.13
+    "price": 7.23,
+    "changePct": 0.01
    },
    "relVol": 1.9,
    "avgVolume": 48376458,
@@ -1231,8 +1231,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 508.0,
-    "changePct": -0.45
+    "price": 511.5,
+    "changePct": 0.24
    },
    "relVol": 1.6,
    "avgVolume": 533457,
@@ -1313,8 +1313,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 173.0,
-    "changePct": 1.06
+    "price": 169.89,
+    "changePct": -0.75
    },
    "relVol": 0.7,
    "avgVolume": 974086,
@@ -1793,8 +1793,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 272.43,
-    "changePct": 0.0
+    "price": 271.95,
+    "changePct": -0.18
    },
    "relVol": 1.1,
    "avgVolume": 1329398,
@@ -2097,8 +2097,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 214.1,
-    "changePct": 0.03
+    "price": 214.7,
+    "changePct": 0.31
    },
    "relVol": 1.0,
    "avgVolume": 3157091,
@@ -2173,8 +2173,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 286.13,
-    "changePct": 1.46
+    "price": 285.53,
+    "changePct": 1.25
    },
    "relVol": 1.4,
    "avgVolume": 660035,
@@ -2300,8 +2300,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 1214.43,
-    "changePct": 0.0
+    "price": 1214.0,
+    "changePct": -0.04
    },
    "relVol": 0.8,
    "avgVolume": 315236,
@@ -2528,8 +2528,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 195.0,
-    "changePct": 0.77
+    "price": 193.54,
+    "changePct": 0.02
    },
    "relVol": 1.1,
    "avgVolume": 2425570,
@@ -2604,10 +2604,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 509.99,
-    "changePct": 0.24
+    "price": 509.55,
+    "changePct": 0.15
    },
-   "relVol": 2.0,
+   "relVol": 1.6,
    "avgVolume": 579791,
    "symbol": "LMT",
    "name": "Lockheed Martin",
@@ -2616,7 +2616,7 @@ window.DASHBOARD_DATA = {
    "price": 508.77,
    "prevClose": 514.46,
    "changePct": -1.11,
-   "volume": 1139461,
+   "volume": 921988,
    "dayHigh": 527.33,
    "dayLow": 507.68,
    "fiftyTwoWeekHigh": 692.0,
@@ -2680,8 +2680,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 131.9,
-    "changePct": -0.36
+    "price": 131.8,
+    "changePct": -0.44
    },
    "relVol": 1.0,
    "avgVolume": 32469127,
@@ -2984,8 +2984,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 526.35,
-    "changePct": 0.92
+    "price": 521.6,
+    "changePct": 0.01
    },
    "relVol": 1.2,
    "avgVolume": 631648,
@@ -3060,8 +3060,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 142.0,
-    "changePct": -0.14
+    "price": 142.56,
+    "changePct": 0.25
    },
    "relVol": 1.0,
    "avgVolume": 1298870,
@@ -3290,8 +3290,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 67.54,
-    "changePct": -0.12
+    "price": 67.6,
+    "changePct": -0.03
    },
    "relVol": 1.2,
    "avgVolume": 18738386,
@@ -3372,8 +3372,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.44,
-    "changePct": -0.12
+    "price": 8.46,
+    "changePct": 0.12
    },
    "relVol": 0.8,
    "avgVolume": 15719190,
@@ -3454,8 +3454,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 13.86,
-    "changePct": 2.51
+    "price": 13.97,
+    "changePct": 3.31
    },
    "relVol": 0.9,
    "avgVolume": 9155787,
@@ -3614,12 +3614,12 @@ window.DASHBOARD_DATA = {
     17.37,
     16.82,
     16.93,
-    16.95
+    16.93
    ],
    "ext": {
     "label": "after-hours",
-    "price": 16.88,
-    "changePct": -0.41
+    "price": 17.0,
+    "changePct": 0.41
    },
    "relVol": 0.7,
    "avgVolume": 3616416,
@@ -3627,9 +3627,9 @@ window.DASHBOARD_DATA = {
    "name": "Unusual Machines",
    "vertical": "Drones & Counter-UAS",
    "description": "NDAA-compliant drone components and FPV drones; positioned in the US drone supply-chain onshoring push.",
-   "price": 16.95,
+   "price": 16.93,
    "prevClose": 18.52,
-   "changePct": -8.48,
+   "changePct": -8.59,
    "volume": 2464711,
    "dayHigh": 17.63,
    "dayLow": 15.78,
@@ -3782,8 +3782,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 46.04,
-    "changePct": 0.02
+    "price": 46.24,
+    "changePct": 0.46
    },
    "relVol": 1.3,
    "avgVolume": 3414081,
@@ -3865,7 +3865,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 7.66,
-    "changePct": 0.2
+    "changePct": 0.26
    },
    "relVol": 1.0,
    "avgVolume": 6694243,
@@ -3946,8 +3946,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.47,
-    "changePct": 0.67
+    "price": 4.45,
+    "changePct": 0.32
    },
    "relVol": 1.0,
    "avgVolume": 24068336,
@@ -4028,8 +4028,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.24,
-    "changePct": 0.13
+    "price": 7.23,
+    "changePct": 0.01
    },
    "relVol": 1.9,
    "avgVolume": 48376458,
@@ -4356,8 +4356,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 508.0,
-    "changePct": -0.45
+    "price": 511.5,
+    "changePct": 0.24
    },
    "relVol": 1.6,
    "avgVolume": 533457,
@@ -4438,8 +4438,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 173.0,
-    "changePct": 1.06
+    "price": 169.89,
+    "changePct": -0.75
    },
    "relVol": 0.7,
    "avgVolume": 974086,
