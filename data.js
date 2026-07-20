@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-07-20T20:17:04.317881+00:00",
+ "generatedAt": "2026-07-20T20:22:47.435377+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -474,8 +474,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 17.38,
-    "changePct": 0.0
+    "price": 17.49,
+    "changePct": 0.63
    },
    "relVol": 0.6,
    "avgVolume": 3188989,
@@ -720,8 +720,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.89,
-    "changePct": 0.29
+    "price": 6.88,
+    "changePct": 0.15
    },
    "relVol": 1.4,
    "avgVolume": 136501294,
@@ -805,7 +805,7 @@ window.DASHBOARD_DATA = {
     "price": 142.0,
     "changePct": 0.0
    },
-   "relVol": 1.0,
+   "relVol": 0.8,
    "avgVolume": 565491,
    "symbol": "OSK",
    "name": "Oshkosh",
@@ -814,8 +814,8 @@ window.DASHBOARD_DATA = {
    "price": 142.0,
    "prevClose": 146.72,
    "changePct": -3.22,
-   "volume": 550779,
-   "dayHigh": 145.81,
+   "volume": 459956,
+   "dayHigh": 145.39,
    "dayLow": 141.17,
    "fiftyTwoWeekHigh": 180.49,
    "fiftyTwoWeekLow": 116.77,
@@ -966,8 +966,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 13.9,
-    "changePct": 0.5
+    "price": 13.88,
+    "changePct": 0.36
    },
    "relVol": 1.4,
    "avgVolume": 8890832,
@@ -1197,7 +1197,7 @@ window.DASHBOARD_DATA = {
     "price": 169.56,
     "changePct": 0.0
    },
-   "relVol": 0.8,
+   "relVol": 0.6,
    "avgVolume": 886072,
    "symbol": "BWXT",
    "name": "BWX Technologies",
@@ -1206,9 +1206,9 @@ window.DASHBOARD_DATA = {
    "price": 169.56,
    "prevClose": 173.74,
    "changePct": -2.41,
-   "volume": 670191,
+   "volume": 568471,
    "dayHigh": 174.87,
-   "dayLow": 169.44,
+   "dayLow": 169.47,
    "fiftyTwoWeekHigh": 241.82,
    "fiftyTwoWeekLow": 136.18,
    "marketTime": 1784577602,
@@ -1270,8 +1270,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 65.88,
-    "changePct": 0.21
+    "price": 65.87,
+    "changePct": 0.2
    },
    "relVol": 0.9,
    "avgVolume": 19875520,
@@ -1346,10 +1346,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 209.7,
+    "price": 209.71,
     "changePct": 0.11
    },
-   "relVol": 1.9,
+   "relVol": 1.7,
    "avgVolume": 3007396,
    "symbol": "BA",
    "name": "Boeing",
@@ -1358,7 +1358,7 @@ window.DASHBOARD_DATA = {
    "price": 209.48,
    "prevClose": 214.34,
    "changePct": -2.27,
-   "volume": 5767774,
+   "volume": 5066519,
    "dayHigh": 216.73,
    "dayLow": 208.704,
    "fiftyTwoWeekHigh": 254.35,
@@ -1422,8 +1422,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 754.85,
-    "changePct": 0.0
+    "price": 769.94,
+    "changePct": 2.0
    },
    "relVol": 1.2,
    "avgVolume": 73767,
@@ -1577,7 +1577,7 @@ window.DASHBOARD_DATA = {
     "price": 1204.73,
     "changePct": 0.0
    },
-   "relVol": 1.3,
+   "relVol": 0.9,
    "avgVolume": 260464,
    "symbol": "TDG",
    "name": "TransDigm",
@@ -1586,9 +1586,9 @@ window.DASHBOARD_DATA = {
    "price": 1204.73,
    "prevClose": 1231.11,
    "changePct": -2.14,
-   "volume": 336272,
+   "volume": 238798,
    "dayHigh": 1227.07,
-   "dayLow": 1203.54,
+   "dayLow": 1203.55,
    "fiftyTwoWeekHigh": 1623.83,
    "fiftyTwoWeekLow": 1123.61,
    "marketTime": 1784577602,
@@ -1802,8 +1802,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.64,
-    "changePct": 0.46
+    "price": 8.61,
+    "changePct": 0.12
    },
    "relVol": 1.0,
    "avgVolume": 15067815,
@@ -2109,7 +2109,7 @@ window.DASHBOARD_DATA = {
     "price": 280.55,
     "changePct": 0.0
    },
-   "relVol": 1.9,
+   "relVol": 1.2,
    "avgVolume": 739040,
    "symbol": "LHX",
    "name": "L3Harris",
@@ -2118,9 +2118,9 @@ window.DASHBOARD_DATA = {
    "price": 280.55,
    "prevClose": 284.43,
    "changePct": -1.36,
-   "volume": 1371781,
+   "volume": 850559,
    "dayHigh": 284.73,
-   "dayLow": 280.44,
+   "dayLow": 280.445,
    "fiftyTwoWeekHigh": 379.23,
    "fiftyTwoWeekLow": 260.22,
    "marketTime": 1784577602,
@@ -2258,10 +2258,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 341.51,
-    "changePct": 0.06
+    "price": 341.88,
+    "changePct": 0.17
    },
-   "relVol": 0.9,
+   "relVol": 0.7,
    "avgVolume": 4418291,
    "symbol": "GE",
    "name": "GE Aerospace",
@@ -2270,7 +2270,7 @@ window.DASHBOARD_DATA = {
    "price": 341.3,
    "prevClose": 345.73,
    "changePct": -1.28,
-   "volume": 3773296,
+   "volume": 3108718,
    "dayHigh": 357.095,
    "dayLow": 339.89,
    "fiftyTwoWeekHigh": 382.97,
@@ -2334,8 +2334,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.73,
-    "changePct": -0.39
+    "price": 7.8,
+    "changePct": 0.52
    },
    "relVol": 0.8,
    "avgVolume": 6558245,
@@ -2562,10 +2562,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 340.44,
-    "changePct": 0.0
+    "price": 341.75,
+    "changePct": 0.38
    },
-   "relVol": 1.0,
+   "relVol": 0.7,
    "avgVolume": 366488,
    "symbol": "HEI",
    "name": "HEICO",
@@ -2574,7 +2574,7 @@ window.DASHBOARD_DATA = {
    "price": 340.44,
    "prevClose": 344.03,
    "changePct": -1.04,
-   "volume": 356897,
+   "volume": 271834,
    "dayHigh": 348.36,
    "dayLow": 338.9,
    "fiftyTwoWeekHigh": 369.48,
@@ -2638,10 +2638,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 523.96,
-    "changePct": 0.0
+    "price": 525.95,
+    "changePct": 0.38
    },
-   "relVol": 1.5,
+   "relVol": 1.2,
    "avgVolume": 692998,
    "symbol": "NOC",
    "name": "Northrop Grumman",
@@ -2650,8 +2650,8 @@ window.DASHBOARD_DATA = {
    "price": 523.96,
    "prevClose": 518.65,
    "changePct": 1.02,
-   "volume": 1009793,
-   "dayHigh": 533.065,
+   "volume": 862326,
+   "dayHigh": 533.02,
    "dayLow": 522.745,
    "fiftyTwoWeekHigh": 774.0,
    "fiftyTwoWeekLow": 493.84,
@@ -2790,10 +2790,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 509.54,
-    "changePct": 0.0
+    "price": 509.08,
+    "changePct": -0.09
    },
-   "relVol": 1.5,
+   "relVol": 1.2,
    "avgVolume": 664218,
    "symbol": "LMT",
    "name": "Lockheed Martin",
@@ -2802,9 +2802,9 @@ window.DASHBOARD_DATA = {
    "price": 509.54,
    "prevClose": 513.52,
    "changePct": -0.78,
-   "volume": 978085,
+   "volume": 825137,
    "dayHigh": 515.84,
-   "dayLow": 507.74,
+   "dayLow": 507.795,
    "fiftyTwoWeekHigh": 692.0,
    "fiftyTwoWeekLow": 410.11,
    "marketTime": 1784577602,
@@ -2869,7 +2869,7 @@ window.DASHBOARD_DATA = {
     "price": 370.6,
     "changePct": 0.0
    },
-   "relVol": 1.1,
+   "relVol": 0.8,
    "avgVolume": 637624,
    "symbol": "GD",
    "name": "General Dynamics",
@@ -2878,9 +2878,9 @@ window.DASHBOARD_DATA = {
    "price": 370.6,
    "prevClose": 368.82,
    "changePct": 0.48,
-   "volume": 676527,
+   "volume": 490574,
    "dayHigh": 373.92,
-   "dayLow": 369.48,
+   "dayLow": 369.52,
    "fiftyTwoWeekHigh": 380.71,
    "fiftyTwoWeekLow": 293.95,
    "marketTime": 1784577602,
@@ -2945,7 +2945,7 @@ window.DASHBOARD_DATA = {
     "price": 270.04,
     "changePct": 0.0
    },
-   "relVol": 1.0,
+   "relVol": 0.7,
    "avgVolume": 348139,
    "symbol": "HII",
    "name": "Huntington Ingalls",
@@ -2954,9 +2954,9 @@ window.DASHBOARD_DATA = {
    "price": 270.04,
    "prevClose": 271.05,
    "changePct": -0.37,
-   "volume": 331580,
+   "volume": 260507,
    "dayHigh": 273.52,
-   "dayLow": 269.22,
+   "dayLow": 269.24,
    "fiftyTwoWeekHigh": 460.0,
    "fiftyTwoWeekLow": 250.91,
    "marketTime": 1784577603,
@@ -3018,8 +3018,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 134.28,
-    "changePct": -0.43
+    "price": 134.3,
+    "changePct": -0.41
    },
    "relVol": 0.9,
    "avgVolume": 30727551,
@@ -3097,7 +3097,7 @@ window.DASHBOARD_DATA = {
     "price": 271.98,
     "changePct": 0.0
    },
-   "relVol": 1.0,
+   "relVol": 0.7,
    "avgVolume": 1380778,
    "symbol": "HWM",
    "name": "Howmet Aerospace",
@@ -3106,7 +3106,7 @@ window.DASHBOARD_DATA = {
    "price": 271.98,
    "prevClose": 271.19,
    "changePct": 0.29,
-   "volume": 1348800,
+   "volume": 967945,
    "dayHigh": 277.49,
    "dayLow": 270.33,
    "fiftyTwoWeekHigh": 290.63,
@@ -3173,7 +3173,7 @@ window.DASHBOARD_DATA = {
     "price": 90.79,
     "changePct": 0.0
    },
-   "relVol": 2.2,
+   "relVol": 1.9,
    "avgVolume": 989609,
    "symbol": "TXT",
    "name": "Textron",
@@ -3182,7 +3182,7 @@ window.DASHBOARD_DATA = {
    "price": 90.79,
    "prevClose": 90.64,
    "changePct": 0.17,
-   "volume": 2147718,
+   "volume": 1875838,
    "dayHigh": 93.14,
    "dayLow": 90.2,
    "fiftyTwoWeekHigh": 101.57,
@@ -3246,10 +3246,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 196.5,
-    "changePct": 1.06
+    "price": 193.65,
+    "changePct": -0.41
    },
-   "relVol": 1.8,
+   "relVol": 1.3,
    "avgVolume": 2531825,
    "symbol": "RTX",
    "name": "RTX Corp",
@@ -3258,8 +3258,8 @@ window.DASHBOARD_DATA = {
    "price": 194.44,
    "prevClose": 194.36,
    "changePct": 0.04,
-   "volume": 4469545,
-   "dayHigh": 197.54,
+   "volume": 3344207,
+   "dayHigh": 197.522,
    "dayLow": 194.1,
    "fiftyTwoWeekHigh": 214.5,
    "fiftyTwoWeekLow": 143.56,
@@ -3570,8 +3570,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 17.38,
-    "changePct": 0.0
+    "price": 17.49,
+    "changePct": 0.63
    },
    "relVol": 0.6,
    "avgVolume": 3188989,
@@ -3816,8 +3816,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.89,
-    "changePct": 0.29
+    "price": 6.88,
+    "changePct": 0.15
    },
    "relVol": 1.4,
    "avgVolume": 136501294,
@@ -3901,7 +3901,7 @@ window.DASHBOARD_DATA = {
     "price": 142.0,
     "changePct": 0.0
    },
-   "relVol": 1.0,
+   "relVol": 0.8,
    "avgVolume": 565491,
    "symbol": "OSK",
    "name": "Oshkosh",
@@ -3910,8 +3910,8 @@ window.DASHBOARD_DATA = {
    "price": 142.0,
    "prevClose": 146.72,
    "changePct": -3.22,
-   "volume": 550779,
-   "dayHigh": 145.81,
+   "volume": 459956,
+   "dayHigh": 145.39,
    "dayLow": 141.17,
    "fiftyTwoWeekHigh": 180.49,
    "fiftyTwoWeekLow": 116.77,
@@ -4100,9 +4100,9 @@ window.DASHBOARD_DATA = {
    "source": "Moomoo"
   },
   {
-   "title": "Military Autonomous Robot Market Positioned For Sustained Growth At16.4% CAGR Through 2030 - EIN News",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMmVFejVWczlwV1dZcmh2ZHhCSVZYOEtoVzlDNEdxTEdhVU1GSzlEYnJGY3FaS2N3LUlFVG1mR0lXUWpHak1oaGJteGRpX0RybWJ0NjlsMk43R2VBdzBDQ0JmeVZwVTVoMnZ2a2N2Rzg3ekxqd1FUOUpVRU42cC00N3VjTml0NExFQy1hQlRuV0ZuWkRlNTY0cEY5N3dOSHJNZEpEeE1ycVdvY1JQdDJyTWJjOG9zZmlLR0xyMHU2Y1FUc2hqTGZ6Ukx6RW4?oc=5",
-   "pubDate": "Mon, 20 Jul 2026 16:43:44 GMT",
+   "title": "Global Military Semiconductor Market Size Forecast To Cross $9.6 Billion By 2030 - EIN News",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTXJjOWFLd2k3eFRnRU81NzZpM2VIdXV1Q2JVMk91Zzh0YllrRWxjRUxLU21nLW1qNS1xQ2p3clViTVhwZ3VmcldMLWQxcWFncUFUS1kzalRjc3gtMUwxQmxjMU1TdnZuR1A0VVh5Nk9yeTh3Rkc5NFRpYU5mYTdIci16M3RiUUpwcWpVQXZZemF2OTBWUGtCa2hTdWU1UFZBc3B3bk5iOElLY2VJbzRuMkNfU2dRbmtHVWE2Q1pn?oc=5",
+   "pubDate": "Mon, 20 Jul 2026 16:38:00 GMT",
    "source": "EIN News"
   }
  ],
@@ -4206,16 +4206,16 @@ window.DASHBOARD_DATA = {
    "source": "\uc870\uc120\uc77c\ubcf4"
   },
   {
-   "title": "A decade of airshows, aviation and aerospace growth under Ivey - Alabama Department of Commerce",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeHItajlmNzBWVUZ3MUZKWndCTDNRR3RyU25yOFpRR3JVY21hUVRBTFNtWGlXWVZ6Y0o3LWIyQTFuTlhzbTlMbTc2bkg1dDJ2cmQ1ODZkWWkwcDliRDVJUTFHMWE2eEUtRlEzUWdVUEI2a3RlWE54cVJlYklEcEliZmhUZDdOTjRiOXZCc1huVmx6WnZjR2t3bGJRLXpMZHNlSEE?oc=5",
-   "pubDate": "Mon, 20 Jul 2026 01:46:08 GMT",
-   "source": "Alabama Department of Commerce"
-  },
-  {
    "title": "Huntsville defense contractor announces major expansion at London airshow, creating 150 jobs - AL.com",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLW5JV1pvYndydTh1U1doNW9uYjhQR1Z5bERqU2tWXzAyRXgyUlBlZHotalRwVDFTU3g3OUtldjF0VjJva2IyWGJjRGxoOE5saXFSOE9XWGU0MDZzbjlYaTVXZFRkUVpBUVNXd1Bkc2hQWnl1YVJic2E3ZlM1aF9yVFdpRkZnRGNJU1NsLVliMlZFWXNBeFgzX043YXdiSkl4aWdoNV83c0Z2RERGMEg5dTVlc3djRE9xMWZtWEhFS0ZndVFBUHB4M0F1ODJxU2RaajFV?oc=5",
    "pubDate": "Mon, 20 Jul 2026 14:17:00 GMT",
    "source": "AL.com"
+  },
+  {
+   "title": "A decade of airshows, aviation and aerospace growth under Ivey - Alabama Department of Commerce",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeHItajlmNzBWVUZ3MUZKWndCTDNRR3RyU25yOFpRR3JVY21hUVRBTFNtWGlXWVZ6Y0o3LWIyQTFuTlhzbTlMbTc2bkg1dDJ2cmQ1ODZkWWkwcDliRDVJUTFHMWE2eEUtRlEzUWdVUEI2a3RlWE54cVJlYklEcEliZmhUZDdOTjRiOXZCc1huVmx6WnZjR2t3bGJRLXpMZHNlSEE?oc=5",
+   "pubDate": "Mon, 20 Jul 2026 01:46:08 GMT",
+   "source": "Alabama Department of Commerce"
   },
   {
    "title": "Huntsville's Redwire to add 150 jobs in major aerospace expansion - Axios",
@@ -4294,16 +4294,16 @@ window.DASHBOARD_DATA = {
    "source": "Aerotech News & Review"
   },
   {
-   "title": "Kongsberg Lands $100M US Air Force Contract for Additional Joint Strike Missiles - The Defense Post",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yRUNQX0YwNk1rUXBWX09pY1o0ZmVLVkpreUlMS1NFRk0xbGFLZUI0bkYybkdZT0pxMzF2UUFNaVltdFFWZTJ2bTM5NHA3U0V6LTBhRFJZYll1NGRldWZoSGJMVEJ1MHlYcjA3cmxfQ0zSAXZBVV95cUxOM3RuTkphVXhXeHUxN01za3VQbnBKRlhjWHdTbG9CLWlmTFNoRmR3M01kNnlYRkRKUUxVYUxTclczRUVNNlE4a25xLWN3UUVPM0dUT3BFb1YweDRsbGZBa0ZBcThqSjFmdFN3SUNzQTlmZlVtb2tR?oc=5",
-   "pubDate": "Mon, 20 Jul 2026 15:12:43 GMT",
-   "source": "The Defense Post"
-  },
-  {
    "title": "Contracts for July 17, 2026 - U.S. Department of War (.gov)",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFdOb1B3ZjBBOV9UOHc2UnFGT04xaUF6bGpSWGxUVXFvLUg1RlRrTDRzWFJtcVhHSF90ZzlwNi1oUUFoZUJsQVVHRjlGUUVCWkNpWnpEWnFXSzlqbVhlUnAzUEN2MlB5YjNHZlIzTG5YNXdnTzk2OGlwRGwtcU45UW8tWFZlM3NOdm5LeVJKM3Y?oc=5",
    "pubDate": "Fri, 17 Jul 2026 21:12:21 GMT",
    "source": "U.S. Department of War (.gov)"
+  },
+  {
+   "title": "Kongsberg Lands $100M US Air Force Contract for Additional Joint Strike Missiles - The Defense Post",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yRUNQX0YwNk1rUXBWX09pY1o0ZmVLVkpreUlMS1NFRk0xbGFLZUI0bkYybkdZT0pxMzF2UUFNaVltdFFWZTJ2bTM5NHA3U0V6LTBhRFJZYll1NGRldWZoSGJMVEJ1MHlYcjA3cmxfQ0zSAXZBVV95cUxOM3RuTkphVXhXeHUxN01za3VQbnBKRlhjWHdTbG9CLWlmTFNoRmR3M01kNnlYRkRKUUxVYUxTclczRUVNNlE4a25xLWN3UUVPM0dUT3BFb1YweDRsbGZBa0ZBcThqSjFmdFN3SUNzQTlmZlVtb2tR?oc=5",
+   "pubDate": "Mon, 20 Jul 2026 15:12:43 GMT",
+   "source": "The Defense Post"
   },
   {
    "title": "Boeing receives $25M Navy contract for Super Hornet electronic warfare integration - Military Aerospace",
