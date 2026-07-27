@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-07-27T20:09:40.244458+00:00",
+ "generatedAt": "2026-07-27T20:15:12.225610+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -195,7 +195,7 @@ window.DASHBOARD_DATA = {
    "topMovers": [
     {
      "symbol": "BAH",
-     "changePct": 8.73
+     "changePct": 8.76
     },
     {
      "symbol": "AXON",
@@ -211,7 +211,7 @@ window.DASHBOARD_DATA = {
     },
     {
      "symbol": "KULR",
-     "changePct": -5.42
+     "changePct": -5.23
     }
    ],
    "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
@@ -244,12 +244,12 @@ window.DASHBOARD_DATA = {
     72.11,
     73.15,
     72.27,
-    71.62
+    71.64
    ],
    "ext": {
     "label": "after-hours",
     "price": 71.64,
-    "changePct": 0.03
+    "changePct": 0.0
    },
    "relVol": 1.0,
    "avgVolume": 2518176,
@@ -257,9 +257,9 @@ window.DASHBOARD_DATA = {
    "name": "Booz Allen",
    "vertical": "Gov Services & IT",
    "description": "Consulting and AI/cyber services deeply embedded in defense and intelligence agencies.",
-   "price": 71.62,
+   "price": 71.64,
    "prevClose": 65.87,
-   "changePct": 8.73,
+   "changePct": 8.76,
    "volume": 2529112,
    "dayHigh": 73.56,
    "dayLow": 71.18,
@@ -330,8 +330,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 529.95,
-    "changePct": 0.85
+    "price": 532.95,
+    "changePct": 1.42
    },
    "relVol": 1.5,
    "avgVolume": 504283,
@@ -412,8 +412,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 131.53,
-    "changePct": 0.0
+    "price": 131.48,
+    "changePct": -0.04
    },
    "relVol": 1.5,
    "avgVolume": 23526613,
@@ -575,7 +575,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 2.63,
-    "changePct": 0.38
+    "changePct": 0.19
    },
    "relVol": 0.5,
    "avgVolume": 1229560,
@@ -585,13 +585,13 @@ window.DASHBOARD_DATA = {
    "description": "Thermal management and battery-safety tech for space, defense, and energy storage; also holds bitcoin treasury.",
    "price": 2.62,
    "prevClose": 2.77,
-   "changePct": -5.42,
-   "volume": 626147,
+   "changePct": -5.23,
+   "volume": 607246,
    "dayHigh": 2.65,
    "dayLow": 2.525,
    "fiftyTwoWeekHigh": 6.45,
    "fiftyTwoWeekLow": 1.94,
-   "marketTime": 1785182392,
+   "marketTime": 1785182398,
    "news": [
     {
      "title": "KULR Technology(KULR) Stock Options Chain | Quotes & News - Moomoo",
@@ -655,8 +655,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.84,
-    "changePct": 0.34
+    "price": 8.83,
+    "changePct": 0.23
    },
    "relVol": 0.8,
    "avgVolume": 13385819,
@@ -736,8 +736,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 357.15,
-    "changePct": 0.02
+    "price": 352.0,
+    "changePct": -1.43
    },
    "relVol": 1.0,
    "avgVolume": 341838,
@@ -789,87 +789,6 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
-    19.2,
-    19.27,
-    19.47,
-    19.3,
-    19.56,
-    20.67,
-    20.69,
-    20.25,
-    19.74,
-    19.68,
-    20.45,
-    21.41,
-    21.24,
-    21.4,
-    21.58,
-    20.09,
-    20.37,
-    19.98,
-    19.43,
-    19.34,
-    19.93,
-    19.62,
-    19.42,
-    20.31,
-    20.56
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 20.54,
-    "changePct": -0.1
-   },
-   "relVol": 0.9,
-   "avgVolume": 3373174,
-   "symbol": "UMAC",
-   "name": "Unusual Machines",
-   "vertical": "Drones & Counter-UAS",
-   "description": "NDAA-compliant drone components and FPV drones; positioned in the US drone supply-chain onshoring push.",
-   "price": 20.56,
-   "prevClose": 21.52,
-   "changePct": -4.46,
-   "volume": 3105537,
-   "dayHigh": 20.8,
-   "dayLow": 19.09,
-   "fiftyTwoWeekHigh": 34.36,
-   "fiftyTwoWeekLow": 7.245,
-   "marketTime": 1785182398,
-   "news": [
-    {
-     "title": "Can Unusual Machines\u2019 (UMAC) Edge AI Drone Pivot Rebalance Its Government-Focused Investment Story? - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYUtuR0kyOGRRNUxJTDI4MUdGS3hKTW5XSHRWdTAxak9XXzBPREVLaG5ydkFDQ1RlWEZBcnBjLUd2QUh2QkM5ZGd2enFqMjhhNnF4b0NMbUwwYUh0ZHJNaU8yWXFLdlFTMHBKRDRkamxKdF9uWXNfY0JCZzdKa2R3RlJQaVAtbWtPTmtaQmRxR3BYTnpOZUVSc3JReVpDTXFHOUxuRXQ5emQxeWhNUjFzQnp0Sml6Z29UY3VWZDFndnlFRzFDSGc2RkRTa9IB0AFBVV95cUxNMlRSMGNZOUFKQjJpX2lzZkVULVpQWW12dGc2YzZHMnVNSFRkMWsyU0c5RWFzSHhXQk9vQWRxN0hMRHppMVo5NG56WlIwNi15RTdoNjlndW82VXdaVlUxU2k1ZFM2WDN5cHNrRU56Q2hLdkNua0luTk1iUjFFbmc1ZGVBWGdjTnFyTFhDQkZGd1Rwd0dRa1RnZGhnR3dDOVVDRkh2X1J0Zkd4b00xdjNwYVdrRTZNZ3F3NlRqMU5PZE85akZhSGtuOUNKeTlKSFFl?oc=5",
-     "pubDate": "Mon, 27 Jul 2026 19:07:30 GMT",
-     "source": "simplywall.st"
-    },
-    {
-     "title": "Unusual Machines (UMAC) Could Be 1,262% Overvalued After Its Recent Rally - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY2lmZHRhN3kyMERReGhIbGRBNlcxenQyOVpqNllJNEdWRVhwbWYtTjVmYXZMNGVabGN5T21hWGVhOGs5NkQ5UVE2bllEMG1tRmoyMzZzVThNdmU2LXlkakdiU1R3WlB3YlN4RVRSYlJYbDI5ak05czBBY3duVlRRU0RYWnA0VnJZLUlNUXpKVjAwSlV5cDNwQmlB?oc=5",
-     "pubDate": "Fri, 24 Jul 2026 05:13:19 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Why Unusual Machines Stock Jumped Today - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUdkdHhLd0NVbjNkc1ZjMjFUVzhqODNUMzZmMGlUbTFNLXU0WThYRzByODBBM1AyS2d2bHB6UGtRSjZVLWkzWWZiWEltOFh3bDM1YS1uN3pIam92eFppTmEwbHZXamFWVUR4ZDdyc0ZRVVdxTFI5bWQxS3ZOZHZSazk3UDQtYWRM?oc=5",
-     "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-     "source": "The Motley Fool"
-    },
-    {
-     "title": "UMAC|Unusual Machines Inc|Price:20.150|Chg%:+0.790 - TradingKey",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WUnJXYlpHVENTNXlWekR5cXpOZVFIS3FHZW55WDVmbVlsc1V5RlpSQTh1MTJtaGRkY2V5cVBfMTNQOXUwTzhsanNHdThnN2phVGRDQlNBQ2lDbjh5RHZQYVNvWFQ5RUZoY1o2VHJR?oc=5",
-     "pubDate": "Mon, 27 Jul 2026 05:42:51 GMT",
-     "source": "TradingKey"
-    },
-    {
-     "title": "Unusual Machines Stock Could Soar 125%, Analyst Says. - Investor's Business Daily",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcVRNSzVMdl9NTDVKZF9BYmxsYi02eDd0ajhwWTNhUDRRN1hHRDlVNU8yN1d0Q2ZjVnUtWmNGSGlOdmFNY2hVNE5uRGk5V09wVUJLODJKX0dPLXdPbTRHdFM0eGVsUmpzOEJodFlrNl9ZclVvaV93TVdsZ05SM2RMYlpNSlNES2NSVmFRNy15ZVg4WHhFU1BrSGgwVE9SYTRlMXpNekFCcmE5ZUhkaExWcFZWOHk3bkhWQno5REhVUnQ4Q0JSc21aV0IyYVNvQ0FMZ3BKcGNWRWVXd0RYWmdN?oc=5",
-     "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-     "source": "Investor's Business Daily"
-    }
-   ]
-  },
-  {
-   "spark": [
     195.71,
     196.54,
     195.84,
@@ -898,8 +817,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 218.1,
-    "changePct": -0.14
+    "price": 218.85,
+    "changePct": 0.21
    },
    "relVol": 1.3,
    "avgVolume": 4899142,
@@ -980,8 +899,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 67.2,
-    "changePct": 0.39
+    "price": 66.94,
+    "changePct": 0.0
    },
    "relVol": 0.9,
    "avgVolume": 16366301,
@@ -1033,6 +952,88 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    19.2,
+    19.27,
+    19.47,
+    19.3,
+    19.56,
+    20.67,
+    20.69,
+    20.25,
+    19.74,
+    19.68,
+    20.45,
+    21.41,
+    21.24,
+    21.4,
+    21.58,
+    20.09,
+    20.37,
+    19.98,
+    19.43,
+    19.34,
+    19.93,
+    19.62,
+    19.42,
+    20.31,
+    20.56,
+    20.6
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 20.53,
+    "changePct": -0.34
+   },
+   "relVol": 0.9,
+   "avgVolume": 3373174,
+   "symbol": "UMAC",
+   "name": "Unusual Machines",
+   "vertical": "Drones & Counter-UAS",
+   "description": "NDAA-compliant drone components and FPV drones; positioned in the US drone supply-chain onshoring push.",
+   "price": 20.6,
+   "prevClose": 21.52,
+   "changePct": -4.28,
+   "volume": 3105537,
+   "dayHigh": 20.8,
+   "dayLow": 19.09,
+   "fiftyTwoWeekHigh": 34.36,
+   "fiftyTwoWeekLow": 7.245,
+   "marketTime": 1785182400,
+   "news": [
+    {
+     "title": "Can Unusual Machines\u2019 (UMAC) Edge AI Drone Pivot Rebalance Its Government-Focused Investment Story? - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYUtuR0kyOGRRNUxJTDI4MUdGS3hKTW5XSHRWdTAxak9XXzBPREVLaG5ydkFDQ1RlWEZBcnBjLUd2QUh2QkM5ZGd2enFqMjhhNnF4b0NMbUwwYUh0ZHJNaU8yWXFLdlFTMHBKRDRkamxKdF9uWXNfY0JCZzdKa2R3RlJQaVAtbWtPTmtaQmRxR3BYTnpOZUVSc3JReVpDTXFHOUxuRXQ5emQxeWhNUjFzQnp0Sml6Z29UY3VWZDFndnlFRzFDSGc2RkRTa9IB0AFBVV95cUxNMlRSMGNZOUFKQjJpX2lzZkVULVpQWW12dGc2YzZHMnVNSFRkMWsyU0c5RWFzSHhXQk9vQWRxN0hMRHppMVo5NG56WlIwNi15RTdoNjlndW82VXdaVlUxU2k1ZFM2WDN5cHNrRU56Q2hLdkNua0luTk1iUjFFbmc1ZGVBWGdjTnFyTFhDQkZGd1Rwd0dRa1RnZGhnR3dDOVVDRkh2X1J0Zkd4b00xdjNwYVdrRTZNZ3F3NlRqMU5PZE85akZhSGtuOUNKeTlKSFFl?oc=5",
+     "pubDate": "Mon, 27 Jul 2026 19:07:30 GMT",
+     "source": "simplywall.st"
+    },
+    {
+     "title": "Unusual Machines (UMAC) Could Be 1,262% Overvalued After Its Recent Rally - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY2lmZHRhN3kyMERReGhIbGRBNlcxenQyOVpqNllJNEdWRVhwbWYtTjVmYXZMNGVabGN5T21hWGVhOGs5NkQ5UVE2bllEMG1tRmoyMzZzVThNdmU2LXlkakdiU1R3WlB3YlN4RVRSYlJYbDI5ak05czBBY3duVlRRU0RYWnA0VnJZLUlNUXpKVjAwSlV5cDNwQmlB?oc=5",
+     "pubDate": "Fri, 24 Jul 2026 05:13:19 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Why Unusual Machines Stock Jumped Today - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUdkdHhLd0NVbjNkc1ZjMjFUVzhqODNUMzZmMGlUbTFNLXU0WThYRzByODBBM1AyS2d2bHB6UGtRSjZVLWkzWWZiWEltOFh3bDM1YS1uN3pIam92eFppTmEwbHZXamFWVUR4ZDdyc0ZRVVdxTFI5bWQxS3ZOZHZSazk3UDQtYWRM?oc=5",
+     "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+     "source": "The Motley Fool"
+    },
+    {
+     "title": "UMAC|Unusual Machines Inc|Price:20.150|Chg%:+0.790 - TradingKey",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WUnJXYlpHVENTNXlWekR5cXpOZVFIS3FHZW55WDVmbVlsc1V5RlpSQTh1MTJtaGRkY2V5cVBfMTNQOXUwTzhsanNHdThnN2phVGRDQlNBQ2lDbjh5RHZQYVNvWFQ5RUZoY1o2VHJR?oc=5",
+     "pubDate": "Mon, 27 Jul 2026 05:42:51 GMT",
+     "source": "TradingKey"
+    },
+    {
+     "title": "Unusual Machines Stock Could Soar 125%, Analyst Says. - Investor's Business Daily",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcVRNSzVMdl9NTDVKZF9BYmxsYi02eDd0ajhwWTNhUDRRN1hHRDlVNU8yN1d0Q2ZjVnUtWmNGSGlOdmFNY2hVNE5uRGk5V09wVUJLODJKX0dPLXdPbTRHdFM0eGVsUmpzOEJodFlrNl9ZclVvaV93TVdsZ05SM2RMYlpNSlNES2NSVmFRNy15ZVg4WHhFU1BrSGgwVE9SYTRlMXpNekFCcmE5ZUhkaExWcFZWOHk3bkhWQno5REhVUnQ4Q0JSc21aV0IyYVNvQ0FMZ3BKcGNWRWVXd0RYWmdN?oc=5",
+     "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+     "source": "Investor's Business Daily"
+    }
+   ]
+  },
+  {
+   "spark": [
     105.29,
     104.97,
     104.96,
@@ -1057,12 +1058,12 @@ window.DASHBOARD_DATA = {
     114.55,
     115.31,
     114.97,
-    115.03
+    114.95
    ],
    "ext": {
     "label": "after-hours",
     "price": 114.95,
-    "changePct": -0.07
+    "changePct": 0.0
    },
    "relVol": 1.1,
    "avgVolume": 917494,
@@ -1070,9 +1071,9 @@ window.DASHBOARD_DATA = {
    "name": "Leidos",
    "vertical": "Gov Services & IT",
    "description": "Largest federal IT/services contractor \u2014 defense digital modernization, hypersonics support, health and intel missions.",
-   "price": 115.03,
+   "price": 114.95,
    "prevClose": 110.33,
-   "changePct": 4.26,
+   "changePct": 4.19,
    "volume": 1013853,
    "dayHigh": 115.555,
    "dayLow": 112.06,
@@ -1138,12 +1139,12 @@ window.DASHBOARD_DATA = {
     84.34,
     84.98,
     86.31,
-    87.42
+    87.31
    ],
    "ext": {
     "label": "after-hours",
     "price": 87.31,
-    "changePct": -0.13
+    "changePct": 0.0
    },
    "relVol": 0.9,
    "avgVolume": 767971,
@@ -1151,9 +1152,9 @@ window.DASHBOARD_DATA = {
    "name": "V2X",
    "vertical": "Gov Services & IT",
    "description": "Global military base operations, logistics, and aircraft maintenance across combatant commands.",
-   "price": 87.42,
+   "price": 87.31,
    "prevClose": 83.98,
-   "changePct": 4.1,
+   "changePct": 3.97,
    "volume": 700668,
    "dayHigh": 87.71,
    "dayLow": 82.84,
@@ -1223,8 +1224,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 363.5,
-    "changePct": 0.52
+    "price": 361.61,
+    "changePct": 0.0
    },
    "relVol": 1.1,
    "avgVolume": 2661840,
@@ -1276,88 +1277,6 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
-    446.37,
-    446.07,
-    445.26,
-    443.3,
-    440.96,
-    457.48,
-    465.2,
-    464.55,
-    462.27,
-    467.52,
-    484.12,
-    483.39,
-    476.62,
-    475.05,
-    480.71,
-    494.69,
-    492.83,
-    495.64,
-    491.68,
-    486.94,
-    497.09,
-    493.86,
-    495.42,
-    497.69,
-    496.84,
-    496.86
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 495.89,
-    "changePct": -0.2
-   },
-   "relVol": 1.0,
-   "avgVolume": 243508,
-   "symbol": "CACI",
-   "name": "CACI Intl",
-   "vertical": "Gov Services & IT",
-   "description": "Intelligence services, signals/EW technology, and federal network modernization.",
-   "price": 496.86,
-   "prevClose": 480.61,
-   "changePct": 3.38,
-   "volume": 237196,
-   "dayHigh": 500.05,
-   "dayLow": 486.689,
-   "fiftyTwoWeekHigh": 683.5,
-   "fiftyTwoWeekLow": 434.7,
-   "marketTime": 1785182400,
-   "news": [
-    {
-     "title": "Should I Buy CACI Intl (CACI) Stock Today | Price at $573.82, Down 0.31% - RSI Oversold Picks - dars.gov.et",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNW1PVzl5WFNhNkxQQzEtQkpqM3FJSVVreWhBMDl6c2hRWkY0MlFuRHJ3NV9FcHFHZ24tN1ZYVmZXWUZoeXJvT3BiY2tyQy1XcElROEZCSFlaVDE0N1RyeTl2QjVCYnVYSVdnVUJGV2dqVm1lbmlmUzdUcFFxYnRQNEc4cU5UTFVJRWp3bWgwV19RX2RLVWRoQW1aNl9BaUFzeUFxOFRHSHgwb0U0RjVYWHBWUDI1Zw?oc=5",
-     "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT",
-     "source": "dars.gov.et"
-    },
-    {
-     "title": "CACI International (NASDAQ: CACI) director adds 85 shares from RSU vesting - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWRSLVBTRnBNaXExTHU1U0RxNjhXZzV4Q1dHVDVrcWU1NURQeWk1V2YwbDVBQVlia01QZnJCOUFrN0hSek92QndEUjk2WjhSVkVXaFQxMTl4VXd6Q01mM2NYQXp2WTFwWHd4dG5YVFd1N2hTNFZEZGdYeHl4RjZUcGRlazRSWDQ5WGR1UGhkYjM3UW9iZ28yd3V4R1o2eEJGdGpTLUN2c0xHMDJkaFk5VThPRmJXRklnWHpj?oc=5",
-     "pubDate": "Wed, 15 Jul 2026 10:44:26 GMT",
-     "source": "Stock Titan"
-    },
-    {
-     "title": "CACI International (NYSE: CACI) director adds 85 shares through RSU vesting - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHVxeFMxdFVIY2d2SkctaC01TmFJV3ZUOUhlOW9RMm0zV2c5WHgzSmdzYmhCcnBEVTFFNUd5MUtQNjZ4YVhyQnZBUVM2TkZRcU56dTRlaHNOUDU1NjdsTkxBbGg1RVU4d05STDI0MzhSQWM5WnBySFhNeEt2cG1SbEVtQ2hJT05ESDJVd09iMVhXaUpkbW1TejRXR1YwUTNNb2lVX3hIR2ttRUR6ZzhENC0tLVBVUVZETWNz?oc=5",
-     "pubDate": "Wed, 15 Jul 2026 10:44:02 GMT",
-     "source": "Stock Titan"
-    },
-    {
-     "title": "Lisa Disbrow exercises 123 RSUs at CACI International (CACI) - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamFWYWdFMlBCVjZoMURlSGZtZ0VsVUVDdXF4My1CcFpHamRCeElTUThhZlBvOUhiRnBma0hGT3Y5cy05VktYNHBkOWdnUy1keURLZklMQ0JtOGZBcUkybTBXS1hVLS0tdnR5Y2VDdS1ueTNMaU01d3hNVTRQcUVLTndhUnNqOFBEVjktZjBqT3QtS3l3a2daOUk3WktGZjhvbGx5SVBVV3ZLai1wdmdweWNYaDNCSko3SE1F?oc=5",
-     "pubDate": "Wed, 15 Jul 2026 10:44:13 GMT",
-     "source": "Stock Titan"
-    },
-    {
-     "title": "CACI gets $140.5M Army contract increase for forensic analysis work - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcElyWmZfM0x2ZXhMNjZBLUlrdk1ISWJpY1pkaTdhRUE4d3BJU3gySDBwMWxVYl9ab2pzUVhrTHdTZlFqYTBMb0hMaHc1UmR2WlBHOWpYeTcydmZRRHFMeVpySndGTktDOFFWMWgzT0NVemtaNE5IT2hjSERLTUd0XzNLYmFfekVMV0pPYWpvSVY4Zk1oc1VTQU1XSFBkREQwUzNhOEhuakFtM1lvRC1kTVVTY1JFM3JEOFhyM2N3?oc=5",
-     "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-     "source": "Stock Titan"
-    }
-   ]
-  },
-  {
-   "spark": [
     5.41,
     5.26,
     5.34,
@@ -1386,8 +1305,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.94,
-    "changePct": 0.0
+    "price": 4.91,
+    "changePct": -0.61
    },
    "relVol": 0.8,
    "avgVolume": 36424054,
@@ -1439,6 +1358,88 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    446.37,
+    446.07,
+    445.26,
+    443.3,
+    440.96,
+    457.48,
+    465.2,
+    464.55,
+    462.27,
+    467.52,
+    484.12,
+    483.39,
+    476.62,
+    475.05,
+    480.71,
+    494.69,
+    492.83,
+    495.64,
+    491.68,
+    486.94,
+    497.09,
+    493.86,
+    495.42,
+    497.69,
+    496.84,
+    495.89
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 495.89,
+    "changePct": 0.0
+   },
+   "relVol": 1.0,
+   "avgVolume": 243508,
+   "symbol": "CACI",
+   "name": "CACI Intl",
+   "vertical": "Gov Services & IT",
+   "description": "Intelligence services, signals/EW technology, and federal network modernization.",
+   "price": 495.89,
+   "prevClose": 480.61,
+   "changePct": 3.18,
+   "volume": 237196,
+   "dayHigh": 500.05,
+   "dayLow": 486.689,
+   "fiftyTwoWeekHigh": 683.5,
+   "fiftyTwoWeekLow": 434.7,
+   "marketTime": 1785182400,
+   "news": [
+    {
+     "title": "Should I Buy CACI Intl (CACI) Stock Today | Price at $573.82, Down 0.31% - RSI Oversold Picks - dars.gov.et",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNW1PVzl5WFNhNkxQQzEtQkpqM3FJSVVreWhBMDl6c2hRWkY0MlFuRHJ3NV9FcHFHZ24tN1ZYVmZXWUZoeXJvT3BiY2tyQy1XcElROEZCSFlaVDE0N1RyeTl2QjVCYnVYSVdnVUJGV2dqVm1lbmlmUzdUcFFxYnRQNEc4cU5UTFVJRWp3bWgwV19RX2RLVWRoQW1aNl9BaUFzeUFxOFRHSHgwb0U0RjVYWHBWUDI1Zw?oc=5",
+     "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT",
+     "source": "dars.gov.et"
+    },
+    {
+     "title": "CACI International (NASDAQ: CACI) director adds 85 shares from RSU vesting - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWRSLVBTRnBNaXExTHU1U0RxNjhXZzV4Q1dHVDVrcWU1NURQeWk1V2YwbDVBQVlia01QZnJCOUFrN0hSek92QndEUjk2WjhSVkVXaFQxMTl4VXd6Q01mM2NYQXp2WTFwWHd4dG5YVFd1N2hTNFZEZGdYeHl4RjZUcGRlazRSWDQ5WGR1UGhkYjM3UW9iZ28yd3V4R1o2eEJGdGpTLUN2c0xHMDJkaFk5VThPRmJXRklnWHpj?oc=5",
+     "pubDate": "Wed, 15 Jul 2026 10:44:26 GMT",
+     "source": "Stock Titan"
+    },
+    {
+     "title": "CACI International (NYSE: CACI) director adds 85 shares through RSU vesting - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHVxeFMxdFVIY2d2SkctaC01TmFJV3ZUOUhlOW9RMm0zV2c5WHgzSmdzYmhCcnBEVTFFNUd5MUtQNjZ4YVhyQnZBUVM2TkZRcU56dTRlaHNOUDU1NjdsTkxBbGg1RVU4d05STDI0MzhSQWM5WnBySFhNeEt2cG1SbEVtQ2hJT05ESDJVd09iMVhXaUpkbW1TejRXR1YwUTNNb2lVX3hIR2ttRUR6ZzhENC0tLVBVUVZETWNz?oc=5",
+     "pubDate": "Wed, 15 Jul 2026 10:44:02 GMT",
+     "source": "Stock Titan"
+    },
+    {
+     "title": "Lisa Disbrow exercises 123 RSUs at CACI International (CACI) - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamFWYWdFMlBCVjZoMURlSGZtZ0VsVUVDdXF4My1CcFpHamRCeElTUThhZlBvOUhiRnBma0hGT3Y5cy05VktYNHBkOWdnUy1keURLZklMQ0JtOGZBcUkybTBXS1hVLS0tdnR5Y2VDdS1ueTNMaU01d3hNVTRQcUVLTndhUnNqOFBEVjktZjBqT3QtS3l3a2daOUk3WktGZjhvbGx5SVBVV3ZLai1wdmdweWNYaDNCSko3SE1F?oc=5",
+     "pubDate": "Wed, 15 Jul 2026 10:44:13 GMT",
+     "source": "Stock Titan"
+    },
+    {
+     "title": "CACI gets $140.5M Army contract increase for forensic analysis work - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcElyWmZfM0x2ZXhMNjZBLUlrdk1ISWJpY1pkaTdhRUE4d3BJU3gySDBwMWxVYl9ab2pzUVhrTHdTZlFqYTBMb0hMaHc1UmR2WlBHOWpYeTcydmZRRHFMeVpySndGTktDOFFWMWgzT0NVemtaNE5IT2hjSERLTUd0XzNLYmFfekVMV0pPYWpvSVY4Zk1oc1VTQU1XSFBkREQwUzNhOEhuakFtM1lvRC1kTVVTY1JFM3JEOFhyM2N3?oc=5",
+     "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+     "source": "Stock Titan"
+    }
+   ]
+  },
+  {
+   "spark": [
     90.93,
     90.94,
     90.66,
@@ -1467,8 +1468,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 96.13,
-    "changePct": 0.06
+    "price": 97.0,
+    "changePct": 0.97
    },
    "relVol": 2.2,
    "avgVolume": 895452,
@@ -1549,8 +1550,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.81,
-    "changePct": 0.26
+    "price": 7.79,
+    "changePct": 0.0
    },
    "relVol": 0.7,
    "avgVolume": 7809068,
@@ -1631,8 +1632,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 13.3,
-    "changePct": -0.08
+    "price": 13.35,
+    "changePct": 0.3
    },
    "relVol": 1.1,
    "avgVolume": 6094937,
@@ -1713,8 +1714,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 152.0,
-    "changePct": -1.45
+    "price": 152.5,
+    "changePct": -1.13
    },
    "relVol": 0.7,
    "avgVolume": 1360994,
@@ -1788,8 +1789,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 547.41,
-    "changePct": 0.03
+    "price": 547.58,
+    "changePct": 0.06
    },
    "relVol": 0.5,
    "avgVolume": 1138382,
@@ -1864,8 +1865,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 103.8,
-    "changePct": 0.0
+    "price": 105.87,
+    "changePct": 1.99
    },
    "relVol": 0.9,
    "avgVolume": 469872,
@@ -1935,12 +1936,12 @@ window.DASHBOARD_DATA = {
     7.28,
     7.25,
     7.36,
-    7.38
+    7.37
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.39,
-    "changePct": 0.14
+    "price": 7.37,
+    "changePct": 0.0
    },
    "relVol": 1.0,
    "avgVolume": 53224037,
@@ -2014,8 +2015,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 578.85,
-    "changePct": -0.19
+    "price": 580.0,
+    "changePct": 0.01
    },
    "relVol": 0.6,
    "avgVolume": 1602280,
@@ -2089,8 +2090,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 389.14,
-    "changePct": 0.02
+    "price": 392.36,
+    "changePct": 0.84
    },
    "relVol": 1.0,
    "avgVolume": 876293,
@@ -2311,12 +2312,12 @@ window.DASHBOARD_DATA = {
     59.35,
     59.2,
     59.43,
-    59.49
+    59.47
    ],
    "ext": {
     "label": "after-hours",
     "price": 59.47,
-    "changePct": -0.04
+    "changePct": 0.0
    },
    "relVol": 0.8,
    "avgVolume": 776776,
@@ -2324,9 +2325,9 @@ window.DASHBOARD_DATA = {
    "name": "Parsons",
    "vertical": "Gov Services & IT",
    "description": "Cyber/EW, missile defense engineering, space ground systems, and critical infrastructure for federal customers.",
-   "price": 59.49,
+   "price": 59.47,
    "prevClose": 58.46,
-   "changePct": 1.77,
+   "changePct": 1.73,
    "volume": 639185,
    "dayHigh": 60.24,
    "dayLow": 58.8,
@@ -2391,8 +2392,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 116.7,
-    "changePct": -1.5
+    "price": 118.48,
+    "changePct": 0.0
    },
    "relVol": 0.9,
    "avgVolume": 391309,
@@ -2462,12 +2463,12 @@ window.DASHBOARD_DATA = {
     37.08,
     36.96,
     36.85,
-    36.81
+    36.82
    ],
    "ext": {
     "label": "after-hours",
     "price": 36.82,
-    "changePct": 0.03
+    "changePct": 0.0
    },
    "relVol": 0.9,
    "avgVolume": 1193099,
@@ -2475,9 +2476,9 @@ window.DASHBOARD_DATA = {
    "name": "KBR",
    "vertical": "Gov Services & IT",
    "description": "Government engineering and logistics plus sustainable technology solutions; major military base and space support.",
-   "price": 36.81,
+   "price": 36.82,
    "prevClose": 36.35,
-   "changePct": 1.27,
+   "changePct": 1.29,
    "volume": 1057520,
    "dayHigh": 37.35,
    "dayLow": 36.775,
@@ -2541,8 +2542,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 301.9,
-    "changePct": -0.5
+    "price": 303.48,
+    "changePct": 0.02
    },
    "relVol": 0.8,
    "avgVolume": 1215911,
@@ -2617,8 +2618,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.03,
-    "changePct": 0.12
+    "price": 8.02,
+    "changePct": 0.0
    },
    "relVol": 0.4,
    "avgVolume": 156283527,
@@ -2768,8 +2769,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 211.59,
-    "changePct": 0.08
+    "price": 211.58,
+    "changePct": 0.07
    },
    "relVol": 1.1,
    "avgVolume": 5266219,
@@ -3145,8 +3146,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 288.54,
-    "changePct": 0.27
+    "price": 287.94,
+    "changePct": 0.06
    },
    "relVol": 1.1,
    "avgVolume": 1245934,
@@ -3220,8 +3221,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 176.53,
-    "changePct": 0.02
+    "price": 180.0,
+    "changePct": 1.98
    },
    "relVol": 1.0,
    "avgVolume": 651673,
@@ -3296,8 +3297,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 49.6,
-    "changePct": 0.3
+    "price": 49.45,
+    "changePct": 0.0
    },
    "relVol": 1.0,
    "avgVolume": 2805180,
@@ -3369,12 +3370,12 @@ window.DASHBOARD_DATA = {
     72.11,
     73.15,
     72.27,
-    71.62
+    71.64
    ],
    "ext": {
     "label": "after-hours",
     "price": 71.64,
-    "changePct": 0.03
+    "changePct": 0.0
    },
    "relVol": 1.0,
    "avgVolume": 2518176,
@@ -3382,9 +3383,9 @@ window.DASHBOARD_DATA = {
    "name": "Booz Allen",
    "vertical": "Gov Services & IT",
    "description": "Consulting and AI/cyber services deeply embedded in defense and intelligence agencies.",
-   "price": 71.62,
+   "price": 71.64,
    "prevClose": 65.87,
-   "changePct": 8.73,
+   "changePct": 8.76,
    "volume": 2529112,
    "dayHigh": 73.56,
    "dayLow": 71.18,
@@ -3455,8 +3456,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 529.95,
-    "changePct": 0.85
+    "price": 532.95,
+    "changePct": 1.42
    },
    "relVol": 1.5,
    "avgVolume": 504283,
@@ -3537,8 +3538,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 131.53,
-    "changePct": 0.0
+    "price": 131.48,
+    "changePct": -0.04
    },
    "relVol": 1.5,
    "avgVolume": 23526613,
@@ -3700,7 +3701,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 2.63,
-    "changePct": 0.38
+    "changePct": 0.19
    },
    "relVol": 0.5,
    "avgVolume": 1229560,
@@ -3710,13 +3711,13 @@ window.DASHBOARD_DATA = {
    "description": "Thermal management and battery-safety tech for space, defense, and energy storage; also holds bitcoin treasury.",
    "price": 2.62,
    "prevClose": 2.77,
-   "changePct": -5.42,
-   "volume": 626147,
+   "changePct": -5.23,
+   "volume": 607246,
    "dayHigh": 2.65,
    "dayLow": 2.525,
    "fiftyTwoWeekHigh": 6.45,
    "fiftyTwoWeekLow": 1.94,
-   "marketTime": 1785182392,
+   "marketTime": 1785182398,
    "news": [
     {
      "title": "KULR Technology(KULR) Stock Options Chain | Quotes & News - Moomoo",
@@ -3780,8 +3781,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.84,
-    "changePct": 0.34
+    "price": 8.83,
+    "changePct": 0.23
    },
    "relVol": 0.8,
    "avgVolume": 13385819,
@@ -3861,8 +3862,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 357.15,
-    "changePct": 0.02
+    "price": 352.0,
+    "changePct": -1.43
    },
    "relVol": 1.0,
    "avgVolume": 341838,
@@ -3914,87 +3915,6 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
-    19.2,
-    19.27,
-    19.47,
-    19.3,
-    19.56,
-    20.67,
-    20.69,
-    20.25,
-    19.74,
-    19.68,
-    20.45,
-    21.41,
-    21.24,
-    21.4,
-    21.58,
-    20.09,
-    20.37,
-    19.98,
-    19.43,
-    19.34,
-    19.93,
-    19.62,
-    19.42,
-    20.31,
-    20.56
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 20.54,
-    "changePct": -0.1
-   },
-   "relVol": 0.9,
-   "avgVolume": 3373174,
-   "symbol": "UMAC",
-   "name": "Unusual Machines",
-   "vertical": "Drones & Counter-UAS",
-   "description": "NDAA-compliant drone components and FPV drones; positioned in the US drone supply-chain onshoring push.",
-   "price": 20.56,
-   "prevClose": 21.52,
-   "changePct": -4.46,
-   "volume": 3105537,
-   "dayHigh": 20.8,
-   "dayLow": 19.09,
-   "fiftyTwoWeekHigh": 34.36,
-   "fiftyTwoWeekLow": 7.245,
-   "marketTime": 1785182398,
-   "news": [
-    {
-     "title": "Can Unusual Machines\u2019 (UMAC) Edge AI Drone Pivot Rebalance Its Government-Focused Investment Story? - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYUtuR0kyOGRRNUxJTDI4MUdGS3hKTW5XSHRWdTAxak9XXzBPREVLaG5ydkFDQ1RlWEZBcnBjLUd2QUh2QkM5ZGd2enFqMjhhNnF4b0NMbUwwYUh0ZHJNaU8yWXFLdlFTMHBKRDRkamxKdF9uWXNfY0JCZzdKa2R3RlJQaVAtbWtPTmtaQmRxR3BYTnpOZUVSc3JReVpDTXFHOUxuRXQ5emQxeWhNUjFzQnp0Sml6Z29UY3VWZDFndnlFRzFDSGc2RkRTa9IB0AFBVV95cUxNMlRSMGNZOUFKQjJpX2lzZkVULVpQWW12dGc2YzZHMnVNSFRkMWsyU0c5RWFzSHhXQk9vQWRxN0hMRHppMVo5NG56WlIwNi15RTdoNjlndW82VXdaVlUxU2k1ZFM2WDN5cHNrRU56Q2hLdkNua0luTk1iUjFFbmc1ZGVBWGdjTnFyTFhDQkZGd1Rwd0dRa1RnZGhnR3dDOVVDRkh2X1J0Zkd4b00xdjNwYVdrRTZNZ3F3NlRqMU5PZE85akZhSGtuOUNKeTlKSFFl?oc=5",
-     "pubDate": "Mon, 27 Jul 2026 19:07:30 GMT",
-     "source": "simplywall.st"
-    },
-    {
-     "title": "Unusual Machines (UMAC) Could Be 1,262% Overvalued After Its Recent Rally - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY2lmZHRhN3kyMERReGhIbGRBNlcxenQyOVpqNllJNEdWRVhwbWYtTjVmYXZMNGVabGN5T21hWGVhOGs5NkQ5UVE2bllEMG1tRmoyMzZzVThNdmU2LXlkakdiU1R3WlB3YlN4RVRSYlJYbDI5ak05czBBY3duVlRRU0RYWnA0VnJZLUlNUXpKVjAwSlV5cDNwQmlB?oc=5",
-     "pubDate": "Fri, 24 Jul 2026 05:13:19 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Why Unusual Machines Stock Jumped Today - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUdkdHhLd0NVbjNkc1ZjMjFUVzhqODNUMzZmMGlUbTFNLXU0WThYRzByODBBM1AyS2d2bHB6UGtRSjZVLWkzWWZiWEltOFh3bDM1YS1uN3pIam92eFppTmEwbHZXamFWVUR4ZDdyc0ZRVVdxTFI5bWQxS3ZOZHZSazk3UDQtYWRM?oc=5",
-     "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
-     "source": "The Motley Fool"
-    },
-    {
-     "title": "UMAC|Unusual Machines Inc|Price:20.150|Chg%:+0.790 - TradingKey",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WUnJXYlpHVENTNXlWekR5cXpOZVFIS3FHZW55WDVmbVlsc1V5RlpSQTh1MTJtaGRkY2V5cVBfMTNQOXUwTzhsanNHdThnN2phVGRDQlNBQ2lDbjh5RHZQYVNvWFQ5RUZoY1o2VHJR?oc=5",
-     "pubDate": "Mon, 27 Jul 2026 05:42:51 GMT",
-     "source": "TradingKey"
-    },
-    {
-     "title": "Unusual Machines Stock Could Soar 125%, Analyst Says. - Investor's Business Daily",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcVRNSzVMdl9NTDVKZF9BYmxsYi02eDd0ajhwWTNhUDRRN1hHRDlVNU8yN1d0Q2ZjVnUtWmNGSGlOdmFNY2hVNE5uRGk5V09wVUJLODJKX0dPLXdPbTRHdFM0eGVsUmpzOEJodFlrNl9ZclVvaV93TVdsZ05SM2RMYlpNSlNES2NSVmFRNy15ZVg4WHhFU1BrSGgwVE9SYTRlMXpNekFCcmE5ZUhkaExWcFZWOHk3bkhWQno5REhVUnQ4Q0JSc21aV0IyYVNvQ0FMZ3BKcGNWRWVXd0RYWmdN?oc=5",
-     "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-     "source": "Investor's Business Daily"
-    }
-   ]
-  },
-  {
-   "spark": [
     195.71,
     196.54,
     195.84,
@@ -4023,8 +3943,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 218.1,
-    "changePct": -0.14
+    "price": 218.85,
+    "changePct": 0.21
    },
    "relVol": 1.3,
    "avgVolume": 4899142,
@@ -4105,8 +4025,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 67.2,
-    "changePct": 0.39
+    "price": 66.94,
+    "changePct": 0.0
    },
    "relVol": 0.9,
    "avgVolume": 16366301,
@@ -4158,6 +4078,88 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    19.2,
+    19.27,
+    19.47,
+    19.3,
+    19.56,
+    20.67,
+    20.69,
+    20.25,
+    19.74,
+    19.68,
+    20.45,
+    21.41,
+    21.24,
+    21.4,
+    21.58,
+    20.09,
+    20.37,
+    19.98,
+    19.43,
+    19.34,
+    19.93,
+    19.62,
+    19.42,
+    20.31,
+    20.56,
+    20.6
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 20.53,
+    "changePct": -0.34
+   },
+   "relVol": 0.9,
+   "avgVolume": 3373174,
+   "symbol": "UMAC",
+   "name": "Unusual Machines",
+   "vertical": "Drones & Counter-UAS",
+   "description": "NDAA-compliant drone components and FPV drones; positioned in the US drone supply-chain onshoring push.",
+   "price": 20.6,
+   "prevClose": 21.52,
+   "changePct": -4.28,
+   "volume": 3105537,
+   "dayHigh": 20.8,
+   "dayLow": 19.09,
+   "fiftyTwoWeekHigh": 34.36,
+   "fiftyTwoWeekLow": 7.245,
+   "marketTime": 1785182400,
+   "news": [
+    {
+     "title": "Can Unusual Machines\u2019 (UMAC) Edge AI Drone Pivot Rebalance Its Government-Focused Investment Story? - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYUtuR0kyOGRRNUxJTDI4MUdGS3hKTW5XSHRWdTAxak9XXzBPREVLaG5ydkFDQ1RlWEZBcnBjLUd2QUh2QkM5ZGd2enFqMjhhNnF4b0NMbUwwYUh0ZHJNaU8yWXFLdlFTMHBKRDRkamxKdF9uWXNfY0JCZzdKa2R3RlJQaVAtbWtPTmtaQmRxR3BYTnpOZUVSc3JReVpDTXFHOUxuRXQ5emQxeWhNUjFzQnp0Sml6Z29UY3VWZDFndnlFRzFDSGc2RkRTa9IB0AFBVV95cUxNMlRSMGNZOUFKQjJpX2lzZkVULVpQWW12dGc2YzZHMnVNSFRkMWsyU0c5RWFzSHhXQk9vQWRxN0hMRHppMVo5NG56WlIwNi15RTdoNjlndW82VXdaVlUxU2k1ZFM2WDN5cHNrRU56Q2hLdkNua0luTk1iUjFFbmc1ZGVBWGdjTnFyTFhDQkZGd1Rwd0dRa1RnZGhnR3dDOVVDRkh2X1J0Zkd4b00xdjNwYVdrRTZNZ3F3NlRqMU5PZE85akZhSGtuOUNKeTlKSFFl?oc=5",
+     "pubDate": "Mon, 27 Jul 2026 19:07:30 GMT",
+     "source": "simplywall.st"
+    },
+    {
+     "title": "Unusual Machines (UMAC) Could Be 1,262% Overvalued After Its Recent Rally - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY2lmZHRhN3kyMERReGhIbGRBNlcxenQyOVpqNllJNEdWRVhwbWYtTjVmYXZMNGVabGN5T21hWGVhOGs5NkQ5UVE2bllEMG1tRmoyMzZzVThNdmU2LXlkakdiU1R3WlB3YlN4RVRSYlJYbDI5ak05czBBY3duVlRRU0RYWnA0VnJZLUlNUXpKVjAwSlV5cDNwQmlB?oc=5",
+     "pubDate": "Fri, 24 Jul 2026 05:13:19 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Why Unusual Machines Stock Jumped Today - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUdkdHhLd0NVbjNkc1ZjMjFUVzhqODNUMzZmMGlUbTFNLXU0WThYRzByODBBM1AyS2d2bHB6UGtRSjZVLWkzWWZiWEltOFh3bDM1YS1uN3pIam92eFppTmEwbHZXamFWVUR4ZDdyc0ZRVVdxTFI5bWQxS3ZOZHZSazk3UDQtYWRM?oc=5",
+     "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+     "source": "The Motley Fool"
+    },
+    {
+     "title": "UMAC|Unusual Machines Inc|Price:20.150|Chg%:+0.790 - TradingKey",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WUnJXYlpHVENTNXlWekR5cXpOZVFIS3FHZW55WDVmbVlsc1V5RlpSQTh1MTJtaGRkY2V5cVBfMTNQOXUwTzhsanNHdThnN2phVGRDQlNBQ2lDbjh5RHZQYVNvWFQ5RUZoY1o2VHJR?oc=5",
+     "pubDate": "Mon, 27 Jul 2026 05:42:51 GMT",
+     "source": "TradingKey"
+    },
+    {
+     "title": "Unusual Machines Stock Could Soar 125%, Analyst Says. - Investor's Business Daily",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcVRNSzVMdl9NTDVKZF9BYmxsYi02eDd0ajhwWTNhUDRRN1hHRDlVNU8yN1d0Q2ZjVnUtWmNGSGlOdmFNY2hVNE5uRGk5V09wVUJLODJKX0dPLXdPbTRHdFM0eGVsUmpzOEJodFlrNl9ZclVvaV93TVdsZ05SM2RMYlpNSlNES2NSVmFRNy15ZVg4WHhFU1BrSGgwVE9SYTRlMXpNekFCcmE5ZUhkaExWcFZWOHk3bkhWQno5REhVUnQ4Q0JSc21aV0IyYVNvQ0FMZ3BKcGNWRWVXd0RYWmdN?oc=5",
+     "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+     "source": "Investor's Business Daily"
+    }
+   ]
+  },
+  {
+   "spark": [
     105.29,
     104.97,
     104.96,
@@ -4182,12 +4184,12 @@ window.DASHBOARD_DATA = {
     114.55,
     115.31,
     114.97,
-    115.03
+    114.95
    ],
    "ext": {
     "label": "after-hours",
     "price": 114.95,
-    "changePct": -0.07
+    "changePct": 0.0
    },
    "relVol": 1.1,
    "avgVolume": 917494,
@@ -4195,9 +4197,9 @@ window.DASHBOARD_DATA = {
    "name": "Leidos",
    "vertical": "Gov Services & IT",
    "description": "Largest federal IT/services contractor \u2014 defense digital modernization, hypersonics support, health and intel missions.",
-   "price": 115.03,
+   "price": 114.95,
    "prevClose": 110.33,
-   "changePct": 4.26,
+   "changePct": 4.19,
    "volume": 1013853,
    "dayHigh": 115.555,
    "dayLow": 112.06,
@@ -4263,12 +4265,12 @@ window.DASHBOARD_DATA = {
     84.34,
     84.98,
     86.31,
-    87.42
+    87.31
    ],
    "ext": {
     "label": "after-hours",
     "price": 87.31,
-    "changePct": -0.13
+    "changePct": 0.0
    },
    "relVol": 0.9,
    "avgVolume": 767971,
@@ -4276,9 +4278,9 @@ window.DASHBOARD_DATA = {
    "name": "V2X",
    "vertical": "Gov Services & IT",
    "description": "Global military base operations, logistics, and aircraft maintenance across combatant commands.",
-   "price": 87.42,
+   "price": 87.31,
    "prevClose": 83.98,
-   "changePct": 4.1,
+   "changePct": 3.97,
    "volume": 700668,
    "dayHigh": 87.71,
    "dayLow": 82.84,
@@ -4348,8 +4350,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 363.5,
-    "changePct": 0.52
+    "price": 361.61,
+    "changePct": 0.0
    },
    "relVol": 1.1,
    "avgVolume": 2661840,
@@ -4401,88 +4403,6 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
-    446.37,
-    446.07,
-    445.26,
-    443.3,
-    440.96,
-    457.48,
-    465.2,
-    464.55,
-    462.27,
-    467.52,
-    484.12,
-    483.39,
-    476.62,
-    475.05,
-    480.71,
-    494.69,
-    492.83,
-    495.64,
-    491.68,
-    486.94,
-    497.09,
-    493.86,
-    495.42,
-    497.69,
-    496.84,
-    496.86
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 495.89,
-    "changePct": -0.2
-   },
-   "relVol": 1.0,
-   "avgVolume": 243508,
-   "symbol": "CACI",
-   "name": "CACI Intl",
-   "vertical": "Gov Services & IT",
-   "description": "Intelligence services, signals/EW technology, and federal network modernization.",
-   "price": 496.86,
-   "prevClose": 480.61,
-   "changePct": 3.38,
-   "volume": 237196,
-   "dayHigh": 500.05,
-   "dayLow": 486.689,
-   "fiftyTwoWeekHigh": 683.5,
-   "fiftyTwoWeekLow": 434.7,
-   "marketTime": 1785182400,
-   "news": [
-    {
-     "title": "Should I Buy CACI Intl (CACI) Stock Today | Price at $573.82, Down 0.31% - RSI Oversold Picks - dars.gov.et",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNW1PVzl5WFNhNkxQQzEtQkpqM3FJSVVreWhBMDl6c2hRWkY0MlFuRHJ3NV9FcHFHZ24tN1ZYVmZXWUZoeXJvT3BiY2tyQy1XcElROEZCSFlaVDE0N1RyeTl2QjVCYnVYSVdnVUJGV2dqVm1lbmlmUzdUcFFxYnRQNEc4cU5UTFVJRWp3bWgwV19RX2RLVWRoQW1aNl9BaUFzeUFxOFRHSHgwb0U0RjVYWHBWUDI1Zw?oc=5",
-     "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT",
-     "source": "dars.gov.et"
-    },
-    {
-     "title": "CACI International (NASDAQ: CACI) director adds 85 shares from RSU vesting - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWRSLVBTRnBNaXExTHU1U0RxNjhXZzV4Q1dHVDVrcWU1NURQeWk1V2YwbDVBQVlia01QZnJCOUFrN0hSek92QndEUjk2WjhSVkVXaFQxMTl4VXd6Q01mM2NYQXp2WTFwWHd4dG5YVFd1N2hTNFZEZGdYeHl4RjZUcGRlazRSWDQ5WGR1UGhkYjM3UW9iZ28yd3V4R1o2eEJGdGpTLUN2c0xHMDJkaFk5VThPRmJXRklnWHpj?oc=5",
-     "pubDate": "Wed, 15 Jul 2026 10:44:26 GMT",
-     "source": "Stock Titan"
-    },
-    {
-     "title": "CACI International (NYSE: CACI) director adds 85 shares through RSU vesting - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHVxeFMxdFVIY2d2SkctaC01TmFJV3ZUOUhlOW9RMm0zV2c5WHgzSmdzYmhCcnBEVTFFNUd5MUtQNjZ4YVhyQnZBUVM2TkZRcU56dTRlaHNOUDU1NjdsTkxBbGg1RVU4d05STDI0MzhSQWM5WnBySFhNeEt2cG1SbEVtQ2hJT05ESDJVd09iMVhXaUpkbW1TejRXR1YwUTNNb2lVX3hIR2ttRUR6ZzhENC0tLVBVUVZETWNz?oc=5",
-     "pubDate": "Wed, 15 Jul 2026 10:44:02 GMT",
-     "source": "Stock Titan"
-    },
-    {
-     "title": "Lisa Disbrow exercises 123 RSUs at CACI International (CACI) - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamFWYWdFMlBCVjZoMURlSGZtZ0VsVUVDdXF4My1CcFpHamRCeElTUThhZlBvOUhiRnBma0hGT3Y5cy05VktYNHBkOWdnUy1keURLZklMQ0JtOGZBcUkybTBXS1hVLS0tdnR5Y2VDdS1ueTNMaU01d3hNVTRQcUVLTndhUnNqOFBEVjktZjBqT3QtS3l3a2daOUk3WktGZjhvbGx5SVBVV3ZLai1wdmdweWNYaDNCSko3SE1F?oc=5",
-     "pubDate": "Wed, 15 Jul 2026 10:44:13 GMT",
-     "source": "Stock Titan"
-    },
-    {
-     "title": "CACI gets $140.5M Army contract increase for forensic analysis work - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcElyWmZfM0x2ZXhMNjZBLUlrdk1ISWJpY1pkaTdhRUE4d3BJU3gySDBwMWxVYl9ab2pzUVhrTHdTZlFqYTBMb0hMaHc1UmR2WlBHOWpYeTcydmZRRHFMeVpySndGTktDOFFWMWgzT0NVemtaNE5IT2hjSERLTUd0XzNLYmFfekVMV0pPYWpvSVY4Zk1oc1VTQU1XSFBkREQwUzNhOEhuakFtM1lvRC1kTVVTY1JFM3JEOFhyM2N3?oc=5",
-     "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-     "source": "Stock Titan"
-    }
-   ]
-  },
-  {
-   "spark": [
     5.41,
     5.26,
     5.34,
@@ -4511,8 +4431,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.94,
-    "changePct": 0.0
+    "price": 4.91,
+    "changePct": -0.61
    },
    "relVol": 0.8,
    "avgVolume": 36424054,
@@ -4564,6 +4484,88 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    446.37,
+    446.07,
+    445.26,
+    443.3,
+    440.96,
+    457.48,
+    465.2,
+    464.55,
+    462.27,
+    467.52,
+    484.12,
+    483.39,
+    476.62,
+    475.05,
+    480.71,
+    494.69,
+    492.83,
+    495.64,
+    491.68,
+    486.94,
+    497.09,
+    493.86,
+    495.42,
+    497.69,
+    496.84,
+    495.89
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 495.89,
+    "changePct": 0.0
+   },
+   "relVol": 1.0,
+   "avgVolume": 243508,
+   "symbol": "CACI",
+   "name": "CACI Intl",
+   "vertical": "Gov Services & IT",
+   "description": "Intelligence services, signals/EW technology, and federal network modernization.",
+   "price": 495.89,
+   "prevClose": 480.61,
+   "changePct": 3.18,
+   "volume": 237196,
+   "dayHigh": 500.05,
+   "dayLow": 486.689,
+   "fiftyTwoWeekHigh": 683.5,
+   "fiftyTwoWeekLow": 434.7,
+   "marketTime": 1785182400,
+   "news": [
+    {
+     "title": "Should I Buy CACI Intl (CACI) Stock Today | Price at $573.82, Down 0.31% - RSI Oversold Picks - dars.gov.et",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNW1PVzl5WFNhNkxQQzEtQkpqM3FJSVVreWhBMDl6c2hRWkY0MlFuRHJ3NV9FcHFHZ24tN1ZYVmZXWUZoeXJvT3BiY2tyQy1XcElROEZCSFlaVDE0N1RyeTl2QjVCYnVYSVdnVUJGV2dqVm1lbmlmUzdUcFFxYnRQNEc4cU5UTFVJRWp3bWgwV19RX2RLVWRoQW1aNl9BaUFzeUFxOFRHSHgwb0U0RjVYWHBWUDI1Zw?oc=5",
+     "pubDate": "Mon, 06 Apr 2026 07:00:00 GMT",
+     "source": "dars.gov.et"
+    },
+    {
+     "title": "CACI International (NASDAQ: CACI) director adds 85 shares from RSU vesting - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeWRSLVBTRnBNaXExTHU1U0RxNjhXZzV4Q1dHVDVrcWU1NURQeWk1V2YwbDVBQVlia01QZnJCOUFrN0hSek92QndEUjk2WjhSVkVXaFQxMTl4VXd6Q01mM2NYQXp2WTFwWHd4dG5YVFd1N2hTNFZEZGdYeHl4RjZUcGRlazRSWDQ5WGR1UGhkYjM3UW9iZ28yd3V4R1o2eEJGdGpTLUN2c0xHMDJkaFk5VThPRmJXRklnWHpj?oc=5",
+     "pubDate": "Wed, 15 Jul 2026 10:44:26 GMT",
+     "source": "Stock Titan"
+    },
+    {
+     "title": "CACI International (NYSE: CACI) director adds 85 shares through RSU vesting - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHVxeFMxdFVIY2d2SkctaC01TmFJV3ZUOUhlOW9RMm0zV2c5WHgzSmdzYmhCcnBEVTFFNUd5MUtQNjZ4YVhyQnZBUVM2TkZRcU56dTRlaHNOUDU1NjdsTkxBbGg1RVU4d05STDI0MzhSQWM5WnBySFhNeEt2cG1SbEVtQ2hJT05ESDJVd09iMVhXaUpkbW1TejRXR1YwUTNNb2lVX3hIR2ttRUR6ZzhENC0tLVBVUVZETWNz?oc=5",
+     "pubDate": "Wed, 15 Jul 2026 10:44:02 GMT",
+     "source": "Stock Titan"
+    },
+    {
+     "title": "Lisa Disbrow exercises 123 RSUs at CACI International (CACI) - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamFWYWdFMlBCVjZoMURlSGZtZ0VsVUVDdXF4My1CcFpHamRCeElTUThhZlBvOUhiRnBma0hGT3Y5cy05VktYNHBkOWdnUy1keURLZklMQ0JtOGZBcUkybTBXS1hVLS0tdnR5Y2VDdS1ueTNMaU01d3hNVTRQcUVLTndhUnNqOFBEVjktZjBqT3QtS3l3a2daOUk3WktGZjhvbGx5SVBVV3ZLai1wdmdweWNYaDNCSko3SE1F?oc=5",
+     "pubDate": "Wed, 15 Jul 2026 10:44:13 GMT",
+     "source": "Stock Titan"
+    },
+    {
+     "title": "CACI gets $140.5M Army contract increase for forensic analysis work - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcElyWmZfM0x2ZXhMNjZBLUlrdk1ISWJpY1pkaTdhRUE4d3BJU3gySDBwMWxVYl9ab2pzUVhrTHdTZlFqYTBMb0hMaHc1UmR2WlBHOWpYeTcydmZRRHFMeVpySndGTktDOFFWMWgzT0NVemtaNE5IT2hjSERLTUd0XzNLYmFfekVMV0pPYWpvSVY4Zk1oc1VTQU1XSFBkREQwUzNhOEhuakFtM1lvRC1kTVVTY1JFM3JEOFhyM2N3?oc=5",
+     "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+     "source": "Stock Titan"
+    }
+   ]
+  },
+  {
+   "spark": [
     90.93,
     90.94,
     90.66,
@@ -4592,8 +4594,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 96.13,
-    "changePct": 0.06
+    "price": 97.0,
+    "changePct": 0.97
    },
    "relVol": 2.2,
    "avgVolume": 895452,
