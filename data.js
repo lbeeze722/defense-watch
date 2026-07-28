@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-07-28T17:15:54.228253+00:00",
+ "generatedAt": "2026-07-28T17:21:28.763385+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -398,7 +398,7 @@ window.DASHBOARD_DATA = {
     222.26
    ],
    "ext": null,
-   "relVol": 2.7,
+   "relVol": 2.6,
    "avgVolume": 4507206,
    "symbol": "BA",
    "name": "Boeing",
@@ -550,7 +550,7 @@ window.DASHBOARD_DATA = {
     89.92
    ],
    "ext": null,
-   "relVol": 4.6,
+   "relVol": 4.5,
    "avgVolume": 1208353,
    "symbol": "TXT",
    "name": "Textron",
@@ -626,7 +626,7 @@ window.DASHBOARD_DATA = {
     62.15
    ],
    "ext": null,
-   "relVol": 0.7,
+   "relVol": 0.6,
    "avgVolume": 835892,
    "symbol": "PSN",
    "name": "Parsons",
@@ -1006,7 +1006,7 @@ window.DASHBOARD_DATA = {
     360.95
    ],
    "ext": null,
-   "relVol": 1.0,
+   "relVol": 0.9,
    "avgVolume": 346022,
    "symbol": "HEI",
    "name": "HEICO",
@@ -1310,7 +1310,7 @@ window.DASHBOARD_DATA = {
     364.15
    ],
    "ext": null,
-   "relVol": 1.3,
+   "relVol": 1.2,
    "avgVolume": 2624452,
    "symbol": "GE",
    "name": "GE Aerospace",
@@ -1380,7 +1380,7 @@ window.DASHBOARD_DATA = {
     12.57
    ],
    "ext": null,
-   "relVol": 2.2,
+   "relVol": 2.1,
    "avgVolume": 5859764,
    "symbol": "LUNR",
    "name": "Intuitive Machines",
@@ -1450,7 +1450,7 @@ window.DASHBOARD_DATA = {
     122.08
    ],
    "ext": null,
-   "relVol": 0.9,
+   "relVol": 0.8,
    "avgVolume": 375798,
    "symbol": "SAIC",
    "name": "SAIC",
@@ -1590,7 +1590,7 @@ window.DASHBOARD_DATA = {
     553.91
    ],
    "ext": null,
-   "relVol": 1.0,
+   "relVol": 0.9,
    "avgVolume": 726280,
    "symbol": "NOC",
    "name": "Northrop Grumman",
@@ -1800,7 +1800,7 @@ window.DASHBOARD_DATA = {
     171.05
    ],
    "ext": null,
-   "relVol": 1.2,
+   "relVol": 1.1,
    "avgVolume": 609450,
    "symbol": "BWXT",
    "name": "BWX Technologies",
@@ -2360,7 +2360,7 @@ window.DASHBOARD_DATA = {
     8.6
    ],
    "ext": null,
-   "relVol": 1.2,
+   "relVol": 1.1,
    "avgVolume": 11721607,
    "symbol": "RDW",
    "name": "Redwire",
@@ -2430,7 +2430,7 @@ window.DASHBOARD_DATA = {
     124.22
    ],
    "ext": null,
-   "relVol": 1.9,
+   "relVol": 1.8,
    "avgVolume": 26664615,
    "symbol": "PLTR",
    "name": "Palantir",
@@ -2640,7 +2640,7 @@ window.DASHBOARD_DATA = {
     287.04
    ],
    "ext": null,
-   "relVol": 1.2,
+   "relVol": 1.1,
    "avgVolume": 1347279,
    "symbol": "HWM",
    "name": "Howmet Aerospace",
@@ -2710,7 +2710,7 @@ window.DASHBOARD_DATA = {
     578.48
    ],
    "ext": null,
-   "relVol": 0.8,
+   "relVol": 0.7,
    "avgVolume": 1570796,
    "symbol": "LMT",
    "name": "Lockheed Martin",
@@ -2780,7 +2780,7 @@ window.DASHBOARD_DATA = {
     2.54
    ],
    "ext": null,
-   "relVol": 1.0,
+   "relVol": 0.9,
    "avgVolume": 1040954,
    "symbol": "KULR",
    "name": "KULR Technology",
@@ -2920,7 +2920,7 @@ window.DASHBOARD_DATA = {
     72.83
    ],
    "ext": null,
-   "relVol": 1.0,
+   "relVol": 0.9,
    "avgVolume": 2853443,
    "symbol": "BAH",
    "name": "Booz Allen",
@@ -2990,7 +2990,7 @@ window.DASHBOARD_DATA = {
     64.16
    ],
    "ext": null,
-   "relVol": 1.4,
+   "relVol": 1.3,
    "avgVolume": 15842467,
    "symbol": "RKLB",
    "name": "Rocket Lab",
@@ -3060,7 +3060,7 @@ window.DASHBOARD_DATA = {
     821.26
    ],
    "ext": null,
-   "relVol": 1.5,
+   "relVol": 1.4,
    "avgVolume": 69350,
    "symbol": "ESLT",
    "name": "Elbit Systems",
@@ -3284,7 +3284,7 @@ window.DASHBOARD_DATA = {
     222.26
    ],
    "ext": null,
-   "relVol": 2.7,
+   "relVol": 2.6,
    "avgVolume": 4507206,
    "symbol": "BA",
    "name": "Boeing",
@@ -3436,7 +3436,7 @@ window.DASHBOARD_DATA = {
     89.92
    ],
    "ext": null,
-   "relVol": 4.6,
+   "relVol": 4.5,
    "avgVolume": 1208353,
    "symbol": "TXT",
    "name": "Textron",
@@ -3512,7 +3512,7 @@ window.DASHBOARD_DATA = {
     62.15
    ],
    "ext": null,
-   "relVol": 0.7,
+   "relVol": 0.6,
    "avgVolume": 835892,
    "symbol": "PSN",
    "name": "Parsons",
@@ -3892,7 +3892,7 @@ window.DASHBOARD_DATA = {
     360.95
    ],
    "ext": null,
-   "relVol": 1.0,
+   "relVol": 0.9,
    "avgVolume": 346022,
    "symbol": "HEI",
    "name": "HEICO",
