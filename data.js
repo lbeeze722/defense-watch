@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-07-28T17:21:28.763385+00:00",
+ "generatedAt": "2026-07-28T17:27:01.274416+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -398,7 +398,7 @@ window.DASHBOARD_DATA = {
     222.26
    ],
    "ext": null,
-   "relVol": 2.6,
+   "relVol": 2.5,
    "avgVolume": 4507206,
    "symbol": "BA",
    "name": "Boeing",
@@ -550,7 +550,7 @@ window.DASHBOARD_DATA = {
     89.92
    ],
    "ext": null,
-   "relVol": 4.5,
+   "relVol": 4.4,
    "avgVolume": 1208353,
    "symbol": "TXT",
    "name": "Textron",
@@ -1660,7 +1660,7 @@ window.DASHBOARD_DATA = {
     68.41
    ],
    "ext": null,
-   "relVol": 0.9,
+   "relVol": 0.8,
    "avgVolume": 370803,
    "symbol": "ATRO",
    "name": "Astronics",
@@ -1730,7 +1730,7 @@ window.DASHBOARD_DATA = {
     151.95
    ],
    "ext": null,
-   "relVol": 1.4,
+   "relVol": 1.3,
    "avgVolume": 1096923,
    "symbol": "OSK",
    "name": "Oshkosh",
@@ -1796,7 +1796,7 @@ window.DASHBOARD_DATA = {
     176.52,
     167.76,
     170.3,
-    170.95,
+    171.05,
     171.05
    ],
    "ext": null,
@@ -2220,7 +2220,7 @@ window.DASHBOARD_DATA = {
     19.65
    ],
    "ext": null,
-   "relVol": 1.4,
+   "relVol": 1.3,
    "avgVolume": 3415661,
    "symbol": "UMAC",
    "name": "Unusual Machines",
@@ -2290,7 +2290,7 @@ window.DASHBOARD_DATA = {
     37.37
    ],
    "ext": null,
-   "relVol": 0.8,
+   "relVol": 0.7,
    "avgVolume": 1190273,
    "symbol": "KBR",
    "name": "KBR",
@@ -2496,11 +2496,11 @@ window.DASHBOARD_DATA = {
     200.98,
     194.54,
     197.69,
-    197.37,
+    197.5,
     197.5
    ],
    "ext": null,
-   "relVol": 1.5,
+   "relVol": 1.4,
    "avgVolume": 291676,
    "symbol": "VSEC",
    "name": "VSE Corp",
@@ -3056,7 +3056,7 @@ window.DASHBOARD_DATA = {
     813.15,
     818.28,
     818.95,
-    820.47,
+    821.26,
     821.26
    ],
    "ext": null,
@@ -3284,7 +3284,7 @@ window.DASHBOARD_DATA = {
     222.26
    ],
    "ext": null,
-   "relVol": 2.6,
+   "relVol": 2.5,
    "avgVolume": 4507206,
    "symbol": "BA",
    "name": "Boeing",
@@ -3436,7 +3436,7 @@ window.DASHBOARD_DATA = {
     89.92
    ],
    "ext": null,
-   "relVol": 4.5,
+   "relVol": 4.4,
    "avgVolume": 1208353,
    "symbol": "TXT",
    "name": "Textron",
