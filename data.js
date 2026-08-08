@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-08-07T22:41:37.453243+00:00",
+ "generatedAt": "2026-08-08T06:16:19.220936+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -13,35 +13,6 @@ window.DASHBOARD_DATA = {
   "Gov Services & IT"
  ],
  "history": [
-  {
-   "date": "2026-08-01",
-   "advancers": 32,
-   "decliners": 8,
-   "avgChangePct": 4.53,
-   "topMovers": [
-    {
-     "symbol": "UMAC",
-     "changePct": 22.6
-    },
-    {
-     "symbol": "HII",
-     "changePct": 16.42
-    },
-    {
-     "symbol": "RCAT",
-     "changePct": 11.23
-    },
-    {
-     "symbol": "RKLB",
-     "changePct": 10.84
-    },
-    {
-     "symbol": "RDW",
-     "changePct": 10.8
-    }
-   ],
-   "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
-  },
   {
    "date": "2026-08-02",
    "advancers": 30,
@@ -189,6 +160,14 @@ window.DASHBOARD_DATA = {
   },
   {
    "date": "2026-08-07",
+   "advancers": 0,
+   "decliners": 0,
+   "avgChangePct": 0.0,
+   "topMovers": [],
+   "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
+  },
+  {
+   "date": "2026-08-08",
    "advancers": 0,
    "decliners": 0,
    "avgChangePct": 0.0,
