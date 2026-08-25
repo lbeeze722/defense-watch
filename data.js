@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-08-25T20:30:07.822265+00:00",
+ "generatedAt": "2026-08-25T20:36:05.487608+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -228,8 +228,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 24.43,
-    "changePct": 0.33
+    "price": 24.41,
+    "changePct": 0.25
    },
    "relVol": 0.6,
    "avgVolume": 5630252,
@@ -310,8 +310,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 16.57,
-    "changePct": -0.19
+    "price": 16.6,
+    "changePct": 0.0
    },
    "relVol": 0.8,
    "avgVolume": 7573233,
@@ -392,8 +392,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 147.89,
-    "changePct": 0.32
+    "price": 147.8,
+    "changePct": 0.26
    },
    "relVol": 1.1,
    "avgVolume": 1118757,
@@ -474,8 +474,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 52.67,
-    "changePct": 0.06
+    "price": 52.83,
+    "changePct": 0.36
    },
    "relVol": 0.8,
    "avgVolume": 2962200,
@@ -494,6 +494,24 @@ window.DASHBOARD_DATA = {
    "marketTime": 1787688001,
    "news": [
     {
+     "title": "Kratos Defense & Security Solutions Inc (KTOS) Shares Fall 7.2% -- What GF Score of 75 Tells Investors - GuruFocus",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeEhIZDFWX201TFZkaFI3b0laN1BwdVhYOXRDZ2hkNE5LQlZzNHVDZGNxb3VpNXBXLThRYWkyS0h3b182b0dyV0ZGLVFSX2lHd1E0LWZFVmlGNmVZcGNnQkZ5S254dkVkcTRqTVZZTmJlb1FjdTVoQk9xbjBNampnVG9zUktpRm4wX2VlX3ZlRXRGaVRlLXNTNnA0ckRaMzhsdWZsTXV3WlhXYmFMb09aZmpXcFcySmEyQVItNHo5elNOZnhjZHVoLWZMbmE?oc=5",
+     "pubDate": "Mon, 24 Aug 2026 23:01:14 GMT",
+     "source": "GuruFocus"
+    },
+    {
+     "title": "Drone Tariff Shock Sends Kratos Defense Stock Tumbling - TipRanks",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNVo5b3A5QkdfSksxYm1YV0tpSVB4Q2NheW5uZ2JzeDN5N21EdGpVWXdWTElkeXE3MkpZaERsaWxCdllWbHRUVlQ3QXpBbE5DYkVVNW9feXBZdVpjRkJ0Nm1NZTRZRjdlLUYyWUtVTGJQeG5mRVlPV2ZPQTc3VEtnRkoxbU11WXdEUU52MXVtTUJzZlJiQUh4dg?oc=5",
+     "pubDate": "Mon, 24 Aug 2026 16:21:55 GMT",
+     "source": "TipRanks"
+    },
+    {
+     "title": "Kratos Defense vs. Nokia: Is Defense or Telecom a Better Stock Buy in 2026? - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZnRoUl9jaHl6WFdSeHJ3T1ljQzNVaU5OOHh6NVUwbXZaZTMtTHB0Q05FRGlTUDVnOUJRcnZVUnNWQW1SWDlVUEdrZGVXU1YxeXFHNm5LbFVhYUVuRU1RelRoUUxNVWN0NDBLSUx0RDY4bUtDaE4xcWtkMVM5LVVNVlBMQVpqa0h2TG0tbVp0QUVDTlVTMmhjaVZLQXdsTHFrNzJLcUlwN2ZUdVRteXFZWVpZUmhGd096bjZKNnppVU1nQlk?oc=5",
+     "pubDate": "Wed, 19 Aug 2026 21:23:00 GMT",
+     "source": "The Motley Fool"
+    },
+    {
      "title": "Kratos Defense: The Tech Unicorn Illusion And The Harsh Reality Of Cash Burn (NASDAQ:KTOS) - Seeking Alpha",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdUV2M2tHdWlMM3M0RkFJOGRKNDhERUgxdkxFZkNnWEJVX245al9YVDVMczVRM3VlczNXWG5HV2RGanpxeU1vQ0VXOS1BVFlEX0RFWkdEZEtGdEw3WDhWZEhHdjN5Vl9wU2NZNHMxcjBaOFFtOUNIMFBzeXhFdm5MUVFuRXJWUW4tWHVMVktmcTRRRlY4ZURwS09vT092a3M0TzhJeWVTR0FuU0xNVDdFOE14cFE5aU0?oc=5",
      "pubDate": "Tue, 25 Aug 2026 15:52:21 GMT",
@@ -504,24 +522,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGNEelBKLW1qME5LWTB4OVcyak1xVm11dWJ3UnJhQWtfNFBFRUVLMDVIVnBCYWhfMDZWNnNER2RyTWp1NUpzbHl3WnNVT0lvUUczSzRvTTYtRjFMNTZzaGIwVWpyOTFMbURWSVlmQ0dCN0VSOEcyZ2xnVVFta0JjdnVncTNsTXRiTXBpeGNKN0djd1dMeUtEM2JYVW0wTG52RVE?oc=5",
      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
      "source": "Yahoo Finance"
-    },
-    {
-     "title": "Paradigm Capital Management Inc. NY Makes New $34.84 Million Investment in Kratos Defense & Security Solutions, Inc. $KTOS - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVjV6Y1h0RjFfaVUxZXNlbUk2NXlSNkU1SjJpYUZpT1pFLW1kdGpnRjBzYldYRWpMQTc0cUVPTHp3X3I0aWNwWEtTUGJJTlE4aWtURmxxVVFUZTRkeDhzVWVkbERSN2IyOGEtY0tNQkhkZHRMRWFYMDNydkZKR3pyRUtmVnpxeFkzUTdrWUNLUm54bDI3X2M5QUNmWUxvcW5ub1NIcXhOaE5jZGxSTWFNbUx3eFctV1FRQjJDYkhNeFRMTndmU0N3QkNUaHllbWRwYWFBeThhUi1VaHgwNW55cnhkSGh2OUwyZ1BOUkxmZ2pPWnhlcEFyWVhTMlV2azllSklhbE9n?oc=5",
-     "pubDate": "Tue, 25 Aug 2026 10:31:18 GMT",
-     "source": "MarketBeat"
-    },
-    {
-     "title": "KTOS Stock Hits Two-Month High As Clear Growth Prospects Spur Piper Sandler Ratings Upgrade - Stocktwits",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNXzE5YXJmZzN3dF9VRjJnRzJxTmw5U3lIMDlWdXJMbTRKblZEZjBvc1dzMEJOTTNoWjFEZzhxZERmeUFhdmlsTDR4UHhUNDJmTlRsbmgzaUdiNXdiM3RocWVpT2g5R280ZHBUTUhmZWxLUVlCVHhzMEJIYmdVWXNSRjRhZ2dxR2o1VVNORkRzTGpDbVM0em5yRE9pWmhTUndlR3c3QmdKODZ4VDdyQmhuMUxqXzdTeFBXRHN3NGpfS054dTF2azIzUUM3WXh2b3VacFkzRGpCbENwTGVlVlJ3LXJZWFRZRkpzY1k4?oc=5",
-     "pubDate": "Fri, 21 Aug 2026 19:24:53 GMT",
-     "source": "Stocktwits"
-    },
-    {
-     "title": "Why Kratos Defense & Security Solutions (KTOS) Stock Is Down Today - Quiver Quantitative",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2dRV3BMN004eFhWaG9WM2t3WV9lV2VKaWpPcEZGc1BscVFKZTB0RTIxWmNYQkZMX0FKd0V2cEtjWHZXZ1VUSU0xRk9GeU5zSVN3MzBTeEVNUVJKaWtwUUgxZ2xoczRtSFJhbi05VXNNYkM2Mk5QQUpDV2ZmZ040bDlEMGc5MHgydVlBZDRyNWhWUjNDd1pjRS0zTFdlMzF6d1MwbWJrOGc?oc=5",
-     "pubDate": "Thu, 20 Aug 2026 18:37:00 GMT",
-     "source": "Quiver Quantitative"
     }
    ]
   },
@@ -556,8 +556,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 67.21,
-    "changePct": 0.45
+    "price": 67.17,
+    "changePct": 0.4
    },
    "relVol": 0.9,
    "avgVolume": 16319681,
@@ -720,8 +720,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 38.83,
-    "changePct": 1.76
+    "price": 38.46,
+    "changePct": 0.79
    },
    "relVol": 1.8,
    "avgVolume": 519770,
@@ -884,8 +884,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.1,
-    "changePct": 0.0
+    "price": 9.13,
+    "changePct": 0.33
    },
    "relVol": 0.8,
    "avgVolume": 6490169,
@@ -1048,8 +1048,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.97,
-    "changePct": 0.14
+    "price": 5.95,
+    "changePct": -0.14
    },
    "relVol": 0.9,
    "avgVolume": 30113783,
@@ -1212,8 +1212,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 150.0,
-    "changePct": 0.18
+    "price": 149.98,
+    "changePct": 0.17
    },
    "relVol": 1.8,
    "avgVolume": 1036164,
@@ -1377,7 +1377,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 11.54,
-    "changePct": 0.54
+    "changePct": 0.52
    },
    "relVol": 0.9,
    "avgVolume": 11584366,
@@ -1458,8 +1458,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 73.83,
-    "changePct": 0.0
+    "price": 73.95,
+    "changePct": 0.16
    },
    "relVol": 1.3,
    "avgVolume": 1056659,
@@ -1540,8 +1540,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.23,
-    "changePct": 0.14
+    "price": 7.21,
+    "changePct": -0.12
    },
    "relVol": 0.9,
    "avgVolume": 25118392,
@@ -1622,7 +1622,7 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 172.46,
+    "price": 172.45,
     "changePct": -0.16
    },
    "relVol": 0.8,
@@ -1655,14 +1655,8 @@ window.DASHBOARD_DATA = {
     },
     {
      "title": "Palantir Lost an $875 Million Contract. Is the Stock Still a Buy? - The Globe and Mail",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTmFCRUY0Q2FQeDBmYUxyVWZqZFpSeHl0N3dnZHF1SEE1Z2pXbmtVSURUNGxxLV9ZYk1vUThvTWZHX00ya19sY2Z5MDlybE9rR1NMeDFqQVhFVUF5S0FkY0x0QlZaZXRvUU5IMFRlOEJSODZOMWhJeG9QQWFRVEZFOUhFYWUtSnFUY1dRNzlISmZ4YTFibktGeHV1bU84aC1TZkI0YllQemhkQmIwTWZlZ3JyZWhGeVpFU2F6OFNnRGRnMWdJSWFWaUNGWkhHMVFDeHQyeDJacm5NR0xtcTVsZDhCOA?oc=5",
-     "pubDate": "Tue, 25 Aug 2026 20:13:12 GMT",
-     "source": "The Globe and Mail"
-    },
-    {
-     "title": "Palantir's Maven Is Now an Official Pentagon Program of Record. Here's What Guaranteed Budget Dollars Are Worth. - The Globe and Mail",
-     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOc3dIdl9VWm1XbENYdC1IbXhub1RERHNadldlVUhsZDgzNzExQnhzTlZYYUV6UkRUcmpXc0ZpSXAxSWdndWkzMVZnSnEzbnRWcGttb0lYX0R3cTQ3SDBHbXpWSFB2dzlXYUdLcEtJR3ctUXVLTkxNRDNFRFZJTVJMd05zaDZMd3U4em5IY1pveWZ4dGVnUU1pbS1lcGo0YVFPcVBVRVNSY0RUbXJDSjB4UVZvcFp2VllBZndLTGx1Y2tOQ3RXTVFoNkVsRzhNTnFiRzAwTzhGbktwa25qYkJjQmVMRWRsNWluSDZTT241d2JDYVU3R2cxQVp3ZS1UQ1dTaXl3aGtCRTdSWEhXd3RrN0ZoOW9lekRqcC0xODlR?oc=5",
-     "pubDate": "Tue, 25 Aug 2026 16:06:12 GMT",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdkY2QzZWakw4V2JzRzczaVZiUWVTdzQzTUFDbjNkNlpxd3VuU0htdnp5SXNucTNrWjRiQTFWNFd0emt3SUd1Zlp1MHU1REotRklQMUtRZEFxUzJOanFfMllOMHMxTUVzR2RVbXg1MkJXUnRNRGFGZ3lmSU9Rc1BUNURvTWpaQjBmNGdCaTNfdWJGS1NaLWsycFFSYVZXdWtfbTRvc0k5YXNwa1BtdWhHMWxGdE5vRVZlb1lTbkJhTl9KT2pkUllTbHVndElyQ1BvUFpsYjdnS2xnQ3lIU0xYNQ?oc=5",
+     "pubDate": "Tue, 25 Aug 2026 20:27:15 GMT",
      "source": "The Globe and Mail"
     },
     {
@@ -1670,6 +1664,12 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZFducnJqaldWZWQ1Zmk3UVNNaTdYdi0xdDN5M1RFV2dyeFF5UXVTS25DTDlVYWFOamFWd1l0Y0hRa1ZrSUoxSUhFY2M2M1QtWFRiMDN3M3JkSGNGWjlSNk5Lc1NCUHBtRllSenN6UTM4QUdHS1o3YmJLS19SOGZQVGg3S3ozVkVsbmVnLVRB0gGTAUFVX3lxTE1YMlVtM09iOVRtZmpJcFBOXzlhX0ZOZmcwaUNnWGoxYXA2OVdJNWxpNVFnTWhYRDM4bEVsVWswNEwwRXdNRjRUWXVSSFd2SHdNYnZ5SW1pcHYtMEZwZEwxdTJfV3FiTnlOVGtLU0ZQZ0x3djYwX2VXSDRmcElid2JnX2ttUGJCcDJsTjYyeFZMTDhYNA?oc=5",
      "pubDate": "Mon, 24 Aug 2026 22:55:01 GMT",
      "source": "CNBC"
+    },
+    {
+     "title": "Cathie Wood Bought SpaceX Stock as Michael Burry Piled Into Palantir Puts. Here's What Each Bet Is Actually Pricing In. - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2dzOHhKbVNDSTE3VG5aWTlSdXJyV1FvZWpZSEFyc2ZGUkJuV216QlpGeFhQaXBvdmJ4b2s3VEpOM2duVHg4SjlnM09VZ2UxakRMdmgxZWdKMHlOb1hkcjVtdlU1MW1jSWF0alcyYTA1X25jQ3hacmhLNGdXZ3IybzVIeklvT3BvZE1WVllGVlk2RUNzRF85M3QybGU?oc=5",
+     "pubDate": "Tue, 25 Aug 2026 10:51:00 GMT",
+     "source": "Yahoo Finance"
     }
    ]
   },
@@ -1868,8 +1868,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 264.04,
-    "changePct": 0.0
+    "price": 269.32,
+    "changePct": 2.0
    },
    "relVol": 1.0,
    "avgVolume": 1740419,
@@ -2451,8 +2451,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 262.65,
-    "changePct": 0.18
+    "price": 262.33,
+    "changePct": 0.06
    },
    "relVol": 1.2,
    "avgVolume": 1274394,
@@ -2527,8 +2527,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 543.2,
-    "changePct": 0.13
+    "price": 544.99,
+    "changePct": 0.46
    },
    "relVol": 1.0,
    "avgVolume": 555098,
@@ -2603,8 +2603,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 211.44,
-    "changePct": 0.17
+    "price": 211.32,
+    "changePct": 0.11
    },
    "relVol": 0.8,
    "avgVolume": 5913705,
@@ -2755,10 +2755,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 557.5,
-    "changePct": 0.18
+    "price": 557.44,
+    "changePct": 0.17
    },
-   "relVol": 1.1,
+   "relVol": 1.3,
    "avgVolume": 955807,
    "symbol": "LMT",
    "name": "Lockheed Martin",
@@ -2767,7 +2767,7 @@ window.DASHBOARD_DATA = {
    "price": 556.52,
    "prevClose": 563.57,
    "changePct": -1.25,
-   "volume": 1023728,
+   "volume": 1259410,
    "dayHigh": 567.98,
    "dayLow": 555.265,
    "fiftyTwoWeekHigh": 692.0,
@@ -2907,8 +2907,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 356.51,
-    "changePct": 1.56
+    "price": 358.41,
+    "changePct": 2.1
    },
    "relVol": 1.5,
    "avgVolume": 359939,
@@ -2983,8 +2983,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 1184.0,
-    "changePct": -0.72
+    "price": 1192.6,
+    "changePct": 0.0
    },
    "relVol": 1.1,
    "avgVolume": 349074,
@@ -3135,8 +3135,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 349.43,
-    "changePct": -0.03
+    "price": 349.03,
+    "changePct": -0.15
    },
    "relVol": 1.1,
    "avgVolume": 2802609,
@@ -3365,8 +3365,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 24.43,
-    "changePct": 0.33
+    "price": 24.41,
+    "changePct": 0.25
    },
    "relVol": 0.6,
    "avgVolume": 5630252,
@@ -3447,8 +3447,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 16.57,
-    "changePct": -0.19
+    "price": 16.6,
+    "changePct": 0.0
    },
    "relVol": 0.8,
    "avgVolume": 7573233,
@@ -3529,8 +3529,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 147.89,
-    "changePct": 0.32
+    "price": 147.8,
+    "changePct": 0.26
    },
    "relVol": 1.1,
    "avgVolume": 1118757,
@@ -3611,8 +3611,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 52.67,
-    "changePct": 0.06
+    "price": 52.83,
+    "changePct": 0.36
    },
    "relVol": 0.8,
    "avgVolume": 2962200,
@@ -3631,6 +3631,24 @@ window.DASHBOARD_DATA = {
    "marketTime": 1787688001,
    "news": [
     {
+     "title": "Kratos Defense & Security Solutions Inc (KTOS) Shares Fall 7.2% -- What GF Score of 75 Tells Investors - GuruFocus",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeEhIZDFWX201TFZkaFI3b0laN1BwdVhYOXRDZ2hkNE5LQlZzNHVDZGNxb3VpNXBXLThRYWkyS0h3b182b0dyV0ZGLVFSX2lHd1E0LWZFVmlGNmVZcGNnQkZ5S254dkVkcTRqTVZZTmJlb1FjdTVoQk9xbjBNampnVG9zUktpRm4wX2VlX3ZlRXRGaVRlLXNTNnA0ckRaMzhsdWZsTXV3WlhXYmFMb09aZmpXcFcySmEyQVItNHo5elNOZnhjZHVoLWZMbmE?oc=5",
+     "pubDate": "Mon, 24 Aug 2026 23:01:14 GMT",
+     "source": "GuruFocus"
+    },
+    {
+     "title": "Drone Tariff Shock Sends Kratos Defense Stock Tumbling - TipRanks",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNVo5b3A5QkdfSksxYm1YV0tpSVB4Q2NheW5uZ2JzeDN5N21EdGpVWXdWTElkeXE3MkpZaERsaWxCdllWbHRUVlQ3QXpBbE5DYkVVNW9feXBZdVpjRkJ0Nm1NZTRZRjdlLUYyWUtVTGJQeG5mRVlPV2ZPQTc3VEtnRkoxbU11WXdEUU52MXVtTUJzZlJiQUh4dg?oc=5",
+     "pubDate": "Mon, 24 Aug 2026 16:21:55 GMT",
+     "source": "TipRanks"
+    },
+    {
+     "title": "Kratos Defense vs. Nokia: Is Defense or Telecom a Better Stock Buy in 2026? - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZnRoUl9jaHl6WFdSeHJ3T1ljQzNVaU5OOHh6NVUwbXZaZTMtTHB0Q05FRGlTUDVnOUJRcnZVUnNWQW1SWDlVUEdrZGVXU1YxeXFHNm5LbFVhYUVuRU1RelRoUUxNVWN0NDBLSUx0RDY4bUtDaE4xcWtkMVM5LVVNVlBMQVpqa0h2TG0tbVp0QUVDTlVTMmhjaVZLQXdsTHFrNzJLcUlwN2ZUdVRteXFZWVpZUmhGd096bjZKNnppVU1nQlk?oc=5",
+     "pubDate": "Wed, 19 Aug 2026 21:23:00 GMT",
+     "source": "The Motley Fool"
+    },
+    {
      "title": "Kratos Defense: The Tech Unicorn Illusion And The Harsh Reality Of Cash Burn (NASDAQ:KTOS) - Seeking Alpha",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdUV2M2tHdWlMM3M0RkFJOGRKNDhERUgxdkxFZkNnWEJVX245al9YVDVMczVRM3VlczNXWG5HV2RGanpxeU1vQ0VXOS1BVFlEX0RFWkdEZEtGdEw3WDhWZEhHdjN5Vl9wU2NZNHMxcjBaOFFtOUNIMFBzeXhFdm5MUVFuRXJWUW4tWHVMVktmcTRRRlY4ZURwS09vT092a3M0TzhJeWVTR0FuU0xNVDdFOE14cFE5aU0?oc=5",
      "pubDate": "Tue, 25 Aug 2026 15:52:21 GMT",
@@ -3641,24 +3659,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGNEelBKLW1qME5LWTB4OVcyak1xVm11dWJ3UnJhQWtfNFBFRUVLMDVIVnBCYWhfMDZWNnNER2RyTWp1NUpzbHl3WnNVT0lvUUczSzRvTTYtRjFMNTZzaGIwVWpyOTFMbURWSVlmQ0dCN0VSOEcyZ2xnVVFta0JjdnVncTNsTXRiTXBpeGNKN0djd1dMeUtEM2JYVW0wTG52RVE?oc=5",
      "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
      "source": "Yahoo Finance"
-    },
-    {
-     "title": "Paradigm Capital Management Inc. NY Makes New $34.84 Million Investment in Kratos Defense & Security Solutions, Inc. $KTOS - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVjV6Y1h0RjFfaVUxZXNlbUk2NXlSNkU1SjJpYUZpT1pFLW1kdGpnRjBzYldYRWpMQTc0cUVPTHp3X3I0aWNwWEtTUGJJTlE4aWtURmxxVVFUZTRkeDhzVWVkbERSN2IyOGEtY0tNQkhkZHRMRWFYMDNydkZKR3pyRUtmVnpxeFkzUTdrWUNLUm54bDI3X2M5QUNmWUxvcW5ub1NIcXhOaE5jZGxSTWFNbUx3eFctV1FRQjJDYkhNeFRMTndmU0N3QkNUaHllbWRwYWFBeThhUi1VaHgwNW55cnhkSGh2OUwyZ1BOUkxmZ2pPWnhlcEFyWVhTMlV2azllSklhbE9n?oc=5",
-     "pubDate": "Tue, 25 Aug 2026 10:31:18 GMT",
-     "source": "MarketBeat"
-    },
-    {
-     "title": "KTOS Stock Hits Two-Month High As Clear Growth Prospects Spur Piper Sandler Ratings Upgrade - Stocktwits",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNXzE5YXJmZzN3dF9VRjJnRzJxTmw5U3lIMDlWdXJMbTRKblZEZjBvc1dzMEJOTTNoWjFEZzhxZERmeUFhdmlsTDR4UHhUNDJmTlRsbmgzaUdiNXdiM3RocWVpT2g5R280ZHBUTUhmZWxLUVlCVHhzMEJIYmdVWXNSRjRhZ2dxR2o1VVNORkRzTGpDbVM0em5yRE9pWmhTUndlR3c3QmdKODZ4VDdyQmhuMUxqXzdTeFBXRHN3NGpfS054dTF2azIzUUM3WXh2b3VacFkzRGpCbENwTGVlVlJ3LXJZWFRZRkpzY1k4?oc=5",
-     "pubDate": "Fri, 21 Aug 2026 19:24:53 GMT",
-     "source": "Stocktwits"
-    },
-    {
-     "title": "Why Kratos Defense & Security Solutions (KTOS) Stock Is Down Today - Quiver Quantitative",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2dRV3BMN004eFhWaG9WM2t3WV9lV2VKaWpPcEZGc1BscVFKZTB0RTIxWmNYQkZMX0FKd0V2cEtjWHZXZ1VUSU0xRk9GeU5zSVN3MzBTeEVNUVJKaWtwUUgxZ2xoczRtSFJhbi05VXNNYkM2Mk5QQUpDV2ZmZ040bDlEMGc5MHgydVlBZDRyNWhWUjNDd1pjRS0zTFdlMzF6d1MwbWJrOGc?oc=5",
-     "pubDate": "Thu, 20 Aug 2026 18:37:00 GMT",
-     "source": "Quiver Quantitative"
     }
    ]
   },
@@ -3693,8 +3693,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 67.21,
-    "changePct": 0.45
+    "price": 67.17,
+    "changePct": 0.4
    },
    "relVol": 0.9,
    "avgVolume": 16319681,
@@ -3857,8 +3857,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 38.83,
-    "changePct": 1.76
+    "price": 38.46,
+    "changePct": 0.79
    },
    "relVol": 1.8,
    "avgVolume": 519770,
@@ -4021,8 +4021,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.1,
-    "changePct": 0.0
+    "price": 9.13,
+    "changePct": 0.33
    },
    "relVol": 0.8,
    "avgVolume": 6490169,
@@ -4185,8 +4185,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.97,
-    "changePct": 0.14
+    "price": 5.95,
+    "changePct": -0.14
    },
    "relVol": 0.9,
    "avgVolume": 30113783,
@@ -4349,8 +4349,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 150.0,
-    "changePct": 0.18
+    "price": 149.98,
+    "changePct": 0.17
    },
    "relVol": 1.8,
    "avgVolume": 1036164,
@@ -4514,7 +4514,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 11.54,
-    "changePct": 0.54
+    "changePct": 0.52
    },
    "relVol": 0.9,
    "avgVolume": 11584366,
@@ -4595,8 +4595,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 73.83,
-    "changePct": 0.0
+    "price": 73.95,
+    "changePct": 0.16
    },
    "relVol": 1.3,
    "avgVolume": 1056659,
@@ -4677,8 +4677,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.23,
-    "changePct": 0.14
+    "price": 7.21,
+    "changePct": -0.12
    },
    "relVol": 0.9,
    "avgVolume": 25118392,
@@ -4759,7 +4759,7 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 172.46,
+    "price": 172.45,
     "changePct": -0.16
    },
    "relVol": 0.8,
@@ -4792,14 +4792,8 @@ window.DASHBOARD_DATA = {
     },
     {
      "title": "Palantir Lost an $875 Million Contract. Is the Stock Still a Buy? - The Globe and Mail",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTmFCRUY0Q2FQeDBmYUxyVWZqZFpSeHl0N3dnZHF1SEE1Z2pXbmtVSURUNGxxLV9ZYk1vUThvTWZHX00ya19sY2Z5MDlybE9rR1NMeDFqQVhFVUF5S0FkY0x0QlZaZXRvUU5IMFRlOEJSODZOMWhJeG9QQWFRVEZFOUhFYWUtSnFUY1dRNzlISmZ4YTFibktGeHV1bU84aC1TZkI0YllQemhkQmIwTWZlZ3JyZWhGeVpFU2F6OFNnRGRnMWdJSWFWaUNGWkhHMVFDeHQyeDJacm5NR0xtcTVsZDhCOA?oc=5",
-     "pubDate": "Tue, 25 Aug 2026 20:13:12 GMT",
-     "source": "The Globe and Mail"
-    },
-    {
-     "title": "Palantir's Maven Is Now an Official Pentagon Program of Record. Here's What Guaranteed Budget Dollars Are Worth. - The Globe and Mail",
-     "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOc3dIdl9VWm1XbENYdC1IbXhub1RERHNadldlVUhsZDgzNzExQnhzTlZYYUV6UkRUcmpXc0ZpSXAxSWdndWkzMVZnSnEzbnRWcGttb0lYX0R3cTQ3SDBHbXpWSFB2dzlXYUdLcEtJR3ctUXVLTkxNRDNFRFZJTVJMd05zaDZMd3U4em5IY1pveWZ4dGVnUU1pbS1lcGo0YVFPcVBVRVNSY0RUbXJDSjB4UVZvcFp2VllBZndLTGx1Y2tOQ3RXTVFoNkVsRzhNTnFiRzAwTzhGbktwa25qYkJjQmVMRWRsNWluSDZTT241d2JDYVU3R2cxQVp3ZS1UQ1dTaXl3aGtCRTdSWEhXd3RrN0ZoOW9lekRqcC0xODlR?oc=5",
-     "pubDate": "Tue, 25 Aug 2026 16:06:12 GMT",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdkY2QzZWakw4V2JzRzczaVZiUWVTdzQzTUFDbjNkNlpxd3VuU0htdnp5SXNucTNrWjRiQTFWNFd0emt3SUd1Zlp1MHU1REotRklQMUtRZEFxUzJOanFfMllOMHMxTUVzR2RVbXg1MkJXUnRNRGFGZ3lmSU9Rc1BUNURvTWpaQjBmNGdCaTNfdWJGS1NaLWsycFFSYVZXdWtfbTRvc0k5YXNwa1BtdWhHMWxGdE5vRVZlb1lTbkJhTl9KT2pkUllTbHVndElyQ1BvUFpsYjdnS2xnQ3lIU0xYNQ?oc=5",
+     "pubDate": "Tue, 25 Aug 2026 20:27:15 GMT",
      "source": "The Globe and Mail"
     },
     {
@@ -4807,6 +4801,12 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZFducnJqaldWZWQ1Zmk3UVNNaTdYdi0xdDN5M1RFV2dyeFF5UXVTS25DTDlVYWFOamFWd1l0Y0hRa1ZrSUoxSUhFY2M2M1QtWFRiMDN3M3JkSGNGWjlSNk5Lc1NCUHBtRllSenN6UTM4QUdHS1o3YmJLS19SOGZQVGg3S3ozVkVsbmVnLVRB0gGTAUFVX3lxTE1YMlVtM09iOVRtZmpJcFBOXzlhX0ZOZmcwaUNnWGoxYXA2OVdJNWxpNVFnTWhYRDM4bEVsVWswNEwwRXdNRjRUWXVSSFd2SHdNYnZ5SW1pcHYtMEZwZEwxdTJfV3FiTnlOVGtLU0ZQZ0x3djYwX2VXSDRmcElid2JnX2ttUGJCcDJsTjYyeFZMTDhYNA?oc=5",
      "pubDate": "Mon, 24 Aug 2026 22:55:01 GMT",
      "source": "CNBC"
+    },
+    {
+     "title": "Cathie Wood Bought SpaceX Stock as Michael Burry Piled Into Palantir Puts. Here's What Each Bet Is Actually Pricing In. - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2dzOHhKbVNDSTE3VG5aWTlSdXJyV1FvZWpZSEFyc2ZGUkJuV216QlpGeFhQaXBvdmJ4b2s3VEpOM2duVHg4SjlnM09VZ2UxakRMdmgxZWdKMHlOb1hkcjVtdlU1MW1jSWF0alcyYTA1X25jQ3hacmhLNGdXZ3IybzVIeklvT3BvZE1WVllGVlk2RUNzRF85M3QybGU?oc=5",
+     "pubDate": "Tue, 25 Aug 2026 10:51:00 GMT",
+     "source": "Yahoo Finance"
     }
    ]
   },
@@ -5143,16 +5143,16 @@ window.DASHBOARD_DATA = {
    "source": "Audacy"
   },
   {
-   "title": "NORAD\u2019s Two Paths Amid Modernization - Defense Security Monitor",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORUhNX0x6amN4MW5KWXVvaUE2TE10Nk9vT2NOckZVVEZsZnZjVDZxbTZ4RTQwa3R1WG13bzBTek1UMWVnRVJ0WWRfMXVPN0FiX2hJWnhhajBvdmwtcmkwQU9SbFBqUUV2bzBYWUoxWlBIbFpWSkdRN0ZBLXRWdUVCNzdwTjNnZkI5YVQzbDVR?oc=5",
-   "pubDate": "Tue, 25 Aug 2026 14:30:50 GMT",
-   "source": "Defense Security Monitor"
-  },
-  {
    "title": "Japan's Terra Drone lands Self-Defense Forces order for interceptors - Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUEJxdGpqQVlOdm45NExUSG4wdVBmblE5Yi1reFhOVHRhMmxuVzF1SnNkOFI3WFdSdEpZZDBmSTJ0aTZSbk9yRXMzeTBKZE1xb29hNGM0andEVGxyR1Z1NnN4X1hEVHlPUndwRVBubXRxemdXLVFtVGVsR0gtQmNubnBmaHYwaGl4V1BtdWlPbjRya1FWU3gwSldRYTRiWlBNcUR5eWd6REFFbzRHaE1BT3JQODV5aGNSMDhEbzQ0c1NHS3hVRVVXaGdB?oc=5",
    "pubDate": "Tue, 25 Aug 2026 15:29:00 GMT",
    "source": "Nikkei Asia"
+  },
+  {
+   "title": "NORAD\u2019s Two Paths Amid Modernization - Defense Security Monitor",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORUhNX0x6amN4MW5KWXVvaUE2TE10Nk9vT2NOckZVVEZsZnZjVDZxbTZ4RTQwa3R1WG13bzBTek1UMWVnRVJ0WWRfMXVPN0FiX2hJWnhhajBvdmwtcmkwQU9SbFBqUUV2bzBYWUoxWlBIbFpWSkdRN0ZBLXRWdUVCNzdwTjNnZkI5YVQzbDVR?oc=5",
+   "pubDate": "Tue, 25 Aug 2026 14:30:50 GMT",
+   "source": "Defense Security Monitor"
   },
   {
    "title": "South Korea as a Middle Power: Shaping a Global Arms Strategy - SLDinfo.com",
