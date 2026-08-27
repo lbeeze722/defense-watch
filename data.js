@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-08-27T20:29:49.281795+00:00",
+ "generatedAt": "2026-08-27T20:35:29.951500+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 26.3,
-    "changePct": 0.0
+    "price": 26.4,
+    "changePct": 0.38
    },
    "relVol": 0.9,
    "avgVolume": 3508570,
@@ -331,8 +331,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 184.85,
-    "changePct": -0.58
+    "price": 184.81,
+    "changePct": -0.6
    },
    "relVol": 1.5,
    "avgVolume": 26253197,
@@ -413,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.71,
-    "changePct": -0.46
+    "price": 8.7,
+    "changePct": -0.57
    },
    "relVol": 1.7,
    "avgVolume": 47705525,
@@ -499,7 +499,7 @@ window.DASHBOARD_DATA = {
     "changePct": -2.0
    },
    "relVol": 0.9,
-   "avgVolume": 497155,
+   "avgVolume": 497130,
    "symbol": "ATRO",
    "name": "Astronics",
    "vertical": "Engines & Suppliers",
@@ -577,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 156.7,
-    "changePct": 0.55
+    "price": 156.0,
+    "changePct": 0.1
    },
    "relVol": 0.9,
    "avgVolume": 1228623,
@@ -741,8 +741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 139.86,
-    "changePct": 0.0
+    "price": 140.18,
+    "changePct": 0.23
    },
    "relVol": 1.2,
    "avgVolume": 730875,
@@ -905,8 +905,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 152.27,
-    "changePct": -0.01
+    "price": 151.01,
+    "changePct": -0.83
    },
    "relVol": 1.3,
    "avgVolume": 998898,
@@ -1221,8 +1221,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 16.18,
-    "changePct": 0.02
+    "price": 16.17,
+    "changePct": -0.06
    },
    "relVol": 0.8,
    "avgVolume": 6059324,
@@ -1277,7 +1277,7 @@ window.DASHBOARD_DATA = {
     2.65,
     2.63,
     2.62,
-    2.59,
+    2.6,
     2.74,
     2.75,
     2.74,
@@ -1301,7 +1301,7 @@ window.DASHBOARD_DATA = {
     "changePct": 1.13
    },
    "relVol": 1.0,
-   "avgVolume": 812193,
+   "avgVolume": 812218,
    "symbol": "KULR",
    "name": "KULR Technology",
    "vertical": "Defense Tech & Software",
@@ -1373,8 +1373,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 298.39,
-    "changePct": 0.37
+    "price": 298.0,
+    "changePct": 0.24
    },
    "relVol": 0.9,
    "avgVolume": 347069,
@@ -1449,8 +1449,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 53.66,
-    "changePct": -0.06
+    "price": 53.7,
+    "changePct": 0.02
    },
    "relVol": 0.9,
    "avgVolume": 2282487,
@@ -1601,8 +1601,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.27,
-    "changePct": -0.11
+    "price": 9.26,
+    "changePct": -0.22
    },
    "relVol": 0.9,
    "avgVolume": 5530294,
@@ -1677,8 +1677,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 362.92,
-    "changePct": 5.89
+    "price": 342.6,
+    "changePct": -0.04
    },
    "relVol": 1.8,
    "avgVolume": 2710480,
@@ -1829,11 +1829,11 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 566.19,
-    "changePct": 0.05
+    "price": 561.17,
+    "changePct": -0.83
    },
-   "relVol": 0.8,
-   "avgVolume": 900667,
+   "relVol": 1.0,
+   "avgVolume": 714004,
    "symbol": "LMT",
    "name": "Lockheed Martin",
    "vertical": "Prime Contractors",
@@ -1841,9 +1841,9 @@ window.DASHBOARD_DATA = {
    "price": 565.89,
    "prevClose": 556.52,
    "changePct": 1.68,
-   "volume": 739112,
+   "volume": 749289,
    "dayHigh": 566.03,
-   "dayLow": 560.02,
+   "dayLow": 560.025,
    "fiftyTwoWeekHigh": 692.0,
    "fiftyTwoWeekLow": 437.25,
    "marketTime": 1787860936,
@@ -1981,11 +1981,11 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 74.88,
-    "changePct": 0.0
+    "price": 76.89,
+    "changePct": 2.69
    },
    "relVol": 2.1,
-   "avgVolume": 749066,
+   "avgVolume": 749091,
    "symbol": "BAH",
    "name": "Booz Allen",
    "vertical": "Gov Services & IT",
@@ -2057,8 +2057,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 285.79,
-    "changePct": 6.78
+    "price": 267.65,
+    "changePct": 0.0
    },
    "relVol": 1.4,
    "avgVolume": 1433702,
@@ -2133,8 +2133,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 37.94,
-    "changePct": -0.65
+    "price": 38.19,
+    "changePct": 0.0
    },
    "relVol": 1.3,
    "avgVolume": 706235,
@@ -2285,8 +2285,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.16,
-    "changePct": 0.14
+    "price": 7.17,
+    "changePct": 0.27
    },
    "relVol": 0.7,
    "avgVolume": 22028683,
@@ -2437,11 +2437,11 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 67.48,
-    "changePct": -0.07
+    "price": 67.55,
+    "changePct": 0.03
    },
    "relVol": 0.9,
-   "avgVolume": 12825380,
+   "avgVolume": 11879188,
    "symbol": "RKLB",
    "name": "Rocket Lab",
    "vertical": "Space",
@@ -2513,8 +2513,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 380.06,
-    "changePct": 0.0
+    "price": 384.0,
+    "changePct": 1.04
    },
    "relVol": 1.0,
    "avgVolume": 621258,
@@ -2589,8 +2589,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 218.33,
-    "changePct": 2.95
+    "price": 212.48,
+    "changePct": 0.19
    },
    "relVol": 1.1,
    "avgVolume": 3133032,
@@ -2741,8 +2741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 82.35,
-    "changePct": 0.01
+    "price": 82.4,
+    "changePct": 0.06
    },
    "relVol": 1.5,
    "avgVolume": 1030369,
@@ -2817,8 +2817,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 210.0,
-    "changePct": 0.05
+    "price": 210.15,
+    "changePct": 0.12
    },
    "relVol": 0.9,
    "avgVolume": 5004038,
@@ -2893,8 +2893,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 1186.48,
-    "changePct": 0.0
+    "price": 1189.25,
+    "changePct": 0.23
    },
    "relVol": 0.5,
    "avgVolume": 389253,
@@ -2969,8 +2969,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.93,
-    "changePct": 0.0
+    "price": 5.94,
+    "changePct": 0.17
    },
    "relVol": 0.9,
    "avgVolume": 26464214,
@@ -3121,8 +3121,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 546.0,
-    "changePct": 0.16
+    "price": 545.5,
+    "changePct": 0.07
    },
    "relVol": 1.8,
    "avgVolume": 450251,
@@ -3326,8 +3326,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 26.3,
-    "changePct": 0.0
+    "price": 26.4,
+    "changePct": 0.38
    },
    "relVol": 0.9,
    "avgVolume": 3508570,
@@ -3408,8 +3408,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 184.85,
-    "changePct": -0.58
+    "price": 184.81,
+    "changePct": -0.6
    },
    "relVol": 1.5,
    "avgVolume": 26253197,
@@ -3490,8 +3490,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.71,
-    "changePct": -0.46
+    "price": 8.7,
+    "changePct": -0.57
    },
    "relVol": 1.7,
    "avgVolume": 47705525,
@@ -3576,7 +3576,7 @@ window.DASHBOARD_DATA = {
     "changePct": -2.0
    },
    "relVol": 0.9,
-   "avgVolume": 497155,
+   "avgVolume": 497130,
    "symbol": "ATRO",
    "name": "Astronics",
    "vertical": "Engines & Suppliers",
@@ -3654,8 +3654,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 156.7,
-    "changePct": 0.55
+    "price": 156.0,
+    "changePct": 0.1
    },
    "relVol": 0.9,
    "avgVolume": 1228623,
@@ -3818,8 +3818,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 139.86,
-    "changePct": 0.0
+    "price": 140.18,
+    "changePct": 0.23
    },
    "relVol": 1.2,
    "avgVolume": 730875,
@@ -3982,8 +3982,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 152.27,
-    "changePct": -0.01
+    "price": 151.01,
+    "changePct": -0.83
    },
    "relVol": 1.3,
    "avgVolume": 998898,
