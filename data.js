@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-08-27T20:18:03.480926+00:00",
+ "generatedAt": "2026-08-27T20:24:10.051326+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 26.52,
-    "changePct": 0.85
+    "price": 26.3,
+    "changePct": 0.0
    },
    "relVol": 0.9,
    "avgVolume": 3508570,
@@ -331,8 +331,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 184.83,
-    "changePct": -0.59
+    "price": 184.82,
+    "changePct": -0.6
    },
    "relVol": 1.5,
    "avgVolume": 26253197,
@@ -375,10 +375,10 @@ window.DASHBOARD_DATA = {
      "source": "The Motley Fool"
     },
     {
-     "title": "Palantir and Salesforce among market cap stock movers on Thursday - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORG11YVZiUVFpTHp5dDZtTWNFVEhYVWRuZTl1Y2RfX19wWmdzcFlBRVZKbHJiN19fcVN3TVZlaC1DSTZjWXdWdGxGa3VXeW9WQ0dQdm5UOWtYQVpEd2sxbm03Y19GRDBTbTRvQjlESDF4TXhCa2YxRUF5Tm1tbjRjOXl5ejJiREtPOGlXRjRKTWFSeEZ5QWZreDA5VXFCc28ta1BYamd6VDhZQVlGT29Dd3N6RGtnX1BsVl84N2hIWUNNajhzX0E?oc=5",
-     "pubDate": "Thu, 27 Aug 2026 18:10:23 GMT",
-     "source": "Investing.com"
+     "title": "Cramer's lightning round: Palantir is 'a great spec' - CNBC",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZFducnJqaldWZWQ1Zmk3UVNNaTdYdi0xdDN5M1RFV2dyeFF5UXVTS25DTDlVYWFOamFWd1l0Y0hRa1ZrSUoxSUhFY2M2M1QtWFRiMDN3M3JkSGNGWjlSNk5Lc1NCUHBtRllSenN6UTM4QUdHS1o3YmJLS19SOGZQVGg3S3ozVkVsbmVnLVRB0gGTAUFVX3lxTE1YMlVtM09iOVRtZmpJcFBOXzlhX0ZOZmcwaUNnWGoxYXA2OVdJNWxpNVFnTWhYRDM4bEVsVWswNEwwRXdNRjRUWXVSSFd2SHdNYnZ5SW1pcHYtMEZwZEwxdTJfV3FiTnlOVGtLU0ZQZ0x3djYwX2VXSDRmcElid2JnX2ttUGJCcDJsTjYyeFZMTDhYNA?oc=5",
+     "pubDate": "Mon, 24 Aug 2026 22:55:01 GMT",
+     "source": "CNBC"
     }
    ]
   },
@@ -414,7 +414,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 8.7,
-    "changePct": -0.53
+    "changePct": -0.57
    },
    "relVol": 1.7,
    "avgVolume": 47705525,
@@ -533,16 +533,16 @@ window.DASHBOARD_DATA = {
      "source": "StockStory"
     },
     {
+     "title": "Astronics Announces 20% Class B Stock Distribution - Business Wire",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalNwbUd0dDVOT20zdXNTdGYxMDJ2U3FUMnU2Y3MzbTZnWW5vdzdjakN2WWgzSktnVGNPRnRZWTZ5Y2MyMENFamR1ZEZTdEtqenktVlJtZWxkZ0VLUFIxbVlkOXBYRGZ5Zm9LVjEwd0MyN1U4c1FaalR3WEhfekZaTkFmZW9hY21nV0c2TWk4OENMQ3FxNU1XcUViVmFOSnd6c3ZhSFF6RzZ4dw?oc=5",
+     "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+     "source": "Business Wire"
+    },
+    {
      "title": "Astronics (NASDAQ: ATRO) director shifts 76K Class B into common - Stock Titan",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS180MERDMGJrR0J0MmdyZlNTU0RDUDIwdXNzTi1OVTRscGJiMEtJWGMtVHZXbkd1SGtTMEFwQ1p0NVh5Y3RXWGtxOFlkd21SaTFRSndfNk44ckJJelhlQWkzc2xpcTRXN0pkSlVzQUlsckszUVdHckVOZzBSR1h0T1Utczd0SDMtUE11X3hoTndaU1pKZEVYUEFDcjgwQ0ZXWHFKb21KUEJrLTls?oc=5",
      "pubDate": "Wed, 26 Aug 2026 20:23:14 GMT",
      "source": "Stock Titan"
-    },
-    {
-     "title": "Why Astronics Stock Popped Today - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQam9ZaGtPYU9mMS1ITEZMZDlhTXFnRVpCVUlYX0hxSXBSb24xX24zYzM4ZW93QTlySHFXM2d0d3dPYzZtdjNjRUV6UlRyeWNoVjg0eV9oQmphRXplcDJYdmd1bFBWcTVCS1Y1ZXRRNTdLYnhCT3pnMmFVeXo4dlpSRQ?oc=5",
-     "pubDate": "Wed, 12 Aug 2026 07:00:00 GMT",
-     "source": "The Motley Fool"
     }
    ]
   },
@@ -577,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 156.62,
-    "changePct": 0.49
+    "price": 156.69,
+    "changePct": 0.54
    },
    "relVol": 0.9,
    "avgVolume": 1228623,
@@ -779,16 +779,16 @@ window.DASHBOARD_DATA = {
      "source": "MarketWatch"
     },
     {
+     "title": "Leidos Holdings (LDOS) Lands $301 Million Cyber Contract, Is The Stock Still Undervalued? - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdkV3bmhJUEFtYkJBTWE5dEQwd0FVeUtnak5xcFlEb3ZjYXJoMlh5UVVuMGt2dUo0Uk5IV1FYbU9nMk1FeFZpTC1xVExPd3FHeG1IR09ieVdORnpZT1FlZ25YTzNvaWE4ZF9RODRiVVJ2VjNMdVR5NGN1UE5Tb1lSUzNIeGhQT2otQVEyQXdmTGlDaVpRTXplRnVZNWRjVVJhbWJjd2U2bzIzdnhIVDkzX2h0Uk42MlFPWnFKeEJ4bThDUHgzeHJSemdkNkRmVm10Z2JubkYxc01OSGfSAeABQVVfeXFMT3FJdWdjNGxyZXp2Rk9Xb2p1V1BRcWZUNWlpQUJja0ZjTjZlWWlWVDFPWXVSQWVmSjhvMlFfWm1MWDFFbEdNUURhRE9vYy1JRHNDQ0FabkNEX2tQSHFnekstc1VlajhtSXpic04zdkliMzlDZEttN0N4Y3BwRjB1UkZuZXpvRnI3NzR2dDJuRWU1RllFZWNwSzlBSEhPVTJXb1ZkV3BGcFkxUkRmY1ZlTlEtdUpQYlduemdoOFdUOHhBU2N5b0hma3dDNDZNUTlSZzVKR2ZqYnJEbWhUZzM0Ukg?oc=5",
+     "pubDate": "Mon, 24 Aug 2026 21:17:57 GMT",
+     "source": "simplywall.st"
+    },
+    {
      "title": "Why Leidos (LDOS) Stock Is Up Today - Quiver Quantitative",
      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4bzNEVTZwd0lxOHVEX3dvZ29ZazFIaldNdTZERXE4bGRaYmlqMHNwVDdaSFJiQ1RhU0ZjZmQ3WHd2UXZ0SVdzRTBVeHpMbDNrZXhwdTRuTHNSOHpQV1djaEd4UTI0U1BKX2l6NTkzVV9CUGw1c1ZIWFVvWXM?oc=5",
      "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
      "source": "Quiver Quantitative"
-    },
-    {
-     "title": "Leidos Holdings (LDOS) Lands $301 Million Cyber Contract, Is The Stock Still Undervalued? - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcUl1Z2M0bHJlenZGT1dvanVXUFFxZlQ1aWlBQmNrRmNONmVZaVZUMU9ZdVJBZWZKOG8yUV9abUxYMUVsR01RRGFET29jLUlEc0NDQVpuQ0Rfa1BIcWd6Sy1zVWVqOG1JemJzTjN2SWIzOUNkS203Q3hjcHBGMHVSRm5lem9Gcjc3NHZ0Mm5FZTVGWUVlY3BLOUFISE9VMldvVmRXcEZwWTFSRGZjVmVOUS11SlBiV256Z2g4V1Q4eEFTY3lvSGZrd0M0Nk1ROVJnNUpHZmpickRtaFRnMzRSSNIB4AFBVV95cUxPcUl1Z2M0bHJlenZGT1dvanVXUFFxZlQ1aWlBQmNrRmNONmVZaVZUMU9ZdVJBZWZKOG8yUV9abUxYMUVsR01RRGFET29jLUlEc0NDQVpuQ0Rfa1BIcWd6Sy1zVWVqOG1JemJzTjN2SWIzOUNkS203Q3hjcHBGMHVSRm5lem9Gcjc3NHZ0Mm5FZTVGWUVlY3BLOUFISE9VMldvVmRXcEZwWTFSRGZjVmVOUS11SlBiV256Z2g4V1Q4eEFTY3lvSGZrd0M0Nk1ROVJnNUpHZmpickRtaFRnMzRSSA?oc=5",
-     "pubDate": "Mon, 24 Aug 2026 20:24:35 GMT",
-     "source": "simplywall.st"
     }
    ]
   },
@@ -843,27 +843,27 @@ window.DASHBOARD_DATA = {
    "marketTime": 1787860802,
    "news": [
     {
-     "title": "OPM HR consolidation with CACI expected to cut taxpayer costs by over 90% - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEF5c0RMeGdpdkhLclk1Q3h1M1BpRTFwdFF0SS03NEJlajZ0aUlYQUJ4ejRHdGNIU0VjbkE1WWttVU5KM2w0ZzlFdXVPb3ROeDRKQ204WHNhUElGVjQxN0FWcmJzT05NUmRiNW9ycFJPSEx2Qks2VWl0ckdmaGUtQ2x3M2ZDcVZtMnQ5TkxLOER3YmN0cjhaQzhFV2tmZ1lPS3lYZ1hfS29rWURlVHhaaWVsQVNWc0NvQWc?oc=5",
-     "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-     "source": "Stock Titan"
-    },
-    {
      "title": "CACI's new Rochester center expands manufacturing space by more than 300% - Stock Titan",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc05QRV8wdGpacFNuQmh6eVBwM2xtZkMwRmVWcjBVS2haMWcyNk84U3B3OTJFU2s0RURSV19uZm84UlpXbUVoNGNlYVBHZ0MzVGJHZnF5YXNzb0JQd3RWc0tmek04czllY2twcEZfcVVUZ0tWQlA4UFI1MnlkLURfZnFQaUFUY2hTc3VqUTY0ckRUN1pDV2hBX1Nna0xuNHowMXlCS3FkVURJQ20zUlRwUUFR?oc=5",
      "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
      "source": "Stock Titan"
     },
     {
-     "title": "CACI gets $140.5M Army contract increase for forensic analysis work - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcElyWmZfM0x2ZXhMNjZBLUlrdk1ISWJpY1pkaTdhRUE4d3BJU3gySDBwMWxVYl9ab2pzUVhrTHdTZlFqYTBMb0hMaHc1UmR2WlBHOWpYeTcydmZRRHFMeVpySndGTktDOFFWMWgzT0NVemtaNE5IT2hjSERLTUd0XzNLYmFfekVMV0pPYWpvSVY4Zk1oc1VTQU1XSFBkREQwUzNhOEhuakFtM1lvRC1kTVVTY1JFM3JEOFhyM2N3?oc=5",
-     "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+     "title": "OPM HR consolidation with CACI expected to cut taxpayer costs by over 90% - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEF5c0RMeGdpdkhLclk1Q3h1M1BpRTFwdFF0SS03NEJlajZ0aUlYQUJ4ejRHdGNIU0VjbkE1WWttVU5KM2w0ZzlFdXVPb3ROeDRKQ204WHNhUElGVjQxN0FWcmJzT05NUmRiNW9ycFJPSEx2Qks2VWl0ckdmaGUtQ2x3M2ZDcVZtMnQ5TkxLOER3YmN0cjhaQzhFV2tmZ1lPS3lYZ1hfS29rWURlVHhaaWVsQVNWc0NvQWc?oc=5",
+     "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
      "source": "Stock Titan"
     },
     {
      "title": "U.S. Space Force taps CACI to modernize how Guardians train - Stock Titan",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmMtSDh5Y0Z3MnlWS1RlR0ZfUHV6NDlsQXhYN1dUY1p5UWtQOW9rR3FXMHZFSXFXd0ZfNUp3Ty0tUEdYRlkwN3JfTEo5TFI1ZmRxSVV3aTd3YWc3Qlg2YnQ1cFV5Tnpvd2ZyWl90V05aLWFwbVh4dS1XTXpscEM5RXp0czg0ZFFLYkxreC1aZ0JmZllaU1RocHN4TVhNYWZUNGFyLWlUcWlacy1zU0Z1Y0ZreHpZb20zT0htT1VB?oc=5",
      "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
+     "source": "Stock Titan"
+    },
+    {
+     "title": "CACI gets $140.5M Army contract increase for forensic analysis work - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcElyWmZfM0x2ZXhMNjZBLUlrdk1ISWJpY1pkaTdhRUE4d3BJU3gySDBwMWxVYl9ab2pzUVhrTHdTZlFqYTBMb0hMaHc1UmR2WlBHOWpYeTcydmZRRHFMeVpySndGTktDOFFWMWgzT0NVemtaNE5IT2hjSERLTUd0XzNLYmFfekVMV0pPYWpvSVY4Zk1oc1VTQU1XSFBkREQwUzNhOEhuakFtM1lvRC1kTVVTY1JFM3JEOFhyM2N3?oc=5",
+     "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
      "source": "Stock Titan"
     },
     {
@@ -905,8 +905,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 152.73,
-    "changePct": 0.3
+    "price": 153.0,
+    "changePct": 0.47
    },
    "relVol": 1.3,
    "avgVolume": 998898,
@@ -1025,16 +1025,16 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "Mercury Systems (NASDAQ: MRCY) insider to sell 49,090 option shares after heavy recent sales - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYUxzZDM1aXh0czFTU1JTQTdRemdjblMtS2I5OVo4UFdEMjhVRGtXQS1SeEdRa1dpSWljeEtKSzhQaUNudl9XaVY4WFpQZ2NYV29zY0l2THZXQlV4VjNmZ1ljMmVZYUV5Q0plUnNIeTE3d1FPYkpKMXJxd3ZUTW5YaFhGNXdrdjd3NVJPdkVNcWxsVXZsSEZRYzJZM1I?oc=5",
-     "pubDate": "Wed, 26 Aug 2026 20:20:58 GMT",
-     "source": "Stock Titan"
-    },
-    {
      "title": "Mercury Systems CEO Ballhaus sells $15.7m in common stock after option exercise - Investing.com",
      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM0N0Zmt2SWFpUTNCVWZQUkRBM08tc3BzUkZmR1ZzRnBnN0phLVV2emhOVEZEeFp1M0hfanM4S0dqVGc4Ymtld3dDaVQyRm4waUpRYVpJc2psbVNGNld4RjZkd3hPTEN2T1pQeUZmalNDbEJmQkliWlVVRkFJTGprR1FkeDNhYXdTV1VVRF8wa2duSFVqSlctWllpT3hPZ0ZQbmFPVFZBRnB4TVlMZjBxYk51UmZZdktwMmRFQ2ZrMEhxWmh2OGN2TllrY01ia092WE9lWlFMejB0Zw?oc=5",
      "pubDate": "Wed, 26 Aug 2026 05:52:52 GMT",
      "source": "Investing.com"
+    },
+    {
+     "title": "Mercury Systems (NASDAQ: MRCY) insider to sell 49,090 option shares after heavy recent sales - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYUxzZDM1aXh0czFTU1JTQTdRemdjblMtS2I5OVo4UFdEMjhVRGtXQS1SeEdRa1dpSWljeEtKSzhQaUNudl9XaVY4WFpQZ2NYV29zY0l2THZXQlV4VjNmZ1ljMmVZYUV5Q0plUnNIeTE3d1FPYkpKMXJxd3ZUTW5YaFhGNXdrdjd3NVJPdkVNcWxsVXZsSEZRYzJZM1I?oc=5",
+     "pubDate": "Wed, 26 Aug 2026 20:20:58 GMT",
+     "source": "Stock Titan"
     }
    ]
   },
@@ -1373,8 +1373,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 297.29,
-    "changePct": 0.0
+    "price": 298.39,
+    "changePct": 0.37
    },
    "relVol": 0.9,
    "avgVolume": 347069,
@@ -1449,8 +1449,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 53.98,
-    "changePct": 0.54
+    "price": 53.82,
+    "changePct": 0.24
    },
    "relVol": 0.9,
    "avgVolume": 2282487,
@@ -1525,8 +1525,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 38.92,
-    "changePct": 0.0
+    "price": 39.1,
+    "changePct": 0.46
    },
    "relVol": 1.3,
    "avgVolume": 837271,
@@ -1601,8 +1601,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.26,
-    "changePct": -0.22
+    "price": 9.27,
+    "changePct": -0.09
    },
    "relVol": 0.9,
    "avgVolume": 5530294,
@@ -1677,8 +1677,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 343.39,
-    "changePct": 0.19
+    "price": 343.5,
+    "changePct": 0.23
    },
    "relVol": 1.8,
    "avgVolume": 2710480,
@@ -1754,7 +1754,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 11.29,
-    "changePct": 0.16
+    "changePct": 0.15
    },
    "relVol": 0.8,
    "avgVolume": 9255605,
@@ -1829,8 +1829,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 565.41,
-    "changePct": -0.08
+    "price": 566.19,
+    "changePct": 0.05
    },
    "relVol": 0.8,
    "avgVolume": 900667,
@@ -2285,8 +2285,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.16,
-    "changePct": 0.14
+    "price": 7.17,
+    "changePct": 0.24
    },
    "relVol": 0.7,
    "avgVolume": 22028683,
@@ -2437,8 +2437,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 67.46,
-    "changePct": -0.11
+    "price": 67.53,
+    "changePct": 0.0
    },
    "relVol": 0.9,
    "avgVolume": 12825380,
@@ -2589,8 +2589,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 211.25,
-    "changePct": -0.39
+    "price": 212.1,
+    "changePct": 0.01
    },
    "relVol": 1.1,
    "avgVolume": 3133032,
@@ -2741,8 +2741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 82.4,
-    "changePct": 0.06
+    "price": 82.35,
+    "changePct": 0.01
    },
    "relVol": 1.5,
    "avgVolume": 1030369,
@@ -2817,8 +2817,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 210.0,
-    "changePct": 0.05
+    "price": 210.2,
+    "changePct": 0.15
    },
    "relVol": 0.9,
    "avgVolume": 5004038,
@@ -2970,7 +2970,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 5.93,
-    "changePct": 0.02
+    "changePct": 0.01
    },
    "relVol": 0.9,
    "avgVolume": 26464214,
@@ -3326,8 +3326,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 26.52,
-    "changePct": 0.85
+    "price": 26.3,
+    "changePct": 0.0
    },
    "relVol": 0.9,
    "avgVolume": 3508570,
@@ -3408,8 +3408,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 184.83,
-    "changePct": -0.59
+    "price": 184.82,
+    "changePct": -0.6
    },
    "relVol": 1.5,
    "avgVolume": 26253197,
@@ -3452,10 +3452,10 @@ window.DASHBOARD_DATA = {
      "source": "The Motley Fool"
     },
     {
-     "title": "Palantir and Salesforce among market cap stock movers on Thursday - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORG11YVZiUVFpTHp5dDZtTWNFVEhYVWRuZTl1Y2RfX19wWmdzcFlBRVZKbHJiN19fcVN3TVZlaC1DSTZjWXdWdGxGa3VXeW9WQ0dQdm5UOWtYQVpEd2sxbm03Y19GRDBTbTRvQjlESDF4TXhCa2YxRUF5Tm1tbjRjOXl5ejJiREtPOGlXRjRKTWFSeEZ5QWZreDA5VXFCc28ta1BYamd6VDhZQVlGT29Dd3N6RGtnX1BsVl84N2hIWUNNajhzX0E?oc=5",
-     "pubDate": "Thu, 27 Aug 2026 18:10:23 GMT",
-     "source": "Investing.com"
+     "title": "Cramer's lightning round: Palantir is 'a great spec' - CNBC",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZFducnJqaldWZWQ1Zmk3UVNNaTdYdi0xdDN5M1RFV2dyeFF5UXVTS25DTDlVYWFOamFWd1l0Y0hRa1ZrSUoxSUhFY2M2M1QtWFRiMDN3M3JkSGNGWjlSNk5Lc1NCUHBtRllSenN6UTM4QUdHS1o3YmJLS19SOGZQVGg3S3ozVkVsbmVnLVRB0gGTAUFVX3lxTE1YMlVtM09iOVRtZmpJcFBOXzlhX0ZOZmcwaUNnWGoxYXA2OVdJNWxpNVFnTWhYRDM4bEVsVWswNEwwRXdNRjRUWXVSSFd2SHdNYnZ5SW1pcHYtMEZwZEwxdTJfV3FiTnlOVGtLU0ZQZ0x3djYwX2VXSDRmcElid2JnX2ttUGJCcDJsTjYyeFZMTDhYNA?oc=5",
+     "pubDate": "Mon, 24 Aug 2026 22:55:01 GMT",
+     "source": "CNBC"
     }
    ]
   },
@@ -3491,7 +3491,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 8.7,
-    "changePct": -0.53
+    "changePct": -0.57
    },
    "relVol": 1.7,
    "avgVolume": 47705525,
@@ -3610,16 +3610,16 @@ window.DASHBOARD_DATA = {
      "source": "StockStory"
     },
     {
+     "title": "Astronics Announces 20% Class B Stock Distribution - Business Wire",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPalNwbUd0dDVOT20zdXNTdGYxMDJ2U3FUMnU2Y3MzbTZnWW5vdzdjakN2WWgzSktnVGNPRnRZWTZ5Y2MyMENFamR1ZEZTdEtqenktVlJtZWxkZ0VLUFIxbVlkOXBYRGZ5Zm9LVjEwd0MyN1U4c1FaalR3WEhfekZaTkFmZW9hY21nV0c2TWk4OENMQ3FxNU1XcUViVmFOSnd6c3ZhSFF6RzZ4dw?oc=5",
+     "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+     "source": "Business Wire"
+    },
+    {
      "title": "Astronics (NASDAQ: ATRO) director shifts 76K Class B into common - Stock Titan",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS180MERDMGJrR0J0MmdyZlNTU0RDUDIwdXNzTi1OVTRscGJiMEtJWGMtVHZXbkd1SGtTMEFwQ1p0NVh5Y3RXWGtxOFlkd21SaTFRSndfNk44ckJJelhlQWkzc2xpcTRXN0pkSlVzQUlsckszUVdHckVOZzBSR1h0T1Utczd0SDMtUE11X3hoTndaU1pKZEVYUEFDcjgwQ0ZXWHFKb21KUEJrLTls?oc=5",
      "pubDate": "Wed, 26 Aug 2026 20:23:14 GMT",
      "source": "Stock Titan"
-    },
-    {
-     "title": "Why Astronics Stock Popped Today - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQam9ZaGtPYU9mMS1ITEZMZDlhTXFnRVpCVUlYX0hxSXBSb24xX24zYzM4ZW93QTlySHFXM2d0d3dPYzZtdjNjRUV6UlRyeWNoVjg0eV9oQmphRXplcDJYdmd1bFBWcTVCS1Y1ZXRRNTdLYnhCT3pnMmFVeXo4dlpSRQ?oc=5",
-     "pubDate": "Wed, 12 Aug 2026 07:00:00 GMT",
-     "source": "The Motley Fool"
     }
    ]
   },
@@ -3654,8 +3654,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 156.62,
-    "changePct": 0.49
+    "price": 156.69,
+    "changePct": 0.54
    },
    "relVol": 0.9,
    "avgVolume": 1228623,
@@ -3856,16 +3856,16 @@ window.DASHBOARD_DATA = {
      "source": "MarketWatch"
     },
     {
+     "title": "Leidos Holdings (LDOS) Lands $301 Million Cyber Contract, Is The Stock Still Undervalued? - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdkV3bmhJUEFtYkJBTWE5dEQwd0FVeUtnak5xcFlEb3ZjYXJoMlh5UVVuMGt2dUo0Uk5IV1FYbU9nMk1FeFZpTC1xVExPd3FHeG1IR09ieVdORnpZT1FlZ25YTzNvaWE4ZF9RODRiVVJ2VjNMdVR5NGN1UE5Tb1lSUzNIeGhQT2otQVEyQXdmTGlDaVpRTXplRnVZNWRjVVJhbWJjd2U2bzIzdnhIVDkzX2h0Uk42MlFPWnFKeEJ4bThDUHgzeHJSemdkNkRmVm10Z2JubkYxc01OSGfSAeABQVVfeXFMT3FJdWdjNGxyZXp2Rk9Xb2p1V1BRcWZUNWlpQUJja0ZjTjZlWWlWVDFPWXVSQWVmSjhvMlFfWm1MWDFFbEdNUURhRE9vYy1JRHNDQ0FabkNEX2tQSHFnekstc1VlajhtSXpic04zdkliMzlDZEttN0N4Y3BwRjB1UkZuZXpvRnI3NzR2dDJuRWU1RllFZWNwSzlBSEhPVTJXb1ZkV3BGcFkxUkRmY1ZlTlEtdUpQYlduemdoOFdUOHhBU2N5b0hma3dDNDZNUTlSZzVKR2ZqYnJEbWhUZzM0Ukg?oc=5",
+     "pubDate": "Mon, 24 Aug 2026 21:17:57 GMT",
+     "source": "simplywall.st"
+    },
+    {
      "title": "Why Leidos (LDOS) Stock Is Up Today - Quiver Quantitative",
      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4bzNEVTZwd0lxOHVEX3dvZ29ZazFIaldNdTZERXE4bGRaYmlqMHNwVDdaSFJiQ1RhU0ZjZmQ3WHd2UXZ0SVdzRTBVeHpMbDNrZXhwdTRuTHNSOHpQV1djaEd4UTI0U1BKX2l6NTkzVV9CUGw1c1ZIWFVvWXM?oc=5",
      "pubDate": "Tue, 04 Aug 2026 07:00:00 GMT",
      "source": "Quiver Quantitative"
-    },
-    {
-     "title": "Leidos Holdings (LDOS) Lands $301 Million Cyber Contract, Is The Stock Still Undervalued? - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcUl1Z2M0bHJlenZGT1dvanVXUFFxZlQ1aWlBQmNrRmNONmVZaVZUMU9ZdVJBZWZKOG8yUV9abUxYMUVsR01RRGFET29jLUlEc0NDQVpuQ0Rfa1BIcWd6Sy1zVWVqOG1JemJzTjN2SWIzOUNkS203Q3hjcHBGMHVSRm5lem9Gcjc3NHZ0Mm5FZTVGWUVlY3BLOUFISE9VMldvVmRXcEZwWTFSRGZjVmVOUS11SlBiV256Z2g4V1Q4eEFTY3lvSGZrd0M0Nk1ROVJnNUpHZmpickRtaFRnMzRSSNIB4AFBVV95cUxPcUl1Z2M0bHJlenZGT1dvanVXUFFxZlQ1aWlBQmNrRmNONmVZaVZUMU9ZdVJBZWZKOG8yUV9abUxYMUVsR01RRGFET29jLUlEc0NDQVpuQ0Rfa1BIcWd6Sy1zVWVqOG1JemJzTjN2SWIzOUNkS203Q3hjcHBGMHVSRm5lem9Gcjc3NHZ0Mm5FZTVGWUVlY3BLOUFISE9VMldvVmRXcEZwWTFSRGZjVmVOUS11SlBiV256Z2g4V1Q4eEFTY3lvSGZrd0M0Nk1ROVJnNUpHZmpickRtaFRnMzRSSA?oc=5",
-     "pubDate": "Mon, 24 Aug 2026 20:24:35 GMT",
-     "source": "simplywall.st"
     }
    ]
   },
@@ -3920,27 +3920,27 @@ window.DASHBOARD_DATA = {
    "marketTime": 1787860802,
    "news": [
     {
-     "title": "OPM HR consolidation with CACI expected to cut taxpayer costs by over 90% - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEF5c0RMeGdpdkhLclk1Q3h1M1BpRTFwdFF0SS03NEJlajZ0aUlYQUJ4ejRHdGNIU0VjbkE1WWttVU5KM2w0ZzlFdXVPb3ROeDRKQ204WHNhUElGVjQxN0FWcmJzT05NUmRiNW9ycFJPSEx2Qks2VWl0ckdmaGUtQ2x3M2ZDcVZtMnQ5TkxLOER3YmN0cjhaQzhFV2tmZ1lPS3lYZ1hfS29rWURlVHhaaWVsQVNWc0NvQWc?oc=5",
-     "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-     "source": "Stock Titan"
-    },
-    {
      "title": "CACI's new Rochester center expands manufacturing space by more than 300% - Stock Titan",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc05QRV8wdGpacFNuQmh6eVBwM2xtZkMwRmVWcjBVS2haMWcyNk84U3B3OTJFU2s0RURSV19uZm84UlpXbUVoNGNlYVBHZ0MzVGJHZnF5YXNzb0JQd3RWc0tmek04czllY2twcEZfcVVUZ0tWQlA4UFI1MnlkLURfZnFQaUFUY2hTc3VqUTY0ckRUN1pDV2hBX1Nna0xuNHowMXlCS3FkVURJQ20zUlRwUUFR?oc=5",
      "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
      "source": "Stock Titan"
     },
     {
-     "title": "CACI gets $140.5M Army contract increase for forensic analysis work - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcElyWmZfM0x2ZXhMNjZBLUlrdk1ISWJpY1pkaTdhRUE4d3BJU3gySDBwMWxVYl9ab2pzUVhrTHdTZlFqYTBMb0hMaHc1UmR2WlBHOWpYeTcydmZRRHFMeVpySndGTktDOFFWMWgzT0NVemtaNE5IT2hjSERLTUd0XzNLYmFfekVMV0pPYWpvSVY4Zk1oc1VTQU1XSFBkREQwUzNhOEhuakFtM1lvRC1kTVVTY1JFM3JEOFhyM2N3?oc=5",
-     "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+     "title": "OPM HR consolidation with CACI expected to cut taxpayer costs by over 90% - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEF5c0RMeGdpdkhLclk1Q3h1M1BpRTFwdFF0SS03NEJlajZ0aUlYQUJ4ejRHdGNIU0VjbkE1WWttVU5KM2w0ZzlFdXVPb3ROeDRKQ204WHNhUElGVjQxN0FWcmJzT05NUmRiNW9ycFJPSEx2Qks2VWl0ckdmaGUtQ2x3M2ZDcVZtMnQ5TkxLOER3YmN0cjhaQzhFV2tmZ1lPS3lYZ1hfS29rWURlVHhaaWVsQVNWc0NvQWc?oc=5",
+     "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
      "source": "Stock Titan"
     },
     {
      "title": "U.S. Space Force taps CACI to modernize how Guardians train - Stock Titan",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmMtSDh5Y0Z3MnlWS1RlR0ZfUHV6NDlsQXhYN1dUY1p5UWtQOW9rR3FXMHZFSXFXd0ZfNUp3Ty0tUEdYRlkwN3JfTEo5TFI1ZmRxSVV3aTd3YWc3Qlg2YnQ1cFV5Tnpvd2ZyWl90V05aLWFwbVh4dS1XTXpscEM5RXp0czg0ZFFLYkxreC1aZ0JmZllaU1RocHN4TVhNYWZUNGFyLWlUcWlacy1zU0Z1Y0ZreHpZb20zT0htT1VB?oc=5",
      "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
+     "source": "Stock Titan"
+    },
+    {
+     "title": "CACI gets $140.5M Army contract increase for forensic analysis work - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcElyWmZfM0x2ZXhMNjZBLUlrdk1ISWJpY1pkaTdhRUE4d3BJU3gySDBwMWxVYl9ab2pzUVhrTHdTZlFqYTBMb0hMaHc1UmR2WlBHOWpYeTcydmZRRHFMeVpySndGTktDOFFWMWgzT0NVemtaNE5IT2hjSERLTUd0XzNLYmFfekVMV0pPYWpvSVY4Zk1oc1VTQU1XSFBkREQwUzNhOEhuakFtM1lvRC1kTVVTY1JFM3JEOFhyM2N3?oc=5",
+     "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
      "source": "Stock Titan"
     },
     {
@@ -3982,8 +3982,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 152.73,
-    "changePct": 0.3
+    "price": 153.0,
+    "changePct": 0.47
    },
    "relVol": 1.3,
    "avgVolume": 998898,
@@ -4102,16 +4102,16 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "Mercury Systems (NASDAQ: MRCY) insider to sell 49,090 option shares after heavy recent sales - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYUxzZDM1aXh0czFTU1JTQTdRemdjblMtS2I5OVo4UFdEMjhVRGtXQS1SeEdRa1dpSWljeEtKSzhQaUNudl9XaVY4WFpQZ2NYV29zY0l2THZXQlV4VjNmZ1ljMmVZYUV5Q0plUnNIeTE3d1FPYkpKMXJxd3ZUTW5YaFhGNXdrdjd3NVJPdkVNcWxsVXZsSEZRYzJZM1I?oc=5",
-     "pubDate": "Wed, 26 Aug 2026 20:20:58 GMT",
-     "source": "Stock Titan"
-    },
-    {
      "title": "Mercury Systems CEO Ballhaus sells $15.7m in common stock after option exercise - Investing.com",
      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM0N0Zmt2SWFpUTNCVWZQUkRBM08tc3BzUkZmR1ZzRnBnN0phLVV2emhOVEZEeFp1M0hfanM4S0dqVGc4Ymtld3dDaVQyRm4waUpRYVpJc2psbVNGNld4RjZkd3hPTEN2T1pQeUZmalNDbEJmQkliWlVVRkFJTGprR1FkeDNhYXdTV1VVRF8wa2duSFVqSlctWllpT3hPZ0ZQbmFPVFZBRnB4TVlMZjBxYk51UmZZdktwMmRFQ2ZrMEhxWmh2OGN2TllrY01ia092WE9lWlFMejB0Zw?oc=5",
      "pubDate": "Wed, 26 Aug 2026 05:52:52 GMT",
      "source": "Investing.com"
+    },
+    {
+     "title": "Mercury Systems (NASDAQ: MRCY) insider to sell 49,090 option shares after heavy recent sales - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYUxzZDM1aXh0czFTU1JTQTdRemdjblMtS2I5OVo4UFdEMjhVRGtXQS1SeEdRa1dpSWljeEtKSzhQaUNudl9XaVY4WFpQZ2NYV29zY0l2THZXQlV4VjNmZ1ljMmVZYUV5Q0plUnNIeTE3d1FPYkpKMXJxd3ZUTW5YaFhGNXdrdjd3NVJPdkVNcWxsVXZsSEZRYzJZM1I?oc=5",
+     "pubDate": "Wed, 26 Aug 2026 20:20:58 GMT",
+     "source": "Stock Titan"
     }
    ]
   }
@@ -4148,12 +4148,6 @@ window.DASHBOARD_DATA = {
    "source": "ChemNet News"
   },
   {
-   "title": "Anderson Cooper: Iran's Master Trap: How America Is Accidentally Making China Stronger Clay Aiken American Idol (ZQ1rQ5KbjI) - Mshale",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqVVBkT3ZPUlVuTVN2Zy01US14bXFhdTZNdllpZzdIVjdnOUk1UUUyQUFEWGJWOEItQkNNSFlwLWdiSlpEMzk1Y2FfMFFqd25aRC1qN1pma0dlTm5EQTdEVQ?oc=5",
-   "pubDate": "Thu, 27 Aug 2026 06:39:50 GMT",
-   "source": "Mshale"
-  },
-  {
    "title": "NATO Commander Rushes to Egypt to Learn About Chinese J-16 Fighters - Reports - Military Watch Magazine",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd1ExQ0dBczhIOHRDYVNwSXFnandNalVBdFhfVGctNlBmMWZ4SEttVDg3cG10ZDBkMVNiY0NTS2NRZ2ZRR2xSS2UxT09XNlhCa2d2WlpXVmROTjdTVmdLVHFnNXBqZENwVlp3bHVHNHlxbF8xMG5vOGVkZlAtdGpGb0JpckVVOWEtWmdlbHVhV0s?oc=5",
    "pubDate": "Thu, 27 Aug 2026 03:48:20 GMT",
@@ -4178,16 +4172,22 @@ window.DASHBOARD_DATA = {
    "source": "The Economic Times"
   },
   {
-   "title": "Should Bangladesh join the Mecca Pact? - The Daily Star",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWo3ZG9vM1daTWFuZHVaeE5yVUdxRWdIQmNXWFNTOXlrd3NnQUVydjZfQlNKT01YSDJUMTJESGFNbTRySUE4RjREQWVUN09SeUdlXzJwVnhkVU1UMUhyYUpUazhzX2RJRm5vWEFoeHdPZ3NtYldEUnNlM0ZHVGx3bTh0QXpFR3ZBUjZYai01QkpOeXFmZ2RVTGRDLWdlUllFRmttUGpaS281UEEtWTJEMU9R?oc=5",
-   "pubDate": "Thu, 27 Aug 2026 18:43:19 GMT",
-   "source": "The Daily Star"
-  },
-  {
    "title": "Anderson Cooper: Iran Just Activated 47-Year War Plan \u2014 Exposed America\u2019s Fatal Miscalculation Mormon Church (22nifdxacI) - Mshale",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KMXVwZ3N4UDZBa3hxWmptU0RHU1hqT21WNjRMWEM3Q2VLLUhFZVRCQldhZTVjeDBodDltYlRpemx3dkhNWGYwYXVESjJWdVUxOVlLMjNwUG12RUZTODQ1NQ?oc=5",
    "pubDate": "Thu, 27 Aug 2026 17:10:03 GMT",
    "source": "Mshale"
+  },
+  {
+   "title": "Dow, S&P 500, Nasdaq Futures Slide As US-Iran War Shock Sends Oil Soaring: Why INDO, DJT, USO, XOM, CVX Kept Traders On Edge Today - Stocktwits",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaWhfeG9VbzhzNmVGbnQwLWhuQmZBZVlhNFJ2RHhuSjVBdzNBejdRZWJfaUxVamk1bTRndDRsUGdBYnJzaEZrb2xBZlF6Y3VISVoxTlp5c2NqNVRLOV9CWEhwNVU4bVBScGM1b05ONUlrLU12X3BjTldURzd6M3dsVXF4VzdkUi1HN1NMUHNCMnVTU3drcmJIczJMcWdwMHBFZGstdjBITC0xNUl2cDBKMWNBSUQ5QUNMWmtwLWhLU2lUNDJYQS1FcXVIVl9sQzRCTWZB?oc=5",
+   "pubDate": "Thu, 27 Aug 2026 02:53:37 GMT",
+   "source": "Stocktwits"
+  },
+  {
+   "title": "Should Bangladesh join the Mecca Pact? - The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWo3ZG9vM1daTWFuZHVaeE5yVUdxRWdIQmNXWFNTOXlrd3NnQUVydjZfQlNKT01YSDJUMTJESGFNbTRySUE4RjREQWVUN09SeUdlXzJwVnhkVU1UMUhyYUpUazhzX2RJRm5vWEFoeHdPZ3NtYldEUnNlM0ZHVGx3bTh0QXpFR3ZBUjZYai01QkpOeXFmZ2RVTGRDLWdlUllFRmttUGpaS281UEEtWTJEMU9R?oc=5",
+   "pubDate": "Thu, 27 Aug 2026 18:43:19 GMT",
+   "source": "The Daily Star"
   }
  ],
  "mna": [
@@ -4278,6 +4278,12 @@ window.DASHBOARD_DATA = {
    "source": "Defensehere"
   },
   {
+   "title": "Boeing team wins gold at 2026 Aerospace Summer Games - The Boeing Company",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVZqNkxCd2ZMVy03ZVgtNDg4QlNPUGd2MXNzMm0zNXFuUnp5SUZiS3Q1MFduZDVRM3RLbHhJWjRFRTE0b3ZCdlF1dllSSHZHcm93T2h5dnA0ZjdUbzFlZ2EyNnJxZ25tNzBMcXB6NG9fUWJKdHg2ajVxaXFBS3BNMUZtT2FvX0VvOW5abmVHZWJ4U2dIQlZ3?oc=5",
+   "pubDate": "Thu, 27 Aug 2026 09:41:59 GMT",
+   "source": "The Boeing Company"
+  },
+  {
    "title": "Congressman Womack warns defense spending must keep pace as technology advances - 5newsonline.com",
    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOT3M2TGtlci1PdktNRGlOUEEydVdpQVJWOWtwRVhQTExWcEoyMjV2QVRIV3V5RTBJdUVzMU1GTnFlYmRpU1EwR210d0QxQ2lKY2lKRzZLN0tjR2NmNXM4el9vd3pkTDdIMXRVS2V6dGU2Q2xJYUFRMnVSMm12ODFsQUxBdGszdjRUWndlT2YyektDbm5SY2ZwSFpNVVdWcXAzS3duTTV6ZmZKX0Y4cFQyT1FVYmsyYmtpTDlRT1dXS2JVM0hKSUJ1THNvNXJDRHktZG1wSmVwNUM3bWxHa1pVS2pwUG9aM0FZTy0zZXlrR3hlNUNGZzJzdzBFZHZYNG53aUNWc25JdXVXSWlRWHc?oc=5",
    "pubDate": "Thu, 27 Aug 2026 00:53:00 GMT",
@@ -4306,12 +4312,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMlhPakRtajhWOGFaTlR1ZjFhbktONUJuQl9Ob3o2XzdDeXU1TFJkRG1lbjRZQXYtblZtWlVqa190X1NGWnJmY0xCVDltUnZISjhIQ3c1dHVlVXpqaUk3S3VteUlXQ3ZOS2IyWG1peWI3bzJ0OG5XUloxTl9fc0FsUEdlRHBPcGpfN2dRYUpwWkYtb1RpeGZja2dnOUNOZlJOeGE3eW0xOS1vbzU2cnFxRFNmUllkcWZOS0RUc1hoNDZySHI3R29LQVRlTGlaWlhLM2w5ekQ0Y2xSQWtfR0dRcGZXVWRKeTNkRWlma1BGYkFiMDUxQ3l5M1o4LWJOM3k3MjlKV3JBWlJMQlRRclE?oc=5",
    "pubDate": "Thu, 27 Aug 2026 14:15:52 GMT",
    "source": "Aviacionline"
-  },
-  {
-   "title": "TASKING & dSPACE India Partner to Advance Aerospace & Defence Software - TimesTech",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXIwcjY5ZWxhUC1QVlctZmx0UUI4bjdUTzhfbUxxMlpIYXNRck5Pa210eF92XzNsdjlySnNnbThhTFZ6VEU4QW9qcGtjT1ZoS3RZN0xXSTNoeGdickw3czhaMl9JQTVDd2dpYWc4bThrbndveXNtMVkxQ3ZhaV9FQTJRSDdYc3FRcGVXUmhJNF9qZw?oc=5",
-   "pubDate": "Thu, 27 Aug 2026 06:21:32 GMT",
-   "source": "TimesTech"
   }
  ],
  "industrialsNews": [
@@ -4396,6 +4396,12 @@ window.DASHBOARD_DATA = {
    "source": "National Defense Magazine"
   },
   {
+   "title": "Contracts for Aug. 24, 2026 - U.S. Department of War (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazNpX3ZiWDJoQ0swMkx3MVA5ZXpUaEFvc0NYYlNORTE0cTEwSEtrYlJocFhYbXZYQTVheUVRVlZfV1MtNUdaVHVpakZXSGdKUlFkcE8wVVctTElZRjNtQkh3eU50TzlXS3RWVV9WaUdtUnZVazVDeHl2Z2tHX3FSa3lpREJpLUtQcVBZbzY0cw?oc=5",
+   "pubDate": "Mon, 24 Aug 2026 21:23:19 GMT",
+   "source": "U.S. Department of War (.gov)"
+  },
+  {
    "title": "Boeing nabs whopping $131 billion F-15 deal - Breaking Defense",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObS1RWTUzaDJWTHNqV1JQSWdsTTY0eldkTERYTks5eDNJZHlYNGYtU19EYzlWaC12MU1rX1RsaWVyOWRGWDY5N1FjVVBDVkRKYnVQRmNEc3JLRVZqeVVBRGxqalhtWjVVdnFNdldxSXFXVVRRV1Y1c2poSDlrQ1RyUG5jSXEwQQ?oc=5",
    "pubDate": "Wed, 26 Aug 2026 18:32:42 GMT",
@@ -4406,12 +4412,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNYU5aX3lNLThudUtUTVY5UURGZEcxUGgxRVFqSFljNGhHMWluZ0QweXdWamZBRlgtNzJNNC1KeE11eEU5aXJQSE9BQ0E4OEZWRjlLY2hQZ25HN1R2T0xpUmVtOW4ydzQyNENQTTJzX2J4enlaV2x4N2FwX1ZXVGhBSXhaY2RsVDJJbjhkSXNBdzhQM2w2SHQxbWJhMnBmUnR6M1FqWnVNS0lUbkxHZ0xaV21DVF9xRGpxSU1JZnpCaWtrZW4yS2RkNXljRFZrZlNaNnNNZ3hDTzFId0RnLWtRTlJEUWJPTGduZjRnQnZwbnppenBGeTVVelJ0Qms3OFVqZF9WNE9DbGQyYTVEbmktYlNiSmdMWEpBQ3N2WmRPVTNXNmJvalE?oc=5",
    "pubDate": "Wed, 26 Aug 2026 21:54:00 GMT",
    "source": "rocketcitynow.com"
-  },
-  {
-   "title": "Contracts for Aug. 24, 2026 - U.S. Department of War (.gov)",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazNpX3ZiWDJoQ0swMkx3MVA5ZXpUaEFvc0NYYlNORTE0cTEwSEtrYlJocFhYbXZYQTVheUVRVlZfV1MtNUdaVHVpakZXSGdKUlFkcE8wVVctTElZRjNtQkh3eU50TzlXS3RWVV9WaUdtUnZVazVDeHl2Z2tHX3FSa3lpREJpLUtQcVBZbzY0cw?oc=5",
-   "pubDate": "Mon, 24 Aug 2026 21:23:19 GMT",
-   "source": "U.S. Department of War (.gov)"
   },
   {
    "title": "Raytheon lands up to $603M Air Force contract - Virginia Business",
