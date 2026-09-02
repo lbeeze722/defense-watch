@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-09-02T20:19:02.352696+00:00",
+ "generatedAt": "2026-09-02T20:24:37.617732+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 508.0,
-    "changePct": 0.2
+    "price": 510.0,
+    "changePct": 0.6
    },
    "relVol": 1.4,
    "avgVolume": 726183,
@@ -331,8 +331,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 169.72,
-    "changePct": 0.15
+    "price": 170.16,
+    "changePct": 0.41
    },
    "relVol": 1.6,
    "avgVolume": 24226557,
@@ -413,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 45.37,
-    "changePct": 0.0
+    "price": 45.33,
+    "changePct": -0.09
    },
    "relVol": 1.6,
    "avgVolume": 781289,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 47.84,
-    "changePct": 0.13
+    "price": 47.78,
+    "changePct": 0.0
    },
    "relVol": 1.9,
    "avgVolume": 2123976,
@@ -659,8 +659,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 81.01,
-    "changePct": -1.89
+    "price": 82.57,
+    "changePct": 0.0
    },
    "relVol": 1.4,
    "avgVolume": 437708,
@@ -737,12 +737,12 @@ window.DASHBOARD_DATA = {
     532.05,
     533.83,
     531.25,
-    531.6
+    531.55
    ],
    "ext": {
     "label": "after-hours",
-    "price": 534.0,
-    "changePct": 0.45
+    "price": 532.98,
+    "changePct": 0.27
    },
    "relVol": 2.0,
    "avgVolume": 596998,
@@ -750,15 +750,15 @@ window.DASHBOARD_DATA = {
    "name": "Lockheed Martin",
    "vertical": "Prime Contractors",
    "description": "Largest US defense prime \u2014 F-35 fighter, missiles & fire control (PAC-3, HIMARS), Sikorsky helicopters, and space systems.",
-   "price": 531.6,
+   "price": 531.55,
    "prevClose": 561.23,
-   "changePct": -5.28,
-   "volume": 1189962,
+   "changePct": -5.29,
+   "volume": 1166886,
    "dayHigh": 548.0,
    "dayLow": 530.15,
    "fiftyTwoWeekHigh": 692.0,
    "fiftyTwoWeekLow": 437.25,
-   "marketTime": 1788379200,
+   "marketTime": 1788379472,
    "news": [
     {
      "title": "Lockheed Martin Stock Rises 12.6% YTD: Is There Still Room to Grow? - Yahoo Finance",
@@ -987,8 +987,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.35,
-    "changePct": 0.19
+    "price": 10.34,
+    "changePct": 0.1
    },
    "relVol": 1.3,
    "avgVolume": 7634060,
@@ -1069,8 +1069,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 201.57,
-    "changePct": 0.39
+    "price": 201.2,
+    "changePct": 0.21
    },
    "relVol": 2.3,
    "avgVolume": 2022851,
@@ -1315,8 +1315,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.9,
-    "changePct": 0.27
+    "price": 14.89,
+    "changePct": 0.2
    },
    "relVol": 1.1,
    "avgVolume": 4202226,
@@ -1397,8 +1397,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.33,
-    "changePct": 0.12
+    "price": 8.35,
+    "changePct": 0.36
    },
    "relVol": 1.1,
    "avgVolume": 5173416,
@@ -1479,8 +1479,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 523.82,
-    "changePct": 0.0
+    "price": 524.0,
+    "changePct": 0.03
    },
    "relVol": 2.0,
    "avgVolume": 365572,
@@ -1631,8 +1631,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 37.09,
-    "changePct": 0.19
+    "price": 37.57,
+    "changePct": 1.49
    },
    "relVol": 1.2,
    "avgVolume": 770578,
@@ -1783,8 +1783,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.62,
-    "changePct": -0.46
+    "price": 5.61,
+    "changePct": -0.71
    },
    "relVol": 0.7,
    "avgVolume": 22133462,
@@ -1859,8 +1859,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 156.09,
-    "changePct": 0.27
+    "price": 155.69,
+    "changePct": 0.01
    },
    "relVol": 0.9,
    "avgVolume": 1007531,
@@ -1935,8 +1935,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 146.53,
-    "changePct": 0.79
+    "price": 146.16,
+    "changePct": 0.53
    },
    "relVol": 1.5,
    "avgVolume": 962099,
@@ -2087,8 +2087,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 263.31,
-    "changePct": 0.77
+    "price": 263.01,
+    "changePct": 0.65
    },
    "relVol": 1.3,
    "avgVolume": 1101951,
@@ -2163,8 +2163,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 329.39,
-    "changePct": -0.03
+    "price": 329.5,
+    "changePct": 0.0
    },
    "relVol": 1.0,
    "avgVolume": 2577837,
@@ -2467,8 +2467,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 626.55,
-    "changePct": 2.0
+    "price": 614.27,
+    "changePct": 0.0
    },
    "relVol": 2.2,
    "avgVolume": 186562,
@@ -2543,8 +2543,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 62.85,
-    "changePct": -0.4
+    "price": 62.93,
+    "changePct": -0.26
    },
    "relVol": 1.3,
    "avgVolume": 12741645,
@@ -2999,8 +2999,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.59,
-    "changePct": -0.26
+    "price": 7.58,
+    "changePct": -0.39
    },
    "relVol": 1.3,
    "avgVolume": 59253620,
@@ -3075,8 +3075,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 208.59,
-    "changePct": -0.13
+    "price": 208.99,
+    "changePct": 0.06
    },
    "relVol": 1.6,
    "avgVolume": 4006465,
@@ -3151,8 +3151,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 23.6,
-    "changePct": 0.21
+    "price": 23.33,
+    "changePct": -0.93
    },
    "relVol": 0.8,
    "avgVolume": 3178093,
@@ -3303,8 +3303,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.85,
-    "changePct": 0.44
+    "price": 6.83,
+    "changePct": 0.09
    },
    "relVol": 1.0,
    "avgVolume": 20622627,
@@ -3381,8 +3381,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 508.0,
-    "changePct": 0.2
+    "price": 510.0,
+    "changePct": 0.6
    },
    "relVol": 1.4,
    "avgVolume": 726183,
@@ -3463,8 +3463,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 169.72,
-    "changePct": 0.15
+    "price": 170.16,
+    "changePct": 0.41
    },
    "relVol": 1.6,
    "avgVolume": 24226557,
@@ -3545,8 +3545,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 45.37,
-    "changePct": 0.0
+    "price": 45.33,
+    "changePct": -0.09
    },
    "relVol": 1.6,
    "avgVolume": 781289,
@@ -3627,8 +3627,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 47.84,
-    "changePct": 0.13
+    "price": 47.78,
+    "changePct": 0.0
    },
    "relVol": 1.9,
    "avgVolume": 2123976,
@@ -3791,8 +3791,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 81.01,
-    "changePct": -1.89
+    "price": 82.57,
+    "changePct": 0.0
    },
    "relVol": 1.4,
    "avgVolume": 437708,
@@ -3869,12 +3869,12 @@ window.DASHBOARD_DATA = {
     532.05,
     533.83,
     531.25,
-    531.6
+    531.55
    ],
    "ext": {
     "label": "after-hours",
-    "price": 534.0,
-    "changePct": 0.45
+    "price": 532.98,
+    "changePct": 0.27
    },
    "relVol": 2.0,
    "avgVolume": 596998,
@@ -3882,15 +3882,15 @@ window.DASHBOARD_DATA = {
    "name": "Lockheed Martin",
    "vertical": "Prime Contractors",
    "description": "Largest US defense prime \u2014 F-35 fighter, missiles & fire control (PAC-3, HIMARS), Sikorsky helicopters, and space systems.",
-   "price": 531.6,
+   "price": 531.55,
    "prevClose": 561.23,
-   "changePct": -5.28,
-   "volume": 1189962,
+   "changePct": -5.29,
+   "volume": 1166886,
    "dayHigh": 548.0,
    "dayLow": 530.15,
    "fiftyTwoWeekHigh": 692.0,
    "fiftyTwoWeekLow": 437.25,
-   "marketTime": 1788379200,
+   "marketTime": 1788379472,
    "news": [
     {
      "title": "Lockheed Martin Stock Rises 12.6% YTD: Is There Still Room to Grow? - Yahoo Finance",
@@ -4119,8 +4119,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.35,
-    "changePct": 0.19
+    "price": 10.34,
+    "changePct": 0.1
    },
    "relVol": 1.3,
    "avgVolume": 7634060,
@@ -4201,8 +4201,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 201.57,
-    "changePct": 0.39
+    "price": 201.2,
+    "changePct": 0.21
    },
    "relVol": 2.3,
    "avgVolume": 2022851,
@@ -4447,8 +4447,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.9,
-    "changePct": 0.27
+    "price": 14.89,
+    "changePct": 0.2
    },
    "relVol": 1.1,
    "avgVolume": 4202226,
@@ -4529,8 +4529,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.33,
-    "changePct": 0.12
+    "price": 8.35,
+    "changePct": 0.36
    },
    "relVol": 1.1,
    "avgVolume": 5173416,
