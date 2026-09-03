@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-09-03T20:03:58.138797+00:00",
+ "generatedAt": "2026-09-03T20:09:36.135792+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -330,8 +330,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 24.51,
-    "changePct": 0.12
+    "price": 24.46,
+    "changePct": -0.09
    },
    "relVol": 0.8,
    "avgVolume": 3034653,
@@ -409,7 +409,11 @@ window.DASHBOARD_DATA = {
     156.19,
     156.47
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 156.36,
+    "changePct": -0.07
+   },
    "relVol": 1.1,
    "avgVolume": 361108,
    "symbol": "OSK",
@@ -488,8 +492,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 2.54,
-    "changePct": -0.78
+    "price": 2.55,
+    "changePct": -0.39
    },
    "relVol": 0.8,
    "avgVolume": 580899,
@@ -506,7 +510,38 @@ window.DASHBOARD_DATA = {
    "fiftyTwoWeekHigh": 6.0,
    "fiftyTwoWeekLow": 1.94,
    "marketTime": 1788465594,
-   "news": []
+   "news": [
+    {
+     "title": "A Look At KULR Technology Group\u2019s (KULR) Valuation After Mixed Q1 Results And Growth Expansion Plans - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGJsRkV4SUZFOGdUN2xjUU1uaFBZRTUxdkUyZkI1ZWh1d0Vlb05LaFB1MEUwTUZjOEFVdnFGUVBfQmpPZ2JFVHU1ZFBySmU2VmlzbVV5a19OdnFTMnhXVWNkcUJoLVBhUzF3TUNmVXpyVG00SHlwN2xSLWtYWEZhd0tMZ2QtdWY3YnRDUnQzRXFPS3VNeEF2T2J0Q2I?oc=5",
+     "pubDate": "Sun, 17 May 2026 07:00:00 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Update On KULR Technology Group: Still An Attractive Takeover Candidate (NYSE:KULR) - Seeking Alpha",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVMxNlh2X1VRdG16Y2ptQ2paTW95bklKSW1oR0VaQXJnRVdZVi03WlRJZXFkaXlCRUI2SERKdVh5QzA2elAzNnpFMklaSndRUEhEQ0NpeE9XZkVaOTJ5OGNfT2o5X3pCaWJTeDFpNGo5WFZqdVFhV2w4WjdKZGZIRHVlZTRacU50dTVOa1laQW1qenlSQzdrSWdVbWNSV2kzQXNKRWxpdERCT0FENzN4WA?oc=5",
+     "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
+     "source": "Seeking Alpha"
+    },
+    {
+     "title": "KULR to discuss June-quarter results in Aug. 13 call - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZmg0bzVCRGFPTGxuT1FKY1h6b1BxYzZiSV9takh5eWtzNXFfVlRBSktCdnE1VFFBc3hROVRqa1ZpR1JhaGYyZUNCemUwZEdSVlY1ZXpIS0VUMEFSazNtOTVhSDlvMDRDdy04Sk1sZXNlV3J2TU5zdmlqNGRTOVlVV3RwRGFtRUNZeTFZZFVqeWlVTW1xQTdYdkFjUTRRaDVMazl4c2YxYWEyWXRwcW4xQTNKSlNlNm5Gd0lz?oc=5",
+     "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
+     "source": "Stock Titan"
+    },
+    {
+     "title": "KULR Technology(KULR) Stock Options Chain | Quotes & News - Moomoo",
+     "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPZlBMcnpteFZoTnQ1c19jRkdLdWpWM1VqeFU0RzBPNE1Ta3FXck1qRjZHT29hTy1sZERnTDl5aHNMdzZWRFdFQWFtM3Vic3dvZVBpWVc1Vmx2VzhqMnk4ZXJPZndONGd5ekk3ZFFoYkR6UkZ4VW8wSlB5aTRKdW1ORFQ5d2cwOGlYSnBzWEMtRGdITUJ4RmpvMFF4eXFUczlldmJoSEhPMm1hTHJOaWpSN3l2NS1nTXhYN0V2eXZuUWxsNWFweTcyODRTN2dfOW5fMXphQk14Zm9fRG5UaUJ6MDVCMzQzNDAtQjVPbVpRbFlaX1VsQmZhVnp4R3NxRHo5aThGcG9OdHd5MkhMdzQ3ME9kdVFaTmRXeW5KMDZEM1lNNnFhOEpfbmlyQWZaZjVRVmNncWdiMTZsNjZRcUdrd0VYU2dNT1QzLWFUelJBR25seXo5ME1WUmpYX0lQSGdQVFI4YzROLVY4S0F0cERQVTFUMHpqQk50cEg1cExOTGdzbWFRYkJieFc1QWJnODlC?oc=5",
+     "pubDate": "Fri, 24 Jul 2026 15:57:07 GMT",
+     "source": "Moomoo"
+    },
+    {
+     "title": "KULR - KULR Technology Group Inc Stock Price and Quote - Finviz",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBUVndqVmxXYXRRU0l6bm45UkhoRmI5MVY2V3M1TzlncjlLamI1aFdaMXVINk5qcUVyUEJSeDFiNl9RR1I1T2c?oc=5",
+     "pubDate": "Tue, 26 May 2026 15:31:02 GMT",
+     "source": "Finviz"
+    }
+   ]
   },
   {
    "spark": [
@@ -536,7 +571,11 @@ window.DASHBOARD_DATA = {
     131.51,
     132.37
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 132.36,
+    "changePct": -0.01
+   },
    "relVol": 1.0,
    "avgVolume": 855801,
    "symbol": "LDOS",
@@ -572,16 +611,16 @@ window.DASHBOARD_DATA = {
      "source": "MarketWatch"
     },
     {
-     "title": "Director at Leidos (NYSE: LDOS) trims stake in $141/share sale - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUNrZldhZ0JKXzNuQV9ZVzJiYzAyNi1rQW9CMmRvZDhTeFpUcDJhcU54MFNCTG1XemhUbllVNWw0NnFhamJRRjhiaXRGQUVVcnVUQllpX2FtVlZMdGktbHJaS0g0Y01FV285SHdrZWdNSWZGX1J0aDBYWTJJaktId3ctd1E1MDA2YjJfZEpCR1E1NndnME9tMVVnMkw5RTFjaF9xMHM5SUZydE54MnZQMVY3RQ?oc=5",
-     "pubDate": "Wed, 02 Sep 2026 20:35:39 GMT",
-     "source": "Stock Titan"
-    },
-    {
      "title": "Is Leidos Holdings (LDOS) Undervalued After New Defense Contracts And Its AI Tool Launch? - simplywall.st",
      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSFZaUk83SkRhTXpiejRnQzhCN0JFb21iRE9Cc0lYSVplNWYxcWd5ekYwX0VHMTU2dmNEUGZ6ek9WRjZiZTg2ZzRYaFRrZWJWaVhYaDhzRHBULUxFQTVzbFlTdDkwLVF0dWNXMXZNYVhYSVlBdWd3Y3E2Sy1vQlREMHlUTlFYaTlYTEZCQ0dvSDBHUnFhTVBfWTRVZHhYd2JKSGFwUWkxTW1MU1RwY0VEZ3BmYjNDWkhfRnFSb1NmcXpkd1QwMFVhdTZSYjk3SXNxVmNnSVNrc1JXSkdsQnhzX9IB4AFBVV95cUxNSFZaUk83SkRhTXpiejRnQzhCN0JFb21iRE9Cc0lYSVplNWYxcWd5ekYwX0VHMTU2dmNEUGZ6ek9WRjZiZTg2ZzRYaFRrZWJWaVhYaDhzRHBULUxFQTVzbFlTdDkwLVF0dWNXMXZNYVhYSVlBdWd3Y3E2Sy1vQlREMHlUTlFYaTlYTEZCQ0dvSDBHUnFhTVBfWTRVZHhYd2JKSGFwUWkxTW1MU1RwY0VEZ3BmYjNDWkhfRnFSb1NmcXpkd1QwMFVhdTZSYjk3SXNxVmNnSVNrc1JXSkdsQnhzXw?oc=5",
      "pubDate": "Wed, 02 Sep 2026 12:25:30 GMT",
      "source": "simplywall.st"
+    },
+    {
+     "title": "Director at Leidos (NYSE: LDOS) trims stake in $141/share sale - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUNrZldhZ0JKXzNuQV9ZVzJiYzAyNi1rQW9CMmRvZDhTeFpUcDJhcU54MFNCTG1XemhUbllVNWw0NnFhamJRRjhiaXRGQUVVcnVUQllpX2FtVlZMdGktbHJaS0g0Y01FV285SHdrZWdNSWZGX1J0aDBYWTJJaktId3ctd1E1MDA2YjJfZEpCR1E1NndnME9tMVVnMkw5RTFjaF9xMHM5SUZydE54MnZQMVY3RQ?oc=5",
+     "pubDate": "Wed, 02 Sep 2026 20:35:39 GMT",
+     "source": "Stock Titan"
     }
    ]
   },
@@ -614,7 +653,11 @@ window.DASHBOARD_DATA = {
     538.22,
     538.15
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 538.15,
+    "changePct": 0.0
+   },
    "relVol": 1.0,
    "avgVolume": 844862,
    "symbol": "AXON",
@@ -632,16 +675,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1788465601,
    "news": [
     {
-     "title": "Axon Enterprise Stock Sank 9% on Tuesday. Rising Yields, Not the Business, Did It. - TIKR.com",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR181UjAxZTQ1dDlLWGhNWlJzbHdRLUl2MEtHSnItN0tDamZkOWpPdFlGd1dhdS1YNlQ0N3ZfX1RIUHdEc092bVgxX21yVVZHaHhNSGxKNkplUUdiaGotN29nRkxGeXljXzNjVGl0Vmx0T0RUUlY2ODJWX1NRQlRxUC1rY29yRGpObE1udkNRWVVGVmVaWnpoUGZxcHM2QkNxcjU4ZDN3?oc=5",
-     "pubDate": "Wed, 02 Sep 2026 10:39:50 GMT",
-     "source": "TIKR.com"
-    },
-    {
-     "title": "Argus Boosts Axon Enterprise (NASDAQ:AXON) Price Target to $600.00 - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQkFfaFRuQVV0WERsTzJmVmpHaXowRHI1MHhEcjBnaTl1THZoX2gzRE5JRjhVT2o4eVh0NDJ0SG1ReVRXdHZVR3M5VjBjbnBra3dhaVJYdGdSLWdRV0NXVUYzZDJhc2FPTjBETlAxRkI4UkZLQjVCdDU2Zmt2ZEhtM3E5eEg4bldiN0h6TktQVElDdGkxSjBKZWVNYWZ0OWxOMm5ELTFWMVFtaDVJejBCQ0ZCdG5SY2xDVV9FWkNaLUpFdw?oc=5",
-     "pubDate": "Thu, 03 Sep 2026 13:34:29 GMT",
-     "source": "MarketBeat"
+     "title": "Axon Enterprise falls 9% in two-session pullback after earnings (AXON:NASDAQ) - Seeking Alpha",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX1dmVHp1QzFZR1hRODNOVDhua2U3YUdlLTJZN3FXeXItMldhelg1RzFRb3RFZlNYdUpxZzJvQWdlcU5VMGxkQ2tiaWdDUDkzck8zRml5VUp0eGVvYjdlMERPdVhZaHdVVzFZN1lWcTRJNGE4U1NpYldmV0F5UjNkOE5GMk1IRWd5ZlNsRENJVmRScjUzc3gzNURKTlNVU2VjMVlXal9mbnVwRk1N?oc=5",
+     "pubDate": "Tue, 01 Sep 2026 20:21:48 GMT",
+     "source": "Seeking Alpha"
     },
     {
      "title": "Axon Enterprise Inc. stock outperforms competitors despite losses on the day - MarketWatch",
@@ -650,16 +687,22 @@ window.DASHBOARD_DATA = {
      "source": "MarketWatch"
     },
     {
-     "title": "Axon Stock Slides: What's Driving the Action? - TradingView",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQk9YVjhob2RfLTE5T2tiVmFJRWVRdTFNQmx0Qy1TV2hNTWxxTlBxZS03WDlXMURDM2thNmF1ZTRYM1drdC1iNnBGZTVobUVlR0RGUTRfaGdMamozOGo1Y2FqLV9TdHZkbjlVQ1JKdlA0eUV2WmtQMnBkZUxYdFA3bUZKZ0JRX01ldWVPN1BtcE1LcUVtWmZKbElXNXdWWnFBT0dPTA?oc=5",
+     "title": "Axon Stock Slides: What's Driving the Action? - Benzinga",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTENaSlVZZUF5c3BoYmNReDU3NkpVd2FRY21PRVpON05acVMxNGhCR1FJcXpEQS04SDhGTjdDNlFKQkJVU1hMNGE4Z0lRSVQyMDdSZ1dQSDB3OEdKbnF1UVZTUjA0YnNQcG1oTEQzVkJUYnNiRlE0TUhhS1lMUVNIS2JEZlBUUDhwSXJKRFNuRVVYclRrbVQ5YmJPRXFWb3I4Z0ZkMmRn?oc=5",
      "pubDate": "Tue, 01 Sep 2026 18:43:02 GMT",
-     "source": "TradingView"
+     "source": "Benzinga"
     },
     {
-     "title": "Axon Enterprise falls 9% in two-session pullback after earnings (AXON:NASDAQ) - Seeking Alpha",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX1dmVHp1QzFZR1hRODNOVDhua2U3YUdlLTJZN3FXeXItMldhelg1RzFRb3RFZlNYdUpxZzJvQWdlcU5VMGxkQ2tiaWdDUDkzck8zRml5VUp0eGVvYjdlMERPdVhZaHdVVzFZN1lWcTRJNGE4U1NpYldmV0F5UjNkOE5GMk1IRWd5ZlNsRENJVmRScjUzc3gzNURKTlNVU2VjMVlXal9mbnVwRk1N?oc=5",
-     "pubDate": "Tue, 01 Sep 2026 20:21:48 GMT",
-     "source": "Seeking Alpha"
+     "title": "Axon Stock Sinks as Guidance Shock Rattles Investors - TipRanks",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3RiYm95RzdMZXhjUGdqRlRfSjVhdGZmTmk5XzBXdmVjVS1kMUFIa1I1eUpEQTB0MEo2dWRlakdYMmoyOUUtSGM3RjcxX25JZ0V3SXlsb2hONl91TjE2YV9hZDZmcThRRUJ4cG4ydXRDcDh1N3ZmWDRwS1JCX2kxclp3dEtSaXExTG42VDJ4X2ZIcmQzQXc?oc=5",
+     "pubDate": "Tue, 01 Sep 2026 17:58:03 GMT",
+     "source": "TipRanks"
+    },
+    {
+     "title": "Axon Enterprise Stock Sank 9% on Tuesday. Rising Yields, Not the Business, Did It. - TIKR.com",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR181UjAxZTQ1dDlLWGhNWlJzbHdRLUl2MEtHSnItN0tDamZkOWpPdFlGd1dhdS1YNlQ0N3ZfX1RIUHdEc092bVgxX21yVVZHaHhNSGxKNkplUUdiaGotN29nRkxGeXljXzNjVGl0Vmx0T0RUUlY2ODJWX1NRQlRxUC1rY29yRGpObE1udkNRWVVGVmVaWnpoUGZxcHM2QkNxcjU4ZDN3?oc=5",
+     "pubDate": "Wed, 02 Sep 2026 10:39:50 GMT",
+     "source": "TIKR.com"
     }
    ]
   },
@@ -694,7 +737,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 5.77,
-    "changePct": 0.09
+    "changePct": 0.1
    },
    "relVol": 0.8,
    "avgVolume": 20176843,
@@ -775,8 +818,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.5,
-    "changePct": -0.47
+    "price": 8.53,
+    "changePct": -0.16
    },
    "relVol": 1.2,
    "avgVolume": 5233496,
@@ -932,8 +975,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 47.98,
-    "changePct": -0.25
+    "price": 48.27,
+    "changePct": 0.36
    },
    "relVol": 1.5,
    "avgVolume": 2549405,
@@ -944,7 +987,7 @@ window.DASHBOARD_DATA = {
    "price": 48.1,
    "prevClose": 49.34,
    "changePct": -2.51,
-   "volume": 3785304,
+   "volume": 3832363,
    "dayHigh": 49.0,
    "dayLow": 46.92,
    "fiftyTwoWeekHigh": 134.0,
@@ -1007,8 +1050,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 210.51,
-    "changePct": -0.01
+    "price": 210.34,
+    "changePct": -0.09
    },
    "relVol": 1.3,
    "avgVolume": 4399869,
@@ -1081,7 +1124,11 @@ window.DASHBOARD_DATA = {
     84.65,
     84.71
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 84.71,
+    "changePct": 0.0
+   },
    "relVol": 1.8,
    "avgVolume": 477636,
    "symbol": "MRCY",
@@ -1228,7 +1275,11 @@ window.DASHBOARD_DATA = {
     202.5,
     202.58
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 202.58,
+    "changePct": 0.0
+   },
    "relVol": 1.7,
    "avgVolume": 221640,
    "symbol": "VSEC",
@@ -1301,8 +1352,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 532.86,
-    "changePct": -0.02
+    "price": 533.0,
+    "changePct": 0.0
    },
    "relVol": 0.9,
    "avgVolume": 718038,
@@ -1350,7 +1401,11 @@ window.DASHBOARD_DATA = {
     74.5,
     74.53
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 74.53,
+    "changePct": 0.0
+   },
    "relVol": 1.4,
    "avgVolume": 338817,
    "symbol": "ATRO",
@@ -1424,8 +1479,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 147.32,
-    "changePct": 0.07
+    "price": 147.0,
+    "changePct": -0.14
    },
    "relVol": 2.4,
    "avgVolume": 978889,
@@ -1500,8 +1555,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 63.83,
-    "changePct": 0.03
+    "price": 63.84,
+    "changePct": 0.05
    },
    "relVol": 1.3,
    "avgVolume": 13949187,
@@ -1573,7 +1628,11 @@ window.DASHBOARD_DATA = {
     73.61,
     73.9
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 73.88,
+    "changePct": -0.03
+   },
    "relVol": 1.3,
    "avgVolume": 1052849,
    "symbol": "BAH",
@@ -1645,7 +1704,11 @@ window.DASHBOARD_DATA = {
     37.04,
     37.02
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 37.02,
+    "changePct": 0.0
+   },
    "relVol": 0.8,
    "avgVolume": 755976,
    "symbol": "DRS",
@@ -1716,7 +1779,11 @@ window.DASHBOARD_DATA = {
     75.39,
     76.12
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 76.08,
+    "changePct": -0.05
+   },
    "relVol": 0.9,
    "avgVolume": 337651,
    "symbol": "VVX",
@@ -1787,7 +1854,11 @@ window.DASHBOARD_DATA = {
     568.99,
     568.82
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 568.72,
+    "changePct": -0.02
+   },
    "relVol": 0.8,
    "avgVolume": 304267,
    "symbol": "CW",
@@ -1860,8 +1931,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 202.13,
-    "changePct": 0.0
+    "price": 201.18,
+    "changePct": -0.47
    },
    "relVol": 1.0,
    "avgVolume": 2274674,
@@ -1936,8 +2007,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 182.29,
-    "changePct": -0.13
+    "price": 182.27,
+    "changePct": -0.14
    },
    "relVol": 1.5,
    "avgVolume": 24848305,
@@ -2012,7 +2083,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 10.38,
-    "changePct": 0.04
+    "changePct": 0.05
    },
    "relVol": 1.3,
    "avgVolume": 8210965,
@@ -2085,7 +2156,11 @@ window.DASHBOARD_DATA = {
     702.01,
     701.22
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 701.22,
+    "changePct": 0.0
+   },
    "relVol": 1.0,
    "avgVolume": 64920,
    "symbol": "ESLT",
@@ -2233,8 +2308,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 528.24,
-    "changePct": 0.04
+    "price": 530.29,
+    "changePct": 0.43
    },
    "relVol": 1.1,
    "avgVolume": 396906,
@@ -2306,7 +2381,11 @@ window.DASHBOARD_DATA = {
     37.12,
     37.27
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 37.29,
+    "changePct": 0.05
+   },
    "relVol": 1.0,
    "avgVolume": 701722,
    "symbol": "KBR",
@@ -2379,8 +2458,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 161.99,
-    "changePct": 1.06
+    "price": 160.02,
+    "changePct": -0.17
    },
    "relVol": 1.0,
    "avgVolume": 981107,
@@ -2602,7 +2681,11 @@ window.DASHBOARD_DATA = {
     290.29,
     290.79
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 290.73,
+    "changePct": -0.02
+   },
    "relVol": 0.7,
    "avgVolume": 305477,
    "symbol": "HII",
@@ -2749,7 +2832,11 @@ window.DASHBOARD_DATA = {
     126.57,
     126.5
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 126.5,
+    "changePct": 0.0
+   },
    "relVol": 0.6,
    "avgVolume": 814893,
    "symbol": "SAIC",
@@ -2820,7 +2907,11 @@ window.DASHBOARD_DATA = {
     1158.99,
     1157.85
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 1157.83,
+    "changePct": -0.0
+   },
    "relVol": 0.8,
    "avgVolume": 260506,
    "symbol": "TDG",
@@ -2892,7 +2983,11 @@ window.DASHBOARD_DATA = {
     325.64,
     325.71
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 325.7,
+    "changePct": -0.0
+   },
    "relVol": 1.1,
    "avgVolume": 336470,
    "symbol": "HEI",
@@ -2964,7 +3059,11 @@ window.DASHBOARD_DATA = {
     629.78,
     630.52
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 630.0,
+    "changePct": -0.08
+   },
    "relVol": 1.1,
    "avgVolume": 195605,
    "symbol": "CACI",
@@ -3026,8 +3125,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.68,
-    "changePct": -0.14
+    "price": 14.69,
+    "changePct": -0.07
    },
    "relVol": 1.5,
    "avgVolume": 4147468,
@@ -3099,7 +3198,11 @@ window.DASHBOARD_DATA = {
     46.21,
     46.35
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 46.35,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 890120,
    "symbol": "PSN",
@@ -3256,8 +3359,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 24.51,
-    "changePct": 0.12
+    "price": 24.46,
+    "changePct": -0.09
    },
    "relVol": 0.8,
    "avgVolume": 3034653,
@@ -3335,7 +3438,11 @@ window.DASHBOARD_DATA = {
     156.19,
     156.47
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 156.36,
+    "changePct": -0.07
+   },
    "relVol": 1.1,
    "avgVolume": 361108,
    "symbol": "OSK",
@@ -3414,8 +3521,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 2.54,
-    "changePct": -0.78
+    "price": 2.55,
+    "changePct": -0.39
    },
    "relVol": 0.8,
    "avgVolume": 580899,
@@ -3432,7 +3539,38 @@ window.DASHBOARD_DATA = {
    "fiftyTwoWeekHigh": 6.0,
    "fiftyTwoWeekLow": 1.94,
    "marketTime": 1788465594,
-   "news": []
+   "news": [
+    {
+     "title": "A Look At KULR Technology Group\u2019s (KULR) Valuation After Mixed Q1 Results And Growth Expansion Plans - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGJsRkV4SUZFOGdUN2xjUU1uaFBZRTUxdkUyZkI1ZWh1d0Vlb05LaFB1MEUwTUZjOEFVdnFGUVBfQmpPZ2JFVHU1ZFBySmU2VmlzbVV5a19OdnFTMnhXVWNkcUJoLVBhUzF3TUNmVXpyVG00SHlwN2xSLWtYWEZhd0tMZ2QtdWY3YnRDUnQzRXFPS3VNeEF2T2J0Q2I?oc=5",
+     "pubDate": "Sun, 17 May 2026 07:00:00 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Update On KULR Technology Group: Still An Attractive Takeover Candidate (NYSE:KULR) - Seeking Alpha",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVMxNlh2X1VRdG16Y2ptQ2paTW95bklKSW1oR0VaQXJnRVdZVi03WlRJZXFkaXlCRUI2SERKdVh5QzA2elAzNnpFMklaSndRUEhEQ0NpeE9XZkVaOTJ5OGNfT2o5X3pCaWJTeDFpNGo5WFZqdVFhV2w4WjdKZGZIRHVlZTRacU50dTVOa1laQW1qenlSQzdrSWdVbWNSV2kzQXNKRWxpdERCT0FENzN4WA?oc=5",
+     "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
+     "source": "Seeking Alpha"
+    },
+    {
+     "title": "KULR to discuss June-quarter results in Aug. 13 call - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZmg0bzVCRGFPTGxuT1FKY1h6b1BxYzZiSV9takh5eWtzNXFfVlRBSktCdnE1VFFBc3hROVRqa1ZpR1JhaGYyZUNCemUwZEdSVlY1ZXpIS0VUMEFSazNtOTVhSDlvMDRDdy04Sk1sZXNlV3J2TU5zdmlqNGRTOVlVV3RwRGFtRUNZeTFZZFVqeWlVTW1xQTdYdkFjUTRRaDVMazl4c2YxYWEyWXRwcW4xQTNKSlNlNm5Gd0lz?oc=5",
+     "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
+     "source": "Stock Titan"
+    },
+    {
+     "title": "KULR Technology(KULR) Stock Options Chain | Quotes & News - Moomoo",
+     "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPZlBMcnpteFZoTnQ1c19jRkdLdWpWM1VqeFU0RzBPNE1Ta3FXck1qRjZHT29hTy1sZERnTDl5aHNMdzZWRFdFQWFtM3Vic3dvZVBpWVc1Vmx2VzhqMnk4ZXJPZndONGd5ekk3ZFFoYkR6UkZ4VW8wSlB5aTRKdW1ORFQ5d2cwOGlYSnBzWEMtRGdITUJ4RmpvMFF4eXFUczlldmJoSEhPMm1hTHJOaWpSN3l2NS1nTXhYN0V2eXZuUWxsNWFweTcyODRTN2dfOW5fMXphQk14Zm9fRG5UaUJ6MDVCMzQzNDAtQjVPbVpRbFlaX1VsQmZhVnp4R3NxRHo5aThGcG9OdHd5MkhMdzQ3ME9kdVFaTmRXeW5KMDZEM1lNNnFhOEpfbmlyQWZaZjVRVmNncWdiMTZsNjZRcUdrd0VYU2dNT1QzLWFUelJBR25seXo5ME1WUmpYX0lQSGdQVFI4YzROLVY4S0F0cERQVTFUMHpqQk50cEg1cExOTGdzbWFRYkJieFc1QWJnODlC?oc=5",
+     "pubDate": "Fri, 24 Jul 2026 15:57:07 GMT",
+     "source": "Moomoo"
+    },
+    {
+     "title": "KULR - KULR Technology Group Inc Stock Price and Quote - Finviz",
+     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBUVndqVmxXYXRRU0l6bm45UkhoRmI5MVY2V3M1TzlncjlLamI1aFdaMXVINk5qcUVyUEJSeDFiNl9RR1I1T2c?oc=5",
+     "pubDate": "Tue, 26 May 2026 15:31:02 GMT",
+     "source": "Finviz"
+    }
+   ]
   },
   {
    "spark": [
@@ -3462,7 +3600,11 @@ window.DASHBOARD_DATA = {
     131.51,
     132.37
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 132.36,
+    "changePct": -0.01
+   },
    "relVol": 1.0,
    "avgVolume": 855801,
    "symbol": "LDOS",
@@ -3498,16 +3640,16 @@ window.DASHBOARD_DATA = {
      "source": "MarketWatch"
     },
     {
-     "title": "Director at Leidos (NYSE: LDOS) trims stake in $141/share sale - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUNrZldhZ0JKXzNuQV9ZVzJiYzAyNi1rQW9CMmRvZDhTeFpUcDJhcU54MFNCTG1XemhUbllVNWw0NnFhamJRRjhiaXRGQUVVcnVUQllpX2FtVlZMdGktbHJaS0g0Y01FV285SHdrZWdNSWZGX1J0aDBYWTJJaktId3ctd1E1MDA2YjJfZEpCR1E1NndnME9tMVVnMkw5RTFjaF9xMHM5SUZydE54MnZQMVY3RQ?oc=5",
-     "pubDate": "Wed, 02 Sep 2026 20:35:39 GMT",
-     "source": "Stock Titan"
-    },
-    {
      "title": "Is Leidos Holdings (LDOS) Undervalued After New Defense Contracts And Its AI Tool Launch? - simplywall.st",
      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSFZaUk83SkRhTXpiejRnQzhCN0JFb21iRE9Cc0lYSVplNWYxcWd5ekYwX0VHMTU2dmNEUGZ6ek9WRjZiZTg2ZzRYaFRrZWJWaVhYaDhzRHBULUxFQTVzbFlTdDkwLVF0dWNXMXZNYVhYSVlBdWd3Y3E2Sy1vQlREMHlUTlFYaTlYTEZCQ0dvSDBHUnFhTVBfWTRVZHhYd2JKSGFwUWkxTW1MU1RwY0VEZ3BmYjNDWkhfRnFSb1NmcXpkd1QwMFVhdTZSYjk3SXNxVmNnSVNrc1JXSkdsQnhzX9IB4AFBVV95cUxNSFZaUk83SkRhTXpiejRnQzhCN0JFb21iRE9Cc0lYSVplNWYxcWd5ekYwX0VHMTU2dmNEUGZ6ek9WRjZiZTg2ZzRYaFRrZWJWaVhYaDhzRHBULUxFQTVzbFlTdDkwLVF0dWNXMXZNYVhYSVlBdWd3Y3E2Sy1vQlREMHlUTlFYaTlYTEZCQ0dvSDBHUnFhTVBfWTRVZHhYd2JKSGFwUWkxTW1MU1RwY0VEZ3BmYjNDWkhfRnFSb1NmcXpkd1QwMFVhdTZSYjk3SXNxVmNnSVNrc1JXSkdsQnhzXw?oc=5",
      "pubDate": "Wed, 02 Sep 2026 12:25:30 GMT",
      "source": "simplywall.st"
+    },
+    {
+     "title": "Director at Leidos (NYSE: LDOS) trims stake in $141/share sale - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUNrZldhZ0JKXzNuQV9ZVzJiYzAyNi1rQW9CMmRvZDhTeFpUcDJhcU54MFNCTG1XemhUbllVNWw0NnFhamJRRjhiaXRGQUVVcnVUQllpX2FtVlZMdGktbHJaS0g0Y01FV285SHdrZWdNSWZGX1J0aDBYWTJJaktId3ctd1E1MDA2YjJfZEpCR1E1NndnME9tMVVnMkw5RTFjaF9xMHM5SUZydE54MnZQMVY3RQ?oc=5",
+     "pubDate": "Wed, 02 Sep 2026 20:35:39 GMT",
+     "source": "Stock Titan"
     }
    ]
   },
@@ -3540,7 +3682,11 @@ window.DASHBOARD_DATA = {
     538.22,
     538.15
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 538.15,
+    "changePct": 0.0
+   },
    "relVol": 1.0,
    "avgVolume": 844862,
    "symbol": "AXON",
@@ -3558,16 +3704,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1788465601,
    "news": [
     {
-     "title": "Axon Enterprise Stock Sank 9% on Tuesday. Rising Yields, Not the Business, Did It. - TIKR.com",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR181UjAxZTQ1dDlLWGhNWlJzbHdRLUl2MEtHSnItN0tDamZkOWpPdFlGd1dhdS1YNlQ0N3ZfX1RIUHdEc092bVgxX21yVVZHaHhNSGxKNkplUUdiaGotN29nRkxGeXljXzNjVGl0Vmx0T0RUUlY2ODJWX1NRQlRxUC1rY29yRGpObE1udkNRWVVGVmVaWnpoUGZxcHM2QkNxcjU4ZDN3?oc=5",
-     "pubDate": "Wed, 02 Sep 2026 10:39:50 GMT",
-     "source": "TIKR.com"
-    },
-    {
-     "title": "Argus Boosts Axon Enterprise (NASDAQ:AXON) Price Target to $600.00 - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQkFfaFRuQVV0WERsTzJmVmpHaXowRHI1MHhEcjBnaTl1THZoX2gzRE5JRjhVT2o4eVh0NDJ0SG1ReVRXdHZVR3M5VjBjbnBra3dhaVJYdGdSLWdRV0NXVUYzZDJhc2FPTjBETlAxRkI4UkZLQjVCdDU2Zmt2ZEhtM3E5eEg4bldiN0h6TktQVElDdGkxSjBKZWVNYWZ0OWxOMm5ELTFWMVFtaDVJejBCQ0ZCdG5SY2xDVV9FWkNaLUpFdw?oc=5",
-     "pubDate": "Thu, 03 Sep 2026 13:34:29 GMT",
-     "source": "MarketBeat"
+     "title": "Axon Enterprise falls 9% in two-session pullback after earnings (AXON:NASDAQ) - Seeking Alpha",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX1dmVHp1QzFZR1hRODNOVDhua2U3YUdlLTJZN3FXeXItMldhelg1RzFRb3RFZlNYdUpxZzJvQWdlcU5VMGxkQ2tiaWdDUDkzck8zRml5VUp0eGVvYjdlMERPdVhZaHdVVzFZN1lWcTRJNGE4U1NpYldmV0F5UjNkOE5GMk1IRWd5ZlNsRENJVmRScjUzc3gzNURKTlNVU2VjMVlXal9mbnVwRk1N?oc=5",
+     "pubDate": "Tue, 01 Sep 2026 20:21:48 GMT",
+     "source": "Seeking Alpha"
     },
     {
      "title": "Axon Enterprise Inc. stock outperforms competitors despite losses on the day - MarketWatch",
@@ -3576,16 +3716,22 @@ window.DASHBOARD_DATA = {
      "source": "MarketWatch"
     },
     {
-     "title": "Axon Stock Slides: What's Driving the Action? - TradingView",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQk9YVjhob2RfLTE5T2tiVmFJRWVRdTFNQmx0Qy1TV2hNTWxxTlBxZS03WDlXMURDM2thNmF1ZTRYM1drdC1iNnBGZTVobUVlR0RGUTRfaGdMamozOGo1Y2FqLV9TdHZkbjlVQ1JKdlA0eUV2WmtQMnBkZUxYdFA3bUZKZ0JRX01ldWVPN1BtcE1LcUVtWmZKbElXNXdWWnFBT0dPTA?oc=5",
+     "title": "Axon Stock Slides: What's Driving the Action? - Benzinga",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTENaSlVZZUF5c3BoYmNReDU3NkpVd2FRY21PRVpON05acVMxNGhCR1FJcXpEQS04SDhGTjdDNlFKQkJVU1hMNGE4Z0lRSVQyMDdSZ1dQSDB3OEdKbnF1UVZTUjA0YnNQcG1oTEQzVkJUYnNiRlE0TUhhS1lMUVNIS2JEZlBUUDhwSXJKRFNuRVVYclRrbVQ5YmJPRXFWb3I4Z0ZkMmRn?oc=5",
      "pubDate": "Tue, 01 Sep 2026 18:43:02 GMT",
-     "source": "TradingView"
+     "source": "Benzinga"
     },
     {
-     "title": "Axon Enterprise falls 9% in two-session pullback after earnings (AXON:NASDAQ) - Seeking Alpha",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX1dmVHp1QzFZR1hRODNOVDhua2U3YUdlLTJZN3FXeXItMldhelg1RzFRb3RFZlNYdUpxZzJvQWdlcU5VMGxkQ2tiaWdDUDkzck8zRml5VUp0eGVvYjdlMERPdVhZaHdVVzFZN1lWcTRJNGE4U1NpYldmV0F5UjNkOE5GMk1IRWd5ZlNsRENJVmRScjUzc3gzNURKTlNVU2VjMVlXal9mbnVwRk1N?oc=5",
-     "pubDate": "Tue, 01 Sep 2026 20:21:48 GMT",
-     "source": "Seeking Alpha"
+     "title": "Axon Stock Sinks as Guidance Shock Rattles Investors - TipRanks",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3RiYm95RzdMZXhjUGdqRlRfSjVhdGZmTmk5XzBXdmVjVS1kMUFIa1I1eUpEQTB0MEo2dWRlakdYMmoyOUUtSGM3RjcxX25JZ0V3SXlsb2hONl91TjE2YV9hZDZmcThRRUJ4cG4ydXRDcDh1N3ZmWDRwS1JCX2kxclp3dEtSaXExTG42VDJ4X2ZIcmQzQXc?oc=5",
+     "pubDate": "Tue, 01 Sep 2026 17:58:03 GMT",
+     "source": "TipRanks"
+    },
+    {
+     "title": "Axon Enterprise Stock Sank 9% on Tuesday. Rising Yields, Not the Business, Did It. - TIKR.com",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR181UjAxZTQ1dDlLWGhNWlJzbHdRLUl2MEtHSnItN0tDamZkOWpPdFlGd1dhdS1YNlQ0N3ZfX1RIUHdEc092bVgxX21yVVZHaHhNSGxKNkplUUdiaGotN29nRkxGeXljXzNjVGl0Vmx0T0RUUlY2ODJWX1NRQlRxUC1rY29yRGpObE1udkNRWVVGVmVaWnpoUGZxcHM2QkNxcjU4ZDN3?oc=5",
+     "pubDate": "Wed, 02 Sep 2026 10:39:50 GMT",
+     "source": "TIKR.com"
     }
    ]
   },
@@ -3620,7 +3766,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 5.77,
-    "changePct": 0.09
+    "changePct": 0.1
    },
    "relVol": 0.8,
    "avgVolume": 20176843,
@@ -3701,8 +3847,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.5,
-    "changePct": -0.47
+    "price": 8.53,
+    "changePct": -0.16
    },
    "relVol": 1.2,
    "avgVolume": 5233496,
@@ -3803,12 +3949,6 @@ window.DASHBOARD_DATA = {
    "source": "TradingPedia"
   },
   {
-   "title": "Iran attacks US targets despite Trump threats - Bangkok Post",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3ktc2M1Yko4aWxQV0JZeGQ5b0hhR1FLa3UwMDVCOV9zeFJOa2s0ZS1PbW9Kejl1c1RCdFktZ1F0UEdhZE15MTR2SGR1UEFOdU5Mbm5kcC1yQTZ0Q1VzcDNCXzFjeHFfYjYwZGVjbmdfOWhwQWRTeldFWmJSbGRSeGtBSy1qVlotbkJYSW81X2s?oc=5",
-   "pubDate": "Thu, 03 Sep 2026 05:45:00 GMT",
-   "source": "Bangkok Post"
-  },
-  {
    "title": "CNN report US military escorts 40 tankers with 18 million barrels through Hormuz - investingLive",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMjdDaFNzYkM4V1hLcDdmN3dDVkQ1VXN1SHRFWGdkVnBQbTEyVUVrbnRvV2s5ZzhlM2YtQlh6VnNRVFhhWWFYVHZKNGM0SDNsYWphSWhFMGE5LWZEbFE0Sk9Xcy11Qlg1M3VMTlI0QjBoZ2pqOW9ta3B5cHp1VXB1RHpPbVJhd0w5ZzNMMnh6d0s4c2IxR2VZcVdzRGFvVERoZnY1cFpwbmtleXd1SV82a05CNFl2Q00zQlFR?oc=5",
    "pubDate": "Thu, 03 Sep 2026 00:42:55 GMT",
@@ -3825,6 +3965,12 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc28zTWtYUG9fa2pUSEFhYVhtLWM0MHg3UWctQndtSzRIY1JsaXd5czNqcG5tVG01cGJkU1lsRUxrc1l1T2tPSk1tbk1ra3hTMEUwNWR5VEp2M1k2eVg1Vnl1Q2hHa29xcE82MUUyMlZLR1N0Q3M1WENsellSZzQ4T3l3cGIxaVlJUjFtcHFIc1VwVzJ4?oc=5",
    "pubDate": "Thu, 03 Sep 2026 04:56:17 GMT",
    "source": "India News Network"
+  },
+  {
+   "title": "Oil prices surge amid escalating Iran conflict, impacting global markets - Crypto Briefing",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2llNjgzbkdqMm0tVG5FXzkzT2FuekRFWGlTc0VRWE1XMTB3b3JYTW5yZjU3ZFpiaFBKZmRTU1BCeTNwNUczNkExeXBJU2dfa3pCMTNkdXBLXzJzaHBYX004T2QwU2ttUjdLUDlBR1luWUFtZzJDc0psbndhNF83TmNISm5Nekw3Y0hYZjk5S0dLRWx1M1paeFJXUkp4eEZj?oc=5",
+   "pubDate": "Thu, 03 Sep 2026 09:31:27 GMT",
+   "source": "Crypto Briefing"
   }
  ],
  "mna": [
@@ -3915,6 +4061,12 @@ window.DASHBOARD_DATA = {
    "source": "Yahoo Finance"
   },
   {
+   "title": "Defense firms soar on ample military spending, testing manufacturing schemes - Defense News",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUGpWMmJZY0l3bDFGUkZDYUd5NlpPaTBrSmtidWtnU2syU04xTDdVd2lwV0hyb0d0N05UZVg1RHZCaG9teXNUUkt1MkhIMjZsZU9WR045dVU1QjNod1lTRWV0QjdIMjR2cnFadWF3NUpfQmdXN0h2Y2VPVERZeUlGb0o0VmtxTm10VkwxQ3J1UWh0UllZdEllNlNfLV93bWFMcVluWUhPcmdmbUxTY2NIeFhkRjIyVzM5RWUyXzVIdFBZdw?oc=5",
+   "pubDate": "Thu, 03 Sep 2026 14:35:13 GMT",
+   "source": "Defense News"
+  },
+  {
    "title": "A New York defense forum will cover space, cyber and drones - Stock Titan",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQamlIMkNlbU9hTzdsOEZFQl93U20zSFdranVvSFZGcW4wQW5tMmNvUDBITVpPS1pmVC1peVhCNk50czdCUXhjS0dLZHYwS2VhSDlGV2N3R0t2b3VacG1rRzdRNXYzY21xNzFSUzQxXzdTV3ZZUTB6aTc1aDN1cWJISFppQ3I2UWY5NG94eFVBOWdHV2M5d254amd6RkhIWXhscUpTallCTXdfSG5NNGc?oc=5",
    "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
@@ -3939,16 +4091,10 @@ window.DASHBOARD_DATA = {
    "source": "DBusiness Magazine"
   },
   {
-   "title": "Ducommun Incorporated to Participate in 32nd Annual Gabelli Aerospace & Defense Symposium - Quiver Quantitative",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUUpQY2UzWkRDRXY1LVlQQVljNnZoRzViTnRac3AtaVUxM0lGdFBsR1h1ZXdKYTB0bVYyUlZiOFVnZmVFemtVTmlzQm5BcHNyaUhQUG95RFZJNlRsYm5OY0tubDVSR3ZlRGM2YjZCMHZnM0hQcnFCdmo0eTBJZHNMdVNselowZGlQLTl4RG96S2c4Z196YVFzN211Wk5JRC1RV1h1bWxVTEtPcXJxVFNVMWpCR0ZXVGJrYVltOFBSd0E0Zw?oc=5",
-   "pubDate": "Thu, 03 Sep 2026 10:10:00 GMT",
-   "source": "Quiver Quantitative"
-  },
-  {
-   "title": "Gabelli 32nd Annual Aerospace & Defense Symposium Agenda Released - The Manila Times",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN1h1YVhTRlhaMXRtNm5FWFp5TmhseU1vZVVTWUlWSzRqR3A2NkZRb0NfekFIbUVZTlV1NVVlcjZHZW5vNWVqSWR5Tk5zbUdGWkk2YVBKc0tuUVJvdGVVLVR4T0lYR3lETzNMTzBXMHpJNFA4b2R4SnRCOEV6cmp3TFRWaHRfOUI0RFpSS0FqOHJlTEdxdXI3cFJRV0VPSDFKVjB4clNSTVBqNnJKaHFCQ25hZHhZazFZRDZZeVJhNV9uWXFRSzdpeE1qcWtFWUJ6ZHE00gHYAUFVX3lxTE1FU2x3cHhURFhDRGdDaHBYUXRMM0paQU00UlZzdzVWdm1CZ190c2tQRk5NdkFhZXRfd2lwOGVpVUZpcGtVRFo1Qkl3TWJnQzlFd1ZlQ2pCeTJkTU5CU3dBMEdTZFM5dm9NUVU2ZjRud242RVgzRnQzQ1pKOFNKNWg1UFU4VnUxUElTRlllcng2V2VtdVNYcGdUZkhJTE00NUhTeGdWYVgyUU5FMTNKcGtvQ3ZsX21KVVByOTlCbmk2U3Z6dXNfcXBwanR0U1loMmoxLUkyYjI0cA?oc=5",
-   "pubDate": "Thu, 03 Sep 2026 12:13:30 GMT",
-   "source": "The Manila Times"
+   "title": "Tampa Aerospace Company Wins Australian Border Surveillance Contract - Tampa Bay Business and Wealth",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZUlBYMTNqQ292b3pEQjFJRTNXYmxFZ1pOd3lNU2tSXzh5YTM3ZktuMl9iV1JGNWVIZ1FXa29xTjVrOUgyUnV3N256eVVNNERoSnQ4WDFBUmdwNEpESjFJbFN2M2ZiZzBqR2p1UnE2d2F3RHhW?oc=5",
+   "pubDate": "Thu, 03 Sep 2026 13:00:00 GMT",
+   "source": "Tampa Bay Business and Wealth"
   }
  ],
  "industrialsNews": [
@@ -4002,6 +4148,12 @@ window.DASHBOARD_DATA = {
   }
  ],
  "contractNews": [
+  {
+   "title": "US Army launches laser production with $465M contract award - Defense News",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdUxPN2J1VkQ4S254U3BKeTNuNWVtcWl1elNkaVYyOVdaejRPVGtDOUc1c3hSRDEzb2RBMzF3RDNheWFoakFZWVZEaTN2NEFoek1mYTQ1RUdkOHRFangxWXBoZkFsa1psZzk4NFdVV1J0dlI3dnJlVmY2c2tPS3lIQVY1dmdCNTZKak1tZi1LT1h0a29vQlB5RjJGRHhOeFNMX25JU2l0X245OTdCMkw3bWpSOXdqLXZC?oc=5",
+   "pubDate": "Thu, 03 Sep 2026 19:54:51 GMT",
+   "source": "Defense News"
+  },
   {
    "title": "Contracts for Sept. 2, 2026 - U.S. Department of War (.gov)",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSUNhYUVrUHQ1Q0ZPMVIwX2I2NXJQdGV1dkd4MDFJWmlWaWVPZ3pnQWh2VEFHbTBqOEg4NHpkTEdzVGxNZ3MxUjhnQnZ2LVhTVmYxQmtjOFJublV5TTduSlYyYk1HT3ljczNSNkFCMVFaMFdjQ0pEaHdWc2U5cXJTOHJqa2J0Zkdmc0hPOVJaQQ?oc=5",
@@ -4067,12 +4219,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR0g5c3p5V3QxZ3dlQVViY3RKSGo2c1VPaEpiVHRZR0lFZTQ4NkFkZkN0azNNeUN1R1UxQXIyYzBVLVpDUHpSdzE0SUl5SEQ1WGN5SHI1SVFPM1djWFRsYnVIZlhwRk1kMzhJZHJpUnljZEh3VHVUai1XSzBxemVfYlluWmhNX2xOb1NVcndKVXo0b1NxZnJnNkw2bVJIdXF0WHVLNkwzeDNKVDR0LUpIWDZuckV5am1xRk44NE13SzByR0p4UUk3alEzLTM2UjBMbTZpT0syV1R0aUJlNDhfVw?oc=5",
    "pubDate": "Wed, 02 Sep 2026 19:20:06 GMT",
    "source": "avinc.com"
-  },
-  {
-   "title": "U.S. Army Awards AeroVironment $464.8 Million Deal For LOCUST X3 Laser Weapons - thedefensewatch.com",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcHJ6ejFpdGt3RFk5ek9XdGRtZ3psMnE3M3pqd2labGNZbGVfYkhyRnJOMFQ4QlNrVUl1bk5jdkw3bmNRRVF5azhqczNiQ0l6T1VIek1VY2VQYUdFTWVHaEd4eHl6ZzhSajlDVFg0dkhmaWc3M2M2d2VJUW1ab1ROc1RjdHBxQQ?oc=5",
-   "pubDate": "Thu, 03 Sep 2026 09:14:30 GMT",
-   "source": "thedefensewatch.com"
   }
  ],
  "sdaNews": [
