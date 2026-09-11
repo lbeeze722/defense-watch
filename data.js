@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-09-11T19:53:43.476645+00:00",
+ "generatedAt": "2026-09-11T19:58:57.431185+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
