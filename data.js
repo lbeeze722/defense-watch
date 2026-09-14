@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-09-14T20:30:46.521242+00:00",
+ "generatedAt": "2026-09-14T20:36:17.981184+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -413,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 173.45,
-    "changePct": 0.08
+    "price": 173.32,
+    "changePct": 0.01
    },
    "relVol": 1.8,
    "avgVolume": 15669043,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 153.58,
-    "changePct": 0.12
+    "price": 153.28,
+    "changePct": -0.08
    },
    "relVol": 0.7,
    "avgVolume": 4316406,
@@ -742,7 +742,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 7.84,
-    "changePct": 0.53
+    "changePct": 0.51
    },
    "relVol": 1.1,
    "avgVolume": 5007100,
@@ -1437,8 +1437,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 490.5,
-    "changePct": 0.07
+    "price": 499.62,
+    "changePct": 1.93
    },
    "relVol": 0.9,
    "avgVolume": 618946,
@@ -2495,8 +2495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 62.75,
-    "changePct": 0.32
+    "price": 62.74,
+    "changePct": 0.3
    },
    "relVol": 0.7,
    "avgVolume": 19365270,
@@ -2951,8 +2951,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.23,
-    "changePct": 0.0
+    "price": 7.24,
+    "changePct": 0.14
    },
    "relVol": 1.8,
    "avgVolume": 46169231,
@@ -3497,8 +3497,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 173.45,
-    "changePct": 0.08
+    "price": 173.32,
+    "changePct": 0.01
    },
    "relVol": 1.8,
    "avgVolume": 15669043,
@@ -3579,8 +3579,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 153.58,
-    "changePct": 0.12
+    "price": 153.28,
+    "changePct": -0.08
    },
    "relVol": 0.7,
    "avgVolume": 4316406,
@@ -3826,7 +3826,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 7.84,
-    "changePct": 0.53
+    "changePct": 0.51
    },
    "relVol": 1.1,
    "avgVolume": 5007100,
