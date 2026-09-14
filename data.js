@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-09-14T20:19:36.297563+00:00",
+ "generatedAt": "2026-09-14T20:25:15.932329+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -329,7 +329,11 @@ window.DASHBOARD_DATA = {
     79.11,
     79.11
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 79.11,
+    "changePct": 0.0
+   },
    "relVol": 1.3,
    "avgVolume": 1436489,
    "symbol": "BAH",
@@ -409,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 173.06,
-    "changePct": -0.15
+    "price": 173.33,
+    "changePct": 0.01
    },
    "relVol": 1.8,
    "avgVolume": 15669043,
@@ -441,12 +445,6 @@ window.DASHBOARD_DATA = {
      "source": "Barron's"
     },
     {
-     "title": "ServiceNow vs. Palantir: I\u2019d Rather Own This AI Stock - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeGNURXpKekdPTG9BT1VIVjFCLUZUNkVXeE50S3Y4cFFtNDNWM0tvZEZESjRJclVjZDVYVXp2R0t5RmRvWTc3cGVPMzRwUzZHeVE5WFl4UnNaVkZQVC0tY0MwOTBJbXZGeDI3RUhHUjlRdlhibFFocHRtVWFpTDV4NzQ4NDhPOG13X2Z5ZTdPajZEU2M0X3RIb2Zqbw?oc=5",
-     "pubDate": "Mon, 14 Sep 2026 15:30:50 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
      "title": "Did You Pay For Palantir\u2019s Guidance Or For Something Else? - Trefis",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2pWWWcyTHNPcU5XRVdoN2hVTXpCSDF6S0dFbjM2OXZnS0xEa2ZfMmpQQXgwM1BVUlo4TWF1V090YzVSRmYtckUyWVY2ZGN3TDBxNnJxd1FqZmltUjdQRTA4eE9UQUF0TVdtYjJxVTIxWHZQTFk2UWZqSFJDTGlCNWRKZno5SFdjeVBLY0FQLWZJbWVmclY4WG9tdTBIbDE1MlhQVWJ1YXhwUkpKYnB2OG93bzdCcmV1?oc=5",
      "pubDate": "Mon, 14 Sep 2026 18:00:03 GMT",
@@ -457,6 +455,12 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWh1ZE05R0dEbUk0eW5MWlFsVGZnNXZSNWdUR1ZVRkVJZXVjNTRqa3RXN1c3T0tKeThCZTdheTc1U1NwWWpiSlFJMXhGVlZXOEdDRlFYZjBfaGdnM09nQTBxb3lHSUVuYjU4cjd1Q1J6dEFnMzdfUFlfOU5aRUFDNFJmT3ZFSUFaLU9vVzV2bkh6UnBfQXpiYjFHU3Y2R01mX3JPZV9TYnVYZGtZYWhKbzFpVVVlcm5Y?oc=5",
      "pubDate": "Mon, 14 Sep 2026 16:58:55 GMT",
      "source": "Trefis"
+    },
+    {
+     "title": "Palantir Co-Founder Peter Thiel's Hedge Fund Just Made a Big Bet on This AI Stock - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcjZ6VExpYXB5X25ULUhpY0hRZUx5MHJoanFuWU9jZTVsR1hpcG9nRjF5WWdRODk3YWh4OEpTZ3ExeWVTMTV6Ykdtd0JGWmQ3SXphMy00T08zUFZGci1jZk5LWmEyRXRmUkZnS2l6TF9UZ0xScTJ3OGd4R3YtMHlvaDVpbi1sLVF5Y01IOWtScWtGUUo3cjk1Tk1oS1YtZw?oc=5",
+     "pubDate": "Fri, 11 Sep 2026 22:43:00 GMT",
+     "source": "Yahoo Finance"
     }
    ]
   },
@@ -491,7 +495,7 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 153.51,
+    "price": 153.5,
     "changePct": 0.07
    },
    "relVol": 0.7,
@@ -617,10 +621,10 @@ window.DASHBOARD_DATA = {
      "source": "24/7 Wall St."
     },
     {
-     "title": "A robotics company has deployed over 12,500 systems in over 30 countries. Unusual Machines is investing $20 million. - Stock Titan",
+     "title": "A robotics company has deployed over 12,500 systems in over 30 countries. Unusual Machines is investing $20 million. - stocktitan.net",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYUNBVE1RMm9zSnkxTUIxOGxFWk1mazNycjBwU3FONmcxOVE0OGFwX3llMVhsQ3d6bW5XeGo4YlAwZnllV3A5cEUwTDg1d0pFM0swblMyYUdIX0pzVVNGcUl0OEpCSXdPRFZka2VCcGxnNlJZYlNjck0xbTNhNlZ3alVZNHEwRG8wWHJsSnBaSnB0NEgzLXVhNjBxRUtYQnU3Y3JGT2xjVlpOdHNseTRtYnhhcGJMWW8?oc=5",
      "pubDate": "Wed, 09 Sep 2026 12:00:00 GMT",
-     "source": "Stock Titan"
+     "source": "stocktitan.net"
     }
    ]
   },
@@ -655,8 +659,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.47,
-    "changePct": -0.19
+    "price": 10.48,
+    "changePct": -0.1
    },
    "relVol": 0.8,
    "avgVolume": 11924552,
@@ -675,10 +679,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1789416003,
    "news": [
     {
-     "title": "Redwire Could Be a Big Defense Winner. Here's What Must Happen Next. - fool.com",
+     "title": "Redwire Could Be a Big Defense Winner. Here's What Must Happen Next. - The Motley Fool",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkd5V1BFR3ZJMUlLMGZMX3BiczZhMmlQc3VQNjU5Y2h1OTFXNF81TUthenZmM3d0b0drMHFQR1BTRzk1X3JsaWx6ak50dUN4TFZsN1EtdjhFWTlLQldSWm1xZkZaT2lYNkFhOGoxOHQ1VkRXeHByY1U2dzhDZk1wYWJwWE1GWm5yeUYyWFlkR25jc1J2XzM5dw?oc=5",
      "pubDate": "Mon, 14 Sep 2026 13:15:00 GMT",
-     "source": "fool.com"
+     "source": "The Motley Fool"
     },
     {
      "title": "Redwire Could Be a Big Defense Winner. Here's What Must Happen Next. - The Globe and Mail",
@@ -737,8 +741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.81,
-    "changePct": 0.13
+    "price": 7.84,
+    "changePct": 0.51
    },
    "relVol": 1.1,
    "avgVolume": 5007100,
@@ -763,10 +767,10 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "Red Cat Holdings Director Sells 65,000 Shares for $552,500 - fool.com",
+     "title": "Red Cat Holdings Director Sells 65,000 Shares for $552,500 - The Motley Fool",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV3cwMXNXNmkwaUZRekNDbTBWMHZyTzB2cGJOR0tPOUFWalU0LUd0VDhoY1k1ekV3cW9NaE9pQ0xlN2ZQS2dRWHJURTRWOUswaWNTREhqX2JtaVdDRVBYM3hRN0U1MzVrcmYzM3ZaMGJqNW5WTjZHMkh2Zmxha3daMGY4MFZ2Y1owUWV6WS1UbllyY3A3TkdvZ0loWkxQN3NWRnA1aHBMSWw?oc=5",
      "pubDate": "Wed, 09 Sep 2026 21:30:00 GMT",
-     "source": "fool.com"
+     "source": "The Motley Fool"
     },
     {
      "title": "How Army Contract Growth At Red Cat Holdings (RCAT) Has Changed Its Investment Story - simplywall.st",
@@ -846,8 +850,8 @@ window.DASHBOARD_DATA = {
     },
     {
      "title": "Is Astronics (ATRO) Cheap, Or Are Earnings Already Priced In? - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRDFBZ1k5UHlSZWFFSFNhbXpkVWdYX2NMWGoyY2xyQUJ6Q0dzVzdFVXd2ekN2b1pKRWtvY2FzOXlrZXhmQ2tlTTRpWmVjRXN4aHFLUXdQY3ZxRkxHUy1CSGxEOEpkbHZwSldIOVNCQXp0YkhvN2xPOG50RG1HMXVKc3dJcncyS0dSOTJDTHdMMjhndGhKVGtGZWFvM3ZLUVROek5YbW5veS1xeDZ1dnJqS2dZLWkySkEwTDRET2I1MGtLTTYtU1gxMVN30gHPAUFVX3lxTE5MZHNEbWEtV3FzTUhCZ1BPZ0ZpQkRVZmNPM3BCUFNfOXYydDBnVW1WSEY2V2xCdUlqU3hmOVdSREpRT1ZtdzVhVUJ0LUQyQlctTTlyek45ZXJaNnFsSUlXYWJBMFBUcGNtMmxKUXhjdXhlaW5yN0NLV2V1R0piRjhjZ1JVZjJ1bks0ZU9sZVNZaUxqcGxqeV9FVXQ2TGFRcDBUTlRYOWlpaHVsVWlVOEtRMTdleXBHM0hJWUxBM1RSWjVmR1VIcUZ0UjN5YktSOA?oc=5",
-     "pubDate": "Sat, 12 Sep 2026 12:25:54 GMT",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTGRzRG1hLVdxc01IQmdQT2dGaUJEVWZjTzNwQlBTXzl2MnQwZ1VtVkhGNldsQnVJalN4ZjlXUkRKUU9WbXc1YVVCdC1EMkJXLU05cnpOOWVyWjZxbElJV2FiQTBQVHBjbTJsSlF4Y3V4ZWlucjdDS1dldUdKYkY4Y2dSVWYydW5LNGVPbGVTWWlManBsanlfRVV0NkxhUXAwVE5UWDlpaWh1bFVpVThLUTE3ZXlwRzNISVlMQTNUUlo1ZkdVSHFGdFIzeWJLUjjSAc8BQVVfeXFMTkxkc0RtYS1XcXNNSEJnUE9nRmlCRFVmY08zcEJQU185djJ0MGdVbVZIRjZXbEJ1SWpTeGY5V1JESlFPVm13NWFVQnQtRDJCVy1NOXJ6Tjllclo2cWxJSVdhYkEwUFRwY20ybEpReGN1eGVpbnI3Q0tXZXVHSmJGOGNnUlVmMnVuSzRlT2xlU1lpTGpwbGp5X0VVdDZMYVFwMFROVFg5aWlodWxVaVU4S1ExN2V5cEczSElZTEEzVFJaNWZHVUhxRnRSM3liS1I4?oc=5",
+     "pubDate": "Sat, 12 Sep 2026 12:26:45 GMT",
      "source": "simplywall.st"
     },
     {
@@ -1433,8 +1437,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 490.18,
-    "changePct": 0.0
+    "price": 490.5,
+    "changePct": 0.07
    },
    "relVol": 0.9,
    "avgVolume": 618946,
@@ -1731,8 +1735,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 80.58,
-    "changePct": 0.0
+    "price": 81.23,
+    "changePct": 0.81
    },
    "relVol": 1.6,
    "avgVolume": 1608811,
@@ -1807,8 +1811,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 530.11,
-    "changePct": 0.52
+    "price": 528.39,
+    "changePct": 0.19
    },
    "relVol": 1.3,
    "avgVolume": 648060,
@@ -1957,7 +1961,11 @@ window.DASHBOARD_DATA = {
     195.33,
     195.34
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 195.34,
+    "changePct": 0.0
+   },
    "relVol": 1.8,
    "avgVolume": 2029667,
    "symbol": "RTX",
@@ -2107,8 +2115,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 47.54,
-    "changePct": -0.08
+    "price": 47.94,
+    "changePct": 0.75
    },
    "relVol": 0.9,
    "avgVolume": 3332431,
@@ -2335,8 +2343,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.51,
-    "changePct": -0.07
+    "price": 5.52,
+    "changePct": 0.17
    },
    "relVol": 1.5,
    "avgVolume": 20343576,
@@ -2409,7 +2417,11 @@ window.DASHBOARD_DATA = {
     36.79,
     36.8
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 36.8,
+    "changePct": 0.0
+   },
    "relVol": 0.9,
    "avgVolume": 861010,
    "symbol": "KBR",
@@ -2483,8 +2495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 62.66,
-    "changePct": 0.18
+    "price": 62.77,
+    "changePct": 0.35
    },
    "relVol": 0.7,
    "avgVolume": 19365270,
@@ -2709,7 +2721,11 @@ window.DASHBOARD_DATA = {
     279.91,
     280.01
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 280.01,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 299039,
    "symbol": "HII",
@@ -2936,7 +2952,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 7.23,
-    "changePct": -0.03
+    "changePct": 0.0
    },
    "relVol": 1.8,
    "avgVolume": 46169231,
@@ -3011,8 +3027,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 250.0,
-    "changePct": 0.43
+    "price": 248.87,
+    "changePct": -0.02
    },
    "relVol": 1.8,
    "avgVolume": 1310923,
@@ -3087,8 +3103,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.29,
-    "changePct": -0.16
+    "price": 6.3,
+    "changePct": 0.0
    },
    "relVol": 1.0,
    "avgVolume": 29686392,
@@ -3397,7 +3413,11 @@ window.DASHBOARD_DATA = {
     79.11,
     79.11
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 79.11,
+    "changePct": 0.0
+   },
    "relVol": 1.3,
    "avgVolume": 1436489,
    "symbol": "BAH",
@@ -3477,8 +3497,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 173.06,
-    "changePct": -0.15
+    "price": 173.33,
+    "changePct": 0.01
    },
    "relVol": 1.8,
    "avgVolume": 15669043,
@@ -3509,12 +3529,6 @@ window.DASHBOARD_DATA = {
      "source": "Barron's"
     },
     {
-     "title": "ServiceNow vs. Palantir: I\u2019d Rather Own This AI Stock - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeGNURXpKekdPTG9BT1VIVjFCLUZUNkVXeE50S3Y4cFFtNDNWM0tvZEZESjRJclVjZDVYVXp2R0t5RmRvWTc3cGVPMzRwUzZHeVE5WFl4UnNaVkZQVC0tY0MwOTBJbXZGeDI3RUhHUjlRdlhibFFocHRtVWFpTDV4NzQ4NDhPOG13X2Z5ZTdPajZEU2M0X3RIb2Zqbw?oc=5",
-     "pubDate": "Mon, 14 Sep 2026 15:30:50 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
      "title": "Did You Pay For Palantir\u2019s Guidance Or For Something Else? - Trefis",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2pWWWcyTHNPcU5XRVdoN2hVTXpCSDF6S0dFbjM2OXZnS0xEa2ZfMmpQQXgwM1BVUlo4TWF1V090YzVSRmYtckUyWVY2ZGN3TDBxNnJxd1FqZmltUjdQRTA4eE9UQUF0TVdtYjJxVTIxWHZQTFk2UWZqSFJDTGlCNWRKZno5SFdjeVBLY0FQLWZJbWVmclY4WG9tdTBIbDE1MlhQVWJ1YXhwUkpKYnB2OG93bzdCcmV1?oc=5",
      "pubDate": "Mon, 14 Sep 2026 18:00:03 GMT",
@@ -3525,6 +3539,12 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRWh1ZE05R0dEbUk0eW5MWlFsVGZnNXZSNWdUR1ZVRkVJZXVjNTRqa3RXN1c3T0tKeThCZTdheTc1U1NwWWpiSlFJMXhGVlZXOEdDRlFYZjBfaGdnM09nQTBxb3lHSUVuYjU4cjd1Q1J6dEFnMzdfUFlfOU5aRUFDNFJmT3ZFSUFaLU9vVzV2bkh6UnBfQXpiYjFHU3Y2R01mX3JPZV9TYnVYZGtZYWhKbzFpVVVlcm5Y?oc=5",
      "pubDate": "Mon, 14 Sep 2026 16:58:55 GMT",
      "source": "Trefis"
+    },
+    {
+     "title": "Palantir Co-Founder Peter Thiel's Hedge Fund Just Made a Big Bet on This AI Stock - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcjZ6VExpYXB5X25ULUhpY0hRZUx5MHJoanFuWU9jZTVsR1hpcG9nRjF5WWdRODk3YWh4OEpTZ3ExeWVTMTV6Ykdtd0JGWmQ3SXphMy00T08zUFZGci1jZk5LWmEyRXRmUkZnS2l6TF9UZ0xScTJ3OGd4R3YtMHlvaDVpbi1sLVF5Y01IOWtScWtGUUo3cjk1Tk1oS1YtZw?oc=5",
+     "pubDate": "Fri, 11 Sep 2026 22:43:00 GMT",
+     "source": "Yahoo Finance"
     }
    ]
   },
@@ -3559,7 +3579,7 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 153.51,
+    "price": 153.5,
     "changePct": 0.07
    },
    "relVol": 0.7,
@@ -3685,10 +3705,10 @@ window.DASHBOARD_DATA = {
      "source": "24/7 Wall St."
     },
     {
-     "title": "A robotics company has deployed over 12,500 systems in over 30 countries. Unusual Machines is investing $20 million. - Stock Titan",
+     "title": "A robotics company has deployed over 12,500 systems in over 30 countries. Unusual Machines is investing $20 million. - stocktitan.net",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYUNBVE1RMm9zSnkxTUIxOGxFWk1mazNycjBwU3FONmcxOVE0OGFwX3llMVhsQ3d6bW5XeGo4YlAwZnllV3A5cEUwTDg1d0pFM0swblMyYUdIX0pzVVNGcUl0OEpCSXdPRFZka2VCcGxnNlJZYlNjck0xbTNhNlZ3alVZNHEwRG8wWHJsSnBaSnB0NEgzLXVhNjBxRUtYQnU3Y3JGT2xjVlpOdHNseTRtYnhhcGJMWW8?oc=5",
      "pubDate": "Wed, 09 Sep 2026 12:00:00 GMT",
-     "source": "Stock Titan"
+     "source": "stocktitan.net"
     }
    ]
   },
@@ -3723,8 +3743,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.47,
-    "changePct": -0.19
+    "price": 10.48,
+    "changePct": -0.1
    },
    "relVol": 0.8,
    "avgVolume": 11924552,
@@ -3743,10 +3763,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1789416003,
    "news": [
     {
-     "title": "Redwire Could Be a Big Defense Winner. Here's What Must Happen Next. - fool.com",
+     "title": "Redwire Could Be a Big Defense Winner. Here's What Must Happen Next. - The Motley Fool",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQkd5V1BFR3ZJMUlLMGZMX3BiczZhMmlQc3VQNjU5Y2h1OTFXNF81TUthenZmM3d0b0drMHFQR1BTRzk1X3JsaWx6ak50dUN4TFZsN1EtdjhFWTlLQldSWm1xZkZaT2lYNkFhOGoxOHQ1VkRXeHByY1U2dzhDZk1wYWJwWE1GWm5yeUYyWFlkR25jc1J2XzM5dw?oc=5",
      "pubDate": "Mon, 14 Sep 2026 13:15:00 GMT",
-     "source": "fool.com"
+     "source": "The Motley Fool"
     },
     {
      "title": "Redwire Could Be a Big Defense Winner. Here's What Must Happen Next. - The Globe and Mail",
@@ -3805,8 +3825,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.81,
-    "changePct": 0.13
+    "price": 7.84,
+    "changePct": 0.51
    },
    "relVol": 1.1,
    "avgVolume": 5007100,
@@ -3831,10 +3851,10 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "Red Cat Holdings Director Sells 65,000 Shares for $552,500 - fool.com",
+     "title": "Red Cat Holdings Director Sells 65,000 Shares for $552,500 - The Motley Fool",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV3cwMXNXNmkwaUZRekNDbTBWMHZyTzB2cGJOR0tPOUFWalU0LUd0VDhoY1k1ekV3cW9NaE9pQ0xlN2ZQS2dRWHJURTRWOUswaWNTREhqX2JtaVdDRVBYM3hRN0U1MzVrcmYzM3ZaMGJqNW5WTjZHMkh2Zmxha3daMGY4MFZ2Y1owUWV6WS1UbllyY3A3TkdvZ0loWkxQN3NWRnA1aHBMSWw?oc=5",
      "pubDate": "Wed, 09 Sep 2026 21:30:00 GMT",
-     "source": "fool.com"
+     "source": "The Motley Fool"
     },
     {
      "title": "How Army Contract Growth At Red Cat Holdings (RCAT) Has Changed Its Investment Story - simplywall.st",
@@ -3914,8 +3934,8 @@ window.DASHBOARD_DATA = {
     },
     {
      "title": "Is Astronics (ATRO) Cheap, Or Are Earnings Already Priced In? - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRDFBZ1k5UHlSZWFFSFNhbXpkVWdYX2NMWGoyY2xyQUJ6Q0dzVzdFVXd2ekN2b1pKRWtvY2FzOXlrZXhmQ2tlTTRpWmVjRXN4aHFLUXdQY3ZxRkxHUy1CSGxEOEpkbHZwSldIOVNCQXp0YkhvN2xPOG50RG1HMXVKc3dJcncyS0dSOTJDTHdMMjhndGhKVGtGZWFvM3ZLUVROek5YbW5veS1xeDZ1dnJqS2dZLWkySkEwTDRET2I1MGtLTTYtU1gxMVN30gHPAUFVX3lxTE5MZHNEbWEtV3FzTUhCZ1BPZ0ZpQkRVZmNPM3BCUFNfOXYydDBnVW1WSEY2V2xCdUlqU3hmOVdSREpRT1ZtdzVhVUJ0LUQyQlctTTlyek45ZXJaNnFsSUlXYWJBMFBUcGNtMmxKUXhjdXhlaW5yN0NLV2V1R0piRjhjZ1JVZjJ1bks0ZU9sZVNZaUxqcGxqeV9FVXQ2TGFRcDBUTlRYOWlpaHVsVWlVOEtRMTdleXBHM0hJWUxBM1RSWjVmR1VIcUZ0UjN5YktSOA?oc=5",
-     "pubDate": "Sat, 12 Sep 2026 12:25:54 GMT",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTGRzRG1hLVdxc01IQmdQT2dGaUJEVWZjTzNwQlBTXzl2MnQwZ1VtVkhGNldsQnVJalN4ZjlXUkRKUU9WbXc1YVVCdC1EMkJXLU05cnpOOWVyWjZxbElJV2FiQTBQVHBjbTJsSlF4Y3V4ZWlucjdDS1dldUdKYkY4Y2dSVWYydW5LNGVPbGVTWWlManBsanlfRVV0NkxhUXAwVE5UWDlpaWh1bFVpVThLUTE3ZXlwRzNISVlMQTNUUlo1ZkdVSHFGdFIzeWJLUjjSAc8BQVVfeXFMTkxkc0RtYS1XcXNNSEJnUE9nRmlCRFVmY08zcEJQU185djJ0MGdVbVZIRjZXbEJ1SWpTeGY5V1JESlFPVm13NWFVQnQtRDJCVy1NOXJ6Tjllclo2cWxJSVdhYkEwUFRwY20ybEpReGN1eGVpbnI3Q0tXZXVHSmJGOGNnUlVmMnVuSzRlT2xlU1lpTGpwbGp5X0VVdDZMYVFwMFROVFg5aWlodWxVaVU4S1ExN2V5cEczSElZTEEzVFJaNWZHVUhxRnRSM3liS1I4?oc=5",
+     "pubDate": "Sat, 12 Sep 2026 12:26:45 GMT",
      "source": "simplywall.st"
     },
     {
@@ -3943,7 +3963,7 @@ window.DASHBOARD_DATA = {
   {
    "title": "Oil Prices Extend Gains on Concern Over Potential US-Iran Conflict - EnergyNow.com",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQzBObHh2Z18wYkFCdldzRnJ1RzBJWHpRVmg4eUQyR25LckFMWjRjdE1RYUU0akdWemVnR1JjUE1ESC1VYmo0QUhFTmhvYTJPbVlieFMxSUowUzN6QVYtYXFET3NMNzRNa3h2NmRvMl9Ed0libEJJdlNWTVI0d3ZvQjdORnUtTFRwYUJFX0VnMEV4MjBzdlRqWlR6d1VLUQ?oc=5",
-   "pubDate": "Mon, 14 Sep 2026 00:08:02 GMT",
+   "pubDate": "Mon, 14 Sep 2026 15:26:19 GMT",
    "source": "EnergyNow.com"
   },
   {
@@ -4095,6 +4115,12 @@ window.DASHBOARD_DATA = {
    "source": "Made in Alabama"
   },
   {
+   "title": "Allies Commit US$302 Million to WGS-12; US Reveals Orbit Weapons - mexicobusiness.news",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWmM5MDdxLXJVZjBWLWcwMDYzTnRWZTdxNmtnRkM5SFMyb3FpWGRzeUNwdDIySUJnQml6WXhjVEIzNDN6YVduTHJHTWhMTkxrd0RnRmQxX3lNeERuUzQ2ZEN5YUtrWGVDTjRIb2lEQXNHVGlnZDVkMEtONFZCZ0VOOVlFNFRqSFlvSW5kalR3WDE5RDN6dFdra0JqNkhuME9tbG5qQQ?oc=5",
+   "pubDate": "Mon, 14 Sep 2026 20:10:52 GMT",
+   "source": "mexicobusiness.news"
+  },
+  {
    "title": "GA-ASI Opening a New Facility in Dayton, Ohio - General Atomics",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Bckliemo2cWxtNnJYTDhmRUJmYl9iclB4b293YkNJM2tPU1l4WjVzODUwY3RxSXhrVF9veWZ4Nko2em9BOXNTY3M2UzVqbHdvMEVSOE9rUVhpRHlleHUxa2RvQjhHb24wX2k5dnI2UEU?oc=5",
    "pubDate": "Mon, 14 Sep 2026 14:03:19 GMT",
@@ -4129,12 +4155,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOFpRdzVMWEtTNWJ2bTJrX1MtSFJlWU50amtvR0lZWGNmaWJ5SGhvUXMzR1NvdXdHcjhtZ25IYTRlN2lSYy1kZnJOb3RiSENLeGhXMVdSS1R4NVl6VmhZMGxSUUdUZmRXRzNxLUswQS0wSFVSQ2NpTklmSnlTTEpjVEZVNWlYMVAwcGg5M0I3X0RoOEdKdnpuMXNGaXcwMTZlM2FUbGI0Uk5NM3FjRG10TXRQN3JSbXVlVmhMNUdCb09XdnlXZC12QUVwWERwbVE?oc=5",
    "pubDate": "Mon, 14 Sep 2026 19:26:00 GMT",
    "source": "EIN Presswire"
-  },
-  {
-   "title": "MySize Announces Acquisition-Led Strategy Focused on Defense Technology - PR Newswire",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0twX0ZwZ29pSldFbWl6MGptd2RjckgyOENiYjMwWGhLcGEzQTZfdExIMzZXa29qMFNwX01hRV9RSDVON0lNckUxVmpwUXBMXzZ2U2lGcWpwV0lpVVF2UkkyTW11LS1naGpXbkh1d1VPaHpQMVN4aHBhSFpwX2FFalUzZEdFb3M0UlJTdzh1dGtyVzVINUd2U1d5U1VmbHdINUJEcWlLNmZPT2x4dDYtVll4SzZXODA0RmRsazlVU3puVlU4WkJUel9R?oc=5",
-   "pubDate": "Mon, 14 Sep 2026 12:15:00 GMT",
-   "source": "PR Newswire"
   }
  ],
  "industrialsNews": [
@@ -4213,10 +4233,16 @@ window.DASHBOARD_DATA = {
    "source": "GovCon Wire"
   },
   {
-   "title": "Air Force Plans to Field 1,000 Autonomous Aircraft by 2032 - meritalk.com",
+   "title": "Air Force Plans to Field 1,000 Autonomous Aircraft by 2032 - MeriTalk",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3BZa2pNbzVsVFJ1dDhlR0x5cnRaNW1SZkp2Y2dZc0VTa1hkeUNXRGwyOGtrX3V0WGlfTnF1TlRHcWJ6WmtUMFhzSTNjbW5ocGVFMU1BVU1jQ0EwTEZWRDBLS2hRVFZPQ3N5SHFONi1YWURwRXNQZ0xMY3otX2F4Z1hOSEdHSnlWaElkYmduQUU2d2JUeFE0?oc=5",
    "pubDate": "Mon, 14 Sep 2026 18:11:15 GMT",
-   "source": "meritalk.com"
+   "source": "MeriTalk"
+  },
+  {
+   "title": "US Navy Awarded $336 Million Contract For Future Bill Clinton Carrier - Forbes",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0tsem84WlhSODJlRmMxZGp1T011aWt5S0tWeG1iSUExLUtTNEtLNUtQeU5KZHQ0OTRCQWx1eV9MZk9fdUgxbVdxTEo1MXp2Z0oyRTJhaks3WEVXR2VQYWFGNl83dTJnXzhwdGtiZ1c5T3Nvdl9kd1ZpNGZyd3NfY19qRU5SejByb1RZd1VRWnlaYnNUbERoWlM0VlhPVFJMdm5sOTNxbGstY2NnVnQ5RE5fSFRpSllvSEFuWg?oc=5",
+   "pubDate": "Mon, 14 Sep 2026 20:09:37 GMT",
+   "source": "Forbes"
   },
   {
    "title": "Vengeance and Fury: US Air Force names new CCAs amid ambitious production goal - Defense News",
@@ -4231,10 +4257,10 @@ window.DASHBOARD_DATA = {
    "source": "The Defense Post"
   },
   {
-   "title": "U.S. Army Awards Its First-Ever Contract for Laser Weapons, System Is Called LOCUST - autoevolution.com",
+   "title": "U.S. Army Awards Its First-Ever Contract for Laser Weapons, System Is Called LOCUST - autoevolution",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc3VKZ3JYOUVpYzczaGp1bWtTYmVRbk5TdDVCRlByRVFUUlVmNzJtY3EzcE9lTDVVd2NwSUs0Mk9jNGdMLXY5aC03YlpMTm4yMUpKcjZzRUNORUhRRDBYTDkteGprZXBoVkV2UGlHRXdDUjczN0xlZVhHNlo5d0NhNW01RXFzSi16ODhZUWlJcjdiZFlhYzJ5RDBKUDk2eDhLaWdEQ1FGajduT3RLS2xtWEhjdnFFWlQ5WmhNVWdiOXFVRDU2UXc?oc=5",
    "pubDate": "Mon, 14 Sep 2026 07:58:10 GMT",
-   "source": "autoevolution.com"
+   "source": "autoevolution"
   },
   {
    "title": "Army awards $196M for sensors in first production contracts under EW-focused call for solutions - DefenseScoop",
@@ -4243,22 +4269,16 @@ window.DASHBOARD_DATA = {
    "source": "DefenseScoop"
   },
   {
-   "title": "Elmet Group soars after winning $2B U.S. tungsten contract, Pentagon makes $450M investment - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY2xNcldnbDE3dk80c0R4TXZ3ak9jc2UzMzF0S3NCRHVvV0dIS0t3SUU0TG9BQnljWG80OTNLSlhQYnFlX2JOa2JUcnJtOEhsd3g2bzdhMXZwLVFNY1NDVTIwbDZDYUVRMGZnc3ZGRjVoaFZHTW1MRTZGMjk3YUdhaEpjRmVWNnVveXVmWnpOLUNJQlZOaGxpSlVJYlMzTFFOcU41YTRsUFJjYUkwczY1WEZCYzlhdFJudmkwcjdXU293X3dKQzBCUmk3Y3psWUNrOFlIQk1NWS1CT0p0R2RadGNtcHY?oc=5",
-   "pubDate": "Mon, 14 Sep 2026 11:39:06 GMT",
-   "source": "TradingView"
-  },
-  {
    "title": "Leonardo wins $96M US Navy contracts for MK 41 VLS electronics - NavalToday",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHIta1lzc1pySVVOUXhDelpkRXFLZjZrRHlQSG12UmlIbGNXMktZTkpXYUhnS0JwdVlUcFkwN2VseDdweUpMVlV2VEtQSGUzZ19pVFlRRUVURkc0VjZrdXFwZDRBUFpUakpCUDFyb0syQ2F2NVNoUlBkUTNnV2VUdExkY0pIdU1GWDNFQndiTUpjUmdKanc5TQ?oc=5",
    "pubDate": "Mon, 14 Sep 2026 08:01:47 GMT",
    "source": "NavalToday"
   },
   {
-   "title": "HII awarded US Navy long-lead materials contract for planned carrier CVN 82 - space & defense",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcktPZlR3R1FpcDhtUjhJVzFDWW1RN1pmR1pKNGhkRnI4cUhROUFLYWVWZFdWYmQ3ZjVSdTA2WktudjhEbG15bEswSFJWZTREVU1iM0ZUTVJFTENWNnJScEdGeGpWaFUwdUotMzk2eHVaT0ZERzk3VS10UmR3U3lhN0VJcTB0WDd2ekpfc184M2ZvM3BqaDNMYWdOeE1TamJadGZTc19R?oc=5",
-   "pubDate": "Mon, 14 Sep 2026 01:59:27 GMT",
-   "source": "space & defense"
+   "title": "Elmet Group soars after winning $2B U.S. tungsten contract, Pentagon makes $450M investment - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY2xNcldnbDE3dk80c0R4TXZ3ak9jc2UzMzF0S3NCRHVvV0dIS0t3SUU0TG9BQnljWG80OTNLSlhQYnFlX2JOa2JUcnJtOEhsd3g2bzdhMXZwLVFNY1NDVTIwbDZDYUVRMGZnc3ZGRjVoaFZHTW1MRTZGMjk3YUdhaEpjRmVWNnVveXVmWnpOLUNJQlZOaGxpSlVJYlMzTFFOcU41YTRsUFJjYUkwczY1WEZCYzlhdFJudmkwcjdXU293X3dKQzBCUmk3Y3psWUNrOFlIQk1NWS1CT0p0R2RadGNtcHY?oc=5",
+   "pubDate": "Mon, 14 Sep 2026 11:39:06 GMT",
+   "source": "TradingView"
   }
  ],
  "sdaNews": [
