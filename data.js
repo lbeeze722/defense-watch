@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-09-17T20:28:32.670068+00:00",
+ "generatedAt": "2026-09-17T20:34:13.582031+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -269,10 +269,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1789675200,
    "news": [
     {
-     "title": "Red Cat Holdings (RCAT) Faces A 65% Undervalued View, Is That Upside Still Real? - uk.finance.yahoo.com",
+     "title": "Red Cat Holdings (RCAT) Faces A 65% Undervalued View, Is That Upside Still Real? - Yahoo Finance UK",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ09yZGh0ZERqN2JubGJBYmhUQ3M0a0tONXNmVnVtM2tlUHhqZl92ZlFnNlpqZnNFcGtNaDhZeHpTQno5ellkR21lLVdYMzdLa0c5VjhIVTZPVTRwSGZKWEFHaDcxSFA2RVRQbHJqNWctSHlKcGw3Yl9Ccmp3ajJ5VzRR?oc=5",
      "pubDate": "Thu, 17 Sep 2026 03:14:00 GMT",
-     "source": "uk.finance.yahoo.com"
+     "source": "Yahoo Finance UK"
     },
     {
      "title": "Red Cat Holdings (RCAT) And Its Valuation Case After The 2026 Revenue Target - simplywall.st",
@@ -331,8 +331,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.55,
-    "changePct": 0.0
+    "price": 11.56,
+    "changePct": 0.09
    },
    "relVol": 1.4,
    "avgVolume": 9267521,
@@ -357,16 +357,16 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "How Investors Are Reacting To Redwire Stock As Returns On Capital Improve - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYUk5NWs1RVF6b3ExNFluWXpjXzJZYkd3enRnTVdpY1RBY1pJcW5kY0ZkYmM1ZEszTThkWVJ4WVBVczktQUNVNEZpcjJtanQ2bEpadGg2blRRY3hVX0lZTDdreGlVTHljVUQwNlVKUEE5R0hsdmp0aTB1R0hNWmR2M1hGMXQ1Wm5ib05nd0NySXcwODFmNnRJMjZqT2hpR2lsNGJ2cjg4ekc1XzA0RjRGVGtZSExuNVhjUDFrSHoxV0VKMEJ2VC1n0gHMAUFVX3lxTE5FOWhUSklfY0wzLVdJeWFRdmFuTm5KSTV5b2xKdndKZzkwMUFDV0FDTzBzeGZ0X1NNWm81Qm52eTFyQkpOM1ZOb1VZZHRoU3VjeFAxdmlKWlVnOXJQd0w4amRsblQyVXRibXVIX2JHYWx0cTc5ZUt0RFpVNnBoWlYyYS1oY295dnM4U3BYZm9FTmhrTDhlb21xUlVSMlhXSzBXMVdzZjk3Smo4a2hyYVpXRERHUlh6WTFmZFdhaWp5ZFdQb01XVXBlZW5UUg?oc=5",
-     "pubDate": "Tue, 15 Sep 2026 16:24:57 GMT",
-     "source": "simplywall.st"
-    },
-    {
      "title": "Boeing vs. Redwire: Which Aerospace Stock Is a Better Buy in 2026? - The Motley Fool",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQXp1NnNkbFdFbEpfVWs4Y09uUUxON0tlcGhZc0FjNmFYTG5sRkxuRGFCNGtJRF9CYzhlRTNPeUhMeW9iSV9ZNWZGSy16UzQyZUtGMnNsN3ZqT1I0MndPLW9DUFhWeVZQNWtRQ0hETTk2clp5VHJuSEpNMWo5amFVYUloYnpiRHpST2FOU2QxSjdjVDhMYllFN0hPVXozSENWSFV2QmtERW9qa2ktYU9NSFQ2cXAtdmc?oc=5",
      "pubDate": "Tue, 15 Sep 2026 21:18:00 GMT",
      "source": "The Motley Fool"
+    },
+    {
+     "title": "How Investors Are Reacting To Redwire Stock As Returns On Capital Improve - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYUk5NWs1RVF6b3ExNFluWXpjXzJZYkd3enRnTVdpY1RBY1pJcW5kY0ZkYmM1ZEszTThkWVJ4WVBVczktQUNVNEZpcjJtanQ2bEpadGg2blRRY3hVX0lZTDdreGlVTHljVUQwNlVKUEE5R0hsdmp0aTB1R0hNWmR2M1hGMXQ1Wm5ib05nd0NySXcwODFmNnRJMjZqT2hpR2lsNGJ2cjg4ekc1XzA0RjRGVGtZSExuNVhjUDFrSHoxV0VKMEJ2VC1n0gHMAUFVX3lxTE5FOWhUSklfY0wzLVdJeWFRdmFuTm5KSTV5b2xKdndKZzkwMUFDV0FDTzBzeGZ0X1NNWm81Qm52eTFyQkpOM1ZOb1VZZHRoU3VjeFAxdmlKWlVnOXJQd0w4amRsblQyVXRibXVIX2JHYWx0cTc5ZUt0RFpVNnBoWlYyYS1oY295dnM4U3BYZm9FTmhrTDhlb21xUlVSMlhXSzBXMVdzZjk3Smo4a2hyYVpXRERHUlh6WTFmZFdhaWp5ZFdQb01XVXBlZW5UUg?oc=5",
+     "pubDate": "Tue, 15 Sep 2026 16:24:57 GMT",
+     "source": "simplywall.st"
     },
     {
      "title": "Redwire Corporation $RDW Shares Sold by HighTower Advisors LLC - MarketBeat",
@@ -413,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 67.7,
-    "changePct": -0.17
+    "price": 67.77,
+    "changePct": -0.07
    },
    "relVol": 1.4,
    "avgVolume": 15363119,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.88,
-    "changePct": 0.61
+    "price": 14.86,
+    "changePct": 0.47
    },
    "relVol": 1.7,
    "avgVolume": 4953385,
@@ -521,16 +521,16 @@ window.DASHBOARD_DATA = {
      "source": "Seeking Alpha"
     },
     {
-     "title": "Intuitive Machines (LUNR) Could Be 40% Below Fair Value On SiriusXM Satellite Handover - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQakhobVV0Sjl4ZC1IVE5VdEttSk5ueFkzd3RTX2NJTndiTU1tNGlRdFhrWnEzYkJqVURkazlyd0dvTEtNWjRBcFQ0RDJHeXVnaTJqREN3TzZ2Q0tWME5td1hNVTNoWUlVNEg0dFkxU1dJQm9ieGFSanpkY1ZoMlp3RmlxbmtjWW9mcFVmQUV6SjNwMmFfTGFaQVRyaWR2b2tsY09zb0JtemxibUQxaERsRmJTUV9GdC12SnhpdzdKNTk2SWZWX3A4TU5udElkN1ZLSjhya3RRUWNNQdIB3wFBVV95cUxQNmdGX2VOdk1vVk5sWThCM205R2xZZXVXWk81QmlBWkJ4ai13VC0yNmZYX0xUYjloZExnOXNDREJzSGs4Wi1mMkdIZ2x4LTV0aW92ZVBaQ2RDME9JWTFFRS1NRVNBYnZPNXpZUGdLeWo2LS1ZdEFCTU1rdVloNTZoOXhzWHFKV1hUT1QwbE9FeUtUbzlrdUkyWkZUcTR6UEtfcHRaeGFxbXlvdUdwbkxyVzhYN2x4Vk8xRlQ5cmpqTUl0WXZpUUh0LUZWWXVaLVNKR1JyOFY4MjkzaWhrcTJB?oc=5",
-     "pubDate": "Thu, 17 Sep 2026 12:32:25 GMT",
-     "source": "simplywall.st"
-    },
-    {
      "title": "Intuitive Machines (LUNR) Stock Looks Above Fair Value As Its 239% Run Continues - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWRKdWltV2ZjWEdlSmlTczFXQVJITENFMFZzTFhKbkdieHJQSFE4QWFpamxmWkoyTGEzN1VlUUtTNWxQanBUTmh0RkFfZlpNNkhRNTZKczR2bHI5V0RZekFmd0tLbnNlWVEyb1lneHF2MlRjUzVsaE16ejVBMDRJLU8tVl91enpIYXdFOFdZdlA0TllHenZiR05HY2ZxUTN6Mnc?oc=5",
      "pubDate": "Wed, 16 Sep 2026 18:11:04 GMT",
      "source": "Yahoo Finance"
+    },
+    {
+     "title": "Intuitive Machines (LUNR) Could Be 40% Below Fair Value On SiriusXM Satellite Handover - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQakhobVV0Sjl4ZC1IVE5VdEttSk5ueFkzd3RTX2NJTndiTU1tNGlRdFhrWnEzYkJqVURkazlyd0dvTEtNWjRBcFQ0RDJHeXVnaTJqREN3TzZ2Q0tWME5td1hNVTNoWUlVNEg0dFkxU1dJQm9ieGFSanpkY1ZoMlp3RmlxbmtjWW9mcFVmQUV6SjNwMmFfTGFaQVRyaWR2b2tsY09zb0JtemxibUQxaERsRmJTUV9GdC12SnhpdzdKNTk2SWZWX3A4TU5udElkN1ZLSjhya3RRUWNNQdIB3wFBVV95cUxQNmdGX2VOdk1vVk5sWThCM205R2xZZXVXWk81QmlBWkJ4ai13VC0yNmZYX0xUYjloZExnOXNDREJzSGs4Wi1mMkdIZ2x4LTV0aW92ZVBaQ2RDME9JWTFFRS1NRVNBYnZPNXpZUGdLeWo2LS1ZdEFCTU1rdVloNTZoOXhzWHFKV1hUT1QwbE9FeUtUbzlrdUkyWkZUcTR6UEtfcHRaeGFxbXlvdUdwbkxyVzhYN2x4Vk8xRlQ5cmpqTUl0WXZpUUh0LUZWWXVaLVNKR1JyOFY4MjkzaWhrcTJB?oc=5",
+     "pubDate": "Thu, 17 Sep 2026 12:32:25 GMT",
+     "source": "simplywall.st"
     },
     {
      "title": "Engineers Gate Manager LP Invests $1.73 Million in Intuitive Machines, Inc. $LUNR - MarketBeat",
@@ -577,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 197.38,
-    "changePct": 0.19
+    "price": 197.35,
+    "changePct": 0.18
    },
    "relVol": 2.2,
    "avgVolume": 5258813,
@@ -741,8 +741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 163.88,
-    "changePct": 0.31
+    "price": 162.11,
+    "changePct": -0.78
    },
    "relVol": 0.7,
    "avgVolume": 2510811,
@@ -823,8 +823,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 23.93,
-    "changePct": 0.2
+    "price": 23.95,
+    "changePct": 0.3
    },
    "relVol": 1.4,
    "avgVolume": 2035971,
@@ -905,8 +905,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 457.0,
-    "changePct": 0.77
+    "price": 452.62,
+    "changePct": -0.19
    },
    "relVol": 0.6,
    "avgVolume": 1463847,
@@ -981,8 +981,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 64.94,
-    "changePct": 0.0
+    "price": 64.7,
+    "changePct": -0.37
    },
    "relVol": 2.4,
    "avgVolume": 542724,
@@ -1133,8 +1133,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 175.7,
-    "changePct": -0.31
+    "price": 175.71,
+    "changePct": -0.3
    },
    "relVol": 1.1,
    "avgVolume": 19707541,
@@ -1209,8 +1209,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 314.78,
-    "changePct": 0.42
+    "price": 314.0,
+    "changePct": 0.17
    },
    "relVol": 1.5,
    "avgVolume": 3450461,
@@ -1665,8 +1665,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 524.0,
-    "changePct": 0.0
+    "price": 525.0,
+    "changePct": 0.19
    },
    "relVol": 2.0,
    "avgVolume": 542197,
@@ -1817,8 +1817,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.42,
-    "changePct": 0.37
+    "price": 5.41,
+    "changePct": 0.19
    },
    "relVol": 1.1,
    "avgVolume": 23239949,
@@ -2273,10 +2273,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 537.94,
-    "changePct": -0.03
+    "price": 538.5,
+    "changePct": 0.08
    },
-   "relVol": 1.7,
+   "relVol": 1.8,
    "avgVolume": 751177,
    "symbol": "LMT",
    "name": "Lockheed Martin",
@@ -2285,9 +2285,9 @@ window.DASHBOARD_DATA = {
    "price": 538.09,
    "prevClose": 533.46,
    "changePct": 0.87,
-   "volume": 1309523,
+   "volume": 1331925,
    "dayHigh": 542.614,
-   "dayLow": 520.42,
+   "dayLow": 520.485,
    "fiftyTwoWeekHigh": 692.0,
    "fiftyTwoWeekLow": 437.25,
    "marketTime": 1789675361,
@@ -2425,7 +2425,7 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 1076.01,
+    "price": 1076.06,
     "changePct": 0.0
    },
    "relVol": 1.1,
@@ -2653,8 +2653,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 226.5,
-    "changePct": 0.33
+    "price": 225.76,
+    "changePct": 0.0
    },
    "relVol": 0.9,
    "avgVolume": 2669197,
@@ -2729,8 +2729,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 37.6,
-    "changePct": 1.46
+    "price": 37.16,
+    "changePct": 0.27
    },
    "relVol": 1.1,
    "avgVolume": 790348,
@@ -2805,8 +2805,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 249.73,
-    "changePct": -0.29
+    "price": 250.46,
+    "changePct": 0.0
    },
    "relVol": 1.3,
    "avgVolume": 1415534,
@@ -2881,8 +2881,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 146.35,
-    "changePct": 0.0
+    "price": 146.6,
+    "changePct": 0.17
    },
    "relVol": 1.0,
    "avgVolume": 809706,
@@ -2957,8 +2957,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 81.16,
-    "changePct": 0.3
+    "price": 80.91,
+    "changePct": 0.0
    },
    "relVol": 1.3,
    "avgVolume": 1398645,
@@ -3091,8 +3091,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 296.48,
-    "changePct": 0.0
+    "price": 295.91,
+    "changePct": -0.19
    },
    "relVol": 1.1,
    "avgVolume": 325910,
@@ -3167,8 +3167,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 47.71,
-    "changePct": 0.1
+    "price": 47.89,
+    "changePct": 0.48
    },
    "relVol": 1.0,
    "avgVolume": 3504227,
@@ -3341,10 +3341,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1789675200,
    "news": [
     {
-     "title": "Red Cat Holdings (RCAT) Faces A 65% Undervalued View, Is That Upside Still Real? - uk.finance.yahoo.com",
+     "title": "Red Cat Holdings (RCAT) Faces A 65% Undervalued View, Is That Upside Still Real? - Yahoo Finance UK",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ09yZGh0ZERqN2JubGJBYmhUQ3M0a0tONXNmVnVtM2tlUHhqZl92ZlFnNlpqZnNFcGtNaDhZeHpTQno5ellkR21lLVdYMzdLa0c5VjhIVTZPVTRwSGZKWEFHaDcxSFA2RVRQbHJqNWctSHlKcGw3Yl9Ccmp3ajJ5VzRR?oc=5",
      "pubDate": "Thu, 17 Sep 2026 03:14:00 GMT",
-     "source": "uk.finance.yahoo.com"
+     "source": "Yahoo Finance UK"
     },
     {
      "title": "Red Cat Holdings (RCAT) And Its Valuation Case After The 2026 Revenue Target - simplywall.st",
@@ -3403,8 +3403,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.55,
-    "changePct": 0.0
+    "price": 11.56,
+    "changePct": 0.09
    },
    "relVol": 1.4,
    "avgVolume": 9267521,
@@ -3429,16 +3429,16 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "How Investors Are Reacting To Redwire Stock As Returns On Capital Improve - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYUk5NWs1RVF6b3ExNFluWXpjXzJZYkd3enRnTVdpY1RBY1pJcW5kY0ZkYmM1ZEszTThkWVJ4WVBVczktQUNVNEZpcjJtanQ2bEpadGg2blRRY3hVX0lZTDdreGlVTHljVUQwNlVKUEE5R0hsdmp0aTB1R0hNWmR2M1hGMXQ1Wm5ib05nd0NySXcwODFmNnRJMjZqT2hpR2lsNGJ2cjg4ekc1XzA0RjRGVGtZSExuNVhjUDFrSHoxV0VKMEJ2VC1n0gHMAUFVX3lxTE5FOWhUSklfY0wzLVdJeWFRdmFuTm5KSTV5b2xKdndKZzkwMUFDV0FDTzBzeGZ0X1NNWm81Qm52eTFyQkpOM1ZOb1VZZHRoU3VjeFAxdmlKWlVnOXJQd0w4amRsblQyVXRibXVIX2JHYWx0cTc5ZUt0RFpVNnBoWlYyYS1oY295dnM4U3BYZm9FTmhrTDhlb21xUlVSMlhXSzBXMVdzZjk3Smo4a2hyYVpXRERHUlh6WTFmZFdhaWp5ZFdQb01XVXBlZW5UUg?oc=5",
-     "pubDate": "Tue, 15 Sep 2026 16:24:57 GMT",
-     "source": "simplywall.st"
-    },
-    {
      "title": "Boeing vs. Redwire: Which Aerospace Stock Is a Better Buy in 2026? - The Motley Fool",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQXp1NnNkbFdFbEpfVWs4Y09uUUxON0tlcGhZc0FjNmFYTG5sRkxuRGFCNGtJRF9CYzhlRTNPeUhMeW9iSV9ZNWZGSy16UzQyZUtGMnNsN3ZqT1I0MndPLW9DUFhWeVZQNWtRQ0hETTk2clp5VHJuSEpNMWo5amFVYUloYnpiRHpST2FOU2QxSjdjVDhMYllFN0hPVXozSENWSFV2QmtERW9qa2ktYU9NSFQ2cXAtdmc?oc=5",
      "pubDate": "Tue, 15 Sep 2026 21:18:00 GMT",
      "source": "The Motley Fool"
+    },
+    {
+     "title": "How Investors Are Reacting To Redwire Stock As Returns On Capital Improve - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYUk5NWs1RVF6b3ExNFluWXpjXzJZYkd3enRnTVdpY1RBY1pJcW5kY0ZkYmM1ZEszTThkWVJ4WVBVczktQUNVNEZpcjJtanQ2bEpadGg2blRRY3hVX0lZTDdreGlVTHljVUQwNlVKUEE5R0hsdmp0aTB1R0hNWmR2M1hGMXQ1Wm5ib05nd0NySXcwODFmNnRJMjZqT2hpR2lsNGJ2cjg4ekc1XzA0RjRGVGtZSExuNVhjUDFrSHoxV0VKMEJ2VC1n0gHMAUFVX3lxTE5FOWhUSklfY0wzLVdJeWFRdmFuTm5KSTV5b2xKdndKZzkwMUFDV0FDTzBzeGZ0X1NNWm81Qm52eTFyQkpOM1ZOb1VZZHRoU3VjeFAxdmlKWlVnOXJQd0w4amRsblQyVXRibXVIX2JHYWx0cTc5ZUt0RFpVNnBoWlYyYS1oY295dnM4U3BYZm9FTmhrTDhlb21xUlVSMlhXSzBXMVdzZjk3Smo4a2hyYVpXRERHUlh6WTFmZFdhaWp5ZFdQb01XVXBlZW5UUg?oc=5",
+     "pubDate": "Tue, 15 Sep 2026 16:24:57 GMT",
+     "source": "simplywall.st"
     },
     {
      "title": "Redwire Corporation $RDW Shares Sold by HighTower Advisors LLC - MarketBeat",
@@ -3485,8 +3485,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 67.7,
-    "changePct": -0.17
+    "price": 67.77,
+    "changePct": -0.07
    },
    "relVol": 1.4,
    "avgVolume": 15363119,
@@ -3567,8 +3567,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.88,
-    "changePct": 0.61
+    "price": 14.86,
+    "changePct": 0.47
    },
    "relVol": 1.7,
    "avgVolume": 4953385,
@@ -3593,16 +3593,16 @@ window.DASHBOARD_DATA = {
      "source": "Seeking Alpha"
     },
     {
-     "title": "Intuitive Machines (LUNR) Could Be 40% Below Fair Value On SiriusXM Satellite Handover - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQakhobVV0Sjl4ZC1IVE5VdEttSk5ueFkzd3RTX2NJTndiTU1tNGlRdFhrWnEzYkJqVURkazlyd0dvTEtNWjRBcFQ0RDJHeXVnaTJqREN3TzZ2Q0tWME5td1hNVTNoWUlVNEg0dFkxU1dJQm9ieGFSanpkY1ZoMlp3RmlxbmtjWW9mcFVmQUV6SjNwMmFfTGFaQVRyaWR2b2tsY09zb0JtemxibUQxaERsRmJTUV9GdC12SnhpdzdKNTk2SWZWX3A4TU5udElkN1ZLSjhya3RRUWNNQdIB3wFBVV95cUxQNmdGX2VOdk1vVk5sWThCM205R2xZZXVXWk81QmlBWkJ4ai13VC0yNmZYX0xUYjloZExnOXNDREJzSGs4Wi1mMkdIZ2x4LTV0aW92ZVBaQ2RDME9JWTFFRS1NRVNBYnZPNXpZUGdLeWo2LS1ZdEFCTU1rdVloNTZoOXhzWHFKV1hUT1QwbE9FeUtUbzlrdUkyWkZUcTR6UEtfcHRaeGFxbXlvdUdwbkxyVzhYN2x4Vk8xRlQ5cmpqTUl0WXZpUUh0LUZWWXVaLVNKR1JyOFY4MjkzaWhrcTJB?oc=5",
-     "pubDate": "Thu, 17 Sep 2026 12:32:25 GMT",
-     "source": "simplywall.st"
-    },
-    {
      "title": "Intuitive Machines (LUNR) Stock Looks Above Fair Value As Its 239% Run Continues - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWRKdWltV2ZjWEdlSmlTczFXQVJITENFMFZzTFhKbkdieHJQSFE4QWFpamxmWkoyTGEzN1VlUUtTNWxQanBUTmh0RkFfZlpNNkhRNTZKczR2bHI5V0RZekFmd0tLbnNlWVEyb1lneHF2MlRjUzVsaE16ejVBMDRJLU8tVl91enpIYXdFOFdZdlA0TllHenZiR05HY2ZxUTN6Mnc?oc=5",
      "pubDate": "Wed, 16 Sep 2026 18:11:04 GMT",
      "source": "Yahoo Finance"
+    },
+    {
+     "title": "Intuitive Machines (LUNR) Could Be 40% Below Fair Value On SiriusXM Satellite Handover - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQakhobVV0Sjl4ZC1IVE5VdEttSk5ueFkzd3RTX2NJTndiTU1tNGlRdFhrWnEzYkJqVURkazlyd0dvTEtNWjRBcFQ0RDJHeXVnaTJqREN3TzZ2Q0tWME5td1hNVTNoWUlVNEg0dFkxU1dJQm9ieGFSanpkY1ZoMlp3RmlxbmtjWW9mcFVmQUV6SjNwMmFfTGFaQVRyaWR2b2tsY09zb0JtemxibUQxaERsRmJTUV9GdC12SnhpdzdKNTk2SWZWX3A4TU5udElkN1ZLSjhya3RRUWNNQdIB3wFBVV95cUxQNmdGX2VOdk1vVk5sWThCM205R2xZZXVXWk81QmlBWkJ4ai13VC0yNmZYX0xUYjloZExnOXNDREJzSGs4Wi1mMkdIZ2x4LTV0aW92ZVBaQ2RDME9JWTFFRS1NRVNBYnZPNXpZUGdLeWo2LS1ZdEFCTU1rdVloNTZoOXhzWHFKV1hUT1QwbE9FeUtUbzlrdUkyWkZUcTR6UEtfcHRaeGFxbXlvdUdwbkxyVzhYN2x4Vk8xRlQ5cmpqTUl0WXZpUUh0LUZWWXVaLVNKR1JyOFY4MjkzaWhrcTJB?oc=5",
+     "pubDate": "Thu, 17 Sep 2026 12:32:25 GMT",
+     "source": "simplywall.st"
     },
     {
      "title": "Engineers Gate Manager LP Invests $1.73 Million in Intuitive Machines, Inc. $LUNR - MarketBeat",
@@ -3649,8 +3649,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 197.38,
-    "changePct": 0.19
+    "price": 197.35,
+    "changePct": 0.18
    },
    "relVol": 2.2,
    "avgVolume": 5258813,
@@ -3813,8 +3813,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 163.88,
-    "changePct": 0.31
+    "price": 162.11,
+    "changePct": -0.78
    },
    "relVol": 0.7,
    "avgVolume": 2510811,
@@ -3895,8 +3895,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 23.93,
-    "changePct": 0.2
+    "price": 23.95,
+    "changePct": 0.3
    },
    "relVol": 1.4,
    "avgVolume": 2035971,
@@ -4091,10 +4091,10 @@ window.DASHBOARD_DATA = {
    "source": "Advanced Manufacturing"
   },
   {
-   "title": "What Is Good For GE Aerospace May Not Be Good For The Industry - forbes.com",
+   "title": "What Is Good For GE Aerospace May Not Be Good For The Industry - Forbes",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTW5UdFRKbkV6Wk5LblhrZjJ6S1RLY2RGekVHRW1RaUlJY2N1LU8ySUQwOW90RDRWc0dEMGtUY0Uxd2kxeG9FcVd1S09qdjlLS3pkb29JbkU4MzJkVTV0anVhVGtFcXpVdHVjQU05Qk1vTkNJQzVoM3pKRm9vY0ZqbUM1d1daSzJ5R3BVbFBxQnlxS21FM0lhYVhwdGJPOVBTRXZIeDRBdDZMRHBiUjlHdV9WUQ?oc=5",
    "pubDate": "Thu, 17 Sep 2026 15:46:22 GMT",
-   "source": "forbes.com"
+   "source": "Forbes"
   },
   {
    "title": "State lawmakers launch effort to advance Florida\u2019s aerospace industry - Florida Politics",
@@ -4113,6 +4113,12 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3ZkFOT0NtQTh0Rm9kTUxhQmdpN1RFUl96RzJaODF1dy1DaHJmQVZhN2xVeHFBZHdxQ3hGRVVKblZPWk1ZUDY3QXkzWGtoQnZrUjNuR3QxVldfVkVyV1RvNDRIX294aEVRaHFIZGktckM3TVd4bzhF?oc=5",
    "pubDate": "Thu, 17 Sep 2026 14:25:07 GMT",
    "source": "KED Global"
+  },
+  {
+   "title": "Zacks Industry Outlook HEICO, ATI and AAR - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY0dHTm5Qbk5qZlJQT2RwQzliQzEtdlNoSUtPcUFSTW1zckFNNUQ5UDBSb0F3UFNTenA4RHk0enk3UFFicFVyTDZtTlYwbnp3R2R1bExzWnBhekJrUVE1MGFqYmY4eFJwRnY2RWY2UE1HOHZjMC0tclE1ZVUxek43WHBZaHVDYmtST2xmdWpSREdJRzR6bThRRmlrU2tQZw?oc=5",
+   "pubDate": "Thu, 17 Sep 2026 07:14:00 GMT",
+   "source": "Yahoo Finance"
   },
   {
    "title": "Lockheed Martin reveals new secret missile, fast tracks production - Reuters",
@@ -4137,12 +4143,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdUFfbFI1Q25aMHlWaUVTOFNVMXpOQk11MmFYbEhUUGNDVF96ZE12YXdyLUFJcmthZmZpdFl1SE9qS0I1YXdVTjk1aEYtdTUzSDlrbGp5M1U4U3pJZkZiZ2VVaUEydmRTdXBCLXJDY29YVklfNGFIMlJkdXRmTlJNZDJ5bTkyZDlCaDlV?oc=5",
    "pubDate": "Thu, 17 Sep 2026 10:19:22 GMT",
    "source": "grandviewresearch.com"
-  },
-  {
-   "title": "Geopolitical tensions ignite a frenzy in defense investment! Carlyle bets on the \"mid-tier players\" in the defense sector entering a golden age. - \u5bcc\u9014\u725b\u725b",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOEFIWmdRYUFSUnZZWmM2WmFBaXppR2R5Nm55VmZSa0pYSHZGV3ZXUVRmT0hjY01HSHBtY3RYdmtCRzVnNmJOUkFCeFR2RDU4cXp0OXRfSW1La2h1WU5JY1dTbXlxN3A0THFzY2F3eFJ1bVo3dGgydHFzMEMyNVplMDByY0EwS1lsU0tPV2VKU1RBVzh0U1hnYVNmUXcwTElhSWtXZktXbUNlWHF6M0dpeW03bw?oc=5",
-   "pubDate": "Thu, 17 Sep 2026 00:25:41 GMT",
-   "source": "\u5bcc\u9014\u725b\u725b"
   }
  ],
  "industrialsNews": [
@@ -4245,16 +4245,16 @@ window.DASHBOARD_DATA = {
    "source": "U.S. Department of War (.gov)"
   },
   {
-   "title": "Valiant Wins Army Contracting Command Contract for Training Support Systems - WashingtonExec",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdG4wcXdleWREWk5ZWlQ5SjZ5SmU1UU0zQkMxVDRCRGQ1b0J2ZE9UakhBdWtkNUgzeXpJWFhmczVDYzd4Mm9tYUF1a2hiRVp1enhRRjR3cEpxbmRiUTRYWlZsOHdSRkhKS3ZnYks4RFZSTDZoLUo1eGoydmdtZnhBdWhOcTdCeGdZWHl0SENTOU5xLUpJUDZiWnNaTlpQS3FyVHdnbzBjQXBXV2U4RUFrbVhDYy0wZlExSEdBWnpWWFZFajJicTBtRw?oc=5",
-   "pubDate": "Wed, 16 Sep 2026 21:41:39 GMT",
-   "source": "WashingtonExec"
-  },
-  {
    "title": "Navy Adds $34M to Northrop Grumman\u2019s UH-1Y, AH-1Z Link 16 Contract - Clearance Jobs",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVibmYtZ3JkbGJtSzNHOFJJSHlpQnJSWVRheVlGaW8xZHcwMDBfQ0NmdjBYZGdSZVNTc085bW9HdmhjekdQUTZhOGhUOVlXZ2NrUzhtU25Bc3U4cmNEcHo2NlR2SmJpMHpnU1hTQVUyX2h4TVJVYXJ5YnJ3VGhwZU1SSWd1Z0ZYYk5wMUk0U284S1pNOWdSSWQ5M25fWjV6d3lWNGpNLS1Kdw?oc=5",
    "pubDate": "Tue, 15 Sep 2026 22:40:14 GMT",
    "source": "Clearance Jobs"
+  },
+  {
+   "title": "Valiant Wins Army Contracting Command Contract for Training Support Systems - WashingtonExec",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdG4wcXdleWREWk5ZWlQ5SjZ5SmU1UU0zQkMxVDRCRGQ1b0J2ZE9UakhBdWtkNUgzeXpJWFhmczVDYzd4Mm9tYUF1a2hiRVp1enhRRjR3cEpxbmRiUTRYWlZsOHdSRkhKS3ZnYks4RFZSTDZoLUo1eGoydmdtZnhBdWhOcTdCeGdZWHl0SENTOU5xLUpJUDZiWnNaTlpQS3FyVHdnbzBjQXBXV2U4RUFrbVhDYy0wZlExSEdBWnpWWFZFajJicTBtRw?oc=5",
+   "pubDate": "Wed, 16 Sep 2026 21:41:39 GMT",
+   "source": "WashingtonExec"
   },
   {
    "title": "A $5M manufacturing system is headed to an Oklahoma Air Force base - Stock Titan",
