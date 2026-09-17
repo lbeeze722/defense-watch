@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-09-17T20:17:24.479170+00:00",
+ "generatedAt": "2026-09-17T20:22:56.371036+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.1,
-    "changePct": 0.07
+    "price": 7.11,
+    "changePct": 0.23
    },
    "relVol": 1.4,
    "avgVolume": 8432884,
@@ -413,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 67.86,
-    "changePct": 0.06
+    "price": 67.77,
+    "changePct": -0.07
    },
    "relVol": 1.4,
    "avgVolume": 15363119,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.86,
-    "changePct": 0.47
+    "price": 14.8,
+    "changePct": 0.07
    },
    "relVol": 1.7,
    "avgVolume": 4953385,
@@ -577,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 197.3,
-    "changePct": 0.15
+    "price": 197.39,
+    "changePct": 0.2
    },
    "relVol": 2.2,
    "avgVolume": 5258813,
@@ -741,8 +741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 163.35,
-    "changePct": -0.02
+    "price": 161.38,
+    "changePct": -1.22
    },
    "relVol": 0.7,
    "avgVolume": 2510811,
@@ -824,7 +824,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 23.96,
-    "changePct": 0.32
+    "changePct": 0.34
    },
    "relVol": 1.4,
    "avgVolume": 2035971,
@@ -905,8 +905,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 454.01,
-    "changePct": 0.11
+    "price": 456.98,
+    "changePct": 0.77
    },
    "relVol": 0.6,
    "avgVolume": 1463847,
@@ -1133,8 +1133,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 175.63,
-    "changePct": -0.35
+    "price": 175.7,
+    "changePct": -0.31
    },
    "relVol": 1.1,
    "avgVolume": 19707541,
@@ -1285,8 +1285,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.4,
-    "changePct": 0.14
+    "price": 7.39,
+    "changePct": 0.0
    },
    "relVol": 1.1,
    "avgVolume": 61915420,
@@ -1435,7 +1435,11 @@ window.DASHBOARD_DATA = {
     76.51,
     76.43
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 76.43,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
    "avgVolume": 522697,
    "symbol": "VVX",
@@ -1507,7 +1511,11 @@ window.DASHBOARD_DATA = {
     36.68,
     36.7
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 36.7,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
    "avgVolume": 856773,
    "symbol": "KBR",
@@ -1581,8 +1589,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 78.71,
-    "changePct": -0.23
+    "price": 78.89,
+    "changePct": 0.0
    },
    "relVol": 0.8,
    "avgVolume": 1270720,
@@ -1809,8 +1817,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.43,
-    "changePct": 0.56
+    "price": 5.42,
+    "changePct": 0.37
    },
    "relVol": 1.1,
    "avgVolume": 23239949,
@@ -1959,7 +1967,11 @@ window.DASHBOARD_DATA = {
     46.17,
     46.17
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 46.17,
+    "changePct": 0.0
+   },
    "relVol": 0.9,
    "avgVolume": 879402,
    "symbol": "PSN",
@@ -2033,8 +2045,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 193.49,
-    "changePct": -0.03
+    "price": 193.55,
+    "changePct": 0.01
    },
    "relVol": 1.4,
    "avgVolume": 2469204,
@@ -2185,8 +2197,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 86.18,
-    "changePct": 0.0
+    "price": 85.81,
+    "changePct": -0.43
    },
    "relVol": 1.0,
    "avgVolume": 582884,
@@ -2227,6 +2239,82 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOclEtdjRRV0s5cGdkNUEwWmlhQ3FicU9Ga0ZWTEl6SVpiYTFITXk1X2NSM0tRTWRNdFFsdE4wYkl1VS0yQVNKeVBUM3dtU1ZDRHRkakU4cG45d3N1ZEh6cGQ5TTI0dmdNZmdfbVdWMXhfdTlHQjRYSjZ5a2s0d2wwMmg0UW1kbnhQQ2ZTdXJlZlI4MnI2OU0xMkNsNDFEczFlSVM4aG53?oc=5",
      "pubDate": "Thu, 17 Sep 2026 16:53:00 GMT",
      "source": "Kalkine Media"
+    }
+   ]
+  },
+  {
+   "spark": [
+    523.29,
+    524.44,
+    525.19,
+    524.86,
+    523.92,
+    528.32,
+    528.74,
+    527.59,
+    530.98,
+    529.48,
+    529.78,
+    533.98,
+    533.59,
+    533.94,
+    533.46,
+    536.58,
+    538.69,
+    536.66,
+    536.11,
+    537.24,
+    532.78,
+    528.88,
+    531.58,
+    537.18,
+    537.92,
+    538.09
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 537.94,
+    "changePct": -0.03
+   },
+   "relVol": 1.7,
+   "avgVolume": 751177,
+   "symbol": "LMT",
+   "name": "Lockheed Martin",
+   "vertical": "Prime Contractors",
+   "description": "Largest US defense prime \u2014 F-35 fighter, missiles & fire control (PAC-3, HIMARS), Sikorsky helicopters, and space systems.",
+   "price": 538.09,
+   "prevClose": 533.46,
+   "changePct": 0.87,
+   "volume": 1309523,
+   "dayHigh": 542.614,
+   "dayLow": 520.42,
+   "fiftyTwoWeekHigh": 692.0,
+   "fiftyTwoWeekLow": 437.25,
+   "marketTime": 1789675361,
+   "news": [
+    {
+     "title": "Lockheed Martin Corporation (LMT) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcC1EM0g5dm96TGJYZDVRN0VGM2hPVWw0Wm1SZXN5dVFyU3FBTGd0LXl6eFhfMlhDeExYc1NLcmExNEFPWXBRNTVyLXg3Zjd2TTR5V05NVzAtYUdlZmpaR3JrZU8xUnE5RHR1dzlSa1N4T2dfV05TMG9wWXRWRDZEZ2lqbl95MkFDM2ozOG55MzJkNEZaR3RVbUtET1FLSDZIUkhhLU40cG0?oc=5",
+     "pubDate": "Mon, 14 Sep 2026 13:00:03 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Australia announces nearly $736 million for air-to-air missiles. Lockheed Martin will accelerate production. - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU1g1cGtlVGdfcXNDQWIxLS1aeHlrc1JoR2hIbDQ5RVdURTYzT1lmSThkOEEwemV0UDZkUkxxZ2RKWGZyclV1Y1FXT0pSTk50VDVPNXRzb0J5SXFzLVZOdEZkVXo3c2IxUWx2SUE5bXZYZkZsU3IwRmgwR3pRcEphNndFZnk3UThUZTAtM0ZmTV9pdVc2bE80YUt0RUFqQVhCMEZMYkJuUDRGY3FaU2F0cXYzSFZFOTYtSjRF?oc=5",
+     "pubDate": "Thu, 17 Sep 2026 12:15:00 GMT",
+     "source": "Stock Titan"
+    },
+    {
+     "title": "GM, LMT Stocks Gain Overnight: General Motors, Lockheed Martin Reportedly Working On Weapons Parts Partnership - Stocktwits",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTWYxRUl3VVRfSlF3ZG9UUXpqOEdfOVV1c1RlSHFtMzlWS2hmSWJxWkR3VjNYcEo3UGdlTWwwc2hxaVJUVmt2QUJEamk3aU5MUGdLLWJkamZMTk9qQXRPZWhJSDBWTjZLNndwSUFkd3RET0JSSmh5dmhuQ1BaRndsR2p6Ym9CQTBhWnhBSk9scDBMYlZUdW44MXF5ejlDRzRaM1dYcFNuakFTWGxKc1FOZ2RLRTE5TXBqd200RlhZaGR2aG1RY2dBcXVYbGRxOUtPeThWUEplb2R2UXNWWllKdTl3V1FocUNOTDNGa1RqZWgyZw?oc=5",
+     "pubDate": "Wed, 16 Sep 2026 08:03:38 GMT",
+     "source": "Stocktwits"
+    },
+    {
+     "title": "Lockheed Martin Stock Is Down 24% From Its Highs. Here\u2019s Why Analysts See 35% Upside - TIKR.com",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUlEVWZiYzRYZWRDSjY2SlhMMmZVMVh3WEVkR3ZfX0lqbEtUWktiSTJzNk9uelhpT09KWG5tdm1NbGhhVWlZMmlxYlY2OW9qWGtIbkZISWluYjMtZ3F0Rmp2UlJaeDlwdWpmNmxjU05oVU0wd2tOYkRRbUtOYUJDcExoWUNkX1dsT2F4WXhQRXhoUElwM3p2dWpzV0RPdDFLYjZKZGxYRFJ3QQ?oc=5",
+     "pubDate": "Fri, 11 Sep 2026 22:37:27 GMT",
+     "source": "TIKR.com"
     }
    ]
   },
@@ -2379,82 +2467,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOelBOT1dVWWJzZTdwcXBpSUJ0djdQYVM0d095aUI3X1dBRmtxQ05tS3lXa2JoTGRLb0JrQlB4UW9KVDAxa1lYSjlJelVaVC1wSUdaMVBsWkdnLUNMZTZsRG1nYk1iUm5hWGg5QjZaTFRGX0NlSzNueXhBMWpGaktlUmFLSW52UU0ycHVLUHlSanRnUGdVWThWWnpDQzY3dkxlbUtyZlR6RVIzeVJVM2NucHcySU9kcXFDdENLSmdjSXN4WmQ0QkE?oc=5",
      "pubDate": "Thu, 17 Sep 2026 16:46:37 GMT",
      "source": "ad-hoc-news.de"
-    }
-   ]
-  },
-  {
-   "spark": [
-    523.29,
-    524.44,
-    525.19,
-    524.86,
-    523.92,
-    528.32,
-    528.74,
-    527.59,
-    530.98,
-    529.48,
-    529.78,
-    533.98,
-    533.59,
-    533.94,
-    533.46,
-    536.58,
-    538.69,
-    536.66,
-    536.11,
-    537.24,
-    532.78,
-    528.88,
-    531.58,
-    537.18,
-    537.92,
-    537.86
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 537.94,
-    "changePct": 0.01
-   },
-   "relVol": 1.8,
-   "avgVolume": 751177,
-   "symbol": "LMT",
-   "name": "Lockheed Martin",
-   "vertical": "Prime Contractors",
-   "description": "Largest US defense prime \u2014 F-35 fighter, missiles & fire control (PAC-3, HIMARS), Sikorsky helicopters, and space systems.",
-   "price": 537.86,
-   "prevClose": 533.46,
-   "changePct": 0.82,
-   "volume": 1331925,
-   "dayHigh": 542.614,
-   "dayLow": 520.485,
-   "fiftyTwoWeekHigh": 692.0,
-   "fiftyTwoWeekLow": 437.25,
-   "marketTime": 1789675200,
-   "news": [
-    {
-     "title": "Lockheed Martin Corporation (LMT) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcC1EM0g5dm96TGJYZDVRN0VGM2hPVWw0Wm1SZXN5dVFyU3FBTGd0LXl6eFhfMlhDeExYc1NLcmExNEFPWXBRNTVyLXg3Zjd2TTR5V05NVzAtYUdlZmpaR3JrZU8xUnE5RHR1dzlSa1N4T2dfV05TMG9wWXRWRDZEZ2lqbl95MkFDM2ozOG55MzJkNEZaR3RVbUtET1FLSDZIUkhhLU40cG0?oc=5",
-     "pubDate": "Mon, 14 Sep 2026 13:00:03 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Australia announces nearly $736 million for air-to-air missiles. Lockheed Martin will accelerate production. - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU1g1cGtlVGdfcXNDQWIxLS1aeHlrc1JoR2hIbDQ5RVdURTYzT1lmSThkOEEwemV0UDZkUkxxZ2RKWGZyclV1Y1FXT0pSTk50VDVPNXRzb0J5SXFzLVZOdEZkVXo3c2IxUWx2SUE5bXZYZkZsU3IwRmgwR3pRcEphNndFZnk3UThUZTAtM0ZmTV9pdVc2bE80YUt0RUFqQVhCMEZMYkJuUDRGY3FaU2F0cXYzSFZFOTYtSjRF?oc=5",
-     "pubDate": "Thu, 17 Sep 2026 12:15:00 GMT",
-     "source": "Stock Titan"
-    },
-    {
-     "title": "GM, LMT Stocks Gain Overnight: General Motors, Lockheed Martin Reportedly Working On Weapons Parts Partnership - Stocktwits",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTWYxRUl3VVRfSlF3ZG9UUXpqOEdfOVV1c1RlSHFtMzlWS2hmSWJxWkR3VjNYcEo3UGdlTWwwc2hxaVJUVmt2QUJEamk3aU5MUGdLLWJkamZMTk9qQXRPZWhJSDBWTjZLNndwSUFkd3RET0JSSmh5dmhuQ1BaRndsR2p6Ym9CQTBhWnhBSk9scDBMYlZUdW44MXF5ejlDRzRaM1dYcFNuakFTWGxKc1FOZ2RLRTE5TXBqd200RlhZaGR2aG1RY2dBcXVYbGRxOUtPeThWUEplb2R2UXNWWllKdTl3V1FocUNOTDNGa1RqZWgyZw?oc=5",
-     "pubDate": "Wed, 16 Sep 2026 08:03:38 GMT",
-     "source": "Stocktwits"
-    },
-    {
-     "title": "Lockheed Martin Stock Is Down 24% From Its Highs. Here\u2019s Why Analysts See 35% Upside - TIKR.com",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUlEVWZiYzRYZWRDSjY2SlhMMmZVMVh3WEVkR3ZfX0lqbEtUWktiSTJzNk9uelhpT09KWG5tdm1NbGhhVWlZMmlxYlY2OW9qWGtIbkZISWluYjMtZ3F0Rmp2UlJaeDlwdWpmNmxjU05oVU0wd2tOYkRRbUtOYUJDcExoWUNkX1dsT2F4WXhQRXhoUElwM3p2dWpzV0RPdDFLYjZKZGxYRFJ3QQ?oc=5",
-     "pubDate": "Fri, 11 Sep 2026 22:37:27 GMT",
-     "source": "TIKR.com"
     }
    ]
   },
@@ -2717,8 +2729,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 37.06,
-    "changePct": 0.0
+    "price": 36.75,
+    "changePct": -0.84
    },
    "relVol": 1.1,
    "avgVolume": 790348,
@@ -2869,8 +2881,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 146.35,
-    "changePct": 0.0
+    "price": 147.18,
+    "changePct": 0.57
    },
    "relVol": 1.0,
    "avgVolume": 809706,
@@ -3019,7 +3031,11 @@ window.DASHBOARD_DATA = {
     634.81,
     635.0
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 635.0,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
    "avgVolume": 222272,
    "symbol": "CACI",
@@ -3151,8 +3167,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 47.73,
-    "changePct": 0.15
+    "price": 47.71,
+    "changePct": 0.1
    },
    "relVol": 1.0,
    "avgVolume": 3504227,
@@ -3305,8 +3321,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.1,
-    "changePct": 0.07
+    "price": 7.11,
+    "changePct": 0.23
    },
    "relVol": 1.4,
    "avgVolume": 8432884,
@@ -3469,8 +3485,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 67.86,
-    "changePct": 0.06
+    "price": 67.77,
+    "changePct": -0.07
    },
    "relVol": 1.4,
    "avgVolume": 15363119,
@@ -3551,8 +3567,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.86,
-    "changePct": 0.47
+    "price": 14.8,
+    "changePct": 0.07
    },
    "relVol": 1.7,
    "avgVolume": 4953385,
@@ -3633,8 +3649,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 197.3,
-    "changePct": 0.15
+    "price": 197.39,
+    "changePct": 0.2
    },
    "relVol": 2.2,
    "avgVolume": 5258813,
@@ -3797,8 +3813,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 163.35,
-    "changePct": -0.02
+    "price": 161.38,
+    "changePct": -1.22
    },
    "relVol": 0.7,
    "avgVolume": 2510811,
@@ -3880,7 +3896,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 23.96,
-    "changePct": 0.32
+    "changePct": 0.34
    },
    "relVol": 1.4,
    "avgVolume": 2035971,
