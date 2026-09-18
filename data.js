@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-09-18T20:18:15.160071+00:00",
+ "generatedAt": "2026-09-18T20:23:57.848901+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -281,10 +281,10 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "CUOMO JOHN A Disposes 1,566 Shares of VSE Corp Between $186.42 and $188.88 - Kalkine Media",
+     "title": "CUOMO JOHN A Disposes 1,566 Shares of VSE Corp Between $186.42 and $188.88 - kalkinemedia.com",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMUNkQTdET3ZZeGtnOXlNVlY1aTlldXNPQlRNQlgxVEVWOVZjTWNXeWNXSjhFX3FiTWxNTVpsWW5FQUhYeTBTM0k3dVhWbm83SFlZUURLd0Nab1Zickp0RDVBT2hHaW1oZzRmSE5fUjRNM2xXRWNWUkxhRXBBcm9BN09TUmdySEVaYUVielE4NGllXzRLcGJpYjIyX2pYRE1EVFp1R1RBeEJUZFNjTnBNX0w5YmRFX0k?oc=5",
      "pubDate": "Thu, 17 Sep 2026 16:54:00 GMT",
-     "source": "Kalkine Media"
+     "source": "kalkinemedia.com"
     },
     {
      "title": "VSEC - VSE Corp Stock Price and Quote - Finviz",
@@ -413,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.83,
-    "changePct": 1.19
+    "price": 6.84,
+    "changePct": 1.33
    },
    "relVol": 2.5,
    "avgVolume": 10012822,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 448.06,
-    "changePct": 0.07
+    "price": 449.95,
+    "changePct": 0.49
    },
    "relVol": 0.8,
    "avgVolume": 1543244,
@@ -609,10 +609,10 @@ window.DASHBOARD_DATA = {
      "source": "Seeking Alpha"
     },
     {
-     "title": "Why Does KULR Technology Group (KULR) Matter in This Market? - Kalkine Media",
+     "title": "Why Does KULR Technology Group (KULR) Matter in This Market? - kalkinemedia.com",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTjIwblJKVV9uV0RDbDdreV9ndFpGeEN6czQzR1JyNEFPSmtvWEtLdENHVENWenJNX2VEckE0UHV4QlZraGF3TFBfeFB0b3VHUFQyczBMdzl6TDUxaFp1N29lVklUNlplNEs4Nll4WDdKSUpsbEdIbWhpSW16QXE3REs2UnBFLUhNc3NONUlrcVdkXzI5bHJlekNiWkpRalk?oc=5",
      "pubDate": "Tue, 15 Sep 2026 09:18:00 GMT",
-     "source": "Kalkine Media"
+     "source": "kalkinemedia.com"
     },
     {
      "title": "KULR Technology Group (KULR) grants CFO 200,000 RSUs over 4 years - Stock Titan",
@@ -817,8 +817,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.39,
-    "changePct": 0.0
+    "price": 7.38,
+    "changePct": -0.14
    },
    "relVol": 0.9,
    "avgVolume": 67917058,
@@ -969,8 +969,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 160.46,
-    "changePct": 0.32
+    "price": 160.49,
+    "changePct": 0.34
    },
    "relVol": 1.2,
    "avgVolume": 1989752,
@@ -1197,8 +1197,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 177.56,
-    "changePct": -0.05
+    "price": 177.95,
+    "changePct": 0.17
    },
    "relVol": 1.8,
    "avgVolume": 21523396,
@@ -1501,8 +1501,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 193.98,
-    "changePct": -0.01
+    "price": 194.0,
+    "changePct": 0.0
    },
    "relVol": 3.6,
    "avgVolume": 2667526,
@@ -1653,8 +1653,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 64.65,
-    "changePct": 0.12
+    "price": 64.59,
+    "changePct": 0.03
    },
    "relVol": 1.9,
    "avgVolume": 16598927,
@@ -2232,6 +2232,82 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    528.32,
+    528.74,
+    527.59,
+    530.98,
+    529.48,
+    529.78,
+    533.98,
+    533.59,
+    533.94,
+    533.46,
+    536.58,
+    538.69,
+    536.66,
+    536.11,
+    537.24,
+    532.78,
+    528.88,
+    531.58,
+    537.18,
+    537.92,
+    528.17,
+    528.53,
+    531.52,
+    535.23,
+    533.43,
+    533.38
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 533.32,
+    "changePct": -0.01
+   },
+   "relVol": 3.1,
+   "avgVolume": 852618,
+   "symbol": "LMT",
+   "name": "Lockheed Martin",
+   "vertical": "Prime Contractors",
+   "description": "Largest US defense prime \u2014 F-35 fighter, missiles & fire control (PAC-3, HIMARS), Sikorsky helicopters, and space systems.",
+   "price": 533.38,
+   "prevClose": 537.25,
+   "changePct": -0.72,
+   "volume": 2643814,
+   "dayHigh": 538.1,
+   "dayLow": 527.1,
+   "fiftyTwoWeekHigh": 692.0,
+   "fiftyTwoWeekLow": 437.25,
+   "marketTime": 1789761877,
+   "news": [
+    {
+     "title": "Lockheed Martin (LMT) Stock Looks Below Fair Value After 79% Run - simplywall.st",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYUpOWmV1U0RpVzNDcXFIMGlGYkNTUG5Ld1FwSFU0aTMyTXQzMnE4djBwcG5HOFhGQkpHUGN3MndyUlhZR0lScTZGQ1FCa2FRWEFhYnhrZ29GNXQ1Slp3UVBtYWh0S0pXYmZlYjVGZjYyUFRRcnkzVHN6VE1TbUNQNjhRNTVRUmlHdGpXaHlhZXpud0JsM2IzUy1Rb0ZfU3ZOc29PekMxdkRiMHpPMVRndmNOMTNkRi11VGg0VHp6VmlpTXRsa3ItYXY0VWVyaUZDT1HSAdcBQVVfeXFMTkFXcTZhMmZDeGppSEtCTGRQc19vaHE0UzZwYkRtemNQNlkwc0NXb2NOX2s1dVFjdEpwWVFoeThmTEY4aU14RUtOSm5YQlJhRGhERDYwdmZvV2RLVmlySWQ1bG9xaHV2c2gwRGg3SXBVb2Jqck01QTUxTlcxNTFBTG1aQmNib01zV2V2QUlMNGFVT1p4NklCMENQTnl4MWxCVUZjNHJJZHlRYVJ3anB1d040VUpWQWowRnIybm1GVnZXbnFFbUd1dW4xV2FNZW5BRFJBM2g0ejA?oc=5",
+     "pubDate": "Fri, 18 Sep 2026 12:34:03 GMT",
+     "source": "simplywall.st"
+    },
+    {
+     "title": "Lockheed Martin Stock Slips 0.9%; Saudi F-35 Approval Is Not an Order - TechStock\u00b2",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRnBxZzhDemVGYTlFWGg1bE5MckQ1Y1lQN2ZmUmhpV1I2dWxmaWw2TXFONmItSWF4Rk9QRWFVSXFPUlpPT2RrME84LUEtRlNTT1BZZzhaMzBWNHV5MXVPR2tjaFJuOVJWTVVOZjVqaFJqODQ3RzJJamlQS2M4TlhEV2VuRE03bzZoVEd1Zm1LWFNSdw?oc=5",
+     "pubDate": "Fri, 18 Sep 2026 14:26:28 GMT",
+     "source": "TechStock\u00b2"
+    },
+    {
+     "title": "Why Lockheed Martin (LMT) Dipped More Than Broader Market Today - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2NZSHlTOVNOTjBRdW9ZdklMWG1rQ3Awd1R2NDNHUC1rSVFmT1o3dlhJR1ljNHViOUlWQWNEcXJfa1BkbDlObkhpN2cwcHVRUWpmLXBqdDZpSDFRTHp0OVBuMFRVQXgzbWlZTFRXcWpzRXdLTkZRUWpRblJhakZISHkzNFlGRDNqVld4TkVrbkp3UFY5RFd5bVFIaw?oc=5",
+     "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "GM, LMT Stocks Gain Overnight: General Motors, Lockheed Martin Reportedly Working On Weapons Parts Partnership - Stocktwits",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTWYxRUl3VVRfSlF3ZG9UUXpqOEdfOVV1c1RlSHFtMzlWS2hmSWJxWkR3VjNYcEo3UGdlTWwwc2hxaVJUVmt2QUJEamk3aU5MUGdLLWJkamZMTk9qQXRPZWhJSDBWTjZLNndwSUFkd3RET0JSSmh5dmhuQ1BaRndsR2p6Ym9CQTBhWnhBSk9scDBMYlZUdW44MXF5ejlDRzRaM1dYcFNuakFTWGxKc1FOZ2RLRTE5TXBqd200RlhZaGR2aG1RY2dBcXVYbGRxOUtPeThWUEplb2R2UXNWWllKdTl3V1FocUNOTDNGa1RqZWgyZw?oc=5",
+     "pubDate": "Wed, 16 Sep 2026 08:03:38 GMT",
+     "source": "Stocktwits"
+    }
+   ]
+  },
+  {
+   "spark": [
     721.58,
     724.45,
     723.07,
@@ -2395,8 +2471,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.13,
-    "changePct": 0.16
+    "price": 6.12,
+    "changePct": 0.02
    },
    "relVol": 1.0,
    "avgVolume": 23561418,
@@ -2518,82 +2594,6 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
-    528.32,
-    528.74,
-    527.59,
-    530.98,
-    529.48,
-    529.78,
-    533.98,
-    533.59,
-    533.94,
-    533.46,
-    536.58,
-    538.69,
-    536.66,
-    536.11,
-    537.24,
-    532.78,
-    528.88,
-    531.58,
-    537.18,
-    537.92,
-    528.17,
-    528.53,
-    531.52,
-    535.23,
-    533.43,
-    533.86
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 533.59,
-    "changePct": -0.05
-   },
-   "relVol": 3.3,
-   "avgVolume": 852618,
-   "symbol": "LMT",
-   "name": "Lockheed Martin",
-   "vertical": "Prime Contractors",
-   "description": "Largest US defense prime \u2014 F-35 fighter, missiles & fire control (PAC-3, HIMARS), Sikorsky helicopters, and space systems.",
-   "price": 533.86,
-   "prevClose": 537.25,
-   "changePct": -0.63,
-   "volume": 2816524,
-   "dayHigh": 538.1,
-   "dayLow": 527.1,
-   "fiftyTwoWeekHigh": 692.0,
-   "fiftyTwoWeekLow": 437.25,
-   "marketTime": 1789761600,
-   "news": [
-    {
-     "title": "Lockheed Martin (LMT) Stock Looks Below Fair Value After 79% Run - simplywall.st",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYUpOWmV1U0RpVzNDcXFIMGlGYkNTUG5Ld1FwSFU0aTMyTXQzMnE4djBwcG5HOFhGQkpHUGN3MndyUlhZR0lScTZGQ1FCa2FRWEFhYnhrZ29GNXQ1Slp3UVBtYWh0S0pXYmZlYjVGZjYyUFRRcnkzVHN6VE1TbUNQNjhRNTVRUmlHdGpXaHlhZXpud0JsM2IzUy1Rb0ZfU3ZOc29PekMxdkRiMHpPMVRndmNOMTNkRi11VGg0VHp6VmlpTXRsa3ItYXY0VWVyaUZDT1HSAdcBQVVfeXFMTkFXcTZhMmZDeGppSEtCTGRQc19vaHE0UzZwYkRtemNQNlkwc0NXb2NOX2s1dVFjdEpwWVFoeThmTEY4aU14RUtOSm5YQlJhRGhERDYwdmZvV2RLVmlySWQ1bG9xaHV2c2gwRGg3SXBVb2Jqck01QTUxTlcxNTFBTG1aQmNib01zV2V2QUlMNGFVT1p4NklCMENQTnl4MWxCVUZjNHJJZHlRYVJ3anB1d040VUpWQWowRnIybm1GVnZXbnFFbUd1dW4xV2FNZW5BRFJBM2g0ejA?oc=5",
-     "pubDate": "Fri, 18 Sep 2026 12:34:03 GMT",
-     "source": "simplywall.st"
-    },
-    {
-     "title": "Lockheed Martin Stock Slips 0.9%; Saudi F-35 Approval Is Not an Order - TechStock\u00b2",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRnBxZzhDemVGYTlFWGg1bE5MckQ1Y1lQN2ZmUmhpV1I2dWxmaWw2TXFONmItSWF4Rk9QRWFVSXFPUlpPT2RrME84LUEtRlNTT1BZZzhaMzBWNHV5MXVPR2tjaFJuOVJWTVVOZjVqaFJqODQ3RzJJamlQS2M4TlhEV2VuRE03bzZoVEd1Zm1LWFNSdw?oc=5",
-     "pubDate": "Fri, 18 Sep 2026 14:26:28 GMT",
-     "source": "TechStock\u00b2"
-    },
-    {
-     "title": "Why Lockheed Martin (LMT) Dipped More Than Broader Market Today - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2NZSHlTOVNOTjBRdW9ZdklMWG1rQ3Awd1R2NDNHUC1rSVFmT1o3dlhJR1ljNHViOUlWQWNEcXJfa1BkbDlObkhpN2cwcHVRUWpmLXBqdDZpSDFRTHp0OVBuMFRVQXgzbWlZTFRXcWpzRXdLTkZRUWpRblJhakZISHkzNFlGRDNqVld4TkVrbkp3UFY5RFd5bVFIaw?oc=5",
-     "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "GM, LMT Stocks Gain Overnight: General Motors, Lockheed Martin Reportedly Working On Weapons Parts Partnership - Stocktwits",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTWYxRUl3VVRfSlF3ZG9UUXpqOEdfOVV1c1RlSHFtMzlWS2hmSWJxWkR3VjNYcEo3UGdlTWwwc2hxaVJUVmt2QUJEamk3aU5MUGdLLWJkamZMTk9qQXRPZWhJSDBWTjZLNndwSUFkd3RET0JSSmh5dmhuQ1BaRndsR2p6Ym9CQTBhWnhBSk9scDBMYlZUdW44MXF5ejlDRzRaM1dYcFNuakFTWGxKc1FOZ2RLRTE5TXBqd200RlhZaGR2aG1RY2dBcXVYbGRxOUtPeThWUEplb2R2UXNWWllKdTl3V1FocUNOTDNGa1RqZWgyZw?oc=5",
-     "pubDate": "Wed, 16 Sep 2026 08:03:38 GMT",
-     "source": "Stocktwits"
-    }
-   ]
-  },
-  {
-   "spark": [
     1105.11,
     1109.29,
     1113.53,
@@ -2699,8 +2699,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.79,
-    "changePct": 0.47
+    "price": 10.8,
+    "changePct": 0.56
    },
    "relVol": 3.3,
    "avgVolume": 9420582,
@@ -3003,8 +3003,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 13.97,
-    "changePct": 0.36
+    "price": 14.0,
+    "changePct": 0.57
    },
    "relVol": 2.6,
    "avgVolume": 5599316,
@@ -3155,8 +3155,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 47.48,
-    "changePct": 0.04
+    "price": 47.54,
+    "changePct": 0.17
    },
    "relVol": 1.7,
    "avgVolume": 3365945,
@@ -3341,10 +3341,10 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "CUOMO JOHN A Disposes 1,566 Shares of VSE Corp Between $186.42 and $188.88 - Kalkine Media",
+     "title": "CUOMO JOHN A Disposes 1,566 Shares of VSE Corp Between $186.42 and $188.88 - kalkinemedia.com",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMUNkQTdET3ZZeGtnOXlNVlY1aTlldXNPQlRNQlgxVEVWOVZjTWNXeWNXSjhFX3FiTWxNTVpsWW5FQUhYeTBTM0k3dVhWbm83SFlZUURLd0Nab1Zickp0RDVBT2hHaW1oZzRmSE5fUjRNM2xXRWNWUkxhRXBBcm9BN09TUmdySEVaYUVielE4NGllXzRLcGJpYjIyX2pYRE1EVFp1R1RBeEJUZFNjTnBNX0w5YmRFX0k?oc=5",
      "pubDate": "Thu, 17 Sep 2026 16:54:00 GMT",
-     "source": "Kalkine Media"
+     "source": "kalkinemedia.com"
     },
     {
      "title": "VSEC - VSE Corp Stock Price and Quote - Finviz",
@@ -3473,8 +3473,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.83,
-    "changePct": 1.19
+    "price": 6.84,
+    "changePct": 1.33
    },
    "relVol": 2.5,
    "avgVolume": 10012822,
@@ -3555,8 +3555,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 448.06,
-    "changePct": 0.07
+    "price": 449.95,
+    "changePct": 0.49
    },
    "relVol": 0.8,
    "avgVolume": 1543244,
@@ -3669,10 +3669,10 @@ window.DASHBOARD_DATA = {
      "source": "Seeking Alpha"
     },
     {
-     "title": "Why Does KULR Technology Group (KULR) Matter in This Market? - Kalkine Media",
+     "title": "Why Does KULR Technology Group (KULR) Matter in This Market? - kalkinemedia.com",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTjIwblJKVV9uV0RDbDdreV9ndFpGeEN6czQzR1JyNEFPSmtvWEtLdENHVENWenJNX2VEckE0UHV4QlZraGF3TFBfeFB0b3VHUFQyczBMdzl6TDUxaFp1N29lVklUNlplNEs4Nll4WDdKSUpsbEdIbWhpSW16QXE3REs2UnBFLUhNc3NONUlrcVdkXzI5bHJlekNiWkpRalk?oc=5",
      "pubDate": "Tue, 15 Sep 2026 09:18:00 GMT",
-     "source": "Kalkine Media"
+     "source": "kalkinemedia.com"
     },
     {
      "title": "KULR Technology Group (KULR) grants CFO 200,000 RSUs over 4 years - Stock Titan",
@@ -3803,16 +3803,16 @@ window.DASHBOARD_DATA = {
    "source": "Crude Oil Prices Today | OilPrice.com"
   },
   {
-   "title": "Navigating Europe\u2019s Suwa\u0142ki Trap - Centre for Strategic and Contemporary Research",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaDhDd3RmTHZ2bVFRaU5aTUI0VmFtQmhjWlk4a2M2NVJ5ZWtCaDZ4YWRvd1ZPQVVRZ1dLcHZsdHdVSU5zdUVKN0E2ejNpWlB1OGs0WGNGM2loanBWaE1Od2pDSklSR0NsS3pYd3BZcU0yVFJMM0NndFVKYVd4dllBSDFtbjJVX1E?oc=5",
-   "pubDate": "Fri, 18 Sep 2026 12:40:05 GMT",
-   "source": "Centre for Strategic and Contemporary Research"
-  },
-  {
    "title": "Explainer: How Yemen's Houthis went from a small mountain militia to a big regional threat - Reuters",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGthY0luQlRSdV83a2g1VktUVlRKMVJCeXVjME5lNEU3MUNocU55OUhIQXhoRThxT0ZiVlUyMkM1ZENVVlowLWNaX0p5bFpjVnpfMDhPTl9EYU01MV94Y19fOE91Ym9oQS1XdENUbGotVjVRcjNsZzFGbnJDQi13Z0tSSEhMYlBiZ2pSallYMkRBb2F0Q24xT0ZpcnRUdzR0OEJLTUo4NEZtazJidEl5N3ItbkhFZmdpWVM5Mw?oc=5",
    "pubDate": "Thu, 17 Sep 2026 23:23:27 GMT",
    "source": "Reuters"
+  },
+  {
+   "title": "Navigating Europe\u2019s Suwa\u0142ki Trap - Centre for Strategic and Contemporary Research",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaDhDd3RmTHZ2bVFRaU5aTUI0VmFtQmhjWlk4a2M2NVJ5ZWtCaDZ4YWRvd1ZPQVVRZ1dLcHZsdHdVSU5zdUVKN0E2ejNpWlB1OGs0WGNGM2loanBWaE1Od2pDSklSR0NsS3pYd3BZcU0yVFJMM0NndFVKYVd4dllBSDFtbjJVX1E?oc=5",
+   "pubDate": "Fri, 18 Sep 2026 12:40:05 GMT",
+   "source": "Centre for Strategic and Contemporary Research"
   },
   {
    "title": "A clash between Israel and Turkey is looming ever closer - Il Sole 24 ORE",
@@ -3933,16 +3933,16 @@ window.DASHBOARD_DATA = {
    "source": "Aerotech News & Review"
   },
   {
-   "title": "DFEN And The Interceptor Paradox: More Demand, More Volatility (NYSEARCA:DFEN) - Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONmc3MkpvdDhpN3dBNHFFU2xCY1AzZEl1Wm9DQWRjNTBKV2stdmZ2M1lZcTktQnJTUHVOSndFdTJlRnQ0MlozcG9EeVp0VUNuU0dFZlJ5T1pfTWJqdXJ1dURzNlEtRTZXNldSb1UzaWZyUWFPWHd3R0RGNEtQeWRZazdqMHUtWEVYRTZfMmtTQVZUN1hfY0JfdHpjOWFYRDFsWkFR?oc=5",
-   "pubDate": "Fri, 18 Sep 2026 19:25:16 GMT",
-   "source": "Seeking Alpha"
-  },
-  {
    "title": "The strategic metals behind modern military technology - Naval Technology",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0hFNzFFV01hNllyYjkzTFRUbWRUOTVHZlFNdjNibWhDMXdoenhwVl9UUjYydXdYckh0WjhvRVRqNklMdGFEdTdFM19CZGdDdTNMMHkwTld2SU5ScHdGVm9MTXA5akc4bGV0dDBwWUNEeFo4QkZGa1AxYlJYNkdTNjNRYndTOHpyMG93dk9LTVVBVHZQODNjcDNaNzZjUQ?oc=5",
    "pubDate": "Fri, 18 Sep 2026 16:39:36 GMT",
    "source": "Naval Technology"
+  },
+  {
+   "title": "DFEN And The Interceptor Paradox: More Demand, More Volatility (NYSEARCA:DFEN) - Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONmc3MkpvdDhpN3dBNHFFU2xCY1AzZEl1Wm9DQWRjNTBKV2stdmZ2M1lZcTktQnJTUHVOSndFdTJlRnQ0MlozcG9EeVp0VUNuU0dFZlJ5T1pfTWJqdXJ1dURzNlEtRTZXNldSb1UzaWZyUWFPWHd3R0RGNEtQeWRZazdqMHUtWEVYRTZfMmtTQVZUN1hfY0JfdHpjOWFYRDFsWkFR?oc=5",
+   "pubDate": "Fri, 18 Sep 2026 19:25:16 GMT",
+   "source": "Seeking Alpha"
   },
   {
    "title": "HEICO (HEI) Highlights EPS And Cash Flow Strength, Is It Still 25% Below Fair Value? - simplywall.st",
@@ -3951,16 +3951,16 @@ window.DASHBOARD_DATA = {
    "source": "simplywall.st"
   },
   {
-   "title": "Can Rising Defense Demand Strengthen TransDigm's Growth Outlook? - The Globe and Mail",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOXzJTNUdvMVo0WnlRdEZQNGEyZWQwRDlOLWx0ZGRvUnlYY1ZqT1ZTc2RZbEZnUkVvVmszajBFNHcwSXk1NHgtZTZTZy1naFM3bnJxQU9WclppbkRfTi14TnZjaGRiQXNpWGJNWW85dWVVdW1UQlMtdEFWbWpoYjBVODYzT1YxVUJtSFJITjRvMzdkeE5wT2tfUGk1WnppcjRnMlk3QldidTFscFNEdl9vSlladkN3RlY0SkJzVTNYTDJvRTN1R3VCTzdqZHEydGs1eGQ2MVlVbGdSaGlHSHVr?oc=5",
-   "pubDate": "Fri, 18 Sep 2026 12:40:59 GMT",
-   "source": "The Globe and Mail"
-  },
-  {
    "title": "Top USAF Officer in Europe Outlines Opportunities Amid Modernization - Aviation Week",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc0VQLVRHNnZ1VFc2WWQ1MzRmVTJmakZnQ0prVlVHcXdIM2psUTlqdGxETlBuWWFra1NWTmJjU2VSZTlBdE45UWJRel8yOUhFd1FubVpmVlFLaWtteDNSUTJTVUZQMEJZV0NtN2xLX21rTl9Gc3dCbTQ0TUwzYVJ5T2cwUXU5WlJMZjVjUHJ4QUZiZFg3bWFucXJDOEZzMS13VWdqNno0eGVMY3hTN3Bsag?oc=5",
    "pubDate": "Fri, 18 Sep 2026 19:49:02 GMT",
    "source": "Aviation Week"
+  },
+  {
+   "title": "Can Rising Defense Demand Strengthen TransDigm's Growth Outlook? - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVjZEeXJtdXBhczE2YXpQZGZaOWI1ckFaNTNyOWFzVHo1Ykg4SGJ3VENEamRxSHhkT3loR3RnYnJKZ1c5Q0NRUTFnVDY2UmY0NVdOdDItMkFJRHFpSWJkS0k5b0JuclhyYWt2SzlqcWFBSjRWYWZJWC1Rb201RFJGeVpBT3B1Q3pDTjU5Vi1LaGRQYXE4dmhrMWdTUF9FYzBWOUFzZE44eUJ3TlBp?oc=5",
+   "pubDate": "Fri, 18 Sep 2026 11:23:00 GMT",
+   "source": "Yahoo Finance"
   },
   {
    "title": "Newsroom - Pima County, AZ (.gov)",
@@ -4021,10 +4021,10 @@ window.DASHBOARD_DATA = {
  ],
  "contractNews": [
   {
-   "title": "2 massive Pentagon contracts totaling $5.5 billion awarded for missiles and global parts supply - al.com",
+   "title": "2 massive Pentagon contracts totaling $5.5 billion awarded for missiles and global parts supply - AL.com",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQ2J6QktEM3B2YXJzMGg5LVJ6TUJfc2F5OXpfU0NBdUpyWUh0ZjBKcTF2cUFnd05UNklJandUUzdyWE1SdU56dzN3YjZOXzFRdGFjdkp0RHN1cGdzLWtRNGJRVEdlTExrTDIxaWNEWWd5dC1EZXlDVWszLTk4S1FoM3Zkb205UWpyZHc1NXZOUk1oRkhsSW04NG9DVFZFM3JXVnM1aHFRdUgxWlNySmJUdmVfenJTLUNDcTRmZERNaXJ4elFBbW1XTFpBUEhCSGdMZTZ6OGFGVEZBdFhCREHSAd4BQVVfeXFMTUNiekJLRDNwdmFyczBoOS1Sek1CX3NheTl6X1NDQXVKcllIdGYwSnExdnFBZ3dOVDZJSWp3VFM3clhNUnVOenczd2I2Tl8xUXRhY3ZKdERzdXBncy1rUTRiUVRHZUxMa0wyMWljRFlneXQtRGV5Q1VrMy05OEtRaDN2ZG9tOVFqcmR3NTV2TlJNaEZIbEltODRvQ1RWRTNyV1ZzNWhxUXVIMVpTckpiVHZlX3pyUy1DQ3E0ZmRETWlyeHpRQW1tV0xaQVBIQkhnTGU2ejhhRlRGQXRYQkRB?oc=5",
    "pubDate": "Fri, 18 Sep 2026 17:05:00 GMT",
-   "source": "al.com"
+   "source": "AL.com"
   },
   {
    "title": "Contracts for Sept. 17, 2026 - U.S. Department of War (.gov)",
@@ -4075,6 +4075,12 @@ window.DASHBOARD_DATA = {
    "source": "Huntsville Business Journal"
   },
   {
+   "title": "The Pentagon extends Patriot production beyond the military sector - tomorrowsaffairs.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR3hxR04tb29kVWUtUDdmQ0xUeXFBbnhoNkpPcmotMWQwSXlBaERuY1c2eGt0bmxrdmtZVEtGQTVRak9BSVdKMFVmTnFGUTZHWmV1VzRYTVlCUXRINFltcXNZU1Z0di1wU1Y2SlI3NEMzRUdkemxFTGRETHo4S1hCN0dMRXZOMzFyM0lDX3hSRmlGeUJxU2FGNzQ3Zw?oc=5",
+   "pubDate": "Fri, 18 Sep 2026 17:03:29 GMT",
+   "source": "tomorrowsaffairs.com"
+  },
+  {
    "title": "Speed of relevance: ACC-RI executes $25 million in same-day awards - army.mil",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM2xXb1M2VUY4LVloRVFLVG5VOFdWTDFKV0t1X1RfMlFtYS0xRkx0NmI1OV9qQjZjZDMtb09RQ3ppYnQzRE91Y3V0RU5OZ2U0bkNCZWhsMmE0NnhRRkR1YmcweVF5eGVWdU1xT2J1cDBBWnVZajhKTFozMVE1MlZTTWw5b29Ub3U3UjNZejVpRDdkSXMwNjRlTmJQZzVnX1BsdXc?oc=5",
    "pubDate": "Wed, 16 Sep 2026 15:39:18 GMT",
@@ -4085,12 +4091,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcFMyTW5USXhnNXRPMzZ3Um1MMVNzWTV6ZG5sZW5ZZXFaclNLSzJ0LUtTOHg5aTVxWWtzYV9zVGM1TWlTYU1JQ3ExUGV0eEpSLXdwcEQ0czF0eGp1WlBZUlFtT1JyR0tMaF9KNXJ4S1IxaDdWbk5XaXZYU2cwZko1SnB5em0wTktuaERnZWsyVks4X21ETnc?oc=5",
    "pubDate": "Wed, 16 Sep 2026 21:07:11 GMT",
    "source": "ExecutiveGov"
-  },
-  {
-   "title": "Army Buys $4.8B in Missile-Jamming Lasers as Ukraine Exposes Helicopter Risk - SOFX",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSVJSOW40OTRxNi1jdGRSLXJkMDQ3UmY4OGNwRXJ0T2RfbVQ1Ukx0M25Jd25lUmRUZ0RXUEpKZnhjT0t5d1NLUkRQaEpkWWljR3FQaUloZi0wcDYtaFRvajVyUVdHczRiY3BUbkh2WTRQY0k2SE5Xbjc2SjlfTzZHRk9LcnRXZ1dqbWViVGstaVp2N3YtLXdoQmRZX2lpdw?oc=5",
-   "pubDate": "Fri, 18 Sep 2026 06:30:12 GMT",
-   "source": "SOFX"
   }
  ],
  "sdaNews": [
