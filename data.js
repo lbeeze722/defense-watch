@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-09-25T18:11:23.263881+00:00",
+ "generatedAt": "2026-09-25T18:17:38.142638+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -189,14 +189,66 @@ window.DASHBOARD_DATA = {
   },
   {
    "date": "2026-09-25",
-   "advancers": 0,
+   "advancers": 1,
    "decliners": 0,
-   "avgChangePct": 0.0,
-   "topMovers": [],
+   "avgChangePct": 2.49,
+   "topMovers": [
+    {
+     "symbol": "KULR",
+     "changePct": 2.49
+    }
+   ],
    "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
   }
  ],
- "quotes": [],
+ "quotes": [
+  {
+   "spark": [
+    2.43,
+    2.43,
+    2.43,
+    2.42,
+    2.43,
+    2.44,
+    2.43,
+    2.47,
+    2.44,
+    2.43,
+    2.44,
+    2.42,
+    2.47,
+    2.46,
+    2.41,
+    2.42,
+    2.5,
+    2.52,
+    2.5,
+    2.49,
+    2.49,
+    2.52,
+    2.48,
+    2.48,
+    2.47
+   ],
+   "ext": null,
+   "relVol": 0.6,
+   "avgVolume": 689868,
+   "symbol": "KULR",
+   "name": "KULR Technology",
+   "vertical": "Defense Tech & Software",
+   "description": "Thermal management and battery-safety tech for space, defense, and energy storage; also holds bitcoin treasury.",
+   "price": 2.47,
+   "prevClose": 2.41,
+   "changePct": 2.49,
+   "volume": 317403,
+   "dayHigh": 2.54,
+   "dayLow": 2.445,
+   "fiftyTwoWeekHigh": 6.0,
+   "fiftyTwoWeekLow": 1.94,
+   "marketTime": 1790360163,
+   "news": []
+  }
+ ],
  "movers": [],
  "geopolitical": [
   {
