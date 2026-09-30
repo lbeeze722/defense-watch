@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-09-30T20:17:12.021610+00:00",
+ "generatedAt": "2026-09-30T20:22:47.530321+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.49,
-    "changePct": 0.48
+    "price": 10.48,
+    "changePct": 0.38
    },
    "relVol": 1.0,
    "avgVolume": 12093660,
@@ -331,8 +331,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.25,
-    "changePct": 0.07
+    "price": 14.26,
+    "changePct": 0.14
    },
    "relVol": 1.4,
    "avgVolume": 6508073,
@@ -577,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.99,
-    "changePct": 0.4
+    "price": 5.01,
+    "changePct": 0.8
    },
    "relVol": 1.1,
    "avgVolume": 21455938,
@@ -659,8 +659,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 483.48,
-    "changePct": 0.0
+    "price": 483.75,
+    "changePct": 0.06
    },
    "relVol": 3.6,
    "avgVolume": 403203,
@@ -983,8 +983,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 69.79,
-    "changePct": 0.16
+    "price": 69.94,
+    "changePct": 0.37
    },
    "relVol": 1.3,
    "avgVolume": 17374157,
@@ -1065,8 +1065,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 141.68,
-    "changePct": -0.38
+    "price": 142.0,
+    "changePct": -0.15
    },
    "relVol": 1.1,
    "avgVolume": 1009330,
@@ -1307,8 +1307,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 42.69,
-    "changePct": -0.0
+    "price": 42.89,
+    "changePct": 0.47
    },
    "relVol": 1.4,
    "avgVolume": 3686240,
@@ -1619,8 +1619,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 24.48,
-    "changePct": 0.0
+    "price": 24.69,
+    "changePct": 0.87
    },
    "relVol": 1.1,
    "avgVolume": 2103948,
@@ -1769,7 +1769,11 @@ window.DASHBOARD_DATA = {
     137.01,
     137.0
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 137.0,
+    "changePct": 0.0
+   },
    "relVol": 1.3,
    "avgVolume": 1077666,
    "symbol": "BWXT",
@@ -1914,28 +1918,29 @@ window.DASHBOARD_DATA = {
     512.49,
     509.73,
     509.75,
-    509.19
+    509.19,
+    509.25
    ],
    "ext": {
     "label": "after-hours",
     "price": 509.26,
-    "changePct": 0.01
+    "changePct": 0.0
    },
-   "relVol": 1.3,
+   "relVol": 1.2,
    "avgVolume": 806502,
    "symbol": "LMT",
    "name": "Lockheed Martin",
    "vertical": "Prime Contractors",
    "description": "Largest US defense prime \u2014 F-35 fighter, missiles & fire control (PAC-3, HIMARS), Sikorsky helicopters, and space systems.",
-   "price": 509.19,
+   "price": 509.25,
    "prevClose": 518.1,
-   "changePct": -1.72,
-   "volume": 1087247,
-   "dayHigh": 512.96,
+   "changePct": -1.71,
+   "volume": 993127,
+   "dayHigh": 513.0,
    "dayLow": 503.74,
    "fiftyTwoWeekHigh": 692.0,
    "fiftyTwoWeekLow": 437.25,
-   "marketTime": 1790798399,
+   "marketTime": 1790798554,
    "news": [
     {
      "title": "GE Aerospace vs. Lockheed Martin: Which Industrials Stock Is a Better Buy in 2026? - The Motley Fool",
@@ -2273,8 +2278,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 185.65,
-    "changePct": 0.0
+    "price": 185.55,
+    "changePct": -0.05
    },
    "relVol": 2.0,
    "avgVolume": 2373315,
@@ -2349,8 +2354,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.04,
-    "changePct": -0.17
+    "price": 6.06,
+    "changePct": 0.13
    },
    "relVol": 1.0,
    "avgVolume": 19865367,
@@ -2725,8 +2730,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.46,
-    "changePct": 0.0
+    "price": 6.48,
+    "changePct": 0.37
    },
    "relVol": 1.1,
    "avgVolume": 5746971,
@@ -3029,8 +3034,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 237.46,
-    "changePct": 0.29
+    "price": 236.78,
+    "changePct": 0.0
    },
    "relVol": 1.3,
    "avgVolume": 1115995,
@@ -3181,8 +3186,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 186.0,
-    "changePct": -0.56
+    "price": 186.46,
+    "changePct": -0.32
    },
    "relVol": 1.2,
    "avgVolume": 14163968,
@@ -3335,8 +3340,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.49,
-    "changePct": 0.48
+    "price": 10.48,
+    "changePct": 0.38
    },
    "relVol": 1.0,
    "avgVolume": 12093660,
@@ -3417,8 +3422,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.25,
-    "changePct": 0.07
+    "price": 14.26,
+    "changePct": 0.14
    },
    "relVol": 1.4,
    "avgVolume": 6508073,
@@ -3663,8 +3668,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.99,
-    "changePct": 0.4
+    "price": 5.01,
+    "changePct": 0.8
    },
    "relVol": 1.1,
    "avgVolume": 21455938,
@@ -3745,8 +3750,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 483.48,
-    "changePct": 0.0
+    "price": 483.75,
+    "changePct": 0.06
    },
    "relVol": 3.6,
    "avgVolume": 403203,
@@ -4069,8 +4074,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 69.79,
-    "changePct": 0.16
+    "price": 69.94,
+    "changePct": 0.37
    },
    "relVol": 1.3,
    "avgVolume": 17374157,
@@ -4151,8 +4156,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 141.68,
-    "changePct": -0.38
+    "price": 142.0,
+    "changePct": -0.15
    },
    "relVol": 1.1,
    "avgVolume": 1009330,
@@ -4393,8 +4398,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 42.69,
-    "changePct": -0.0
+    "price": 42.89,
+    "changePct": 0.47
    },
    "relVol": 1.4,
    "avgVolume": 3686240,
