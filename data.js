@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-01T20:17:11.534408+00:00",
+ "generatedAt": "2026-10-01T20:24:06.482549+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 21.99,
-    "changePct": 0.96
+    "price": 21.97,
+    "changePct": 0.89
    },
    "relVol": 2.6,
    "avgVolume": 2117897,
@@ -269,16 +269,16 @@ window.DASHBOARD_DATA = {
    "marketTime": 1790884800,
    "news": [
     {
-     "title": "Unusual Machines Tumbles 8% Despite Pentagon\u2019s Autonomous Warfare Push; AeroVironment Eases, Red Cat Pulls Back - finance.yahoo.com",
+     "title": "Unusual Machines Tumbles 8% Despite Pentagon\u2019s Autonomous Warfare Push; AeroVironment Eases, Red Cat Pulls Back - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2VBNm1FamRkUWFubGlnWnlMemxaYS1Yb1VIZmhMVG9wXy1RUzc4QXJFamJTQnNqa1ZCMEN5QlBsRFNTNTdJaUFNXzJTbU5vQkktLTlBZ2R2cjV2aC1ad1VRYS1qRXBMQjZXOEQwUW5FS09lZVI2eG15a1BwVUE0M2h1NUVEV09PN2hUeWsxNjdMTkcxeWZHbGRlaW9DZ2c3?oc=5",
      "pubDate": "Thu, 01 Oct 2026 16:49:23 GMT",
-     "source": "finance.yahoo.com"
+     "source": "Yahoo Finance"
     },
     {
-     "title": "EXCLUSIVE: Trump Jr.-backed Unusual Machines, US asset manager invest $10 million in Canada's Draganfly - reuters.com",
+     "title": "EXCLUSIVE: Trump Jr.-backed Unusual Machines, US asset manager invest $10 million in Canada's Draganfly - Reuters",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjdXb253OUt2TlZqZTdHSEZsVjA2Zm44QTllT3U0NkNPb3NOY0pYQjNsOEkwbEQ4ZmtrSGZBcDloaWhVV2FtMWxzWkNWNkRwejRPbl9IanA2ZHpWajFDaVltei1WcW93eXRINDJpVjVEXzFSNmwtWjlhRGthcEUwZ0F3b0syd0J4NHhxUmRBSnJ6OUtGSzNYTUZFSHE1V2RZZm81SGI3NnNTMHlUSzdKdmtnMDVXek9IOUU2WXBISW5EQXN4?oc=5",
      "pubDate": "Mon, 28 Sep 2026 11:55:25 GMT",
-     "source": "reuters.com"
+     "source": "Reuters"
     },
     {
      "title": "Unusual Machines Tumbles 8% Despite Pentagon's Autonomous Warfare Push; AeroVironment Eases, Red Cat Pulls Back - 24/7 Wall St.",
@@ -433,10 +433,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1790884803,
    "news": [
     {
-     "title": "Why Huntington Ingalls (HII) Stock Is Up Today - finance.yahoo.com",
+     "title": "Why Huntington Ingalls (HII) Stock Is Up Today - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGpWdVJiTXNTcmRjRnBFejY5UjhCX0ptTUxTcUQweDJKeTFwX0FleU1pQXlKVUVSdUM5aGVfeGxhTjRNNWFvaEdVX05DRFg4LVo4ejZpWTNMa2JfeVhlUkhDNWU2b0ZndzRvS3hEUXZ3MjRmNHMtT3h1anpJbmI3NWk3eTdXQ1B5blh3c3hNOUJGVUt0RFkycGxBUmtfZw?oc=5",
      "pubDate": "Wed, 30 Sep 2026 23:49:13 GMT",
-     "source": "finance.yahoo.com"
+     "source": "Yahoo Finance"
     },
     {
      "title": "Huntington Ingalls secures 5.09 billion contract. Huntington Ingalls stock gains 2.14 percent - AD HOC NEWS",
@@ -445,10 +445,10 @@ window.DASHBOARD_DATA = {
      "source": "AD HOC NEWS"
     },
     {
-     "title": "Huntington Ingalls Industries Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+     "title": "Huntington Ingalls Industries Inc. stock outperforms competitors on strong trading day - MarketWatch",
      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUHM4RklSaEctQUxpRkRrN3pXZ0JyaGtXYmxyZnFoTklzbFdlNDdNLWpqWHhFQzVjT2U1RWFyN0x0OTQzdk9hcG1xRlVXdlpwdHRiSGtZNFJSU1BGMDNUS0g5d3A3OXdMLTNleXoyMmtfZWZGWkw4YlU0anBQOU4yUGtvN3E3SkhncmlxdkhPenNEN091bjZ4MXlfNjNfb1hQNTIyRzlZQ2RmN1R2cVktNjlQUTRQTDRfQ294NE9RYnlBU2hLYzBHcG1FSjkzTWFkdHFiTFVDVlJHb1l1YnVQaU5RZVNNZDg4eDY4ZHQ4TjFLcDNYLXc?oc=5",
      "pubDate": "Wed, 30 Sep 2026 21:17:00 GMT",
-     "source": "marketwatch.com"
+     "source": "MarketWatch"
     },
     {
      "title": "Huntington Ingalls: Believing The Yard Can Get Faster (NYSE:HII) - Seeking Alpha",
@@ -457,10 +457,10 @@ window.DASHBOARD_DATA = {
      "source": "Seeking Alpha"
     },
     {
-     "title": "Is Huntington Ingalls Stock Underperforming the Dow? - Barchart.com",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd19pM0pHWUpxT2ZPV3h4MWs5MEFGYnJqQUl2RHNhVUV3VVF4d2lZYndVMmxHN0hrMkowWkoyMlhzdndkcjJrdnFxck1ER0I4RjhqSEtsZlFEV25rNFk3a2Q2cXdnQlpiWF9PbVdNcFB2Z1pnWXJjZU9ueHNfRE0wU3JmSll1YVhHbmVDbEQxSjNnc3dHaE1LVUNVYw?oc=5",
-     "pubDate": "Fri, 25 Sep 2026 12:54:13 GMT",
-     "source": "Barchart.com"
+     "title": "Huntington Ingalls Industries, Inc. $HII Shares Sold by Envestnet Asset Management Inc. - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSlIxSjFWTjVDZkNEZDRXcnVlNWI2QWQ3aGxZRzhnSGdkWk96WXRRdXFpbm5hcDhVaUt3U3JoajlBVkhfRXZhTDZxMjhrdzVQbVZ5Z2dURG80QllLa3R6VGNNUUozZGlPdERXRXNBRmoyaUxRaUIzNzZqeXdqN3RRM2RRdGE4cVZhVkNWSktpUmxmbWc2aUphUy1GaWpHUzJZaW4zSVRqRF9GMklsR0lHUDdGbjc2WGZHMDVCRHNWeUNPaF9WbFJFWnl6ZVB6bUlFcmExTmRDTDNCUVQw?oc=5",
+     "pubDate": "Tue, 29 Sep 2026 07:09:02 GMT",
+     "source": "MarketBeat"
     }
    ]
   },
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.15,
-    "changePct": 0.41
+    "price": 7.13,
+    "changePct": 0.14
    },
    "relVol": 0.8,
    "avgVolume": 52493627,
@@ -515,10 +515,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1790884800,
    "news": [
     {
-     "title": "Ondas Holdings Shares Fall Despite Record Q2 Revenue and Higher 2026 Guidance - finance.yahoo.com",
+     "title": "Ondas Holdings Shares Fall Despite Record Q2 Revenue and Higher 2026 Guidance - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHdCLTBCbWNCbXhMLXB3amttcnJhYmhyNU13Z3ZzQkt0bG56LWY2dFo1WXZhek1PZnJ4Uk5xLXRwdGlMUkRJMjhNdTFrcHZ3S0RjM0JVSFVZV1hDM19FdHFSNkhPcXVzYXQ5MVdveVRsM3gyN29maGwyY0M0bklEQzRYZm1iUi05U1pVb0FFQXdrVFVJa3plbEhONE90UjdT?oc=5",
      "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
-     "source": "finance.yahoo.com"
+     "source": "Yahoo Finance"
     },
     {
      "title": "Ondas Holdings Stock (ONDS) Opinions on Acquisition of GATE and Bron Technologies - Quiver Quantitative",
@@ -597,10 +597,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1790884802,
    "news": [
     {
-     "title": "NOC Stock Heads For Second Red Week: BofA Calls Northrop Attractive Despite Losing Navy Contract To Boeing - finance.yahoo.com",
+     "title": "NOC Stock Heads For Second Red Week: BofA Calls Northrop Attractive Despite Losing Navy Contract To Boeing - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMkUyMDBrRURQaUZTcG9VSDI1LTF3RUVhZlhaSG5CakFzN2J2Y1liQjBhMHhQeHZTdTd3eHpPZTc1d0R0VWY2V2F1YjY5NW1uODJ2eHBnVWxBMHVtWVBzMmNCd2FEMFFTbF9yOXFkWmdzel9FdnV3NDItSGpFb1NvV291LUxMRTZOUEt0eGh5a0VxSnNvLWc?oc=5",
      "pubDate": "Thu, 01 Oct 2026 09:06:54 GMT",
-     "source": "finance.yahoo.com"
+     "source": "Yahoo Finance"
     },
     {
      "title": "Why Is Northrop Grumman Stock Falling on Wednesday? - Benzinga",
@@ -659,8 +659,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.1,
-    "changePct": 0.36
+    "price": 14.11,
+    "changePct": 0.43
    },
    "relVol": 1.2,
    "avgVolume": 6780043,
@@ -773,10 +773,10 @@ window.DASHBOARD_DATA = {
      "source": "Stock Titan"
     },
     {
-     "title": "A Look At KULR Technology Group\u2019s (KULR) Valuation After Mixed Q1 Results And Growth Expansion Plans - finance.yahoo.com",
+     "title": "A Look At KULR Technology Group\u2019s (KULR) Valuation After Mixed Q1 Results And Growth Expansion Plans - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGJsRkV4SUZFOGdUN2xjUU1uaFBZRTUxdkUyZkI1ZWh1d0Vlb05LaFB1MEUwTUZjOEFVdnFGUVBfQmpPZ2JFVHU1ZFBySmU2VmlzbVV5a19OdnFTMnhXVWNkcUJoLVBhUzF3TUNmVXpyVG00SHlwN2xSLWtYWEZhd0tMZ2QtdWY3YnRDUnQzRXFPS3VNeEF2T2J0Q2I?oc=5",
      "pubDate": "Sun, 17 May 2026 07:00:00 GMT",
-     "source": "finance.yahoo.com"
+     "source": "Yahoo Finance"
     },
     {
      "title": "Update On KULR Technology Group: Still An Attractive Takeover Candidate (NYSE:KULR) - Seeking Alpha",
@@ -821,7 +821,11 @@ window.DASHBOARD_DATA = {
     627.56,
     627.06
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 627.06,
+    "changePct": 0.0
+   },
    "relVol": 1.6,
    "avgVolume": 189465,
    "symbol": "CACI",
@@ -942,8 +946,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 192.62,
-    "changePct": 0.18
+    "price": 192.48,
+    "changePct": 0.1
    },
    "relVol": 1.4,
    "avgVolume": 9935437,
@@ -1069,8 +1073,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 140.48,
-    "changePct": 0.12
+    "price": 140.82,
+    "changePct": 0.37
    },
    "relVol": 1.2,
    "avgVolume": 1068741,
@@ -1373,8 +1377,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 189.78,
-    "changePct": -0.14
+    "price": 190.03,
+    "changePct": -0.01
    },
    "relVol": 1.4,
    "avgVolume": 12139691,
@@ -1449,8 +1453,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.61,
-    "changePct": 0.35
+    "price": 10.59,
+    "changePct": 0.18
    },
    "relVol": 1.1,
    "avgVolume": 11516257,
@@ -1728,8 +1732,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 40.96,
-    "changePct": -0.12
+    "price": 41.01,
+    "changePct": 0.0
    },
    "relVol": 1.4,
    "avgVolume": 915264,
@@ -1770,6 +1774,82 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORFhiSjBxbFZlbjM3NDM1T1BiUno2THNTd1dTUlpjenRRSXNOYXdnaExGOG5uWkY2LTBoakpFcDVOU1pKNlZSV2pJclBvU19NMUlTV1EtU3N3SHFkWGl2NEhnTG1PVWJRaUw4emY5bGFSZWU1NjAycHVtdHBaTWV3VEV6OEp6Z0JpNE9uakVJaWU0SlFfOFpjcWZyYUxReU5Qc09ZZFM2Q3JqNXlra3VEUXBMSXZKb09YWG9DaXQzVHcwQXdIYVprdmpKaTdZUjjSAdQBQVVfeXFMTlpOdmFfRVpMaVA2V3dxbHNhN3JuSjVXeDU3LVVPR2tzMUJFQVFEUzd4QWg5cy1PUlp3dXJ0aTVRUl84WXpiRXVBUXBqa3NXck1fd0tpUjYwc0VGbGs3S1ZSTXMwd0NzY3ZJRkk0bGprendwZk83YXRsTjdQemM1X3M2NTZtU0RvaUI1UW54NnloUnZfTUR0TjJjaGRUZEU5UXRNOVJ3eGFQbEF5SVlPeEpzSkJuU3NXTVdpVTFHZWh6ZjZKVF9ZaFoxOHFRd0tjQ184LVE?oc=5",
      "pubDate": "Wed, 30 Sep 2026 15:03:26 GMT",
      "source": "Simply Wall Street"
+    }
+   ]
+  },
+  {
+   "spark": [
+    229.51,
+    232.73,
+    232.46,
+    231.81,
+    232.31,
+    229.32,
+    230.25,
+    229.25,
+    228.38,
+    228.45,
+    229.4,
+    229.57,
+    230.72,
+    230.99,
+    231.07,
+    229.26,
+    228.49,
+    227.93,
+    227.43,
+    226.17,
+    226.95,
+    228.48,
+    227.85,
+    228.76,
+    228.48,
+    228.38
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 228.38,
+    "changePct": 0.0
+   },
+   "relVol": 1.7,
+   "avgVolume": 1495112,
+   "symbol": "HWM",
+   "name": "Howmet Aerospace",
+   "vertical": "Engines & Suppliers",
+   "description": "Engineered metal components \u2014 jet engine airfoils, fasteners, and titanium structures for commercial and defense aircraft.",
+   "price": 228.38,
+   "prevClose": 230.94,
+   "changePct": -1.11,
+   "volume": 2571786,
+   "dayHigh": 229.75,
+   "dayLow": 224.88,
+   "fiftyTwoWeekHigh": 310.0,
+   "fiftyTwoWeekLow": 183.83,
+   "marketTime": 1790885015,
+   "news": [
+    {
+     "title": "Third-quarter results arrive around 7 a.m. ET Oct. 29; Howmet's webcast starts at 10. - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3RSMy1IMWg4a1RRb2JQLU0wNENUR1RzRkI5RXIyTEVUN0QxdFozOXNSUmoyWmxhV2x0bUpZdzgzVEhWYmY5eUJfQ3hFaUY0akEtS1FVck5rbGtWdXZManNIUWRjbkxiRnhEbGpnb0NuZm9YaTlib0gtdG5LMkhPclNkSzNwOUlDR0t4R0MwRlZNZkdHYmFaOEsyQVl1U3hfb09XWXNfMHJQU0UzdzM4blgzQXdLa0J3WlE?oc=5",
+     "pubDate": "Thu, 01 Oct 2026 12:00:00 GMT",
+     "source": "Stock Titan"
+    },
+    {
+     "title": "Howmet Aerospace to Host Webcast and Announce Third Quarter 2026 Results - finance.yahoo.com",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeUhSbjVpZklBTUlPZkt0VVpzTnZtTGVvNmdfOHl1bmFfZ3NPOW1nd0RtVFc1TVM2OVZKbnJYbDNQOUJzWl9ZejVHZGRqVlFYT2d6X0YtbXVrZUJUUU1CX1BlQVFwdEE5LVN6b2pjc2VNejlPYkVoUFNaaHFZOUU3LUN1RkNUZlFOdmU4dndOQmZHTE4wcUI3OExZRW5ZYjZUa2QtZW1B?oc=5",
+     "pubDate": "Thu, 01 Oct 2026 12:00:00 GMT",
+     "source": "finance.yahoo.com"
+    },
+    {
+     "title": "Howmet Aerospace (HWM) Following Q2 And Expansion Plans Is This Pullback A Buying Opportunity - Simply Wall Street",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZWZna2c1UzBEdjdsSUxURlpNRUd2b1VrZURVcVJ4eW1GeFNfdjFSU3kzY05pdzVuVl9mTVhFTFlaSzlkOVh0Q05ldnBXaXNJSXh1Z3VhOFlKbEVwSVlOVnRpV1JIQ3BRQ2IxejNIQWcwTkp4a25iNktaSGd3N3c3R1F0MU9oRGtJTXFmbjlUR1I1ZzJtNnZNeEtpcnJPOWljbzhndS0tczNOYWdfVGRRZDNSaXRtbld1aHhqRTdvazl1eXZiUkloWGZETFM3MG9JSTdR0gHYAUFVX3lxTE0waG1YallUeFVJRmpwa0IyRXhfSjBDODRTdFhuT21YRVRGUFhtYXByaW56MlB0ZDFIdzJTdlBuZWQ4RmdHWjhXUmZ0TFVmbXljdnI2QlhmcDVVc0pXN2pIcUxfTDhWNUtEM2Z1blI4NW1weDhZazJTcTEyRGVkTzJUVHlQaDhXd3VaNzYxWDUwanloRFdkSWcyRFJSbWgzVVFWbUFIaFN6NURYTDJabGNlU3JWaXhSWUpBeGNJeHpvNEdqcnQ5ckQ5UzVLd3FwaTdxYnczcWlvYg?oc=5",
+     "pubDate": "Thu, 01 Oct 2026 12:33:16 GMT",
+     "source": "Simply Wall Street"
+    },
+    {
+     "title": "Wells Fargo Remains a Hold on Howmet Aerospace (HWM) - The Globe and Mail",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS1ZnbWJ5X0Fka3ZQQ3JlQ0VNbUhFZW92aXdLWTc3Tk1xOGlWUF92Ry1ieHdKT2hYRVVSaEU3dmZCQ2pIY2hIMTV3WXVZc0Z1MXp5WGxPMHJ5SG4waW9OcmhFM241V0ZSV2tOMjg4LXpWZUNhQ21wU1ZmMERibWtqVC1DVkRtdHgzNUN4eFN4SmFMaUdUekIzYVc0YTVnbk1VSTNoRHBLX0dpUzV2Q0R3ZWh5MHFHUjRuWnliRHZsemswUkluRWFMbnl0STBVS2JHVkE?oc=5",
+     "pubDate": "Thu, 01 Oct 2026 11:04:00 GMT",
+     "source": "The Globe and Mail"
     }
    ]
   },
@@ -1880,8 +1960,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 70.7,
-    "changePct": 0.34
+    "price": 70.72,
+    "changePct": 0.37
    },
    "relVol": 1.4,
    "avgVolume": 16527335,
@@ -2003,81 +2083,6 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
-    229.51,
-    232.73,
-    232.46,
-    231.81,
-    232.31,
-    229.32,
-    230.25,
-    229.25,
-    228.38,
-    228.45,
-    229.4,
-    229.57,
-    230.72,
-    230.99,
-    231.07,
-    229.26,
-    228.49,
-    227.93,
-    227.43,
-    226.17,
-    226.95,
-    228.48,
-    227.85,
-    228.76,
-    228.48
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 228.38,
-    "changePct": -0.04
-   },
-   "relVol": 1.8,
-   "avgVolume": 1495112,
-   "symbol": "HWM",
-   "name": "Howmet Aerospace",
-   "vertical": "Engines & Suppliers",
-   "description": "Engineered metal components \u2014 jet engine airfoils, fasteners, and titanium structures for commercial and defense aircraft.",
-   "price": 228.48,
-   "prevClose": 230.94,
-   "changePct": -1.07,
-   "volume": 2631626,
-   "dayHigh": 229.75,
-   "dayLow": 225.0,
-   "fiftyTwoWeekHigh": 310.0,
-   "fiftyTwoWeekLow": 183.83,
-   "marketTime": 1790884799,
-   "news": [
-    {
-     "title": "Third-quarter results arrive around 7 a.m. ET Oct. 29; Howmet's webcast starts at 10. - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3RSMy1IMWg4a1RRb2JQLU0wNENUR1RzRkI5RXIyTEVUN0QxdFozOXNSUmoyWmxhV2x0bUpZdzgzVEhWYmY5eUJfQ3hFaUY0akEtS1FVck5rbGtWdXZManNIUWRjbkxiRnhEbGpnb0NuZm9YaTlib0gtdG5LMkhPclNkSzNwOUlDR0t4R0MwRlZNZkdHYmFaOEsyQVl1U3hfb09XWXNfMHJQU0UzdzM4blgzQXdLa0J3WlE?oc=5",
-     "pubDate": "Thu, 01 Oct 2026 12:00:00 GMT",
-     "source": "Stock Titan"
-    },
-    {
-     "title": "Howmet Aerospace to Host Webcast and Announce Third Quarter 2026 Results - finance.yahoo.com",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeUhSbjVpZklBTUlPZkt0VVpzTnZtTGVvNmdfOHl1bmFfZ3NPOW1nd0RtVFc1TVM2OVZKbnJYbDNQOUJzWl9ZejVHZGRqVlFYT2d6X0YtbXVrZUJUUU1CX1BlQVFwdEE5LVN6b2pjc2VNejlPYkVoUFNaaHFZOUU3LUN1RkNUZlFOdmU4dndOQmZHTE4wcUI3OExZRW5ZYjZUa2QtZW1B?oc=5",
-     "pubDate": "Thu, 01 Oct 2026 12:00:00 GMT",
-     "source": "finance.yahoo.com"
-    },
-    {
-     "title": "Howmet Aerospace (HWM) Following Q2 And Expansion Plans Is This Pullback A Buying Opportunity - Simply Wall Street",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZWZna2c1UzBEdjdsSUxURlpNRUd2b1VrZURVcVJ4eW1GeFNfdjFSU3kzY05pdzVuVl9mTVhFTFlaSzlkOVh0Q05ldnBXaXNJSXh1Z3VhOFlKbEVwSVlOVnRpV1JIQ3BRQ2IxejNIQWcwTkp4a25iNktaSGd3N3c3R1F0MU9oRGtJTXFmbjlUR1I1ZzJtNnZNeEtpcnJPOWljbzhndS0tczNOYWdfVGRRZDNSaXRtbld1aHhqRTdvazl1eXZiUkloWGZETFM3MG9JSTdR0gHYAUFVX3lxTE0waG1YallUeFVJRmpwa0IyRXhfSjBDODRTdFhuT21YRVRGUFhtYXByaW56MlB0ZDFIdzJTdlBuZWQ4RmdHWjhXUmZ0TFVmbXljdnI2QlhmcDVVc0pXN2pIcUxfTDhWNUtEM2Z1blI4NW1weDhZazJTcTEyRGVkTzJUVHlQaDhXd3VaNzYxWDUwanloRFdkSWcyRFJSbWgzVVFWbUFIaFN6NURYTDJabGNlU3JWaXhSWUpBeGNJeHpvNEdqcnQ5ckQ5UzVLd3FwaTdxYnczcWlvYg?oc=5",
-     "pubDate": "Thu, 01 Oct 2026 12:33:16 GMT",
-     "source": "Simply Wall Street"
-    },
-    {
-     "title": "Wells Fargo Remains a Hold on Howmet Aerospace (HWM) - The Globe and Mail",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS1ZnbWJ5X0Fka3ZQQ3JlQ0VNbUhFZW92aXdLWTc3Tk1xOGlWUF92Ry1ieHdKT2hYRVVSaEU3dmZCQ2pIY2hIMTV3WXVZc0Z1MXp5WGxPMHJ5SG4waW9OcmhFM241V0ZSV2tOMjg4LXpWZUNhQ21wU1ZmMERibWtqVC1DVkRtdHgzNUN4eFN4SmFMaUdUekIzYVc0YTVnbk1VSTNoRHBLX0dpUzV2Q0R3ZWh5MHFHUjRuWnliRHZsemswUkluRWFMbnl0STBVS2JHVkE?oc=5",
-     "pubDate": "Thu, 01 Oct 2026 11:04:00 GMT",
-     "source": "The Globe and Mail"
-    }
-   ]
-  },
-  {
-   "spark": [
     188.08,
     189.34,
     188.37,
@@ -2181,7 +2186,11 @@ window.DASHBOARD_DATA = {
     122.0,
     121.97
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 121.97,
+    "changePct": 0.0
+   },
    "relVol": 1.5,
    "avgVolume": 689189,
    "symbol": "LDOS",
@@ -2253,7 +2262,11 @@ window.DASHBOARD_DATA = {
     136.75,
     136.79
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 136.79,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 1164217,
    "symbol": "BWXT",
@@ -2454,8 +2467,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 422.2,
-    "changePct": -0.0
+    "price": 428.78,
+    "changePct": 1.56
    },
    "relVol": 1.1,
    "avgVolume": 763994,
@@ -2606,8 +2619,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.03,
-    "changePct": 0.01
+    "price": 5.09,
+    "changePct": 1.19
    },
    "relVol": 1.0,
    "avgVolume": 19811430,
@@ -2682,8 +2695,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 42.94,
-    "changePct": 0.28
+    "price": 42.7,
+    "changePct": -0.28
    },
    "relVol": 1.2,
    "avgVolume": 3827900,
@@ -2758,8 +2771,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.97,
-    "changePct": 0.17
+    "price": 5.96,
+    "changePct": 0.01
    },
    "relVol": 0.9,
    "avgVolume": 20028804,
@@ -3187,8 +3200,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 21.99,
-    "changePct": 0.96
+    "price": 21.97,
+    "changePct": 0.89
    },
    "relVol": 2.6,
    "avgVolume": 2117897,
@@ -3207,16 +3220,16 @@ window.DASHBOARD_DATA = {
    "marketTime": 1790884800,
    "news": [
     {
-     "title": "Unusual Machines Tumbles 8% Despite Pentagon\u2019s Autonomous Warfare Push; AeroVironment Eases, Red Cat Pulls Back - finance.yahoo.com",
+     "title": "Unusual Machines Tumbles 8% Despite Pentagon\u2019s Autonomous Warfare Push; AeroVironment Eases, Red Cat Pulls Back - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2VBNm1FamRkUWFubGlnWnlMemxaYS1Yb1VIZmhMVG9wXy1RUzc4QXJFamJTQnNqa1ZCMEN5QlBsRFNTNTdJaUFNXzJTbU5vQkktLTlBZ2R2cjV2aC1ad1VRYS1qRXBMQjZXOEQwUW5FS09lZVI2eG15a1BwVUE0M2h1NUVEV09PN2hUeWsxNjdMTkcxeWZHbGRlaW9DZ2c3?oc=5",
      "pubDate": "Thu, 01 Oct 2026 16:49:23 GMT",
-     "source": "finance.yahoo.com"
+     "source": "Yahoo Finance"
     },
     {
-     "title": "EXCLUSIVE: Trump Jr.-backed Unusual Machines, US asset manager invest $10 million in Canada's Draganfly - reuters.com",
+     "title": "EXCLUSIVE: Trump Jr.-backed Unusual Machines, US asset manager invest $10 million in Canada's Draganfly - Reuters",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjdXb253OUt2TlZqZTdHSEZsVjA2Zm44QTllT3U0NkNPb3NOY0pYQjNsOEkwbEQ4ZmtrSGZBcDloaWhVV2FtMWxzWkNWNkRwejRPbl9IanA2ZHpWajFDaVltei1WcW93eXRINDJpVjVEXzFSNmwtWjlhRGthcEUwZ0F3b0syd0J4NHhxUmRBSnJ6OUtGSzNYTUZFSHE1V2RZZm81SGI3NnNTMHlUSzdKdmtnMDVXek9IOUU2WXBISW5EQXN4?oc=5",
      "pubDate": "Mon, 28 Sep 2026 11:55:25 GMT",
-     "source": "reuters.com"
+     "source": "Reuters"
     },
     {
      "title": "Unusual Machines Tumbles 8% Despite Pentagon's Autonomous Warfare Push; AeroVironment Eases, Red Cat Pulls Back - 24/7 Wall St.",
@@ -3371,10 +3384,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1790884803,
    "news": [
     {
-     "title": "Why Huntington Ingalls (HII) Stock Is Up Today - finance.yahoo.com",
+     "title": "Why Huntington Ingalls (HII) Stock Is Up Today - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMGpWdVJiTXNTcmRjRnBFejY5UjhCX0ptTUxTcUQweDJKeTFwX0FleU1pQXlKVUVSdUM5aGVfeGxhTjRNNWFvaEdVX05DRFg4LVo4ejZpWTNMa2JfeVhlUkhDNWU2b0ZndzRvS3hEUXZ3MjRmNHMtT3h1anpJbmI3NWk3eTdXQ1B5blh3c3hNOUJGVUt0RFkycGxBUmtfZw?oc=5",
      "pubDate": "Wed, 30 Sep 2026 23:49:13 GMT",
-     "source": "finance.yahoo.com"
+     "source": "Yahoo Finance"
     },
     {
      "title": "Huntington Ingalls secures 5.09 billion contract. Huntington Ingalls stock gains 2.14 percent - AD HOC NEWS",
@@ -3383,10 +3396,10 @@ window.DASHBOARD_DATA = {
      "source": "AD HOC NEWS"
     },
     {
-     "title": "Huntington Ingalls Industries Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+     "title": "Huntington Ingalls Industries Inc. stock outperforms competitors on strong trading day - MarketWatch",
      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUHM4RklSaEctQUxpRkRrN3pXZ0JyaGtXYmxyZnFoTklzbFdlNDdNLWpqWHhFQzVjT2U1RWFyN0x0OTQzdk9hcG1xRlVXdlpwdHRiSGtZNFJSU1BGMDNUS0g5d3A3OXdMLTNleXoyMmtfZWZGWkw4YlU0anBQOU4yUGtvN3E3SkhncmlxdkhPenNEN091bjZ4MXlfNjNfb1hQNTIyRzlZQ2RmN1R2cVktNjlQUTRQTDRfQ294NE9RYnlBU2hLYzBHcG1FSjkzTWFkdHFiTFVDVlJHb1l1YnVQaU5RZVNNZDg4eDY4ZHQ4TjFLcDNYLXc?oc=5",
      "pubDate": "Wed, 30 Sep 2026 21:17:00 GMT",
-     "source": "marketwatch.com"
+     "source": "MarketWatch"
     },
     {
      "title": "Huntington Ingalls: Believing The Yard Can Get Faster (NYSE:HII) - Seeking Alpha",
@@ -3395,10 +3408,10 @@ window.DASHBOARD_DATA = {
      "source": "Seeking Alpha"
     },
     {
-     "title": "Is Huntington Ingalls Stock Underperforming the Dow? - Barchart.com",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd19pM0pHWUpxT2ZPV3h4MWs5MEFGYnJqQUl2RHNhVUV3VVF4d2lZYndVMmxHN0hrMkowWkoyMlhzdndkcjJrdnFxck1ER0I4RjhqSEtsZlFEV25rNFk3a2Q2cXdnQlpiWF9PbVdNcFB2Z1pnWXJjZU9ueHNfRE0wU3JmSll1YVhHbmVDbEQxSjNnc3dHaE1LVUNVYw?oc=5",
-     "pubDate": "Fri, 25 Sep 2026 12:54:13 GMT",
-     "source": "Barchart.com"
+     "title": "Huntington Ingalls Industries, Inc. $HII Shares Sold by Envestnet Asset Management Inc. - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSlIxSjFWTjVDZkNEZDRXcnVlNWI2QWQ3aGxZRzhnSGdkWk96WXRRdXFpbm5hcDhVaUt3U3JoajlBVkhfRXZhTDZxMjhrdzVQbVZ5Z2dURG80QllLa3R6VGNNUUozZGlPdERXRXNBRmoyaUxRaUIzNzZqeXdqN3RRM2RRdGE4cVZhVkNWSktpUmxmbWc2aUphUy1GaWpHUzJZaW4zSVRqRF9GMklsR0lHUDdGbjc2WGZHMDVCRHNWeUNPaF9WbFJFWnl6ZVB6bUlFcmExTmRDTDNCUVQw?oc=5",
+     "pubDate": "Tue, 29 Sep 2026 07:09:02 GMT",
+     "source": "MarketBeat"
     }
    ]
   },
@@ -3433,8 +3446,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.15,
-    "changePct": 0.41
+    "price": 7.13,
+    "changePct": 0.14
    },
    "relVol": 0.8,
    "avgVolume": 52493627,
@@ -3453,10 +3466,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1790884800,
    "news": [
     {
-     "title": "Ondas Holdings Shares Fall Despite Record Q2 Revenue and Higher 2026 Guidance - finance.yahoo.com",
+     "title": "Ondas Holdings Shares Fall Despite Record Q2 Revenue and Higher 2026 Guidance - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHdCLTBCbWNCbXhMLXB3amttcnJhYmhyNU13Z3ZzQkt0bG56LWY2dFo1WXZhek1PZnJ4Uk5xLXRwdGlMUkRJMjhNdTFrcHZ3S0RjM0JVSFVZV1hDM19FdHFSNkhPcXVzYXQ5MVdveVRsM3gyN29maGwyY0M0bklEQzRYZm1iUi05U1pVb0FFQXdrVFVJa3plbEhONE90UjdT?oc=5",
      "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
-     "source": "finance.yahoo.com"
+     "source": "Yahoo Finance"
     },
     {
      "title": "Ondas Holdings Stock (ONDS) Opinions on Acquisition of GATE and Bron Technologies - Quiver Quantitative",
@@ -3535,10 +3548,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1790884802,
    "news": [
     {
-     "title": "NOC Stock Heads For Second Red Week: BofA Calls Northrop Attractive Despite Losing Navy Contract To Boeing - finance.yahoo.com",
+     "title": "NOC Stock Heads For Second Red Week: BofA Calls Northrop Attractive Despite Losing Navy Contract To Boeing - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMkUyMDBrRURQaUZTcG9VSDI1LTF3RUVhZlhaSG5CakFzN2J2Y1liQjBhMHhQeHZTdTd3eHpPZTc1d0R0VWY2V2F1YjY5NW1uODJ2eHBnVWxBMHVtWVBzMmNCd2FEMFFTbF9yOXFkWmdzel9FdnV3NDItSGpFb1NvV291LUxMRTZOUEt0eGh5a0VxSnNvLWc?oc=5",
      "pubDate": "Thu, 01 Oct 2026 09:06:54 GMT",
-     "source": "finance.yahoo.com"
+     "source": "Yahoo Finance"
     },
     {
      "title": "Why Is Northrop Grumman Stock Falling on Wednesday? - Benzinga",
@@ -3597,8 +3610,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.1,
-    "changePct": 0.36
+    "price": 14.11,
+    "changePct": 0.43
    },
    "relVol": 1.2,
    "avgVolume": 6780043,
@@ -3711,10 +3724,10 @@ window.DASHBOARD_DATA = {
      "source": "Stock Titan"
     },
     {
-     "title": "A Look At KULR Technology Group\u2019s (KULR) Valuation After Mixed Q1 Results And Growth Expansion Plans - finance.yahoo.com",
+     "title": "A Look At KULR Technology Group\u2019s (KULR) Valuation After Mixed Q1 Results And Growth Expansion Plans - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGJsRkV4SUZFOGdUN2xjUU1uaFBZRTUxdkUyZkI1ZWh1d0Vlb05LaFB1MEUwTUZjOEFVdnFGUVBfQmpPZ2JFVHU1ZFBySmU2VmlzbVV5a19OdnFTMnhXVWNkcUJoLVBhUzF3TUNmVXpyVG00SHlwN2xSLWtYWEZhd0tMZ2QtdWY3YnRDUnQzRXFPS3VNeEF2T2J0Q2I?oc=5",
      "pubDate": "Sun, 17 May 2026 07:00:00 GMT",
-     "source": "finance.yahoo.com"
+     "source": "Yahoo Finance"
     },
     {
      "title": "Update On KULR Technology Group: Still An Attractive Takeover Candidate (NYSE:KULR) - Seeking Alpha",
@@ -3759,7 +3772,11 @@ window.DASHBOARD_DATA = {
     627.56,
     627.06
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 627.06,
+    "changePct": 0.0
+   },
    "relVol": 1.6,
    "avgVolume": 189465,
    "symbol": "CACI",
@@ -3834,6 +3851,12 @@ window.DASHBOARD_DATA = {
    "source": "The Australian"
   },
   {
+   "title": "BREAKING: US B-52 Bomber Crashes After Takeoff; Massive Fireball, Emergency Teams Rush Scene Edoardo Bennato (NodPkk0gfF) - media.unisba.ac.id",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZllXeUVyb01rbWYyQ3NaVi0yR3hOYWI3WjM1dWhNdXRYQU9Oc3BpX0dueGdSa2laUTUwU1BpVFdKMXJUVDc4RFhwQ29EdzJ6WTF5eTE1eVlwWTJlWU5TalNVdE1MU2JwWEp2Vk9HeWNxaTBnVkQzZ2NXYTZJVDVuVjJoN1I?oc=5",
+   "pubDate": "Thu, 01 Oct 2026 11:46:53 GMT",
+   "source": "media.unisba.ac.id"
+  },
+  {
    "title": "Trust remains possible even after decades of conflict \u2014 Khalaf Khalafov - trend.az",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tN0E0OTRkaWtoM2RnWkdURTF0N1NzVTlDeGZhSGl0X2I0TGdPbWRwN1U3VXM0YTI0VHVvSFloUWRZQ2RvNTZwMWlSWjlYdlBWOTQ3MlhseUR4V2hkaEFGTl8yYw?oc=5",
    "pubDate": "Thu, 01 Oct 2026 07:18:13 GMT",
@@ -3844,12 +3867,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tZVRYdEVNd2NXVUtwMjNVY3AtRm5ZdUtnOTBncFlJN0FiZFRTUFRFRHlGTS1MeV9IUFdYdVF6MW80bXVQNk1wWHc0UVNDVkNGSnM0ZWY5bjRmeGxmUFduT0lMSWpTSWNfWHNhZU1OOWxvTVlOWjl4TkVoNTUySmc?oc=5",
    "pubDate": "Thu, 01 Oct 2026 07:14:36 GMT",
    "source": "Sharecafe"
-  },
-  {
-   "title": "Broadcasting Standards Authority dismisses complaints against RNZ interview with M\u00e9decins Sans Fronti\u00e8res - RNZ",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWk9ncGNCcmxoRGNUbTlybkF5YXZlOEotZWJqZFRyYkxRMDVYd21WeFhyTE5CMWlhN2VFczJZZEpTVkg4aEZRWDN2dEZrNHNMRFNEeGxaMHRwNkJKYy15VUJfcEtaeTRLaFczNDlPNGZfNmM3M0txZmhCVE1WUVBzMnhlZml4b3dqMlQza0ZUZm9RNkNFNVlJa0sya05leWtpemZhbUx1MlJpU1lLVW12dExnNFB6WEtzMmdMVksxaGgyT2dLTUJFT3JVUEowTWdZTzRRVjJjRTNvT2lIbVltcXZQMndUUTg?oc=5",
-   "pubDate": "Thu, 01 Oct 2026 01:44:26 GMT",
-   "source": "RNZ"
   }
  ],
  "mna": [
@@ -3928,10 +3945,10 @@ window.DASHBOARD_DATA = {
    "source": "National Defense Magazine"
   },
   {
-   "title": "Akkodis Completes the Acquisition of SOGECLAIR's Engineering Activities, Strengthening Its Aerospace & Defense Leadership - Newswire.com",
+   "title": "Akkodis Completes the Acquisition of SOGECLAIR's Engineering Activities, Strengthening Its Aerospace & Defense Leadership - newswire.com",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNam9zcWxHZnU0TGw0SEx0aEhoMGRuY3ZteXVYb1RUV0l2WTdVbzd6eUdZMXZWOFAtei1rNVhsVy1KbHFrMzJ6X3JKOWtVbHR0VWIxeElrd2N4OHNwV3RuanJtcXU3R2FyOVBOb0JkaXo5OHkyZGxiT01zTm5sTjRPcWpOamZwUE44bExKZXJka1ZFanBqZVRuQjN5Tjd4dTFLcFE?oc=5",
    "pubDate": "Thu, 01 Oct 2026 15:30:00 GMT",
-   "source": "Newswire.com"
+   "source": "newswire.com"
   },
   {
    "title": "New Aerospace and Defense Company expanding in Tucson - KGUN 9",
@@ -3964,16 +3981,16 @@ window.DASHBOARD_DATA = {
    "source": "Moomoo"
   },
   {
+   "title": "Is GE Aerospace (GE) Outperforming Other Aerospace Stocks This Year? - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPandCYkltT3ZiTHl1M3ZLSFlsY0pwYS1SVDQzQkJqQkh5aUR0MjVteE03SHFSdjRYTkNoekc1NTZrMFNGc3VYVDBXTDlYY3JEanNJbnhpZUM1S2gwUC1SdHlJclJaSUUtWUtNaDlpbzNxVEdTa09OaFhsODNMQnR5WlFSbExLOTBXY0FqR1JaaTVxU2RKYnJnUzJ2b203MVRnOEE?oc=5",
+   "pubDate": "Thu, 01 Oct 2026 18:39:35 GMT",
+   "source": "Yahoo Finance"
+  },
+  {
    "title": "Aerospace Alloys Market To 2035: Growth Driven by Next-Gen Aircraft and Defense Demand - News and Statistics - IndexBox",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd2FHd08wM3AzQWxDd3ZCTmtHaGgyNUltWHpzREFuTVdPaTFUdy1TWUxGWFJJNGNmSm1KMFpldUxuNmZQMkRyU2pWS1d0eEdmQk0zTVoxb3lheTJVdW8tZzFzbG1EMGozQU9TLTRjYkNRRnlRTWMtRHFFTU02WVhNaU5nSTA3eTRoZ0ZlcU5QMjVxT0toc1h3ODRfOGF6YzJkOUQxcmc2YzRxQUw5RVM4bEotTFhfa3ZQSHp6OXd5TUlrOXpW?oc=5",
    "pubDate": "Thu, 01 Oct 2026 13:11:04 GMT",
    "source": "IndexBox"
-  },
-  {
-   "title": "Strength in Aerospace & Defense Drives RBC Bearings: Can It Sustain? - Zacks Investment Research",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeXVXZk1ENndYUXlyQVJYSnMtRXdlTjBwcnZzcllkSFZXRVR2WXAtRk0tYzlTVzdHdU1YR2x3N1NjQU51QXJqcHRqNFRMc0Z3amlWc3R0VHc3WTFlQlV4T0ZHV3drUEdYZTRBZHB4UVlKN2VYV1h4N01NVnFIbFhSamJIWHZYRjVmQ3RZX196RXFuR1E3OFNUaVRmUkVWeG5fMER5MWRDcVc?oc=5",
-   "pubDate": "Thu, 01 Oct 2026 16:02:22 GMT",
-   "source": "Zacks Investment Research"
   }
  ],
  "industrialsNews": [
@@ -4076,10 +4093,10 @@ window.DASHBOARD_DATA = {
    "source": "trendingtopics.eu"
   },
   {
-   "title": "Pentagon awards RTX's Raytheon $20.7 billion contract for AMRAAM missiles amid stockpile concerns - reuters.com",
+   "title": "Pentagon awards RTX's Raytheon $20.7 billion contract for AMRAAM missiles amid stockpile concerns - Reuters",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQWhncjVKaW5MaDJ6TU1ROVduLTZyS1JqVVJSM0pMXzhFQzY4REgxdGg5WnZHUC1MbXhjSjVZQUNxTEZmYzJna1J6QXRVQ2kwRUJmZmREM2pJcDZ5SzFzSmZGU1Q0WVVCLWF2STlsc3pUaW9tYXhMRmR3b2VWQzNrTDBsazZ2OG5jaTlHOHdVanlCMVhUR1RfVjctTDFrS2g5dkVLYldpdE5oRFNXdTc4RG5aYVI5MmV6Q3JJd1M2ZlN5TjBheXVNdDFQOUtpUEE?oc=5",
    "pubDate": "Mon, 28 Sep 2026 22:03:59 GMT",
-   "source": "reuters.com"
+   "source": "Reuters"
   },
   {
    "title": "Army awards counterdrone contracts worth more than $4B - Defense One",
