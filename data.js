@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-02T20:17:42.292779+00:00",
+ "generatedAt": "2026-10-02T20:23:27.266568+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 22.35,
-    "changePct": -0.09
+    "price": 22.37,
+    "changePct": 0.0
    },
    "relVol": 1.1,
    "avgVolume": 2898512,
@@ -269,22 +269,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1790971200,
    "news": [
     {
-     "title": "EXCLUSIVE: Trump Jr.-backed Unusual Machines, US asset manager invest $10 million in Canada's Draganfly - Reuters",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjdXb253OUt2TlZqZTdHSEZsVjA2Zm44QTllT3U0NkNPb3NOY0pYQjNsOEkwbEQ4ZmtrSGZBcDloaWhVV2FtMWxzWkNWNkRwejRPbl9IanA2ZHpWajFDaVltei1WcW93eXRINDJpVjVEXzFSNmwtWjlhRGthcEUwZ0F3b0syd0J4NHhxUmRBSnJ6OUtGSzNYTUZFSHE1V2RZZm81SGI3NnNTMHlUSzdKdmtnMDVXek9IOUU2WXBISW5EQXN4?oc=5",
-     "pubDate": "Mon, 28 Sep 2026 11:55:25 GMT",
-     "source": "Reuters"
-    },
-    {
      "title": "Unusual Machines Tumbles 8% Despite Pentagon\u2019s Autonomous Warfare Push; AeroVironment Eases, Red Cat Pulls Back - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2VBNm1FamRkUWFubGlnWnlMemxaYS1Yb1VIZmhMVG9wXy1RUzc4QXJFamJTQnNqa1ZCMEN5QlBsRFNTNTdJaUFNXzJTbU5vQkktLTlBZ2R2cjV2aC1ad1VRYS1qRXBMQjZXOEQwUW5FS09lZVI2eG15a1BwVUE0M2h1NUVEV09PN2hUeWsxNjdMTkcxeWZHbGRlaW9DZ2c3?oc=5",
      "pubDate": "Thu, 01 Oct 2026 16:49:23 GMT",
      "source": "Yahoo Finance"
-    },
-    {
-     "title": "How Investors May Respond To Unusual Machines Stock As Counter Drone Orders Build - Simply Wall Street",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY3FEWVlZQU9pREwwTU5Dbk9qRTBkNWJ0RGVHeXo3em9fcTFSbm0xMFljV19ZYmw5TDk1NDlnN0pjQXB2VV9RQmRXWUR3enBsdmw5R1JzVzBRZU53aWFudEJnTTBlQkpIYjZENElWZEl1SVRuR3J2cnBqU0JCUGdLN3EzX0w5d0FabG4xY0hpNWgzai1PWjdfOTBmTm56UFdub3ZWdWVNMnBDZ1hDOWtRTmcwSVM1blV6WG0xai1UajEteW1DVXp4dlQwMVPSAdIBQVVfeXFMUDN1T1NzUG92NmNxOHdLRHdVeWs5bFAyalZIVFBOaWwzbGFMZk94V3NsT21Lb1BZaGdFdmxPczd1ajQwUy1ZbGE3MC1mV0dWREJEODVSN0Vyb19vOG50VkdTQ0M5NjlSR2ZlUzh1ajhOek1nNS00TklKdnVDWmhMdkNyblNuVURLSjZoTnZnNTd4cnE4R0VtZW5iMUV0SElYbUV5M0pWX2VYdTBlN29RRDVmX3Z2VkdETkVNOTVESm44aTY1TmNRQUxpUjJwczBCcHd3?oc=5",
-     "pubDate": "Wed, 30 Sep 2026 20:02:22 GMT",
-     "source": "Simply Wall Street"
     },
     {
      "title": "Unusual Machines Tumbles 8% Despite Pentagon's Autonomous Warfare Push; AeroVironment Eases, Red Cat Pulls Back - 24/7 Wall St.",
@@ -293,10 +281,22 @@ window.DASHBOARD_DATA = {
      "source": "24/7 Wall St."
     },
     {
-     "title": "Can Counter-Drone Demand Become Unusual Machines' Next Catalyst? - TradingView",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFktZ1Fad2tVN245c19nQVJKMHBzb1BfQ2FfM3B2ZnNKZE8xTkRUMmo3eFRiSVFFdFgtQVhIZDNwaVloMm9RZ2RJTk9PbXZTQlloMDZmSnVyUG9qYndZQnZPWk5QbUlMN0RqTF9JdVRZajR0ZUwxR05HZlhZT19jdnpsbjVrTTd6Q2hKd2U4bF9tNk5nQlJVdzEwbnVnZ3Ezc2xWbEgtME8taW9CVHZkRTBzN3NKcXpx?oc=5",
-     "pubDate": "Tue, 29 Sep 2026 12:38:00 GMT",
-     "source": "TradingView"
+     "title": "Ondas Drops 7%, Unusual Machines Sinks 8%, Kratos Falls 5% as the Drone Trade Unwinds - 24/7 Wall St.",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUwyQ3JMeGhsLUcxLVVXODRMUW1lUU9UNF9SYXU5dVJsdl9UN2ZueHRrQkxnR2hXOEhGbUV4bWdCVEdwTUJuYUZHYXpuY1NFMFVKZlVxcWJSOXQ3R2xDYVNXaGhZU2tud3lrcURYMW5SUzMwNUNVRXhyc09HSzhrSDJnMGNJTURYQ1BLYnh6UEtYMTN2NUJzSGNkSkpjaEpMY2VxNHNtT19LYjNHOW55VkVIX2pWYU5qX2hpclJ5cFZPZw?oc=5",
+     "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
+     "source": "24/7 Wall St."
+    },
+    {
+     "title": "EXCLUSIVE: Trump Jr.-backed Unusual Machines, US asset manager invest $10 million in Canada's Draganfly - Reuters",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjdXb253OUt2TlZqZTdHSEZsVjA2Zm44QTllT3U0NkNPb3NOY0pYQjNsOEkwbEQ4ZmtrSGZBcDloaWhVV2FtMWxzWkNWNkRwejRPbl9IanA2ZHpWajFDaVltei1WcW93eXRINDJpVjVEXzFSNmwtWjlhRGthcEUwZ0F3b0syd0J4NHhxUmRBSnJ6OUtGSzNYTUZFSHE1V2RZZm81SGI3NnNTMHlUSzdKdmtnMDVXek9IOUU2WXBISW5EQXN4?oc=5",
+     "pubDate": "Mon, 28 Sep 2026 11:55:25 GMT",
+     "source": "Reuters"
+    },
+    {
+     "title": "How Investors May Respond To Unusual Machines Stock As Counter Drone Orders Build - Simply Wall Street",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY3FEWVlZQU9pREwwTU5Dbk9qRTBkNWJ0RGVHeXo3em9fcTFSbm0xMFljV19ZYmw5TDk1NDlnN0pjQXB2VV9RQmRXWUR3enBsdmw5R1JzVzBRZU53aWFudEJnTTBlQkpIYjZENElWZEl1SVRuR3J2cnBqU0JCUGdLN3EzX0w5d0FabG4xY0hpNWgzai1PWjdfOTBmTm56UFdub3ZWdWVNMnBDZ1hDOWtRTmcwSVM1blV6WG0xai1UajEteW1DVXp4dlQwMVPSAdIBQVVfeXFMUDN1T1NzUG92NmNxOHdLRHdVeWs5bFAyalZIVFBOaWwzbGFMZk94V3NsT21Lb1BZaGdFdmxPczd1ajQwUy1ZbGE3MC1mV0dWREJEODVSN0Vyb19vOG50VkdTQ0M5NjlSR2ZlUzh1ajhOek1nNS00TklKdnVDWmhMdkNyblNuVURLSjZoTnZnNTd4cnE4R0VtZW5iMUV0SElYbUV5M0pWX2VYdTBlN29RRDVmX3Z2VkdETkVNOTVESm44aTY1TmNRQUxpUjJwczBCcHd3?oc=5",
+     "pubDate": "Wed, 30 Sep 2026 20:02:22 GMT",
+     "source": "Simply Wall Street"
     }
    ]
   },
@@ -331,8 +331,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 74.0,
-    "changePct": 0.11
+    "price": 73.98,
+    "changePct": 0.08
    },
    "relVol": 1.5,
    "avgVolume": 17617829,
@@ -411,7 +411,11 @@ window.DASHBOARD_DATA = {
     2.65,
     2.65
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 2.65,
+    "changePct": 0.0
+   },
    "relVol": 0.9,
    "avgVolume": 575705,
    "symbol": "KULR",
@@ -491,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.94,
-    "changePct": 0.54
+    "price": 10.88,
+    "changePct": -0.0
    },
    "relVol": 1.4,
    "avgVolume": 11250719,
@@ -573,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 193.56,
-    "changePct": 0.0
+    "price": 193.19,
+    "changePct": -0.19
    },
    "relVol": 1.1,
    "avgVolume": 11914151,
@@ -655,8 +659,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 133.52,
-    "changePct": -0.25
+    "price": 133.85,
+    "changePct": -0.0
    },
    "relVol": 1.4,
    "avgVolume": 515243,
@@ -819,8 +823,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.74,
-    "changePct": 0.2
+    "price": 14.75,
+    "changePct": 0.27
    },
    "relVol": 1.2,
    "avgVolume": 7141003,
@@ -901,8 +905,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 67.18,
-    "changePct": -0.25
+    "price": 67.35,
+    "changePct": -0.0
    },
    "relVol": 1.7,
    "avgVolume": 1650263,
@@ -977,8 +981,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 34.15,
-    "changePct": -0.25
+    "price": 34.24,
+    "changePct": -0.0
    },
    "relVol": 1.3,
    "avgVolume": 1432320,
@@ -1048,12 +1052,13 @@ window.DASHBOARD_DATA = {
     230.66,
     231.24,
     231.79,
-    231.36
+    231.36,
+    231.27
    ],
    "ext": {
     "label": "after-hours",
     "price": 231.27,
-    "changePct": -0.04
+    "changePct": 0.0
    },
    "relVol": 1.4,
    "avgVolume": 1601296,
@@ -1061,15 +1066,15 @@ window.DASHBOARD_DATA = {
    "name": "Howmet Aerospace",
    "vertical": "Engines & Suppliers",
    "description": "Engineered metal components \u2014 jet engine airfoils, fasteners, and titanium structures for commercial and defense aircraft.",
-   "price": 231.36,
+   "price": 231.27,
    "prevClose": 226.18,
-   "changePct": 2.29,
-   "volume": 2239604,
+   "changePct": 2.25,
+   "volume": 2175138,
    "dayHigh": 232.855,
    "dayLow": 226.39,
    "fiftyTwoWeekHigh": 310.0,
    "fiftyTwoWeekLow": 183.83,
-   "marketTime": 1790971199,
+   "marketTime": 1790971376,
    "news": [
     {
      "title": "Is Howmet Aerospace (HWM) Outperforming Other Aerospace Stocks This Year? - Yahoo! Finance Canada",
@@ -1204,8 +1209,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 413.35,
-    "changePct": 0.0
+    "price": 414.05,
+    "changePct": 0.17
    },
    "relVol": 1.1,
    "avgVolume": 749526,
@@ -1357,7 +1362,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 125.26,
-    "changePct": 0.0
+    "changePct": -0.0
    },
    "relVol": 1.6,
    "avgVolume": 258915,
@@ -1432,8 +1437,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.97,
-    "changePct": 0.34
+    "price": 5.96,
+    "changePct": 0.17
    },
    "relVol": 0.9,
    "avgVolume": 19457468,
@@ -1508,8 +1513,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.9,
-    "changePct": 0.2
+    "price": 4.89,
+    "changePct": 0.0
    },
    "relVol": 1.3,
    "avgVolume": 18010991,
@@ -1585,7 +1590,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 167.28,
-    "changePct": 0.0
+    "changePct": -0.0
    },
    "relVol": 1.9,
    "avgVolume": 331667,
@@ -1658,7 +1663,11 @@ window.DASHBOARD_DATA = {
     134.93,
     134.86
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 134.86,
+    "changePct": 0.0
+   },
    "relVol": 1.3,
    "avgVolume": 1244488,
    "symbol": "BWXT",
@@ -1727,28 +1736,29 @@ window.DASHBOARD_DATA = {
     77.15,
     77.13,
     77.74,
-    77.25
+    77.25,
+    77.26
    ],
    "ext": {
     "label": "after-hours",
     "price": 77.26,
-    "changePct": 0.01
+    "changePct": 0.0
    },
-   "relVol": 1.8,
+   "relVol": 1.6,
    "avgVolume": 1255947,
    "symbol": "TXT",
    "name": "Textron",
    "vertical": "Engines & Suppliers",
    "description": "Bell helicopters (V-280 FLRAA winner), Cessna/Beechcraft aircraft, and Textron Systems unmanned/land platforms.",
-   "price": 77.25,
+   "price": 77.26,
    "prevClose": 76.2,
-   "changePct": 1.38,
-   "volume": 2205460,
+   "changePct": 1.39,
+   "volume": 1990603,
    "dayHigh": 77.798,
    "dayLow": 76.615,
    "fiftyTwoWeekHigh": 101.57,
    "fiftyTwoWeekLow": 75.51,
-   "marketTime": 1790971197,
+   "marketTime": 1790971421,
    "news": [
     {
      "title": "1 S&P 500 Stock to Research Further and 2 Facing Headwinds - Yahoo Finance",
@@ -1807,8 +1817,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.26,
-    "changePct": 0.27
+    "price": 7.25,
+    "changePct": 0.14
    },
    "relVol": 1.0,
    "avgVolume": 44767766,
@@ -1883,8 +1893,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 68.19,
-    "changePct": 0.0
+    "price": 69.18,
+    "changePct": 1.45
    },
    "relVol": 1.3,
    "avgVolume": 300032,
@@ -2035,8 +2045,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 141.09,
-    "changePct": 0.19
+    "price": 140.99,
+    "changePct": 0.12
    },
    "relVol": 1.2,
    "avgVolume": 1064998,
@@ -2111,8 +2121,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 613.5,
-    "changePct": -0.25
+    "price": 615.02,
+    "changePct": -0.0
    },
    "relVol": 1.2,
    "avgVolume": 214430,
@@ -2162,8 +2172,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.38,
-    "changePct": -0.36
+    "price": 6.37,
+    "changePct": -0.47
    },
    "relVol": 1.2,
    "avgVolume": 5035718,
@@ -2238,8 +2248,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 188.8,
-    "changePct": 0.03
+    "price": 188.75,
+    "changePct": 0.0
    },
    "relVol": 1.5,
    "avgVolume": 11934749,
@@ -2314,8 +2324,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 43.07,
-    "changePct": 0.0
+    "price": 43.12,
+    "changePct": 0.12
    },
    "relVol": 1.1,
    "avgVolume": 4129807,
@@ -2770,8 +2780,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 330.09,
-    "changePct": 0.0
+    "price": 330.26,
+    "changePct": 0.05
    },
    "relVol": 1.4,
    "avgVolume": 985361,
@@ -2922,8 +2932,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 40.69,
-    "changePct": -0.25
+    "price": 40.79,
+    "changePct": -0.0
    },
    "relVol": 2.2,
    "avgVolume": 970910,
@@ -3304,8 +3314,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 22.35,
-    "changePct": -0.09
+    "price": 22.37,
+    "changePct": 0.0
    },
    "relVol": 1.1,
    "avgVolume": 2898512,
@@ -3324,22 +3334,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1790971200,
    "news": [
     {
-     "title": "EXCLUSIVE: Trump Jr.-backed Unusual Machines, US asset manager invest $10 million in Canada's Draganfly - Reuters",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjdXb253OUt2TlZqZTdHSEZsVjA2Zm44QTllT3U0NkNPb3NOY0pYQjNsOEkwbEQ4ZmtrSGZBcDloaWhVV2FtMWxzWkNWNkRwejRPbl9IanA2ZHpWajFDaVltei1WcW93eXRINDJpVjVEXzFSNmwtWjlhRGthcEUwZ0F3b0syd0J4NHhxUmRBSnJ6OUtGSzNYTUZFSHE1V2RZZm81SGI3NnNTMHlUSzdKdmtnMDVXek9IOUU2WXBISW5EQXN4?oc=5",
-     "pubDate": "Mon, 28 Sep 2026 11:55:25 GMT",
-     "source": "Reuters"
-    },
-    {
      "title": "Unusual Machines Tumbles 8% Despite Pentagon\u2019s Autonomous Warfare Push; AeroVironment Eases, Red Cat Pulls Back - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR2VBNm1FamRkUWFubGlnWnlMemxaYS1Yb1VIZmhMVG9wXy1RUzc4QXJFamJTQnNqa1ZCMEN5QlBsRFNTNTdJaUFNXzJTbU5vQkktLTlBZ2R2cjV2aC1ad1VRYS1qRXBMQjZXOEQwUW5FS09lZVI2eG15a1BwVUE0M2h1NUVEV09PN2hUeWsxNjdMTkcxeWZHbGRlaW9DZ2c3?oc=5",
      "pubDate": "Thu, 01 Oct 2026 16:49:23 GMT",
      "source": "Yahoo Finance"
-    },
-    {
-     "title": "How Investors May Respond To Unusual Machines Stock As Counter Drone Orders Build - Simply Wall Street",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY3FEWVlZQU9pREwwTU5Dbk9qRTBkNWJ0RGVHeXo3em9fcTFSbm0xMFljV19ZYmw5TDk1NDlnN0pjQXB2VV9RQmRXWUR3enBsdmw5R1JzVzBRZU53aWFudEJnTTBlQkpIYjZENElWZEl1SVRuR3J2cnBqU0JCUGdLN3EzX0w5d0FabG4xY0hpNWgzai1PWjdfOTBmTm56UFdub3ZWdWVNMnBDZ1hDOWtRTmcwSVM1blV6WG0xai1UajEteW1DVXp4dlQwMVPSAdIBQVVfeXFMUDN1T1NzUG92NmNxOHdLRHdVeWs5bFAyalZIVFBOaWwzbGFMZk94V3NsT21Lb1BZaGdFdmxPczd1ajQwUy1ZbGE3MC1mV0dWREJEODVSN0Vyb19vOG50VkdTQ0M5NjlSR2ZlUzh1ajhOek1nNS00TklKdnVDWmhMdkNyblNuVURLSjZoTnZnNTd4cnE4R0VtZW5iMUV0SElYbUV5M0pWX2VYdTBlN29RRDVmX3Z2VkdETkVNOTVESm44aTY1TmNRQUxpUjJwczBCcHd3?oc=5",
-     "pubDate": "Wed, 30 Sep 2026 20:02:22 GMT",
-     "source": "Simply Wall Street"
     },
     {
      "title": "Unusual Machines Tumbles 8% Despite Pentagon's Autonomous Warfare Push; AeroVironment Eases, Red Cat Pulls Back - 24/7 Wall St.",
@@ -3348,10 +3346,22 @@ window.DASHBOARD_DATA = {
      "source": "24/7 Wall St."
     },
     {
-     "title": "Can Counter-Drone Demand Become Unusual Machines' Next Catalyst? - TradingView",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFktZ1Fad2tVN245c19nQVJKMHBzb1BfQ2FfM3B2ZnNKZE8xTkRUMmo3eFRiSVFFdFgtQVhIZDNwaVloMm9RZ2RJTk9PbXZTQlloMDZmSnVyUG9qYndZQnZPWk5QbUlMN0RqTF9JdVRZajR0ZUwxR05HZlhZT19jdnpsbjVrTTd6Q2hKd2U4bF9tNk5nQlJVdzEwbnVnZ3Ezc2xWbEgtME8taW9CVHZkRTBzN3NKcXpx?oc=5",
-     "pubDate": "Tue, 29 Sep 2026 12:38:00 GMT",
-     "source": "TradingView"
+     "title": "Ondas Drops 7%, Unusual Machines Sinks 8%, Kratos Falls 5% as the Drone Trade Unwinds - 24/7 Wall St.",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOUwyQ3JMeGhsLUcxLVVXODRMUW1lUU9UNF9SYXU5dVJsdl9UN2ZueHRrQkxnR2hXOEhGbUV4bWdCVEdwTUJuYUZHYXpuY1NFMFVKZlVxcWJSOXQ3R2xDYVNXaGhZU2tud3lrcURYMW5SUzMwNUNVRXhyc09HSzhrSDJnMGNJTURYQ1BLYnh6UEtYMTN2NUJzSGNkSkpjaEpMY2VxNHNtT19LYjNHOW55VkVIX2pWYU5qX2hpclJ5cFZPZw?oc=5",
+     "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
+     "source": "24/7 Wall St."
+    },
+    {
+     "title": "EXCLUSIVE: Trump Jr.-backed Unusual Machines, US asset manager invest $10 million in Canada's Draganfly - Reuters",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjdXb253OUt2TlZqZTdHSEZsVjA2Zm44QTllT3U0NkNPb3NOY0pYQjNsOEkwbEQ4ZmtrSGZBcDloaWhVV2FtMWxzWkNWNkRwejRPbl9IanA2ZHpWajFDaVltei1WcW93eXRINDJpVjVEXzFSNmwtWjlhRGthcEUwZ0F3b0syd0J4NHhxUmRBSnJ6OUtGSzNYTUZFSHE1V2RZZm81SGI3NnNTMHlUSzdKdmtnMDVXek9IOUU2WXBISW5EQXN4?oc=5",
+     "pubDate": "Mon, 28 Sep 2026 11:55:25 GMT",
+     "source": "Reuters"
+    },
+    {
+     "title": "How Investors May Respond To Unusual Machines Stock As Counter Drone Orders Build - Simply Wall Street",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY3FEWVlZQU9pREwwTU5Dbk9qRTBkNWJ0RGVHeXo3em9fcTFSbm0xMFljV19ZYmw5TDk1NDlnN0pjQXB2VV9RQmRXWUR3enBsdmw5R1JzVzBRZU53aWFudEJnTTBlQkpIYjZENElWZEl1SVRuR3J2cnBqU0JCUGdLN3EzX0w5d0FabG4xY0hpNWgzai1PWjdfOTBmTm56UFdub3ZWdWVNMnBDZ1hDOWtRTmcwSVM1blV6WG0xai1UajEteW1DVXp4dlQwMVPSAdIBQVVfeXFMUDN1T1NzUG92NmNxOHdLRHdVeWs5bFAyalZIVFBOaWwzbGFMZk94V3NsT21Lb1BZaGdFdmxPczd1ajQwUy1ZbGE3MC1mV0dWREJEODVSN0Vyb19vOG50VkdTQ0M5NjlSR2ZlUzh1ajhOek1nNS00TklKdnVDWmhMdkNyblNuVURLSjZoTnZnNTd4cnE4R0VtZW5iMUV0SElYbUV5M0pWX2VYdTBlN29RRDVmX3Z2VkdETkVNOTVESm44aTY1TmNRQUxpUjJwczBCcHd3?oc=5",
+     "pubDate": "Wed, 30 Sep 2026 20:02:22 GMT",
+     "source": "Simply Wall Street"
     }
    ]
   },
@@ -3386,8 +3396,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 74.0,
-    "changePct": 0.11
+    "price": 73.98,
+    "changePct": 0.08
    },
    "relVol": 1.5,
    "avgVolume": 17617829,
@@ -3466,7 +3476,11 @@ window.DASHBOARD_DATA = {
     2.65,
     2.65
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 2.65,
+    "changePct": 0.0
+   },
    "relVol": 0.9,
    "avgVolume": 575705,
    "symbol": "KULR",
@@ -3546,8 +3560,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.94,
-    "changePct": 0.54
+    "price": 10.88,
+    "changePct": -0.0
    },
    "relVol": 1.4,
    "avgVolume": 11250719,
@@ -3628,8 +3642,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 193.56,
-    "changePct": 0.0
+    "price": 193.19,
+    "changePct": -0.19
    },
    "relVol": 1.1,
    "avgVolume": 11914151,
@@ -3710,8 +3724,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 133.52,
-    "changePct": -0.25
+    "price": 133.85,
+    "changePct": -0.0
    },
    "relVol": 1.4,
    "avgVolume": 515243,
@@ -3874,8 +3888,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 14.74,
-    "changePct": 0.2
+    "price": 14.75,
+    "changePct": 0.27
    },
    "relVol": 1.2,
    "avgVolume": 7141003,
@@ -4094,16 +4108,16 @@ window.DASHBOARD_DATA = {
    "source": "IndexBox"
   },
   {
-   "title": "Aerospace ETF Showdown for Defense Investors: iShares ITA vs. Global X SHLD - The Motley Fool",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeWQxM3lLTG15MFNtS1FIUGRpOE1YMndoTnFMY293cmw4dzdab1c1cDZuV1lkYmFvZzBMWVYtV2NFbE8yU2dCbWJ2dzFJT1NESFgwOUVac1k3VXBqR3cxd1R1cnBiMnBHc0s4YW1veXRLNzlLSXNPaEdJd0l3T1lqSnZPb1NiZ282TUVXYXRESFhmbFpCN3F1ci16Z0V0cEFPdDRjUE4zMXRkd2dzQ3QtMV92M3RScy1DN3ZGbw?oc=5",
-   "pubDate": "Fri, 02 Oct 2026 03:14:00 GMT",
-   "source": "The Motley Fool"
-  },
-  {
    "title": "TECH DAY 2026: AI, Aerospace & Defense in LA - latimes.com",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsOGtPU1RndzdYdGVvc3ltY3VrVkcwTVZYQ2FTaERjY3ZmdFFTMHhYRllISk82aU1TVllIaHExSXBtYzFEbkQyR0hqdGxqSE40QmRkWmx3?oc=5",
    "pubDate": "Fri, 02 Oct 2026 00:10:34 GMT",
    "source": "latimes.com"
+  },
+  {
+   "title": "Aerospace ETF Showdown for Defense Investors: iShares ITA vs. Global X SHLD - The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeWQxM3lLTG15MFNtS1FIUGRpOE1YMndoTnFMY293cmw4dzdab1c1cDZuV1lkYmFvZzBMWVYtV2NFbE8yU2dCbWJ2dzFJT1NESFgwOUVac1k3VXBqR3cxd1R1cnBiMnBHc0s4YW1veXRLNzlLSXNPaEdJd0l3T1lqSnZPb1NiZ282TUVXYXRESFhmbFpCN3F1ci16Z0V0cEFPdDRjUE4zMXRkd2dzQ3QtMV92M3RScy1DN3ZGbw?oc=5",
+   "pubDate": "Fri, 02 Oct 2026 03:14:00 GMT",
+   "source": "The Motley Fool"
   },
   {
    "title": "How Allied Defense Demand At Moog (MOG.A) Has Changed Its Investment Story - Simply Wall Street",
