@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-07T03:00:17.346997+00:00",
+ "generatedAt": "2026-10-07T09:28:06.674570+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -13,35 +13,6 @@ window.DASHBOARD_DATA = {
   "Gov Services & IT"
  ],
  "history": [
-  {
-   "date": "2026-09-30",
-   "advancers": 8,
-   "decliners": 32,
-   "avgChangePct": -1.36,
-   "topMovers": [
-    {
-     "symbol": "RDW",
-     "changePct": -6.79
-    },
-    {
-     "symbol": "LUNR",
-     "changePct": -6.32
-    },
-    {
-     "symbol": "VSEC",
-     "changePct": -5.7
-    },
-    {
-     "symbol": "ONDS",
-     "changePct": -4.56
-    },
-    {
-     "symbol": "ACHR",
-     "changePct": -4.42
-    }
-   ],
-   "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
-  },
   {
    "date": "2026-10-01",
    "advancers": 14,
@@ -215,6 +186,35 @@ window.DASHBOARD_DATA = {
     }
    ],
    "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
+  },
+  {
+   "date": "2026-10-07",
+   "advancers": 22,
+   "decliners": 18,
+   "avgChangePct": 0.15,
+   "topMovers": [
+    {
+     "symbol": "BWXT",
+     "changePct": 8.04
+    },
+    {
+     "symbol": "ACHR",
+     "changePct": -4.91
+    },
+    {
+     "symbol": "PSN",
+     "changePct": 3.21
+    },
+    {
+     "symbol": "JOBY",
+     "changePct": -2.86
+    },
+    {
+     "symbol": "CACI",
+     "changePct": -2.5
+    }
+   ],
+   "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
   }
  ],
  "quotes": [
@@ -248,12 +248,12 @@ window.DASHBOARD_DATA = {
     145.7
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 146.58,
-    "changePct": 0.6
+    "label": "pre-market",
+    "price": 145.25,
+    "changePct": 7.31
    },
-   "relVol": 1.6,
-   "avgVolume": 1229133,
+   "relVol": 1.4,
+   "avgVolume": 1327526,
    "symbol": "BWXT",
    "name": "BWX Technologies",
    "vertical": "Shipbuilding & Naval",
@@ -330,12 +330,12 @@ window.DASHBOARD_DATA = {
     4.65
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 4.68,
-    "changePct": 0.65
+    "label": "pre-market",
+    "price": 4.65,
+    "changePct": -1.48
    },
    "relVol": 1.3,
-   "avgVolume": 19809693,
+   "avgVolume": 20770329,
    "symbol": "ACHR",
    "name": "Archer Aviation",
    "vertical": "eVTOL & Air Mobility",
@@ -351,9 +351,9 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316803,
    "news": [
     {
-     "title": "Joby Aviation Is Near Its 52-Week Low With 91% Upside. The Catch Is Real - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOXzdxWEpENHEtUndEQ0Z0b3NnYUs5bmR1Y0Q0cGZPT2xTYmVfVDNBaFhsbjNBZTNMV3ZKVHo4YllsMFlya3U0ZnVsdkRhNFBYZlhfRjFndm9lR0ZDNzdCcHVQa1E0OURibHAxLW5HNmM4N2N0bmREYzJQM3JBa2hXRWpDUWNHX3pkbHlOdXhsQi0wYmdRemc?oc=5",
-     "pubDate": "Mon, 05 Oct 2026 17:00:49 GMT",
+     "title": "Cathie Wood\u2019s ARK Invest Loads Up On Joby, Archer Aviation As Airtaxi, Defense Prospects Grow - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3hxM25zSEZlY296d1F2MjR6MkkzU3lFODFUQnVnR3N5Y3Zndl91T1A5QTJuTU1LZkttRDU0QmNlVUZFcHJGMEpCN0labko4ZGdBaEd6RVhEZWFrTkRGdThoY21HLUh2Sk02eHpzb1ltanc4dmNaVXBzbnBHcGd1ZjBObWFZdkppVGJFQ1FLUG4zNWZhZ0Rfdw?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 03:28:00 GMT",
      "source": "Yahoo Finance"
     },
     {
@@ -363,21 +363,21 @@ window.DASHBOARD_DATA = {
      "source": "The Motley Fool"
     },
     {
-     "title": "Joby Aviation or Archer Aviation: Which eVTOL Stock Has a Stronger Cash Position? Top Investor Weighs In - TipRanks",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNExPdDlOMElvdTU1dEJDUks4NzQweFFPaTkzazFlZlpHT3FORWM4aVQ4WjZmUlRUZE9OUEVmMzhQM0g2UHMxQUZZYlluYmRwaFJnc1VUMmNhd1lvVHVYS1k5eEhMVHpDa0wzOFhvSUNjd2ZRX09aX3hJb2h3N2NMY0xadkVXbUlhbmVPeURVb0IzdG1URkNOdk5qZG92X01pMm9paUM1Z1FWNGVubElkNjZRTXMyLTJzeGdBQUszOGtuMnR4d1JZNkJzX0F4a1ZsX09sVEpqVQ?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 16:07:19 GMT",
-     "source": "TipRanks"
-    },
-    {
      "title": "Joby Aviation Is Near Its 52-Week Low With 91% Upside. The Catch Is Real - 24/7 Wall St.",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa05yOG1pVVFrYjlMSHR4ckJMVmtsV2s4UVNrX2wzNFVjaVBrZy1TeHAzU29oRE1BQ2lTM1BTcFZoNmRmZGYyVWMyakE4a0ZiTWpra1U1b3JnNDJNcGZNdnNlZFF5aVJwQllaam5fRVlNNUdybFl2OUNVNDdzV0hBRDRjUHRvWi00aGtEcVQ1cFExN3NSYmpaUWwwMFJMVWhNazhBWG1GMGVPRjltSDl5d181U04?oc=5",
      "pubDate": "Mon, 05 Oct 2026 17:00:00 GMT",
      "source": "24/7 Wall St."
     },
     {
-     "title": "Cathie Wood Buys $16.2M of Archer Aviation and Joby Stocks Today \u2014 Here\u2019s What Wall Street Sees Next - TipRanks",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2xWaXJNakZFNUdaTzZLZFBMS19sRVBpWVI0N21Od2h5M1NSenBVbTNLMG14R3dHWWNqX2h4UElyMnpGQkNiaWpiUnFsSEkteUNhcXlYLVo2S3dQbE9fcXlOMHk2Z0M4bVJ2TUw0VERmZS1ZckFJbVVOeUh0Z3dDRGxOeE41MVdaQWMwcTZ5WVFPU3BkeXNmRjl3MnVESnVEcms0R3ZPc2hpWnUzT3hMQl9SQm9RU3NrT056U3B1NEdYMXRw?oc=5",
-     "pubDate": "Wed, 07 Oct 2026 01:38:47 GMT",
+     "title": "Joby Aviation or Archer Aviation: Which eVTOL Stock Has a Stronger Cash Position? Top Investor Weighs In - TipRanks",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNExPdDlOMElvdTU1dEJDUks4NzQweFFPaTkzazFlZlpHT3FORWM4aVQ4WjZmUlRUZE9OUEVmMzhQM0g2UHMxQUZZYlluYmRwaFJnc1VUMmNhd1lvVHVYS1k5eEhMVHpDa0wzOFhvSUNjd2ZRX09aX3hJb2h3N2NMY0xadkVXbUlhbmVPeURVb0IzdG1URkNOdk5qZG92X01pMm9paUM1Z1FWNGVubElkNjZRTXMyLTJzeGdBQUszOGtuMnR4d1JZNkJzX0F4a1ZsX09sVEpqVQ?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 16:07:19 GMT",
+     "source": "TipRanks"
+    },
+    {
+     "title": "SPCX or ACHR: Cathie Wood Buys $12.1M of One Aerospace Stock, Sells $9.4M of the Other - TipRanks",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGpnaTJhcVVaYUo2ZUN6UnZ6Qmh6bzV4TGd1bkFsUUI3YVIyaGs0eGNINy1IZW9PdUlZYkF2c2ZwUDFfanRxYzdjYTh5TUktQmpOekg0VEpvU0gyTFl5SkFLdGZXaEdHdjhHdkRVcjdfbU5PMlNMVlRScklzRE5wTk5XOXhCQ3RVNkZLYTI0MUk3QVZ1RkRCaVVRYlJWd1RQOTYwSWhrQ3ZRbFdES0FvUWRn?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 04:24:58 GMT",
      "source": "TipRanks"
     }
    ]
@@ -411,13 +411,9 @@ window.DASHBOARD_DATA = {
     42.08,
     42.1
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 42.1,
-    "changePct": 0.0
-   },
-   "relVol": 0.8,
-   "avgVolume": 1320175,
+   "ext": null,
+   "relVol": 0.9,
+   "avgVolume": 1244889,
    "symbol": "PSN",
    "name": "Parsons",
    "vertical": "Gov Services & IT",
@@ -433,10 +429,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316802,
    "news": [
     {
-     "title": "Parsons Corporation (PSN) stock price, news, quote and history - Yahoo Finance UK",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iMC1GMHdReHBNZW1QaXZ0Nm9hMEVMQlpua2x5bzN6X2dXN1hnYnYxT2dCRnhLU294U0tyeGN5NlAtb1hBQ0pSb0JaMlBDcEZU?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 10:34:05 GMT",
-     "source": "Yahoo Finance UK"
+     "title": "Parsons Corporation (PSN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QTVpVWFNPWWFLRTRzaUJGd1ZiVHpjeTNtV3pGT19mWDJGdUhudWw2bUJ2bFVaYjVUbHJEQXZzRlAySHdtWE9CckRGSmw3R2lk?oc=5",
+     "pubDate": "Sun, 04 Oct 2026 11:52:52 GMT",
+     "source": "Yahoo! Finance Canada"
     },
     {
      "title": "symbol__ Stock Quote Price and Forecast - CNN",
@@ -451,16 +447,16 @@ window.DASHBOARD_DATA = {
      "source": "StockInvest.us"
     },
     {
+     "title": "Parsons Corporation (PSN) stock price, news, quote and history - Yahoo Finance UK",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iMC1GMHdReHBNZW1QaXZ0Nm9hMEVMQlpua2x5bzN6X2dXN1hnYnYxT2dCRnhLU294U0tyeGN5NlAtb1hBQ0pSb0JaMlBDcEZU?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 10:34:05 GMT",
+     "source": "Yahoo Finance UK"
+    },
+    {
      "title": "TD Cowen Cuts Parsons (NYSE:PSN) Price Target to $62.00 - MarketBeat",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSk5kajVIQXpHYmlxMHlna3NJNFRTZ3NGeHZCN3NXd2VPb3FPVFhhelFvQ0dfdElXUVlGVkVRQWZfajg2aTdMdDRfRzI5V09tZkxadW5ZTndoTC1tSUVPQV9Wd2RreWlEVm5zckMtUllPTVZ2MFFrTHlNbi15OHh5T2FRMVdQUEJQLUs3R3QyU1B1aUdCUXBZNFg4NGs2WGtmOHVtbG9sdUpOTGJGTXBKU2Vhbw?oc=5",
      "pubDate": "Tue, 06 Oct 2026 15:46:02 GMT",
      "source": "MarketBeat"
-    },
-    {
-     "title": "Parsons Corporation (PSN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QTVpVWFNPWWFLRTRzaUJGd1ZiVHpjeTNtV3pGT19mWDJGdUhudWw2bUJ2bFVaYjVUbHJEQXZzRlAySHdtWE9CckRGSmw3R2lk?oc=5",
-     "pubDate": "Sun, 04 Oct 2026 11:52:52 GMT",
-     "source": "Yahoo! Finance Canada"
     }
    ]
   },
@@ -494,12 +490,12 @@ window.DASHBOARD_DATA = {
     5.78
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 5.79,
-    "changePct": 0.14
+    "label": "pre-market",
+    "price": 5.77,
+    "changePct": -0.16
    },
-   "relVol": 0.9,
-   "avgVolume": 17599197,
+   "relVol": 1.0,
+   "avgVolume": 17105080,
    "symbol": "JOBY",
    "name": "Joby Aviation",
    "vertical": "eVTOL & Air Mobility",
@@ -521,16 +517,16 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "Joby Aviation Is Near Its 52-Week Low With 91% Upside. The Catch Is Real - 24/7 Wall St.",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa05yOG1pVVFrYjlMSHR4ckJMVmtsV2s4UVNrX2wzNFVjaVBrZy1TeHAzU29oRE1BQ2lTM1BTcFZoNmRmZGYyVWMyakE4a0ZiTWpra1U1b3JnNDJNcGZNdnNlZFF5aVJwQllaam5fRVlNNUdybFl2OUNVNDdzV0hBRDRjUHRvWi00aGtEcVQ1cFExN3NSYmpaUWwwMFJMVWhNazhBWG1GMGVPRjltSDl5d181U04?oc=5",
-     "pubDate": "Mon, 05 Oct 2026 17:00:00 GMT",
-     "source": "24/7 Wall St."
-    },
-    {
      "title": "What Is Going On With Joby Aviation Stock Today? - Benzinga",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnJQd09rdnhXSFhHZ2ZUZ2g1NEVDU1E3Wk5RUzRUZW82ZUpZVXhmZzVsTmFFNkpISVQydk1BMXA5SFRfZ2ljYUJxOWJYZkNSeUZYbGFnTl84b1FSNmZfNWlaMWpxREpIQUVQTjBLRjBtV1JvR3lzR2t0RkJ3b2tEdllUSlVEcWlOQVZBUEJPdGM2cjJucXNmWHQyd2czMC1HbmdzaDA3Zk9pN0ZabGZR?oc=5",
      "pubDate": "Tue, 06 Oct 2026 15:53:57 GMT",
      "source": "Benzinga"
+    },
+    {
+     "title": "Joby Aviation Is Near Its 52-Week Low With 91% Upside. The Catch Is Real - 24/7 Wall St.",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa05yOG1pVVFrYjlMSHR4ckJMVmtsV2s4UVNrX2wzNFVjaVBrZy1TeHAzU29oRE1BQ2lTM1BTcFZoNmRmZGYyVWMyakE4a0ZiTWpra1U1b3JnNDJNcGZNdnNlZFF5aVJwQllaam5fRVlNNUdybFl2OUNVNDdzV0hBRDRjUHRvWi00aGtEcVQ1cFExN3NSYmpaUWwwMFJMVWhNazhBWG1GMGVPRjltSDl5d181U04?oc=5",
+     "pubDate": "Mon, 05 Oct 2026 17:00:00 GMT",
+     "source": "24/7 Wall St."
     },
     {
      "title": "Joby Aviation or Archer Aviation: Which eVTOL Stock Has a Stronger Cash Position? Top Investor Weighs In - TipRanks",
@@ -569,13 +565,9 @@ window.DASHBOARD_DATA = {
     599.89,
     599.64
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 611.57,
-    "changePct": 1.99
-   },
-   "relVol": 1.8,
-   "avgVolume": 211771,
+   "ext": null,
+   "relVol": 1.7,
+   "avgVolume": 233938,
    "symbol": "CACI",
    "name": "CACI Intl",
    "vertical": "Gov Services & IT",
@@ -620,13 +612,9 @@ window.DASHBOARD_DATA = {
     82.8,
     82.8
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 82.88,
-    "changePct": 0.1
-   },
-   "relVol": 1.4,
-   "avgVolume": 380312,
+   "ext": null,
+   "relVol": 1.5,
+   "avgVolume": 372995,
    "symbol": "MRCY",
    "name": "Mercury Systems",
    "vertical": "Defense Tech & Software",
@@ -654,16 +642,16 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance Singapore"
     },
     {
+     "title": "Mercury Systems stock unveils RES One for defense edge missions - AD HOC NEWS",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeU9WSTdRZDBMWmZQaFJvV1JXYXpwLXFuNWpCR1dERTJPdmlsZTRSSkxUeE01cEIxeDZwamE3RGoyU0NZYXVXazRLSDJYSUVUVHcyaTdKeGVqVVFYbmRSWklqUDdTVVFiNzNkeUd4UjJaSDRPOE8yWU9ndmtqU2U0XzJmQVlSUW9zX1ZuRFlsUVh4NVZkN0RBNjBDVFNsdEV6RVhCVEljLXRHU2JJdktjZE5HZmxYTUJqcnFxekh6Zw?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 03:50:02 GMT",
+     "source": "AD HOC NEWS"
+    },
+    {
      "title": "Rugged server delivery typically takes 6-12 months. Mercury's RES One targets shorter delivery times. - Stock Titan",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamtyaVhWX3VfY2M0QmtTRkVSRkY2S0E5SWZQaF80aTZSRDRTODdid0cweHFCVEpmYVVndVBMVjBxRk82SHZYY29pSENUUnBRUW5Gd1o0bjJDNWRXT1dPM190R0ladFZyZ1ZQbkVjaG95dmFiU0cwaTlDYkh2cUg3YTB2QXFNSHlQb1ZsLWVyWkxNSHVtUGJEYkhJN2RlZm04WU8wV2tRVjgxdVVzN3VPRzZ3bTR1bjhhVlJtb2dmRVE?oc=5",
      "pubDate": "Tue, 06 Oct 2026 12:00:00 GMT",
      "source": "Stock Titan"
-    },
-    {
-     "title": "Mercury Systems Inc (NASDAQ:MRCY) Receives Average Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSGtoN1A4bHRRUGVIVXJwTEozQ0MxMDlpRGFKUUQwODhWb2kyUlNlUE9OSDd5c2FFa3V2TnprYnJXd2xJaDJxQndkdXljU2ljUmlzem5RVmRVVEl1LTBkSjU0RENFWVZaR0NwOGNOZWQtZlRvTWxZc2dvN1ZaMWY1WGtjSER0VG5LcmU0aXZQbVEwUEd3MV9fVVdnSW1ZQnRXcnJERjFoNnh2a3RYQVFLU003cDVBUkluNFFJZWtTQzllazRLcjNFT3EzUG80TUNyQjk0MWh0X2hTOURJRUlDUGdGR2VJUQ?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 06:30:01 GMT",
-     "source": "MarketBeat"
     }
    ]
   },
@@ -697,12 +685,12 @@ window.DASHBOARD_DATA = {
     10.62
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 10.69,
-    "changePct": 0.69
+    "label": "pre-market",
+    "price": 10.51,
+    "changePct": 0.77
    },
    "relVol": 1.4,
-   "avgVolume": 13199689,
+   "avgVolume": 13852318,
    "symbol": "RDW",
    "name": "Redwire",
    "vertical": "Space",
@@ -718,28 +706,28 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316802,
    "news": [
     {
+     "title": "RDW Stock Rises Premarket: Redwire Wins New Axiom Space Contract To Power Next Station Module - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDVDbTRod3NOTnQtUnQydmJNNlhGclU4akRtR01KOHNCbDFObXVCS1Z0a0NpSDhxbXBaeWo0b3pkTzFRYjFXRGZCakhCQzctWkFfUjFaeXJCREk2UnY0YTFZMElYcXpFbWdfMUxHR1hTWV9wWHdQZURBM3dZT0FISFRaT3F2SzlrMmlyNjM3b0dzVGRLSnN1LTgyeGlXUUk?oc=5",
+     "pubDate": "Mon, 05 Oct 2026 09:16:54 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
      "title": "Intuitive Machines vs. Redwire: Which Space Race Stock Is a Better Buy in 2026? - The Motley Fool",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSy03YWJ0dEdjVjA4NHMyMVlMSEZrbExPdmRIVmZLaGsyS3J4TFRQcnV0bjRMSVppSkoxS2xaTVUyX2daSXp5N2FVZDd6OHBxSnFZZ1hiUmlIMFYwOTNVMUdVRElEdXdLRm1WZmNGQ0tXa0F4NkJndmxWY1NrV0JlU0Zsek9CazZveFhnNUxTVTV2ak9yd0ZCWUQtT1RDUFkxT3l1YXRKZGNpZ2tOZ0JHMHFjaVVEMzB0NHI2dXRmMmg3aFBETGJhdQ?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 22:39:11 GMT",
+     "pubDate": "Tue, 06 Oct 2026 23:20:00 GMT",
      "source": "The Motley Fool"
     },
     {
-     "title": "Redwire (NYSE:RDW) Stock Price Up 2.1% - Still a Buy? - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemM5S3k2QTFZWU05YnRTSFZoX2szTjRzcDlfbjNPNnF3d0MyM1c1NG1MLXZfdkQzOWVaTTJSa0VzU0pZMHZPV203N2VDVURETnZ5dE5hdnl0TFVvWl9LREg0d3NLZ0VzeTZZNzZkeWNBMU9vZlFwbzBGOEpxRmVFdlBQUlZMWW4yMkdGcHlwdDFsc2dGZ080WHVqbDdHWk03OGlac3Jhb1VrZw?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 21:27:09 GMT",
+     "title": "Redwire stock (RDW): New Axiom Space contract expands station role - Beinsure",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa0ZNaHJlbXRQVjA0dzNQZ2pBV3R4bkxuZVQxUHZuZk11UUkxM1Qxal9BRnI0b3dKZnFLaGtpV2ZULW55d3psMEVxSVZmcklEQVVwaURORGxvN2ZSbklLeGtTN0VPRmxLdjZtNV95bE1rdWt4MmJyMjZ4VDdUZzJ3RFBaVFgxQmc5WHQzYUFqQUZnLXUt?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 22:32:29 GMT",
+     "source": "Beinsure"
+    },
+    {
+     "title": "Redwire Corporation (NYSE:RDW) Stock Rated \"Hold\" by Wall Street Brokerages - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUVRrWE1mRzkycmw4VTdEb0hRcmdQMU53OEl6OGJpaUU3eWRINkRidE92VWV6RnJfRjliSjU4NHRRYkxxb2ljQmc0N1dEcmNFYjZNMTRES0J6R0VNcExlQk1JcEZSMjBYYV9HNS1aVmVzMmYxWGN6ZWFzd1hRSnNoRlRsYnNoVGs5WHFvdDFoYjFSUnBKZXJEajZaa2liRml5SEU4ajlnZlpUSHc3NlFCOHVFN0s4NVFhcHgzdndndFcwcFFsUnNGdkZ3dm81eDVz?oc=5",
+     "pubDate": "Sun, 04 Oct 2026 06:18:16 GMT",
      "source": "MarketBeat"
-    },
-    {
-     "title": "Generac, American Superconductor, Bloom Energy, Redwire, and Matrix Service Shares Skyrocket, What You Need To Know - StockStory",
-     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVWI0ZjJtaV82Z3ZlTDVwVzZNX3Vacm0zUTBucEtBeU85RHZTWmN3SWdBel85R0N3NFdrdXdxNkE0MHRTNFlEdFNxTVlTRkdValdzRFl4T2FMVjVNc2UwMjFCd1dQT1RhdHYyMlRQRlJlNkI1azY1Z0NsSFZKNHZCNkJvUjJtckpnZ3luVURsX0hGR2p2dGZHUDltdndmbjZhTkRpb3VaYnJPZ3hHbFRqd2ptdi1BdTZXeXI1NFI2WF9mREIyQ2hRdEhaNkt3U1VacUM0cm12bkpjZDdHTlUwaG84Q3JxUDVicC1kRmF5cVBWbTVIc29hRFlPTjhwRFk?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 16:26:17 GMT",
-     "source": "StockStory"
-    },
-    {
-     "title": "How Investors May Respond To Redwire Stock New Space Station Contracts - Simply Wall Street",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM1FZRUZOZjBPb01PMDFrX1ptWDJSc2NycE44elp0bEZFelRtekIwSHdJamNmRVRKQ0Yydms2YXdNYkFPaUE4dmlfZTIxQjJldGhBeWZGOGg4T3o4N0pVdHpNM2ptUTVlTGdjWlN4SUtNQmVnWF90Yjd5WldkV2ZEcEVTM01Mdk1yMzlMQjVybnJRVHI3cWlUeEt6UjhJYnJTWkFLdlh1NlJmUFF2NWpKc3loencyaVpPaVpkaEhiNUJMaWRXTzhDWEtHV2jSAcwBQVVfeXFMUDNRWUVGTmYwT29NTzAxa19abVgyUnNjcnBOOHpadGxGRXpUbXpCMEh3SWpjZkVUSkNGMnZrNmF3TWJBT2lBOHZpX2UyMUIyZXRoQXlmRjhoOE96ODdKVXR6TTNqbVE1ZUxnY1pTeElLTUJlZ1hfdGI3eVpXZFdmRHBFUzNNTHZNcjM5TEI1cm5yUVRyN3FpVHhLelI4SWJyU1pBS3ZYdTZSZlBRdjVqSnN5aHp3MmlaT2laZGhIYjVCTGlkV084Q1hLR1do?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 08:49:34 GMT",
-     "source": "Simply Wall Street"
     }
    ]
   },
@@ -773,12 +761,12 @@ window.DASHBOARD_DATA = {
     15.06
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 15.05,
-    "changePct": -0.07
+    "label": "pre-market",
+    "price": 14.9,
+    "changePct": 4.27
    },
    "relVol": 1.5,
-   "avgVolume": 7757311,
+   "avgVolume": 7908551,
    "symbol": "LUNR",
    "name": "Intuitive Machines",
    "vertical": "Space",
@@ -794,16 +782,16 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316801,
    "news": [
     {
+     "title": "Intuitive Machines vs. Redwire: Which Space Race Stock Is a Better Buy in 2026? - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSy03YWJ0dEdjVjA4NHMyMVlMSEZrbExPdmRIVmZLaGsyS3J4TFRQcnV0bjRMSVppSkoxS2xaTVUyX2daSXp5N2FVZDd6OHBxSnFZZ1hiUmlIMFYwOTNVMUdVRElEdXdLRm1WZmNGQ0tXa0F4NkJndmxWY1NrV0JlU0Zsek9CazZveFhnNUxTVTV2ak9yd0ZCWUQtT1RDUFkxT3l1YXRKZGNpZ2tOZ0JHMHFjaVVEMzB0NHI2dXRmMmg3aFBETGJhdQ?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 23:20:00 GMT",
+     "source": "The Motley Fool"
+    },
+    {
      "title": "Intuitive Machines (NASDAQ:LUNR) Stock Price Up 5.4% - Here's Why - MarketBeat",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHZJSlFQRHQ0S05JY24ybTk0Y1E0MjU5dV9aMlRhVkgxblJuRDd6V281X2VRTE9uWmo4MzAtb1QxYkN1ekU5MnpqampSekZ4LWtJYTBMcG81RUVoQ0xsLWY0dkRkc0ppRUtKcXkxUDhIaVd3WnJ4bHpXTllGT3V4WXpTOUV1NUF3ejV1SXdCazd6N2VTdi1nUk5QZjA4UVQwMVRpSTVmajlvUVFGb1JTTkJrcjVfZU92cFE?oc=5",
      "pubDate": "Tue, 06 Oct 2026 21:27:09 GMT",
      "source": "MarketBeat"
-    },
-    {
-     "title": "Intuitive Machines vs. Redwire: Which Space Race Stock Is a Better Buy in 2026? - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSy03YWJ0dEdjVjA4NHMyMVlMSEZrbExPdmRIVmZLaGsyS3J4TFRQcnV0bjRMSVppSkoxS2xaTVUyX2daSXp5N2FVZDd6OHBxSnFZZ1hiUmlIMFYwOTNVMUdVRElEdXdLRm1WZmNGQ0tXa0F4NkJndmxWY1NrV0JlU0Zsek9CazZveFhnNUxTVTV2ak9yd0ZCWUQtT1RDUFkxT3l1YXRKZGNpZ2tOZ0JHMHFjaVVEMzB0NHI2dXRmMmg3aFBETGJhdQ?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 22:39:11 GMT",
-     "source": "The Motley Fool"
     },
     {
      "title": "Intuitive Machines Stock Moves Higher: What's Going On? - Benzinga",
@@ -849,12 +837,12 @@ window.DASHBOARD_DATA = {
     7.41
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 7.43,
-    "changePct": 0.27
+    "label": "pre-market",
+    "price": 7.35,
+    "changePct": -0.94
    },
-   "relVol": 1.3,
-   "avgVolume": 39040525,
+   "relVol": 1.2,
+   "avgVolume": 40489827,
    "symbol": "ONDS",
    "name": "Ondas Holdings",
    "vertical": "Drones & Counter-UAS",
@@ -870,28 +858,28 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316800,
    "news": [
     {
-     "title": "ONDS Stock Quote Price and Forecast - CNN",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aQWpCeFFjNXlGNi10cXdUVUY3REtzTThPd2FMZHYwNlN3aXpYUlM1LURPdFctdXpMNHJhLTNZUEQ3WDlKR0JwcE9aQWc3NHd3?oc=5",
-     "pubDate": "Sat, 03 Oct 2026 08:01:59 GMT",
-     "source": "CNN"
-    },
-    {
      "title": "Ondas (NASDAQ:ONDS) Stock Rated \"Market Outperform\" in New Coverage at Citizens Jmp - MarketBeat",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRnRSZWVUMUh3SlM4UW94TGQ0cDdLX0dEWWxpOEJ0YTJINVU5Y0NVQjd0Y0hQajk0aVNuZXZ2YU5NZmR2UkZtYkE5VExzc2ZqOVVlQm9XZ2Y5Z2c0ZkVZQ3Z0Y09mUmdqQ2dqRGhURHdoWU5FWEhwNU1aYjhBbWFsU250bGZIQVhqc1RwQVNiYTREeUhOMmh4dHYwWVBXUkhCYjhrTGVOQmJhZnBYc214ZF9nbEFTWjRENWxPRjIzQU82M1I1amd3b3RUd2ctdU5yWDNNMGNPUXA?oc=5",
      "pubDate": "Mon, 05 Oct 2026 13:18:32 GMT",
      "source": "MarketBeat"
     },
     {
-     "title": "ONDS Stock Eyes Best Month Of 2026: New Defense Unit Lines Up Battlefield Drone Pitch To US Operators - Stocktwits",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjBOdHNPVjlaU2dZSXRnQTIzbHVnVWx3ME8zMzhnZVp4cVdxMnI1MGF0MEJMMm16MlpDc1YyTHpjS0RiR3F0RW1SWVdncGJ6MlNRRlhtbHNqX3hMRXo2N2d1SjU4TTlWVFVjMjhpRllQZDdubkFQZlIzYWtvNlNyZlFhMDQ0QjU0MHFfMVRRbTBtbUptb092X3p3SXJLY05nUEZocGpUVHlZN2ZBTFd1OTkzWXZnT0I3Z3l4ZHgzRWF4NWxydHc?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 10:07:52 GMT",
-     "source": "Stocktwits"
-    },
-    {
      "title": "Ondas Holdings Shares Fall Despite Record Q2 Revenue and Higher 2026 Guidance - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHdCLTBCbWNCbXhMLXB3amttcnJhYmhyNU13Z3ZzQkt0bG56LWY2dFo1WXZhek1PZnJ4Uk5xLXRwdGlMUkRJMjhNdTFrcHZ3S0RjM0JVSFVZV1hDM19FdHFSNkhPcXVzYXQ5MVdveVRsM3gyN29maGwyY0M0bklEQzRYZm1iUi05U1pVb0FFQXdrVFVJa3plbEhONE90UjdT?oc=5",
      "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
      "source": "Yahoo Finance"
+    },
+    {
+     "title": "Ondas Holdings Stock (ONDS) Opinions on Acquisition of GATE and Bron Technologies - Quiver Quantitative",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTZKZWNtWE80MG50bl9pSXZqamZGNmduMTBrT1U2MjduUDdXbGJxeWstTjBYMGVMeE1sUXRsdmFDQWlvQ01YY3plNVRwcVFvNmJHQkloT3c1TDIyTWhYWG9zSUJjRkttVXZUM2lsUlllVk1HOTNmN05vQmhQMEpZSFNOTWNUd2FXZWtjUnQ3c3hrNGlURWRUZnM5aVlfUHZRS2NPUXI1TXlUV2Frbm4yUm80NWx5WVYxeFE?oc=5",
+     "pubDate": "Mon, 14 Sep 2026 07:00:00 GMT",
+     "source": "Quiver Quantitative"
+    },
+    {
+     "title": "Ondas Holdings Stock (ONDS) Opinions on Earnings and Backlog Growth - Moomoo",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXQ3QWdjNmo1NEFlTjl5bnA2SlZlaGctV2lDS3IwVndkdGZpQmRrbE5yYjJ2dGl2bzkxVlV2SEdJVVNxb0RBaDg2czdhVmRVV3JjR21ZcFBDTTBJTVVJcnVyeTZER242OWNuTkM3b0tTYmk2MXhKdjFRM1ZyUm8tVXR1cTNGWVFPUHk5cGoyYTBqaWgxV2pXV0l3Z2NvclBfUFZ4WF9aQmI0ckE?oc=5",
+     "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+     "source": "Moomoo"
     }
    ]
   },
@@ -925,12 +913,12 @@ window.DASHBOARD_DATA = {
     2.59
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 2.6,
-    "changePct": 0.38
+    "label": "pre-market",
+    "price": 2.59,
+    "changePct": 1.57
    },
    "relVol": 0.9,
-   "avgVolume": 628301,
+   "avgVolume": 614681,
    "symbol": "KULR",
    "name": "KULR Technology",
    "vertical": "Defense Tech & Software",
@@ -1000,13 +988,9 @@ window.DASHBOARD_DATA = {
     75.53,
     75.53
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 75.75,
-    "changePct": 0.29
-   },
-   "relVol": 1.3,
-   "avgVolume": 1219374,
+   "ext": null,
+   "relVol": 1.4,
+   "avgVolume": 1189915,
    "symbol": "TXT",
    "name": "Textron",
    "vertical": "Engines & Suppliers",
@@ -1022,16 +1006,16 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316802,
    "news": [
     {
+     "title": "Textron: Balanced Aerospace And Defense Growth Backed By Record Backlog And Capital Discipline - Seeking Alpha",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVGRpSmRic0FxcmxFRGt5RkdlSVkzVHBPZHR1SUxVTlg3OXNjWm9Cc1NxN3Y1QUxnSVRKYWlCY0JqQ0s2LS11ajl1VlpZdVRONl9USXpmd3pSa0JTS2RaX05YX2k0RE9uaTc4Q2lTSmJnX2tHRFFNODJJazBDLVJ2dnI3QWQzNEphWlg0OC1zZklpVFVBMWFlSjVYXzVQeWwwVjhEamlvNDY1YjZIZHAxRzVZQURQc0dERm45cTR6QWhqZ1R6Wk5UUmo0Vk56UUk?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 07:48:50 GMT",
+     "source": "Seeking Alpha"
+    },
+    {
      "title": "Textron stock hits 52-week low at 75.5 USD - Investing.com",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQk5EdVd2VUNZRWVkQVpxeVc5WjFFZmtnUllwVmpYclR3amJNRkYxaE1GeFVNV2FUb05PTDVWS3k1eE1fZVBmNUl3cThPYWVaOTFJMF9wcWpsdHJrLUVpYzRmVnBLYVBPckQ1dDNfdzg5WWhhVHF5Um9wVzkzLW85Ym1wUHNpeG1TUDdhYU1iU3V6ZVFzMkV6ZmJJd2pvdw?oc=5",
      "pubDate": "Tue, 06 Oct 2026 16:32:05 GMT",
      "source": "Investing.com"
-    },
-    {
-     "title": "Textron stock trades 0.33 percent above its 52-week low - AD HOC NEWS",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQczNmT284NkZRMFZPUVUtOXpGZGZVM2wwQ3Zaa2R2Sm10eEpuTzVaV3hWOGRZRVpZQ0tTWHJjNzBxdXZvVWJYWnZJb3dFc0QwNXVEVjNhMVA4dWpJU2tBQXdUMkN2N1RfUEFzV2lvS0RadTZkN0V0aEFNTTF4WGljNWN2d3J0RjRuX1J6N0EzTXRTSXJKSFdxTWpnOUJvWGxmTmh0M1Q2djR3cnNFWnVFLVNTTUQ?oc=5",
-     "pubDate": "Wed, 07 Oct 2026 00:57:45 GMT",
-     "source": "AD HOC NEWS"
     },
     {
      "title": "Textron Inc. stock underperforms Monday when compared to competitors - MarketWatch",
@@ -1040,10 +1024,10 @@ window.DASHBOARD_DATA = {
      "source": "MarketWatch"
     },
     {
-     "title": "TXT | Textron Inc. Stock Overview (Mexico) - Barron's",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fd2RiSktSeDRyamVoeVFfTWR6ZXduY3F6b2lLMllEb2otMzFVa001dk9WS1VUZTZneHJORkxFcDNYSnBWNVQtbVdub253ZUMzX3NaWjhnUXJRSGloRXdYTUVIb0lhdHN2OVl1Undn?oc=5",
-     "pubDate": "Sun, 04 Oct 2026 16:18:39 GMT",
-     "source": "Barron's"
+     "title": "Textron stock trades 0.33 percent above its 52-week low - AD HOC NEWS",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQczNmT284NkZRMFZPUVUtOXpGZGZVM2wwQ3Zaa2R2Sm10eEpuTzVaV3hWOGRZRVpZQ0tTWHJjNzBxdXZvVWJYWnZJb3dFc0QwNXVEVjNhMVA4dWpJU2tBQXdUMkN2N1RfUEFzV2lvS0RadTZkN0V0aEFNTTF4WGljNWN2d3J0RjRuX1J6N0EzTXRTSXJKSFdxTWpnOUJvWGxmTmh0M1Q2djR3cnNFWnVFLVNTTUQ?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 00:57:45 GMT",
+     "source": "AD HOC NEWS"
     }
    ]
   },
@@ -1077,12 +1061,12 @@ window.DASHBOARD_DATA = {
     189.82
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 189.95,
-    "changePct": 0.07
+    "label": "pre-market",
+    "price": 189.69,
+    "changePct": -1.57
    },
    "relVol": 0.8,
-   "avgVolume": 9983924,
+   "avgVolume": 9370439,
    "symbol": "BA",
    "name": "Boeing",
    "vertical": "Prime Contractors",
@@ -1098,10 +1082,16 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316802,
    "news": [
     {
-     "title": "Why Boeing Stock Isn\u2019t Up More After Good FAA 737 MAX News - Barron's",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONjRVX0ZhcDRaQUNRWXQybkxMcW5jdEc5X211eXM3R1o5OHhLQkprWFY3Q3Btc2JVUjhIOVdNS3kzaEdfZXNZUTIzSlMyVTV5VldWRHZ5TmZtRS1nVHp4bHdWNWsybExSRFQwWE15a18tWkZCRERfZ2xMYzhVemFGWXhWSUlLUQ?oc=5",
-     "pubDate": "Mon, 05 Oct 2026 20:09:00 GMT",
+     "title": "Booing Stock: Wall Street Analysts Shrug Off Boeing\u2019s Latest 737 MAX Delay - Barron's",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeERkME05Y1drWFpoMFFRdVdXZVp6eS1tRTBtRE00QzE1OWhzSDRlVDJTM0JqUE80UDQxaWtlWjBSUUVTSkxJckZ0YVlkUFdhZUNGTExEQXZyWUNGTU52ZlVnaUlaTjhpU01xWTZpVkNUU0x5MXctdXBDM2l3enRCTkdFS2xYb21DMkFHM01kUnh0QQ?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 04:45:19 GMT",
      "source": "Barron's"
+    },
+    {
+     "title": "BA Stock Edges Higher After Hours \u2014 Boeing\u2019s 737 MAX 7 Reportedly Nears Key FAA Milestone After Long Delays - Stocktwits",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOThTek1ib1U0bVY1Z1E1WDZMM1E3NFE3Mnozc3pEV3JoNFdfdEJ5bkhOc0RCY3o3Z0FfQ1NpMzdkUTlGVzNtR1h2cGRsMnk1dGZMeFI2dVFLU1pReHcwYWtNQ0hUZ0w3Z0lXZmZjUFZyRDVqeE1XVlo4NUdSQVRQcXpodVFYbjBGNUY2eGZtVVVlNjUxemhSSVE0YTNSekFTR0FPNEJ4M25vZWlGNWV2NE9xY0k4ZDZRQnlhdmpkellGZzdNdGFVeXVwX0F2c1NnZy14ZXdUVmlma2RkbGpB?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 21:15:56 GMT",
+     "source": "Stocktwits"
     },
     {
      "title": "Boeing (BA) Stock Dips While Market Gains: Key Facts - Yahoo! Finance Canada",
@@ -1114,12 +1104,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa25vcUpXem5yT2xFeHdhZkdvbGRzYmtUa2o2OWtYdThUdXFGeFF4RTBkZS1ha1hwTkdzSFh4RU8zRWNoWEdJb1ZTZi1ZTVByYnVQNUJnVG5rMU1tRUMzUGZCMko2TVNLWDJKMEEyeUMyZ3daZ1pNQzlINllJRzJyYmY2M1J6SXFRSkFrdmNZWkxPOVF6dzJNamlaZG1VcUg4U09ITWI4eEVqc3BXZ3h2czUtOGlCYlh0bmcyR256UUdnUkFzal8yTDlqOU9vbDA0Y044TFpFaVM?oc=5",
      "pubDate": "Tue, 06 Oct 2026 16:20:00 GMT",
      "source": "The Motley Fool"
-    },
-    {
-     "title": "Boeing Wins Massive $14.7 Billion Contract From Lockheed Martin For Missile Seekers - TIKR.com",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWlVYYzVnRTBWejRLZms3ZEphX0lpRTdOcFBYbFR1OXhRYXZab1NTcy03TUUzZEpuTnY3RXk3ODdQSWpTOHZHTWVXSW9FQVowb3lEZ3NZakFiVm54a2FnWHREWWlKb0huQXh4eFA5a3dUcWVOSTJPMmZWUFRCWUVTWFpn?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 13:43:11 GMT",
-     "source": "TIKR.com"
     }
    ]
   },
@@ -1153,12 +1137,12 @@ window.DASHBOARD_DATA = {
     143.54
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 144.26,
-    "changePct": 0.5
+    "label": "pre-market",
+    "price": 142.85,
+    "changePct": 2.55
    },
-   "relVol": 1.4,
-   "avgVolume": 1108109,
+   "relVol": 1.3,
+   "avgVolume": 1172880,
    "symbol": "AVAV",
    "name": "AeroVironment",
    "vertical": "Drones & Counter-UAS",
@@ -1174,6 +1158,18 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316801,
    "news": [
     {
+     "title": "Should Investors Buy the Dip in AeroVironment (AVAV) or Wait for Profitability? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlyOVMwU0VPQWpxWmV5dkFFZXluWTkwQVdYcFZ0SnJSMkdDNHktM3RrMndYRTFhU2FYMWltTjh2REhSb0FtTkRRVWplRTFEWW15czFNcEhNSk9vdWpFbE00aWE1aks1ZmJZVUJ2dlZPM1NfSXNhUGZkeHpISWloV2o4alZ0OWJNeHRBdXlQOFBqVVFyMklzcDRWYlpBQ0ZVRGtF?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 14:31:49 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Ondas Is Priced Like a Defense Contractor. AeroVironment Actually Is One. - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMkd3bUQ1WnF0YXZfU1FmUDNHcmlPaUJwbnZfOTZhQS1wbC1CTTQ3ZkJsY3FDVmhRZTBLMXEta1JIM3hveHMzX0VpVkxUcGRhQjQzNEFjVVFwTXYwNEM0Y1ZMTjlHZWpEZ2FDUFlZOW9lYURaMnQ2VWVDTXptY0JmNHhvZjBEelBLdHFvbVJwclltWFFXd1lXc1U0NHZOT2dwVEdYajQzQUp4a2V3WDNr?oc=5",
+     "pubDate": "Mon, 05 Oct 2026 13:20:54 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
      "title": "AeroVironment (AVAV) Stock Forecast 2026: $500M Army Contract After a 133% Revenue Beat - Can It Reach $260? - TradingKey",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQzg1bElPUzV2N25LY0RiN2xoT2VHaVRObnRSR1QzWHZfREZ2d0NOMW9UUVZKMHVkNm1ieWpIdFJ4bmN1eUZocWNLek9LRFRGR0REc0VTOXZ2RG1BcmRZbFcyUU9kb2FKTnJacXd4T0s3TkRVeTVvSk10TWJhd2RtRWtRZXFma3RjbEo4SWZHTEpnVzI2YjhrdHhNbUUtR00xem9iMThCREE0ZVlxdzVJMlVNT2FZaGtfTENULTJ4Skkza25G?oc=5",
      "pubDate": "Sun, 04 Oct 2026 23:08:31 GMT",
@@ -1184,18 +1180,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb21JN0NvSFBOQ3hrRDVFVkcyOXMtd05IM09ORDE4MTk5a0ZVajFPcER5TG9RZnFhdmxpYmNWYnR1YURPNmRRalJpR08yQXlMQ1c4bmN4QUdzNkZBcXFhb2h1dzM2RjMyVnIxOWhFbnM1T25EbGhEa29xUTJKX2J2YzFaVzVMZzQ4Y0c2VG5mMFExSlVmTi10MURSc0VhcXl6V3lyX2NnRUZzenpTXzVhSkNERDNzWVJHeGRLemNyVG5TM3FLM2J0YWZXOG04WVRMa2fSAdcBQVVfeXFMTXZGMWhOTGRiVmRNWFdFU3RYZ0ZVei1nSmVWZkdBbUJqY0s0a1NXRHcyclhNeDFzQmxOdXRzVTVaREVkSEdPZzVwRndWWFRvX19kQmpjS1JqNXQ3YndzRjBRdFdoeHlKbS16VWNBeURabVBZdTBXVkYxVVA3RUZOMzV2bXVIaHVjbDdhMkNidC1WTGFoQUJyYVcySmwwamt5RXN3VTVEVF90QXZJMlU5UEhDdXctcmRYbFJFcmQtMURRNW1HNHZqbWd5dWozNTV5YzhNNGVOejQ?oc=5",
      "pubDate": "Wed, 07 Oct 2026 00:44:46 GMT",
      "source": "Simply Wall Street"
-    },
-    {
-     "title": "AVAV Stock Eyes Weekly Gain: AeroVironment CEO Sees \u2018Unprecedented\u2019 Defense Demand Over Next Two Years - Stocktwits",
-     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOGFnQjhyNHA4OG45dlM5eHVmZm5zNlc2WGNVMVJUYTg5OFl0M2pFZEN5dV9WV2thQkFENW81Qll3c3B4bUdLRE5OT3FrN1VXN1d4YTFhUEMwaDZLS3FoWHcxRDFlV1haRTg4UkpPbE5aOVUxQWZvWmJQSlRhUGQ0T3RNb1JSbkp4Sy1FX2JiRDJTbjRKN1pPX2lxRVJWUkM1QTM2VFp1aHZCLWFXVFNxa1J3WXhkaHRRMDh0LUVlWGRtNmljOWdzQVhVWmdHU1hfZVZaVFhBakhzWmVLN3kxSUhWZFNoRGl1VXRoZkIyWVY2VkxZVXNn?oc=5",
-     "pubDate": "Mon, 05 Oct 2026 20:53:02 GMT",
-     "source": "Stocktwits"
-    },
-    {
-     "title": "Which Drone Stock Is Dominating in 2026: Red Cat, Ondas, or AeroVironment? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdkN2X0Z2WUZHR2FfN19iblo1cTFRazMwclFuelYyWVZvZ0ttaTAyTjFPelNSU3RTUG9mbklOak0wM0JWbkdJN1MtLW5CckdPSDBqdmhOSmt6MTcwYzh2REdRTFBqOXpKdzc1QzVSMTRIdFdTeXFodDFTdEhlNldfWmUyX0xpdFVYRVplMjhHbjVKNkxZX2N3VFpXUWI?oc=5",
-     "pubDate": "Fri, 02 Oct 2026 18:18:15 GMT",
-     "source": "Yahoo Finance"
     }
    ]
   },
@@ -1228,13 +1212,9 @@ window.DASHBOARD_DATA = {
     263.71,
     263.75
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 265.29,
-    "changePct": 0.58
-   },
+   "ext": null,
    "relVol": 1.1,
-   "avgVolume": 574784,
+   "avgVolume": 559472,
    "symbol": "HII",
    "name": "Huntington Ingalls",
    "vertical": "Shipbuilding & Naval",
@@ -1249,6 +1229,12 @@ window.DASHBOARD_DATA = {
    "fiftyTwoWeekLow": 256.79,
    "marketTime": 1791316802,
    "news": [
+    {
+     "title": "Huntington Ingalls stock fell 1.02 percent on October 6 - AD HOC NEWS",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmZWakl4aG1mb2Y0S2FGaE5NWFFiSWpLX2duQ0dXUUlIUFZKaVJmX0R4b3dwM0MwRk5Xa3U2Z2xMM0VNaTAtMG41SUFTTHdXLVJZZU9nOHBYUW1vbUhrNnV4VVdseGZ2Ymx6T001bGxPQWl3X1BrSDN5NTRhSjJvX3ZFczljLVlHeVF5YWZ4OUE4LTJkMF8wNVdIVjRGYzFkMUNOUkRTYjdNNjN4OTJvRnI2QVY?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 02:55:21 GMT",
+     "source": "AD HOC NEWS"
+    },
     {
      "title": "Huntington Ingalls Industries (HII) Stock Price, News & Analysis $HII - MarketBeat",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uQWFVUUhaU3dwYXNVaDhDTTB5S0NqNnNtRWhaeEZjWDVnaUJvOXQtNE85WGlrd3puV3NWTGN1bzlBcGdtbFZWSWZORzhVSXpJSHlxQ3Nn?oc=5",
@@ -1266,12 +1252,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPX3dockVJY1FGMDFRT0l0NEtaQ2lrdUZ6WXRLbWEzb2RuQjJsUl9sSXhzdmlBQ1I1aWJrZVMzSW9ZRnlXVEZiTlRaeWh1TDhoNnRQTHQ0aWNIOHBISEdPZmxRanVNUkM1WGh2cVJsQ3d3RU5MWjZKZ2xnak10XzIxVEVSM3Roc3ctMDM1bHE3T0tfUmVkckUxOEVaYW1nbjBKcmwzRi1JdFZ1N3dpOU5oUm5YS09IdmFEVHhvS3M4WDdPQXZpQ05uVWMtUlN4bklfcmNubWxqZlRIODlZVkczcHlCUHNMQ2RKZzY5bmdJR21ILWdaV1dtYUR6TQ?oc=5",
      "pubDate": "Fri, 02 Oct 2026 21:16:00 GMT",
      "source": "MarketWatch"
-    },
-    {
-     "title": "Why Huntington Ingalls (HII) Stock Is Up Today - Barchart.com",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcTB5cHQ3NkxzQUhDcmdPTlAwVE1HQVRjbkRNbjEtOURKZ2I2dGNoeXdnVnFJNThOMXV5d2t0azdwTjJ0QXlINTBwOWlDUVR4Tk9RTkxWcjVuVnpxLWF4VUhEVmVzV203alBJYmwyWkprZXlCOWc0TEhSczVpRXNyRnZMejd4WUphWjJmX0xNYzAwZw?oc=5",
-     "pubDate": "Wed, 30 Sep 2026 19:50:45 GMT",
-     "source": "Barchart.com"
     }
    ]
   },
@@ -1305,12 +1285,12 @@ window.DASHBOARD_DATA = {
     192.07
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 191.85,
-    "changePct": -0.11
+    "label": "pre-market",
+    "price": 191.62,
+    "changePct": 1.17
    },
    "relVol": 1.3,
-   "avgVolume": 13071823,
+   "avgVolume": 13411690,
    "symbol": "PLTR",
    "name": "Palantir",
    "vertical": "Defense Tech & Software",
@@ -1332,22 +1312,22 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "What Are Palantir Stock Bulls Not Worried About? - Trefis",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkQ4YzFhRE9wQWRvVkFueFczbFkwNGxMVEgzREpZTmxKRmJOYTRDU3NZWnliTFlnNEpKcjJtT0pPcDhkbmZhMjRtWU40Znc5d0ZJMkVQMk5TUDl3dkVVLXBDc2pFUGRvZUFfUUxNNDFDdVFqUW93SFN6N3ZDMWl5MlZiSkg5aFNkcWUtenZQc290dGhQY0l3SW94V29zYzI5RERxeUZkRHJheTda?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 14:33:28 GMT",
+     "source": "Trefis"
+    },
+    {
      "title": "Palantir\u2019s Weirdness Is Part of Its Charm. The Stock\u2019s Appeal Is Easier to Explain. - Barron's",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VUmJCZzJySXB0NGJJNkRwekRmSUVEbWltU2xibFNYdGtlWDVMMnJGMEdnSDhUNFZoOGJFekhKQURrN25QQzhwdXFBZENIOU1hLXlzaXF2alFrSjlub2M0RkZCbGJwTmNCMC1UOVZVWGtJOGx3MnQzUXNwZw?oc=5",
      "pubDate": "Tue, 06 Oct 2026 00:00:00 GMT",
      "source": "Barron's"
     },
     {
-     "title": "The Overlooked AI Stock Poised to Outperform Nvidia and Palantir - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVBweG4tTTFuRUYtYk9mOGFNVHktaTdqamNrUzAxc2FLdmJoYzZPcmExZW9YRy04TkpZZ2FTa01wMzV2SGJHcG5oQkdXd0UzUTlVN2l3US1vUGNvMWxwTmludkctOU5GN1l2STRrWHp3RFVSX2VhQWxsdURULUhyUjR6Z1d2LWZ1dmlKNGh3RFhWYWMyRWRLXw?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 08:35:00 GMT",
-     "source": "The Motley Fool"
-    },
-    {
-     "title": "What Are Palantir Stock Bulls Not Worried About? - Trefis",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUkQ4YzFhRE9wQWRvVkFueFczbFkwNGxMVEgzREpZTmxKRmJOYTRDU3NZWnliTFlnNEpKcjJtT0pPcDhkbmZhMjRtWU40Znc5d0ZJMkVQMk5TUDl3dkVVLXBDc2pFUGRvZUFfUUxNNDFDdVFqUW93SFN6N3ZDMWl5MlZiSkg5aFNkcWUtenZQc290dGhQY0l3SW94V29zYzI5RERxeUZkRHJheTda?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 14:33:28 GMT",
-     "source": "Trefis"
+     "title": "Palantir: Bullish AI Case Has Never Looked More Exciting (NASDAQ:PLTR) - Seeking Alpha",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVjJibWFaV1pBbGRRNjdqdWZHUzBlb0dIZ01GN1QzbWdjbmkzU1locDhBcjE5RjRSVGRsNHhsRm9rWnFsdW5wQ1F6NFpFcGJLbUpiRFR4a3lwOHhtM0VNd1l2emdVMkVoQWlvSFVQUGhWZjNUVVY4NG5HVGRZVHpjZXB0eDhRLVIzRm96a0ozN3JObF82aXZsU1ZDSGY?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 18:13:52 GMT",
+     "source": "Seeking Alpha"
     }
    ]
   },
@@ -1381,12 +1361,12 @@ window.DASHBOARD_DATA = {
     75.06
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 75.13,
-    "changePct": 0.09
+    "label": "pre-market",
+    "price": 73.76,
+    "changePct": 1.01
    },
-   "relVol": 1.3,
-   "avgVolume": 21354715,
+   "relVol": 1.2,
+   "avgVolume": 21930308,
    "symbol": "RKLB",
    "name": "Rocket Lab",
    "vertical": "Space",
@@ -1457,12 +1437,12 @@ window.DASHBOARD_DATA = {
     43.71
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 44.02,
-    "changePct": 0.71
+    "label": "pre-market",
+    "price": 43.31,
+    "changePct": 3.07
    },
    "relVol": 1.2,
-   "avgVolume": 4271666,
+   "avgVolume": 4329465,
    "symbol": "KTOS",
    "name": "Kratos Defense",
    "vertical": "Defense Tech & Software",
@@ -1484,16 +1464,16 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "Kratos Defense & Security Solutions, Inc. Stock 12\u2011Month Price Target Raised to $100.58, Implies 130% Upside - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcDM2TWVIdndwWjJtRjd4V1g4ZUxORWxyRTcwT2YtNG1RcXl5Z1JrMlQ3VWwxNEFvbTVmWi1TSGg2bjBnbnJ4bThLOXpWbWpKVW53WDhRM09HR0xVX2VSdXRBZFYtcFdKNUY3Yk9xbWtmOGJJamR6YUZqSy1HTERYbFNtZDdta3VlX2lVekF4RWZNUmR1VERBakdUMUlDVGFrSWZIaEthTy04eWZHT0h2LXc2WFhCVjViSU1pS2l1VV9rcEk5Sm9CZzJzM3U2QjVTTURLNWtERkhEWGlLVEI5enNhV2t5RlU5Z2VXWk1wYUFGOTUzaEE?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 07:20:04 GMT",
+     "source": "TradingView"
+    },
+    {
      "title": "Three Defense Stocks That Could Benefit From Modern Warfare - Barron's",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ21SRnlEQTRYT3hpQzZCZjN5STJUZDZBTXN6bDB0a2Z4OENPS0cteFJNcFBpLUNZblNGdnVmbE9ScHU5UDE0WFp0d09oY3BwQzNKMERZR2FOR0xUdUktU1RxVXdaOU8zQkpORERkazB5SWlFVDN0ekI0dy02RlQ1Y3BEWVJ6a2ZiV29aUlk0RTJZSEJMa21fTg?oc=5",
      "pubDate": "Tue, 06 Oct 2026 16:13:00 GMT",
      "source": "Barron's"
-    },
-    {
-     "title": "Rothschild Redburn initiates Kratos Defense stock with buy rating - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamZPZnEzVGI3SWRUMHk3M0N6RXQycDhUbmZxX1JJRlVFZnR1aTFDdXRDY3hFeEc4eEpyWHdvUjFpUFpiMUh6ejRjdW00aFE0bGRaaWZ0aHVKZ09HSGJxRWhzSE9IRGJ2ZEotWVEydG82OHFrQ3pmM2RRSGllRmhhMGpRRW82XzFqMTUzZFdPcGZGMkJBelEwRkl6cHdScnI2M2xCV2paT3NuVWdRSFdqWTV1RU4yb0lGTmtEbkx0c1dyQjA?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 09:10:24 GMT",
-     "source": "Investing.com"
     },
     {
      "title": "Kratos Defense & Security Solutions (NASDAQ:KTOS) Hits New 52-Week Low - Time to Sell? - MarketBeat",
@@ -1532,13 +1512,9 @@ window.DASHBOARD_DATA = {
     69.19,
     69.16
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 68.5,
-    "changePct": -0.95
-   },
+   "ext": null,
    "relVol": 1.4,
-   "avgVolume": 236395,
+   "avgVolume": 242039,
    "symbol": "ATRO",
    "name": "Astronics",
    "vertical": "Engines & Suppliers",
@@ -1608,13 +1584,9 @@ window.DASHBOARD_DATA = {
     553.36,
     553.35
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 546.0,
-    "changePct": -1.33
-   },
+   "ext": null,
    "relVol": 1.1,
-   "avgVolume": 270880,
+   "avgVolume": 265259,
    "symbol": "CW",
    "name": "Curtiss-Wright",
    "vertical": "Engines & Suppliers",
@@ -1684,13 +1656,9 @@ window.DASHBOARD_DATA = {
     132.19,
     132.13
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 132.13,
-    "changePct": 0.0
-   },
+   "ext": null,
    "relVol": 0.8,
-   "avgVolume": 578673,
+   "avgVolume": 540712,
    "symbol": "OSK",
    "name": "Oshkosh",
    "vertical": "Ground & Vehicles",
@@ -1704,32 +1672,7 @@ window.DASHBOARD_DATA = {
    "fiftyTwoWeekHigh": 180.49,
    "fiftyTwoWeekLow": 116.77,
    "marketTime": 1791316802,
-   "news": [
-    {
-     "title": "Oshkosh Corporation (OSK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54WlF2d1RrbFBMYUF1RGJtM0RJdm42X0lLcFUyOHIwdGUyV0ZQX3pSRmlOSmh4dEhwU2haNW5PbWJqckhfbkNlNEhKbXF2WjZ5?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 03:51:06 GMT",
-     "source": "Yahoo! Finance Canada"
-    },
-    {
-     "title": "Morocco is using Oshkosh tank-hauling trucks. The company received another order for 50 tractors and 50 trailers. - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSWZ2amhnZ3ZZck9WNFpJc3d4OC1XMmFIaUpLQ2VXb0lVZFlhN3Q0dGU0T0dfQkFFMi1sZGlZOVVSY2NKcUI4c0dBTDB1THNrSGk4R2pPVmloM2pwa2Z6Y0FGaEdDdjBadzZGaGMxbU55T0FtTlJSY2lQQVZ0djk2aXd2SlRDeFpuSTJ1YWtMOG44OE1zZGNjMnh5RlMtZ0k5dVNzMm1PSkhwZzlqTnFVWmNQVkxpQ3UzMWc?oc=5",
-     "pubDate": "Mon, 05 Oct 2026 10:04:15 GMT",
-     "source": "Stock Titan"
-    },
-    {
-     "title": "Oshkosh Corporation Has Become Irresistible After Its Plunge Lower (NYSE:OSK) - Seeking Alpha",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1Z2eEVWUG5SZW1mUGxrNDdrRFRocGlqeV9VbWhtQkhuWFFxUW5VM2xFS3FVeFN3VGJFa0hka2xfSXpvTERPTzR6bHBvZXFQZzhNRk5fbG95N2cyQ2NOLUZNMDg3OWlvU3ZWWloxaF96LTVRT1VtaGFMVC04YzVwQWl3NHNTc3gxS1dHRkFpcE05R1IyOXNKbU1MSi1DVXRUeDhlWHVUd0ZuMFk?oc=5",
-     "pubDate": "Mon, 05 Oct 2026 09:51:32 GMT",
-     "source": "Seeking Alpha"
-    },
-    {
-     "title": "Top Oshkosh (OSK) Competitors 2026 - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MRnZLM1FQN1k3RGpyWEo5Y0J4bTU4YlBMQWRFUnZQVjA1blVhUnJ5ZVh2a3BwN2IxcDNVcm1Xc1hQeE16S2NySU45WF9tMmdPZzNfNTlGdVltUkMwbXZFeTJBejhwNHJMdFpWM3Iza182RU9Pa3ZQSE1NT1A?oc=5",
-     "pubDate": "Fri, 02 Oct 2026 07:00:00 GMT",
-     "source": "MarketBeat"
-    }
-   ]
+   "news": []
   },
   {
    "spark": [
@@ -1760,13 +1703,9 @@ window.DASHBOARD_DATA = {
     418.44,
     418.62
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 420.0,
-    "changePct": 0.33
-   },
-   "relVol": 1.8,
-   "avgVolume": 799052,
+   "ext": null,
+   "relVol": 1.6,
+   "avgVolume": 897960,
    "symbol": "AXON",
    "name": "Axon Enterprise",
    "vertical": "Defense Tech & Software",
@@ -1782,28 +1721,28 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316801,
    "news": [
     {
-     "title": "Axon Enterprise, Inc $AXON Shares Acquired by Juncture Wealth Strategies LLC - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaVdQdUVWdXRGRnM1VGwteXBmRHB0WXlSTUpWRnphNHJSOUJjNHEwN21UM1d5Z1A4UlFuSjZEdnFjMFlVNUo4RjEzQ0tnb1dTeVNfS3V6MEhBMjRkMFJrY2I2Sk1LVWZMLV94anFkOHZRNU54LTNVZVlqaC1hQU52SUtHaTRlM3FKS2M0WXNVWWM5dEhCYWtSMDhYbGpmLUM2d1dPRDFKOG5QZXJwakNSLWE5UU9nbHh6bkFGN0tTenJOMWdjTHdDejMtUEhBY0t5?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 23:14:45 GMT",
-     "source": "MarketBeat"
-    },
-    {
      "title": "Axon Enterprise (AXON) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONHBQa2czVnRFekVtZWI1TTlqbGw0MGZFUWQ3NnhOTVR6MDVOVm50anhNV2tCNjdKOHVYcERlTzNiTHZwUTZPOE1mX2ZnaEstc1liTTI3SllCcGZ1dlhSV1UxOVpMbTdVWHZvUWVKMlhKM1VBS3VsTWhIamZaYmxKQXQweVNabnphaDJvLWw0ZTRmaVpxM192aDZTQjhkUQ?oc=5",
      "pubDate": "Fri, 02 Oct 2026 20:50:03 GMT",
      "source": "Yahoo Finance"
     },
     {
-     "title": "3,944 Axon Enterprise, Inc $AXON Shares Sold by Congress Asset Management Co. - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMFg2SDNwRE90QXhKNndnczVDNlRSdjBWVW5yQ3ByVlBMbkhoZjRta2JFeUZvUXRqZXkxeGN3MElpQlJrVmlGdEVCQlcwVzAyb0RZeDZueUktdENSaFhyWjh2cUxvSDllbTY2a3NmM3dCRGR2bnVlNzh5MzV2R25RLVNxMllCUjRraE9ISGhUZnotQUloOVBVRnZxdGVlZkxZYjdlckc2a2dfRU82Y1Z5N3hSamhXWXJqekxZSUJBM3cxYkZOdmc2RE1MOURuQjg?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 23:53:36 GMT",
+     "title": "461,226 Axon Enterprise, Inc $AXON Shares Acquired by MassMutual Private Wealth & Trust FSB - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY3k2RFZ0dWFzUkhCZVZzdmY5R1BfdVdfQUdBOHNqekI2R0I5cDc3YVRPNzhCN1RZdFNkRzVvMzdsQ1R5MnNZZGlQSlc3LWZ4VHdwWFFsaDVPaE43SlZOWk14ZjJCblBOUFo3QWVEQ01kUnh2Nm5HUEtxNHg2cFBIRnNwbEtjZ2Jmc3k3UUxiZkNjaDNaOWJfQklqTURKRF9TSVIxeXU5OUVic294TklnTHBON3FSX2d3Y25hbHZzS0g1OEc1Q1lvSi1vMDY1YnNpOFl6V295OHBMeFZJUGNsYQ?oc=5",
+     "pubDate": "Mon, 05 Oct 2026 11:09:01 GMT",
      "source": "MarketBeat"
     },
     {
-     "title": "Axon Enterprise Inc. stock underperforms Friday when compared to competitors - MarketWatch",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZy12c3JMZnFQQUNYVFVFY3ZZMDdVb3hOMGFvTE9aY1daOC14Sy1WVUdheVB1dWw1MnZzYUxFTEt4UGNXQW9VVHJYNWZOVjJXNGZySTZCMkRUTnRuUlE4ckdIRi1oY2dVRTRXVEVGZmF5VVpjTVcyNVlOU3ZOS0hNMHM0aFhkXzlmSmdrakVPSEFaZHJXcFk2UFcteEstU3pydkYwY1FFTkRrQUJTbmEtZUM3U2RqV3Q2WXRHdEtyRUpVWlA4b0M3SkR5emtfQWJKVUhFVEhiVkZ0TkoyZll3QTJEekkwSVRs?oc=5",
-     "pubDate": "Fri, 02 Oct 2026 20:55:00 GMT",
-     "source": "MarketWatch"
+     "title": "Axon Enterprise, Inc. (Coinbase Tokenized Stock) Price: AXONC/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZWZnTzQ0cWFhb2RRalU5OGpMYVpDblYzODBzLTgzbHRFSzR4aDdCalpQOTU2aVJBeEpsQXRtUmd1TlBrODc3QXRYZENoNzVyQmtveE1Udk5KR2xrQ0RpeDh0Tk5GQ3lkZ3l1cGMtSXRnOTdSX2otRUdkdGx0SDk2VkYyYS1EZw?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 20:29:32 GMT",
+     "source": "CoinGecko"
+    },
+    {
+     "title": "Axon Enterprise stock gained 1.65 percent on October 6 - AD HOC NEWS",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOWgtWEFQRUNlUVhPaUZZeE5uanlhTG5zM3lrLXB5M1FSZUtJcjByRDVzVkxwQlVaRUgtY3A2dWlpMkl4SVVIcklza0hCQ1UyWFA3d1Jtck45V0QxVFpQQzB2QzRxa3FyZlNmdXloUlpqNnJ4bmtxaUotdjV3eHV2eVpGOVlyeWVZLU9aSTNXUUV3VVYwQklFY1F4MU9TcWlNTmc3UHl6Z1M0TG51enE1TFBnRQ?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 03:26:45 GMT",
+     "source": "AD HOC NEWS"
     }
    ]
   },
@@ -1836,13 +1775,9 @@ window.DASHBOARD_DATA = {
     1103.12,
     1103.33
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 1110.88,
-    "changePct": 0.68
-   },
+   "ext": null,
    "relVol": 1.1,
-   "avgVolume": 263554,
+   "avgVolume": 253402,
    "symbol": "TDG",
    "name": "TransDigm",
    "vertical": "Engines & Suppliers",
@@ -1864,21 +1799,21 @@ window.DASHBOARD_DATA = {
      "source": "AD HOC NEWS"
     },
     {
-     "title": "Rocket Lab Gains 13.6% in a Month: Should Investors Buy the Stock Now? - TradingView",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN09tdTUtNDgwWnh6cnNhVFhuanZjZ0JxYUd3bHVlbXM4LTlfY0RLcEpFZ1NFNEF2NG1nLXZXWmdWeTNVQ0NhOElRZTBKeVFkX2V4RWN6bUJva2JYeDRFTFJrMGFzMjBrNG5yZG03enpyalRIbExUSGJJWjZxQ19aRE9VZ1h1TUZCTHFNSHdVQkhZcENqdnBqT1FoU0ZPMkwzdkg0c1BzWi1lQ25vb256V2NNLVYxVUxmN3MwdDZtSlM?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 13:39:00 GMT",
-     "source": "TradingView"
-    },
-    {
      "title": "TransDigm Group (TDG) Stock Could Trade At A Discount To Cash Flow - Simply Wall Street",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUktGbk5haGRmZ3J4aTE1YkZLYXByUnFDcFkzaHMzU3pvVklJSWJLVG4tNHJ6VTl1ZzBnRFBTVjNJaDZDYTlDM2w3QmdIem5YMlNkelNfdWxIa1ZqNEItR3RZLURaOHhmXzIzNllQRjlxVHMxbFZoQnlaMUxFSkJzS0Q3Z3dFek9RdnMtYUhTT3BiLU5TMkNFLWR5NWNISGxDTWVMZ3NYRVF1NW8tUVpMRDJsU3o5ajhuT2ZzNTc1aW1yLUtNWWFVd18yckl6dUgy0gHWAUFVX3lxTE1OMGpSMjdSX0V4Q2M1a3VYaGpiWmZVWW5RMWctSUJsTmYxYWFoOTk0MWY3eE93QVBfWkdSUjlHTV92YmNsSlFITERpLUJuZFB3MjdsenBsVmxEQk1GVzJCNGs4blRzQURtaTM1cFJTMzRIaWFHeE5sVTZVSS1yQk1BWmhVTW16SWtRd0FHYTdBMEZTOVNFeDNFTi12cmE0VXh5ZUJmMi1Zdm9tYVhBM1pmMFZRTlZqV3MwOXBsbzhIYy1RNmhVSnQ2WEFMYlYxejZhUWRiWFE?oc=5",
      "pubDate": "Fri, 02 Oct 2026 05:25:48 GMT",
      "source": "Simply Wall Street"
     },
     {
-     "title": "Is TransDigm Group (TDG) Undervalued Following Its New Debt Deals? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYWZYY29DbjlIQ2loZlBaV1NPbXRuck5LRmJacXpTOWtVRnhrbEZNNHdzZnZVeDlqTG9LYklwWGxDRUhMaTAxOV9NeS13YzJnbXZlLXM5M2VVTmhPd3BrNjBOaHpONTQwRHZXNDNST09UMnhGbHdXM1FhWWRibXVQUDZWYjdTckNHTHJOSG1VbDcyZUZlT0E0Y1VEUmJ2YjVYUGVTMXVsbE5Hdw?oc=5",
-     "pubDate": "Sat, 26 Sep 2026 07:00:00 GMT",
+     "title": "Rocket Lab Gains 13.6% in a Month: Should Investors Buy the Stock Now? - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN09tdTUtNDgwWnh6cnNhVFhuanZjZ0JxYUd3bHVlbXM4LTlfY0RLcEpFZ1NFNEF2NG1nLXZXWmdWeTNVQ0NhOElRZTBKeVFkX2V4RWN6bUJva2JYeDRFTFJrMGFzMjBrNG5yZG03enpyalRIbExUSGJJWjZxQ19aRE9VZ1h1TUZCTHFNSHdVQkhZcENqdnBqT1FoU0ZPMkwzdkg0c1BzWi1lQ25vb256V2NNLVYxVUxmN3MwdDZtSlM?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 13:39:00 GMT",
+     "source": "TradingView"
+    },
+    {
+     "title": "TransDigm\u2019s (TDG) Earnings Soared, So Why Did The Stock Sink? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV1BWT3hmWlB2MHJxMnFzd2pnVndSRDBuS0RoUjE0WFd6NWJpMGhBSjJUSm1uS2lGZGhMX0RvRGVaMjA3a1hiNGJ6UkpORF8zcmpBVlEwVjBIOTVRVXFSR1V5cU5iNVU5MWlvMnZtVXowd0l0bU4zUVBzUHRNN1gweGtxUTYxRHVkenNpUEZWTWNGYVZGdnBmLUl0Q2dQNmM?oc=5",
+     "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
      "source": "Yahoo Finance"
     }
    ]
@@ -1912,13 +1847,9 @@ window.DASHBOARD_DATA = {
     68.15,
     68.14
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 68.14,
-    "changePct": 0.0
-   },
+   "ext": null,
    "relVol": 0.9,
-   "avgVolume": 1876636,
+   "avgVolume": 1764390,
    "symbol": "BAH",
    "name": "Booz Allen",
    "vertical": "Gov Services & IT",
@@ -1946,16 +1877,16 @@ window.DASHBOARD_DATA = {
      "source": "Simply Wall Street"
     },
     {
-     "title": "Booz Allen Hamilton stock heads toward its October 23 results call - AD HOC NEWS",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVjF4cnNWOFNDa2VzdjhyNllZS1BNY08yd241Y0puWEN1YzFCbWlDM1p5WlpmQzQ3RkwwYWxENnIzR1l6dG4tcmZfSE1EMGp1SXdVal9DTmttMURRZzNxZ01OX3UtYTZKeWl5YVNLU1A5ZjZxX3hrNFJqMWM2UGNlYU5Nc3VuajVJbnFLSGR3MlpIVk9YNW5zaVI3TlpUVXd4TXVnUWtQUjZQU0FreGd2T2djeDVxTU1UUUxwLTB5NHVQRHM?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 23:32:21 GMT",
-     "source": "AD HOC NEWS"
-    },
-    {
      "title": "Why Booz Allen Hamilton stock fell 4.4% today - Quiver Quantitative",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGdiZk00dzB2TVZKNmdiV1lJbzB0RXVXUVU5dEduaDVjYlVkN2JxNTR3VXdsVzR0OFBpVV9SUURYd09WbVZvbDNYZTAxWmJDLXZTWmRsdWRranl4Mmo4WUFtcG1ZRGFPWGhrdk40WE1md3NxaVppMEZzX2FFcEZCLWc2aEtqdU0?oc=5",
      "pubDate": "Fri, 02 Oct 2026 21:20:00 GMT",
      "source": "Quiver Quantitative"
+    },
+    {
+     "title": "Booz Allen Hamilton stock heads toward its October 23 results call - AD HOC NEWS",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVjF4cnNWOFNDa2VzdjhyNllZS1BNY08yd241Y0puWEN1YzFCbWlDM1p5WlpmQzQ3RkwwYWxENnIzR1l6dG4tcmZfSE1EMGp1SXdVal9DTmttMURRZzNxZ01OX3UtYTZKeWl5YVNLU1A5ZjZxX3hrNFJqMWM2UGNlYU5Nc3VuajVJbnFLSGR3MlpIVk9YNW5zaVI3TlpUVXd4TXVnUWtQUjZQU0FreGd2T2djeDVxTU1UUUxwLTB5NHVQRHM?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 23:32:21 GMT",
+     "source": "AD HOC NEWS"
     }
    ]
   },
@@ -1988,13 +1919,9 @@ window.DASHBOARD_DATA = {
     34.61,
     34.61
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 34.61,
-    "changePct": 0.0
-   },
+   "ext": null,
    "relVol": 1.3,
-   "avgVolume": 1303166,
+   "avgVolume": 1308251,
    "symbol": "KBR",
    "name": "KBR",
    "vertical": "Gov Services & IT",
@@ -2065,12 +1992,12 @@ window.DASHBOARD_DATA = {
     483.11
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 482.0,
-    "changePct": -0.23
+    "label": "pre-market",
+    "price": 484.0,
+    "changePct": 1.66
    },
-   "relVol": 0.7,
-   "avgVolume": 1377532,
+   "relVol": 0.8,
+   "avgVolume": 1274179,
    "symbol": "NOC",
    "name": "Northrop Grumman",
    "vertical": "Prime Contractors",
@@ -2098,15 +2025,15 @@ window.DASHBOARD_DATA = {
      "source": "Benzinga"
     },
     {
-     "title": "RBC Just Downgraded Northrop Grumman Stock. Here's Why - Barchart.com",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUjI0Vms5ME9VVl9jTTZfbnVweEtTU0dlaDBhbThCQ1lOVlJGcFF0R09ma0tyZnBuOVNDamtKanpiUGVHRmhVX0ZKRkh1MXFzX0RoVW5ybThXa2tJV3ZkNFFON0U1X2pLX0Y5LW5vZkJubjVHb0hIem51NVdOLUs2ZUYxNnJJYlZNYWJ1YUsxRzVSaTVqMHZRbkc3Rll1Zw?oc=5",
-     "pubDate": "Fri, 02 Oct 2026 20:01:14 GMT",
-     "source": "Barchart.com"
+     "title": "Rothschild Redburn initiates Northrop Grumman stock with buy rating By Investing.com - Investing.com Nigeria",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQXdvdVk5Q21NUnNBblJ4NTFab3d4Q29kRE1YNWJ0RzVpdUdmb2MwZGhxT2RmUnhpNV94Zkt5M2ZPMFdFemVsSHZtU2FGZWNsaVNpQy1Fbkoxcnp0Z1NHSlFHcHUzQkU0QmNKT0ZlMGViZ0hDUWlrVEF4OVRTckxycE5ZbkNPZU5jSWkxRzhQdERLX0FkU28xOFhnd1dpTDhkV2Z4Q3NRY2hrVnEzNlAxVjc5N2VWdEpEd2NxSUNIR3RKQ3RiREhF?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 21:35:05 GMT",
+     "source": "Investing.com Nigeria"
     },
     {
-     "title": "Northrop Grumman (NOC) Stock May Be 24% Undervalued Following New Space Prototype Work - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUzNtWUhZbEROS3NBZlFPSU5aU3hwVGtCUWFiWUJTcmcwZmxvOFI1SFNyb2gtWTdoajlWUDY4TXFWeHJYLUw2QmxBdTRQU0RlMEk1ZzRWYUQ1OGRKdkxzcmlXZ3NlQVp0Tjd1Zy1SSHlBNGVhd3MxVzJmWU5kUko0eWJyZDQtcFVNSVI5YXB2bHdsUExERU1IRkFLMA?oc=5",
-     "pubDate": "Wed, 30 Sep 2026 18:12:47 GMT",
+     "title": "Northrop Grumman (NOC) Stock Could Trade At A 19% Discount On Raised Guidance - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMC1xaVp1RDZ2ZWNLcG9ISDl4bWVMeDJzM09vZWZSS283d0dwTnVZT250YkpJY08wYXNMcVVST1JGczQ2MUk5bGhlMG55XzZiX3hXVFluMVJ4NklhdHdKZnFkNk5iUkVnMjZnUldBVnQ1U1djSkpoVVlmc090R09mal92UEdfWWZ0Q1ZlQXgzb1lkNzdEYUJCbDVYYWhaZw?oc=5",
+     "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
      "source": "Yahoo Finance"
     }
    ]
@@ -2141,12 +2068,12 @@ window.DASHBOARD_DATA = {
     6.34
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 6.37,
-    "changePct": 0.47
+    "label": "pre-market",
+    "price": 6.36,
+    "changePct": 0.24
    },
    "relVol": 1.0,
-   "avgVolume": 5057108,
+   "avgVolume": 4863873,
    "symbol": "RCAT",
    "name": "Red Cat Holdings",
    "vertical": "Drones & Counter-UAS",
@@ -2217,12 +2144,12 @@ window.DASHBOARD_DATA = {
     510.12
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 510.44,
-    "changePct": 0.06
+    "label": "pre-market",
+    "price": 510.48,
+    "changePct": 0.76
    },
    "relVol": 1.2,
-   "avgVolume": 736334,
+   "avgVolume": 732605,
    "symbol": "LMT",
    "name": "Lockheed Martin",
    "vertical": "Prime Contractors",
@@ -2238,9 +2165,9 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316802,
    "news": [
     {
-     "title": "Lockheed Martin Corporation (LMT) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUZfakY0VDE5NXk4cUl0Ym9uYmdSTGZiTWoxZVpzMHlCQkRzLVVia3dfVzk0aHVuX202X2RlaXBrbjJfV0RxdXhHNk5xT1ZwcHozZWpfTzBLY0h6bGNqZnNqTkxsRzk1c3l2Mi1QSGkzSnMtdzZCdFVJOVJ5T01XbTVoTUNyempRTkpEeHJqa3NYRHF1bmlfQ3BNR3IwT28zaG9lRTl0S24?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 12:00:02 GMT",
+     "title": "Lockheed Martin (LMT) vs General Dynamics (GD): Which is a Better Stock to Buy? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFVxZDk4MjhaZ3N1cFZzU0kwVFd2MFhtdHJuTWEzNHRLZC0wM0hKZnp4UE9QWmZjUzlTc29Hb0E1VkhYNVE4NVFwTXdwUGFtaEo3dHNrRGdOMS1pbEpTNHhHUV9oelNONVRxWm5jZGRhX0lKR1RWRnFSWWlFRzhFY2syQXh6YWw2bEY0VE1KQWlZVzZYYjc1ZDNidw?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 03:27:00 GMT",
      "source": "Yahoo Finance"
     },
     {
@@ -2292,13 +2219,9 @@ window.DASHBOARD_DATA = {
     116.69,
     116.69
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 116.5,
-    "changePct": -0.16
-   },
-   "relVol": 1.6,
-   "avgVolume": 770215,
+   "ext": null,
+   "relVol": 1.5,
+   "avgVolume": 794061,
    "symbol": "LDOS",
    "name": "Leidos",
    "vertical": "Gov Services & IT",
@@ -2314,22 +2237,22 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316802,
    "news": [
     {
-     "title": "Leidos (LDOS) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance Australia",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVHc2S3pTZC1CdzUtcVBSdjIxOFJHaWFpeTJ4d1BMV1lWYWJsWEZkbmx2VjZ2WGVobmlQczRSdjZJM2pMTHRYdE9DMjQtSFBJLUhudXFzaWZtY1lzbUpUVEhMRElQTG1CaWJ0eHFkV0U0VFdjSWZJdWhwRzItdmpnckpSSFhHak0?oc=5",
+     "title": "Leidos (LDOS) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLUhhZjVsN25NTTBveml6RW11NnhiV2w4Yzd0d2EtVWdGbnl1RVJ5Q2o4V2h5dFpLVml2STE3RmRPbDd0c2ZxRUowNnNabmNYQlpSay1oMGJKTTZDR2hkZ1EzX1JXVFdzWDgyN2RiZ3hnYkRIczA2ZWgwSm5vcDY2NTJ0YkdKcmZ5bGFrLV91NVMtejFHV2tXRk5vQ0c?oc=5",
      "pubDate": "Tue, 06 Oct 2026 20:50:05 GMT",
-     "source": "Yahoo Finance Australia"
-    },
-    {
-     "title": "Leidos' investor relations chief will retire in March after a 42-year career - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOVB5aFp5a1FMakI0dW1ab3lSdm9sRVUyWTlkQ1BoSDVMbjVlUV9PQ2tKZ3d6YWFZMXBrNTlHVnBUbnBUY051dkgweUhOa0xvbkN6Y0pIZWhrSEVBbDZmVWYwRlI1dS02YnJJczBlSm5oWlF5RGM3N2wya2ZoZUNFVGpMSWpGdVZHNDk5c0pkMXFTcmZsanJ6UlhkMEdFbDFJWm5VTDVEY1ZBbUlFRFJrbi1GemZnbDg?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 15:00:00 GMT",
-     "source": "Stock Titan"
+     "source": "Yahoo Finance"
     },
     {
      "title": "Leidos (LDOS) Stock May Be A Bargain Following Raised Guidance - Simply Wall Street",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSDBWc0wwMFBIRjBfOFZiS3p2QUc2akJLUHpiaTdWQXdFb0NuRm1WWUJqMnhWR2x2cEVnUDluOHhuRWVROG1aTkNRUExuMFZVaXAzZkxJM2F2dkVWUmZzSFJQTjRMdjk1aHZKUjlhR0JtQTBjUVZPVHJOcVM3OEwyRXVhRURteXI3dDFKZVF5VkhTWXlxaXN6SG5iYmt2c19GSjVLeURfdHJDSV9ZQVNXcjAxS29uRlNUYjB0NzhRNWJ4RU9QY2Fvc0hzVXRTZUpPMEduT1FybGNGOU3SAeABQVVfeXFMTVo3azQwR2dsbExDQ01DMkVyRmVrazRSbk5MWEVHYjRNeHZqR1ZtM01ETkF5cVlDTVRYNHk5cFFxMEI5MXFwMnV0X0MtamtDeFI1cF9PMHo3YlVWekVzTkdXa3ZMNDM0ODRydUJHOGRKMDFranlWYXBxcGl5MkJoOEJLWE5VU2FZOXhLbC14OGtWNzBPRE5MSmZ0Qm00djhIVE5qRGZneXdpWFduN05pUk1Ra2xoRjJldXNSbV9NYkk5UHZya3FsS3ZCeFdmQnJXUk9LZEkyUmpSaGNaNWJpZTI?oc=5",
      "pubDate": "Mon, 05 Oct 2026 23:37:36 GMT",
      "source": "Simply Wall Street"
+    },
+    {
+     "title": "Leidos' investor relations chief will retire in March after a 42-year career - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOVB5aFp5a1FMakI0dW1ab3lSdm9sRVUyWTlkQ1BoSDVMbjVlUV9PQ2tKZ3d6YWFZMXBrNTlHVnBUbnBUY051dkgweUhOa0xvbkN6Y0pIZWhrSEVBbDZmVWYwRlI1dS02YnJJczBlSm5oWlF5RGM3N2wya2ZoZUNFVGpMSWpGdVZHNDk5c0pkMXFTcmZsanJ6UlhkMEdFbDFJWm5VTDVEY1ZBbUlFRFJrbi1GemZnbDg?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 15:00:00 GMT",
+     "source": "Stock Titan"
     },
     {
      "title": "Leidos Holdings, Inc. (NYSE:LDOS) Stock Has Average Target Price of $160.29 - MarketBeat",
@@ -2369,12 +2292,12 @@ window.DASHBOARD_DATA = {
     183.29
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 183.29,
-    "changePct": 0.0
+    "label": "pre-market",
+    "price": 183.64,
+    "changePct": -0.37
    },
    "relVol": 1.7,
-   "avgVolume": 2449867,
+   "avgVolume": 2503001,
    "symbol": "RTX",
    "name": "RTX Corp",
    "vertical": "Prime Contractors",
@@ -2390,28 +2313,28 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316802,
    "news": [
     {
+     "title": "Here is Why RTX (RTX) is a Bad Investment at Today\u2019s Price - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb01KREVRRnBIYm01eVZCZjNhaXRpc29CUWNBR3dSUF9ObjhLdy1KQTBoWnlxcERDMG1mTXdDQ1E0ZmFodVlUQjBSTTdraGF5MlhBRXBhbXJMMUREVnI2V3FGVGt5YVRSQzhtdXppWlkzeTRreXdoOThQZXRCeU1zdU9qUmVldzdvdEwxTkM0cXYwbXJZQ0E?oc=5",
+     "pubDate": "Sun, 04 Oct 2026 21:16:36 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "93,725 RTX Corporation $RTX Shares Bought by Eastern Bank - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSmFEbnlWZDVQTHI5TDlsX0Y2dmxjNUo0MjNZY1ZXSk0yN0pjMGZGVVZ3aGZJcWFwbjh6d0FjcXBGZEZRdWdLWkdjWUM0WVptWTZPTk1sWVUxemc0Z0xaME51UXV0VE1xTjJtcDFTQWtVU1VEcTFBWjFPZFdKa1ZfMHRtTGxsUVpPODEwYWMyWEFmRUF6QjV6dUllRWg5VW15c3RoemxvN1N2RG9NZDhON29ZN1p1VkU?oc=5",
+     "pubDate": "Mon, 05 Oct 2026 17:15:33 GMT",
+     "source": "MarketBeat"
+    },
+    {
      "title": "RTX Corp. (RTX) Gets a $6.3 Billion Munitions Tailwind\u2014Can It Deliver? - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQVRmeEFPOU9VbFJ3QUJwQ1hMLWVsdWxfeGtWcFFIZ295aWpyczFKQmF0b2lXcWxLSmN6MlF0TjJtajY5RDdoLS12NmE1X1NtVEp1ZVVVMFlDSVhscnFFNVVKNzQxNWRfZUw5a1pWTzZNSTg2NmpyQjUtcVBwWEJ1Y1NoY3dLNFRjTFhYZg?oc=5",
      "pubDate": "Sun, 04 Oct 2026 00:17:00 GMT",
      "source": "Yahoo Finance"
     },
     {
-     "title": "A treasurer acquires 143 shares at RTX Corp (RTX); 143 are delivered or withheld at $185.01. - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDJwT0syTGVPQVNoeEhpbEQ2QVFURUg3Z04tNGRaRGdTY0MyekxJY2RSMFdncmNMbVprLTVJUDdtbVhOS2xFVUhxTlNHRnR0cmpFd21hcW9YclhySnRvbVFnNzFMYTFtVGdDQk4ycVVJcHJxZVZldVoyV0w2cHdpakhBTC00REdLMzZhZ3BjcTl3YnZSSDZVa1hrNUZOTl9BMmk4?oc=5",
-     "pubDate": "Mon, 05 Oct 2026 21:03:07 GMT",
+     "title": "84 shares acquired and 84 delivered or withheld by RTX Corp (RTX) controller Amy L. Johnson. - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX25ESVVjbkpNeTJXdkZTRTdWaUpwYTBRV242OVpacWo4ZXJfVURkcXdfOFhHZTB5R0l3alNlQ0didEcyeUFKVER1djd6TlphQ3lpQk5IeHNZSWEtbndKeDlGeUJjQjJHcThuZi1nS3hnRmJRaDFWbHo5NHo3c0NOT3BreXFhRll6VV9laEVRRVo3MzZIU3ZTbDJFaFVMLWpseHVV?oc=5",
+     "pubDate": "Mon, 05 Oct 2026 21:03:11 GMT",
      "source": "Stock Titan"
-    },
-    {
-     "title": "RTX Corp Stock (RTX) Moved Down by 3.28% on Aug 20: What Investors Need To Know - TradingKey",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUi1QMktuM1doWl82SXNsa1FmbDdNWHhKYzFmV1otMTF2dkJUNWN4aWxjX3laanVKVG4zX0Vfak9ZdlNKZGk3cFdtVmpuZzR2LVFsV25Rc2R3TENtZFdsZUt3X2RLVzZmd2d4N0pyYWRqbHNlaXVFRjlFOXJaOEJ5WGtEVXdETjJJWEE?oc=5",
-     "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
-     "source": "TradingKey"
-    },
-    {
-     "title": "RTX Corp (NYSE:RTX) Quality Stock Surges on Massive Earnings Beat and Raised Guidance - ChartMill",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTXhJN2RaUzVkTF9VUVFIQkxzRTREaFFxOVRFa2RJTVlTei1qdDVaWTBKNFpqMER1VXRqOXdEc2lBTUExTkw4YUI2YU5nQVp5elNXQ1BHZ0Q1WW93MFZ6X1MwZEZQYlk2RzlvdmZkX2JuQVM1cTBXczJWN1ZZN3hSdy15ZXJOWTJWcjRpb2QyRjVlMjQ5TjJpVVItc09FaldfZ1Fqc2dhSzAtLTE3QTU2NWNGVlQwSm9EN3VhZVlPSWFUbVhKdTVEdGZVX0pwUQ?oc=5",
-     "pubDate": "Thu, 23 Jul 2026 07:00:00 GMT",
-     "source": "ChartMill"
     }
    ]
   },
@@ -2444,13 +2367,9 @@ window.DASHBOARD_DATA = {
     691.36,
     691.1
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 687.0,
-    "changePct": -0.59
-   },
-   "relVol": 1.4,
-   "avgVolume": 69870,
+   "ext": null,
+   "relVol": 1.3,
+   "avgVolume": 74206,
    "symbol": "ESLT",
    "name": "Elbit Systems",
    "vertical": "Prime Contractors",
@@ -2466,10 +2385,16 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316801,
    "news": [
     {
-     "title": "Elbit Systems Ltd. (ESLT.TA) stock price, news, quote and history - Yahoo Finance UK",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RLVozVXR1MklJQ2xqbFQyT29wM0QwZVpnaXlCYkdyX2lWc0p3WmUwQmx2RkI5bFhiaFY4VVFqUjB2S095eTRFREZtaU16R05nLTNhTmNn?oc=5",
-     "pubDate": "Wed, 30 Sep 2026 06:05:02 GMT",
-     "source": "Yahoo Finance UK"
+     "title": "Jefferies cuts target for Elbit Systems stock to USD 790 - AD HOC NEWS",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzAzaXZic0hqLVg0R0JiSGcxVlBmU2JVeHVuUmxtU19PdF9taDNJanFodnpFcGx6WTg1SU04STJtM3RhaVcwcnBMN0JxNUpXUFlZU3Vrckp2NW00RTNKNXI5Z1FRcS1iNGRrRUQ3N2l5TDBoaHRYU1RpSTRxaVpJeHVDSVlCeDl4ZXNmS2Z0SWNPMWxJTXB2NmpVb3RBVm5wWm9VbDV6eUp2MHFvZFZscjhKeE8xMkN3MUdr?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 08:14:39 GMT",
+     "source": "AD HOC NEWS"
+    },
+    {
+     "title": "Are Options Traders Betting on a Big Move in Elbit Systems Stock? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ01lVlVxODdjWXVmYzU1RlgtWTdMUExPZjQ3dFFEaldjS1lpcGprYllwYW8ybXFwZ2o5UlN1WHQtWkdPUWY0RGdXQ0NyREdwU2hsbm5iR3hGVF8zWEdmRFI5RlBQa2dBbUsyaEZ6SkEzekRhSU9PTjUyM3U0YW9UcjcyYTM0MVREUnppWTgxcXpwN3dPWmtDU1BvTFB3ZTA?oc=5",
+     "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT",
+     "source": "Yahoo Finance"
     },
     {
      "title": "Elbit Systems Ltd (ESLT) Stock Down 3.0% but Still Overvalued -- GF Score: 77/100 - GuruFocus",
@@ -2482,12 +2407,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOW9hM0E1VFlobmlZRmJ3SmtHU2c0d1VpOHZKUmVGVmFlVWxENGhjdjFtdlZkYmY2QTZsRW01T1BqM0NTSlJzUjdldnFocDdPUkxEWGpsZWMzeUlNWDRTbVE0amtDbzFSUXVOejIxQk5yOFBVQjc3WnM5NUEzNERTZnVJUjBqUHlJWWRlTmFqa1FrS1IwNUQ3S1liUEhhQ1VjWVZlMGg4TDVKenM0ZnNOQ1RJOVlrblZJbEhuT0xzQV9nbUloWW10dVRkYUlBc3hnQ01ab1RqV0l3UdIB3wFBVV95cUxONjVURGd5elNoQjJYOTdHaXl5ZDcwSW14X25ZOU04OU5PekllLXpNOHhwZndOTzJSOThNLWk1Ml9aWlB5dzE4LXlMV3VSUlBiamRKclZSNGNjbEhKSlFYSEZaWTM3OTRiamt3Q29YWjZ5OWd1LWFPRmJYYzVZUnpMMWtDbzZlX1ZYbldKbVY2N0lsOEk3WFI2Rm5ENWV4aUZfeVc0Y0poRmpJRTFsTzdiSk9ZMjY0TFk4WDhudkluSmJnQWRUVFZFclA3ZkEwaEZRbDVWNzdDVzNFUXZLZXVJ?oc=5",
      "pubDate": "Wed, 16 Sep 2026 07:00:00 GMT",
      "source": "Simply Wall Street"
-    },
-    {
-     "title": "Elbit Systems (NASDAQ:ESLT) Stock Rating Upgraded by Wall Street Zen - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUHlueGFZcS1UcV9CM0l1OFVqa21idmFYWmg2UmdRdm5waVdQY3RDMDJZNjI5TmpYOWJCMjdpempvbVZpbjVOT3BRajd6V05QbTFyYVZ2MlJndmZ3SXVRUmJhcllfbnB1aE9WNjlBS3B2WkZRempwTnRvOFRjbl8weVFtOXVwdHJkaGhjZFFsU1czQ1g0U2ZxNGZyc1hFcVVCTllobVJVaU1EQ2xxcnpnaDN1eThaTElVQmhrY3RpbVVVMVFqMmxr?oc=5",
-     "pubDate": "Sat, 26 Sep 2026 07:00:00 GMT",
-     "source": "MarketBeat"
     }
    ]
   },
@@ -2520,13 +2439,9 @@ window.DASHBOARD_DATA = {
     168.57,
     168.48
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 168.0,
-    "changePct": -0.28
-   },
+   "ext": null,
    "relVol": 1.0,
-   "avgVolume": 434027,
+   "avgVolume": 423976,
    "symbol": "VSEC",
    "name": "VSE Corp",
    "vertical": "Gov Services & IT",
@@ -2548,12 +2463,6 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "A Look at VSE Corp (VSEC) After 4.0% Decline -- GF Value $135.87 vs Price $164.70 - GuruFocus",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVHpndlhld20wR1lwNDZZYXJTREpBdVE4bG5IRzRVMHdRUC1rdVdhLVQwbVNfMmhnaTBHNHBBaG9Zc1hxX2xjeVBWdlExSE1WT3JveXBYd3JhVHRzZnFRZlMzMWRxdkNMcjRVQlBqNzFfdUZ6TmZJcXNaZFp1YnpqejZQQUtTTHRkM0s4STluYi1ocEtjOE1QcFRuekkyalJ5MDZhakxJbFZxWW1SZEE?oc=5",
-     "pubDate": "Wed, 30 Sep 2026 22:32:22 GMT",
-     "source": "GuruFocus"
-    },
-    {
      "title": "VSE Corp (NASDAQ:VSEC) Passes Minervini Trend and High-Growth Screen, But Setup Rating Remains Low - ChartMill",
      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUDZRbDNXTkxsT3IyTi1NemQ5eEF5aEE3cFhsX3FvbXRxaVB0RnZ1MlVxdXc1WWw0eWp0YnJycGFTbGw3azFEVjJFN2FWZ1Z0V2dhOFpTOE0xTDE1bnVYRHJEaWMtMERXUVh6Y01PWHV4cEVQUzN6YkNOaVFDSDZtQWJ0OVpGbjZrbVFhMGVJZkZ6REFLTUROMmEwUF9qSzBxQkVHcmRld3Q1bkFodEpXUTNXSmRQTnZ6blpEZTBoVFByQnlVRmFzWTByS0J1WTN4cmR2d3RvemlKdUszaHZr?oc=5",
      "pubDate": "Sat, 08 Aug 2026 07:00:00 GMT",
@@ -2564,6 +2473,12 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS21CaWlBbWN4VndDUTdpSkJsLTU1dzJSckdTSUFQV3dtbmd0N1VGTDJRTzAyMF9NdFBRSFQtcC10WXl1SFFYbm9LNU53cG5NRGMtbDlQeWVaNlJKN0sxRWRrYTJvWUREZ3ZDSnA2NEx4TnpicDRBQ0FKWVNkOFByc3lrdnZaWWJGb3l3VVVRRzNTNFBGT0F3bTdEQllWTmtmOU5xTQ?oc=5",
      "pubDate": "Wed, 16 Sep 2026 07:00:00 GMT",
      "source": "Stock Titan"
+    },
+    {
+     "title": "A Look at VSE Corp (VSEC) After 4.0% Decline -- GF Value $135.87 vs Price $164.70 - GuruFocus",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVHpndlhld20wR1lwNDZZYXJTREpBdVE4bG5IRzRVMHdRUC1rdVdhLVQwbVNfMmhnaTBHNHBBaG9Zc1hxX2xjeVBWdlExSE1WT3JveXBYd3JhVHRzZnFRZlMzMWRxdkNMcjRVQlBqNzFfdUZ6TmZJcXNaZFp1YnpqejZQQUtTTHRkM0s4STluYi1ocEtjOE1QcFRuekkyalJ5MDZhakxJbFZxWW1SZEE?oc=5",
+     "pubDate": "Wed, 30 Sep 2026 22:32:22 GMT",
+     "source": "GuruFocus"
     }
    ]
   },
@@ -2596,13 +2511,9 @@ window.DASHBOARD_DATA = {
     237.91,
     237.9
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 236.0,
-    "changePct": -0.8
-   },
-   "relVol": 1.2,
-   "avgVolume": 916492,
+   "ext": null,
+   "relVol": 1.3,
+   "avgVolume": 896776,
    "symbol": "LHX",
    "name": "L3Harris",
    "vertical": "Prime Contractors",
@@ -2624,16 +2535,16 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "L3Harris Technologies Inc (NYSE:LHX) Receives Average Recommendation of \"Moderate Buy\" from Brokerages - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPN2Z1RFlvVk42RFptNlVFdEtNZ3dpYTVUem43WFRPRkl3RHpfaXRGM1JIMmJLTE9OY0xUNDkxOG5pWUF3WloyTWZmWXMtQ09ETUE1THROT2hUbFNZQWRIZm0zeVRwaGNVMDVsUF9fWU5IaVlsa09McTlhT1MyZjhYbFVoelkzaENSOVQ5ZkZraWxaM0hmYl9zU25kQ0pndloxSGF4WUhXWTJZRnlDdlRqdlA0ZkxRcWlGWTdvV0tucXRDX2xnVkNFejh2ZU1wcUUxVElJX0ZnUkdSWHNJTjhYYkFKVjZUQ2NvVmxOV0ZkQ1pNc1pU?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 08:58:22 GMT",
+     "source": "MarketBeat"
+    },
+    {
      "title": "3 Dividend Stocks Worth Buying Near Their 52-Week Lows - The Motley Fool",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkhydVRVajlLQ0FwTlZKR0hSWkh0QXFaQWxmUlRMbTZ1Q1N1cDdyYkQ2MENGWFpVYWt2V0U5TkpIOUl4RnVQY0ZQUktxODdYU0lpeEkyT08xWmJpZWVhUjhrbG0zbGc3UVZBc3RBNEJhMjFDSWRXUHJyaTdhaFJjcU1ITm5Ia0p4OWZJal91R0MwTWZtZ2Yw?oc=5",
      "pubDate": "Tue, 06 Oct 2026 21:00:00 GMT",
      "source": "The Motley Fool"
-    },
-    {
-     "title": "L3Harris Technologies (NYSE:LHX) Stock Lifted to Buy by Wall Street Zen - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVFZzdU1HN2tsNFRTQlFNd3ExTldjeEp3MFFTMWZRNmVGOGprQ3Bad201NFM2SXlKQ2MwSTk4dThZemZNUVRNdVo1Vml0WXFLclFXRTdGQi1GY3Q4djJvTEhmV0xJWkZzNy00dlM5TzdmUnpuZU52WlNPT3k0SEtnaUtYMHlUYlc0TnItTXJLUG5TRE8zWldXUkd1SHJseVhSSkNkRlRsZFVRWVFpbFhadzdWcDRZMjRmWThSN0VST2FUZlZVbzktZUpOUQ?oc=5",
-     "pubDate": "Sun, 04 Oct 2026 05:18:56 GMT",
-     "source": "MarketBeat"
     },
     {
      "title": "L3Harris Technologies stock heads into October 29 results - AD HOC NEWS",
@@ -2672,13 +2583,9 @@ window.DASHBOARD_DATA = {
     124.52,
     124.59
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 124.59,
-    "changePct": 0.0
-   },
+   "ext": null,
    "relVol": 1.2,
-   "avgVolume": 282128,
+   "avgVolume": 279838,
    "symbol": "SAIC",
    "name": "SAIC",
    "vertical": "Gov Services & IT",
@@ -2706,16 +2613,16 @@ window.DASHBOARD_DATA = {
      "source": "Stock Titan"
     },
     {
-     "title": "SAIC completes security acquisition: what it means for SAIC stock - AD HOC NEWS",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ1c2WDRaVkQ3d2tkd3I5a29XOWpBUk13U0RLTTNhZXVtR0JWWmhVLU1JdERocy0xTVZHQTQxekJoR3FnZVBFUEZnLWV1UktVMnBsMnZSR3ZfN2RlQ0ZvLWcxYTR4UmlEbjNJUnFqNWdHaUl3bEFFN0NHYldkaV9UT0RDOVVBWk9oWFRBVTIzYlZuOXJadEhMb3YtV0VIaGVJOGxUTFZ6WTdwQldBUmE5UE1OMWZ3bERsSFN4Q1l6SDc?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 22:13:04 GMT",
-     "source": "AD HOC NEWS"
-    },
-    {
      "title": "This Federal Contractor Stock Jumps After Earnings. It\u2019s Becoming a Government Darling. - Barron's",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vX3R4dF9XUi04VTRfanhZaXpiaTVwdHh1aHBjNWp3U0g4N2VRVWM0WE9BUG9OdWdYc2c2OWtmdnQzazItWnNtVGVvcnRqWTJDY0JQNTBjTW52bTdVM2RSdEhRSUhJVmp2TzVjUUZvcG5Oak91OGc?oc=5",
      "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
      "source": "Barron's"
+    },
+    {
+     "title": "SAIC completes security acquisition: what it means for SAIC stock - AD HOC NEWS",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ1c2WDRaVkQ3d2tkd3I5a29XOWpBUk13U0RLTTNhZXVtR0JWWmhVLU1JdERocy0xTVZHQTQxekJoR3FnZVBFUEZnLWV1UktVMnBsMnZSR3ZfN2RlQ0ZvLWcxYTR4UmlEbjNJUnFqNWdHaUl3bEFFN0NHYldkaV9UT0RDOVVBWk9oWFRBVTIzYlZuOXJadEhMb3YtV0VIaGVJOGxUTFZ6WTdwQldBUmE5UE1OMWZ3bERsSFN4Q1l6SDc?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 22:13:04 GMT",
+     "source": "AD HOC NEWS"
     }
    ]
   },
@@ -2748,13 +2655,9 @@ window.DASHBOARD_DATA = {
     331.36,
     331.33
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 331.3,
-    "changePct": -0.01
-   },
+   "ext": null,
    "relVol": 1.6,
-   "avgVolume": 847872,
+   "avgVolume": 862253,
    "symbol": "GD",
    "name": "General Dynamics",
    "vertical": "Prime Contractors",
@@ -2770,6 +2673,18 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316803,
    "news": [
     {
+     "title": "Lockheed Martin (LMT) vs General Dynamics (GD): Which is a Better Stock to Buy? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFVxZDk4MjhaZ3N1cFZzU0kwVFd2MFhtdHJuTWEzNHRLZC0wM0hKZnp4UE9QWmZjUzlTc29Hb0E1VkhYNVE4NVFwTXdwUGFtaEo3dHNrRGdOMS1pbEpTNHhHUV9oelNONVRxWm5jZGRhX0lKR1RWRnFSWWlFRzhFY2syQXh6YWw2bEY0VE1KQWlZVzZYYjc1ZDNidw?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 03:27:00 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "General Dynamics Corporation (NYSE:GD) Stock Has Consensus Target Price of $410.84 - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLUN6YlUwWUN0OVBqMHRBRDYzRnBVTzY1M3JHRlBUd09QeGlEY2RoUWxyb3RhOEFuOW92Y0xHbDgyRG9uOHVYSXhycFlMU3FOUkdzTjVHemJjLVlhSmZYQVNzam8xZzZ2NkZtbzl6MC1QY0t6em0wUVhEdmNEejdXdFR2VnRXdlJmQWdtbjVqTFZlaGZsMVVROWZ1Z1BUNnZwbGhGUm1qR3Q4NGxVdEtoQnhMYmxOWlJSeE5zWVNpd2U4ZlhUazFuQmZYMDRXS0NpOUVCZHQ0bGU3Zw?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 06:24:33 GMT",
+     "source": "MarketBeat"
+    },
+    {
      "title": "Earnings Preview: What to Expect From General Dynamics\u2019 Report - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanpJbEQ5VW40R0ctekMxUDcxbnZtUVZOeFRLcVhoVmlqMi1XQlIwazhjcXJ2X3FlR2tMOG5PSm5tT2ZrTU83N2xUM21LOFczT2RBQ2ZnckpmdUhvVXozZnRZUjd5U3l5M0tHRjZZOWVQOTlFUXhtZGhmMWZBd3FVM1BPaWVWa0dqdGxaS0pDN3FtUmRHMFBpdkxhNW9RSXVTSjJJQVF5VEM?oc=5",
      "pubDate": "Tue, 06 Oct 2026 11:23:29 GMT",
@@ -2780,18 +2695,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMUtmTDVRTmVoQjNUX3BZVnhYbnpCajBIYW5ER1d4UXctUXBpc295aHltdjNNRXhFbTk2ZGFmaU1UVm1Bcjdicml2Q3o4UUpWeWV6SGo0R2ptTHRwZnZsNHVNSmlOaEIyWXRQZ3p5dHRKMkVFSl9zYzRyTUcwZlRTa05Jb1RGR2hXZ0NIMDNmOXpEc05Cd1gzMlpNSFFsbmJka3hwcHR3Wnl5TGRNNVhlZ2RxaWlIT0RDS1RZYm9VWFlScFBNTlc0X25OdGkwMEdFaWZUVy04Zw?oc=5",
      "pubDate": "Tue, 06 Oct 2026 15:42:55 GMT",
      "source": "AD HOC NEWS"
-    },
-    {
-     "title": "What Is Drawing Fresh Attention To General Dynamics (GD)? - Simply Wall Street",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdlFsd1FoYmdNU0hXdEY4S3N2ODZiQjVMZ2t2RUY2MTV0ak1MSEhFdXZIMlNZV29qMGo3ZzhzdF9HQ3g2TTFzUU5RRTJfWk05TnUyM2cyQnhxUG5kUGRDVU9oUF85X191aGUzSFBpSEFXVWh2QkRYUmZQZWpyR1hPd0lCSXFZdUJMa25RRHRXS3F5VGVBWDdvaGR6LUVaUE5oZHpZd2k1WjJwV2MzLVZSOWhtTjNfYlJER1VVYWZycUd1TlZIWk1SR0lB0gHPAUFVX3lxTE5Qa2pFeGEzNW1sc29UVVMzZzRRVUF4UENVVFNQcGI0Mk1qLVNxRnVObV9UNkxEbFBmcWZhMjhKWERua2s1aFRMYy0zVk8tUFpodzNtZkNEcnR2VU52Ym1OaFd4U0RiTUx3OUZtcGNzaFhmVmZoVjJaUVJ3ejQ2M2x5SXh1dURSUFV6SW5uLWdGcThteVJDUWprcmlrLVB2TDc5X2Rnci1pN0VEeWVhTi1sWWtKVmpYT3hnN2U2aElNU0ZSb3dpMDJ4U2ZYNGFmMA?oc=5",
-     "pubDate": "Fri, 02 Oct 2026 03:39:54 GMT",
-     "source": "Simply Wall Street"
-    },
-    {
-     "title": "General Dynamics (GD) Stock May Be 28% Undervalued As Stryker Demand Continues - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdVBSVm5WclFmTEl4WGlzLW1TWDBKc3pOb2s0REV0VENjVjRlY0ZpeURmQlpKeXA2U3BtQ1F1NndaTWZ5Wm5OYjFRbnBDZ0dsYVNKYjBpZzJnUDdELWkzX3JtS1dCRzFQQ0xpVW9yc04xcVBlQnhBQTZmWnFuQ1hHU2FfUHRGd1lRUUhVNW5wZTY3dkNwc0o5SmZ3?oc=5",
-     "pubDate": "Fri, 02 Oct 2026 23:04:30 GMT",
-     "source": "Yahoo Finance"
     }
    ]
   },
@@ -2824,13 +2727,9 @@ window.DASHBOARD_DATA = {
     303.43,
     303.26
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 303.26,
-    "changePct": 0.0
-   },
+   "ext": null,
    "relVol": 1.4,
-   "avgVolume": 303283,
+   "avgVolume": 309530,
    "symbol": "HEI",
    "name": "HEICO",
    "vertical": "Engines & Suppliers",
@@ -2846,16 +2745,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316803,
    "news": [
     {
-     "title": "HEICO Corporation (HEI-A) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82YzAxWW8tZ3NKMUJ2dTZNaWgxMWkzNmZXMG9yVWhiSzc2b1JIS1FZWUJhWXhKUjU0T2YtZUthQ0tCa0NTbllBSGI2QUVWNGhoWDNZ?oc=5",
-     "pubDate": "Mon, 05 Oct 2026 18:36:05 GMT",
+     "title": "HEICO Corporation (HEI) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwQWxablpvdmNIM2o2WDhFUHlLUHNaVks5REtuQ0QtQVZZSVVWTTBlSE56cWs0T21mRHJicC1WSVhlN1V0ZWxqT2tXYkI1dFlz?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 00:45:02 GMT",
      "source": "Yahoo! Finance Canada"
-    },
-    {
-     "title": "Is HEICO (HEI) A Bargain After Earnings Growth Forecasts And Estimate Upgrades? - Simply Wall Street",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa1JlRUlBQ2hnc3RoZmF5ME5SbTZ5LTBQTlZMUC1mUWFUTGxBTWFNWDl1VUJoYngtMlJXS2Y3MnZwU2RDOFlvZWtJS3d6UEE3VFN6UWVEU1l6WFBoU1UzdVpYcnppQW9tN21MNWdhZGlER0p3ZVJLZ3Zob2RlQ2l6UmF2aUZiaXdjOENTOElTcTE2UzMtU0p6T1ZlUU1UeUFQcFpSb1puUmtnQk0zcG55VFYtNTA5OThaQjlsY0c4YTVxRU4xVVRUQ0RR0gHKAUFVX3lxTE5rUmVFSUFDaGdzdGhmYXkwTlJtNnktMFBOVkxQLWZRYVRMbEFNYU1YOXVVQmhieC0yUldLZjcydnBTZEM4WW9la0lLd3pQQTdUU3pRZURTWXpYUGhTVTN1WlhyemlBb203bUw1Z2FkaURHSndlUktndmhvZGVDaXpSYXZpRmJpd2M4Q1M4SVNxMTZTMy1TSnpPVmVRTVR5QVBwWlJvWm5Sa2dCTTNwbnlUVi01MDk5OFpCOWxjRzhhNXFFTjFVVFRDRFE?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 08:29:27 GMT",
-     "source": "Simply Wall Street"
     },
     {
      "title": "Heico Stock Price Forecast. Should You Buy HEI? - StockInvest.us",
@@ -2864,10 +2757,16 @@ window.DASHBOARD_DATA = {
      "source": "StockInvest.us"
     },
     {
-     "title": "Jim Cramer Likes HEICO (HEI) but Warns About Aerospace and Boeing (BA) - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORS04RlJudGZJSF9xbVJyVTNYa2ZZaGJJSE84X3B5cDQyb05kVXExOWRwQzI5eVh3U0FYRDFLbWN6UjFkT2tFMi1oY0FtMU1PWW41cGF3Tk82cnI3cXhqWjhKVU9wNHBfYVR6OHpISVhld3BvZXFabUIyMFI0REgyRWpleEtkQlFTa0JvY1ViQnFMZDBHV1E?oc=5",
-     "pubDate": "Thu, 01 Oct 2026 21:09:10 GMT",
-     "source": "Yahoo Finance"
+     "title": "Is HEICO (HEI) A Bargain After Earnings Growth Forecasts And Estimate Upgrades? - Simply Wall Street",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa1JlRUlBQ2hnc3RoZmF5ME5SbTZ5LTBQTlZMUC1mUWFUTGxBTWFNWDl1VUJoYngtMlJXS2Y3MnZwU2RDOFlvZWtJS3d6UEE3VFN6UWVEU1l6WFBoU1UzdVpYcnppQW9tN21MNWdhZGlER0p3ZVJLZ3Zob2RlQ2l6UmF2aUZiaXdjOENTOElTcTE2UzMtU0p6T1ZlUU1UeUFQcFpSb1puUmtnQk0zcG55VFYtNTA5OThaQjlsY0c4YTVxRU4xVVRUQ0RR0gHKAUFVX3lxTE5rUmVFSUFDaGdzdGhmYXkwTlJtNnktMFBOVkxQLWZRYVRMbEFNYU1YOXVVQmhieC0yUldLZjcydnBTZEM4WW9la0lLd3pQQTdUU3pRZURTWXpYUGhTVTN1WlhyemlBb203bUw1Z2FkaURHSndlUktndmhvZGVDaXpSYXZpRmJpd2M4Q1M4SVNxMTZTMy1TSnpPVmVRTVR5QVBwWlJvWm5Sa2dCTTNwbnlUVi01MDk5OFpCOWxjRzhhNXFFTjFVVFRDRFE?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 08:29:27 GMT",
+     "source": "Simply Wall Street"
+    },
+    {
+     "title": "Wall Street Zen downgrades HEICO. HEICO stock draws 24 analyst ratings - AD HOC NEWS",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS2VBaFAxUXlUMTNxWVlpVUd1LVpKd1BmeWR1VHltVWw3MU5veHhmR3lQTjZoWXRDa3A4ZTlkMFZFTmp1b3kweUlhXzE0MUlUa1lydms5cUJuVlFycWFhM0V2eHZQZGU3THlsVzU0eW16S1ctYUxiUS0xa0w1cVNUODVaXzFScHV4OG55OU8ybmpwNmlFM2R0eHJYd1RzUEFFMFFTWmt5c3B3Zy1Xbk1aSTR6eWNfRjZPMXYxSnpXWTM1R2NUNGV3?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 05:21:35 GMT",
+     "source": "AD HOC NEWS"
     }
    ]
   },
@@ -2900,13 +2799,9 @@ window.DASHBOARD_DATA = {
     70.95,
     70.96
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 70.96,
-    "changePct": 0.0
-   },
+   "ext": null,
    "relVol": 1.4,
-   "avgVolume": 281640,
+   "avgVolume": 283121,
    "symbol": "VVX",
    "name": "V2X",
    "vertical": "Gov Services & IT",
@@ -2928,16 +2823,16 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo! Finance Canada"
     },
     {
+     "title": "V2X, Inc. (NYSE:VVX) Stock Has Average Price Target of $86.90 - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSFVfeE4wOXNKbDZPWjFnUkJVQWNCQjJCTFQ5SkxwbEJ5LXA4bVZQLVJXSzdLd2ZvcEQyUV9sdm41VU05eVl0bkZZWG43dE1KMTREbkVJb1FpMElDMVBieUFnOXJwQzNYdWVHUE1lMFNDdUQxWUhCY3JpT3BYLUxfd2tCN04xQXA0a29wRlZDMFNIazQ2R1RBNVJHbjhzNG0zdm0xTUJkQXZmVEdlUzhwdDN0eGZiWldMZmgw?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 08:41:40 GMT",
+     "source": "MarketBeat"
+    },
+    {
      "title": "A towable system can detect and defeat drones day or night, even in bad weather. - Stock Titan",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOalNWdWZVQUxHSkdFM251M1B3U3JNM1N0aFFUaURlbXN2dTRKcGZMZk52eUNadFhKdXVnUFhoSllnUGl5bXpaSGpTWUM5dk0zVEpGVkhUUEFhaV9GZVM2LURJMEx5SHloN1pDWUpNYk1zV2NWYzhma044WHQ0RDlOaF9VVzJZTUdMNzdQSGFMUjhWWG00eGthd2ROOE9xQnMxUk9FMFloQ0xTZ3JoR2tRNHJVVEUzTjBKRFlxYmhxOA?oc=5",
      "pubDate": "Tue, 06 Oct 2026 11:30:00 GMT",
      "source": "Stock Titan"
-    },
-    {
-     "title": "V2X (VVX) Earnings Date and Reports 2026 $VVX - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xQmRiUEExVC0xXzdsbU9DSzNyTzBMV19PSXhnQlVIVWdIay02dVhYb2VEQS1DbkpuU1FGOXZjNUtaYlNIejRJY3lZcTBOWUY3UVJQeTRJV2lIY050MV9sbTFR?oc=5",
-     "pubDate": "Fri, 02 Oct 2026 07:00:00 GMT",
-     "source": "MarketBeat"
     },
     {
      "title": "V2X, INC. ANNOUNCES PRICING OF OFFERING OF APPROXIMATELY 2.0 MILLION SHARES OF COMMON STOCK IN SECONDARY OFFERING BY VERTEX AEROSPACE - PR Newswire",
@@ -2976,13 +2871,9 @@ window.DASHBOARD_DATA = {
     231.62,
     231.6
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 232.66,
-    "changePct": 0.46
-   },
-   "relVol": 1.4,
-   "avgVolume": 1739335,
+   "ext": null,
+   "relVol": 1.3,
+   "avgVolume": 1744258,
    "symbol": "HWM",
    "name": "Howmet Aerospace",
    "vertical": "Engines & Suppliers",
@@ -2998,16 +2889,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791317070,
    "news": [
     {
-     "title": "Howmet Aerospace Inc. (HWM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kN0dST2cwck5SZnRvYklUczdqRzZWZGxaMzJWeTJBV1djTVJ0NHdjU1BGaHhLYUJtZWk0S0loSDVUczNWNnAxSndMUE9wYy1zNGpCZ1N2TUkwdElpdm0yTw?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 15:03:57 GMT",
-     "source": "Yahoo! Finance Canada"
-    },
-    {
-     "title": "Howmet Aerospace stock heads toward October 29 results - AD HOC NEWS",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSzR5ZXY3Wkk5YkJEUjc4SUNOMkU4TzRyV0hHMHBzdXB0WFJGS08zQW5jMGx5blRvTnJxVnlTOEZFcXJWMEIybm8zV1phNnc4UEEwX0dVTF9odWtMZ25Wa2dPTGRUZWhtUXdYODZpeDZ4ancwYkdweHlhX0Q1djlZNHdIaEdtWE42ZGFuWmJrN0R0alAtOUlXZ05BWGlUekZwMkVXOXNNYVhfY0FwOFduLVB0Nl9aaDAw?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 15:07:37 GMT",
-     "source": "AD HOC NEWS"
+     "title": "Is Howmet Aerospace (HWM) Outperforming Other Aerospace Stocks This Year? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaHNHNjBVLVBwbUhJSUJiODZHWHUyc2gyWTJzalhodUI2cEo4b1JMZ3JLRTN4dXFZZnNqaTBieDlPeVBEV0dZME8yWGVfN3ZwTHpMNXpPSXBGMVNjYnNBdU52VTZ4amlWSjZPNk0xaVFzdHdPZzlwNnBLd2dXbTVtSmNKMzZEN0tCYWZsZ2pITDE4VnRsTkQwaGM1ekJPbll4N3NqTldkcXo?oc=5",
+     "pubDate": "Fri, 02 Oct 2026 12:40:02 GMT",
+     "source": "Yahoo Finance"
     },
     {
      "title": "Capacity Expansion Plans At Howmet Aerospace Stock Have Changed Its Investment Story - Simply Wall Street",
@@ -3016,10 +2901,16 @@ window.DASHBOARD_DATA = {
      "source": "Simply Wall Street"
     },
     {
-     "title": "Third-quarter results arrive around 7 a.m. ET Oct. 29; Howmet's webcast starts at 10. - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR3RSMy1IMWg4a1RRb2JQLU0wNENUR1RzRkI5RXIyTEVUN0QxdFozOXNSUmoyWmxhV2x0bUpZdzgzVEhWYmY5eUJfQ3hFaUY0akEtS1FVck5rbGtWdXZManNIUWRjbkxiRnhEbGpnb0NuZm9YaTlib0gtdG5LMkhPclNkSzNwOUlDR0t4R0MwRlZNZkdHYmFaOEsyQVl1U3hfb09XWXNfMHJQU0UzdzM4blgzQXdLa0J3WlE?oc=5",
-     "pubDate": "Thu, 01 Oct 2026 12:00:00 GMT",
-     "source": "Stock Titan"
+     "title": "Howmet Aerospace stock heads toward October 29 results - AD HOC NEWS",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSzR5ZXY3Wkk5YkJEUjc4SUNOMkU4TzRyV0hHMHBzdXB0WFJGS08zQW5jMGx5blRvTnJxVnlTOEZFcXJWMEIybm8zV1phNnc4UEEwX0dVTF9odWtMZ25Wa2dPTGRUZWhtUXdYODZpeDZ4ancwYkdweHlhX0Q1djlZNHdIaEdtWE42ZGFuWmJrN0R0alAtOUlXZ05BWGlUekZwMkVXOXNNYVhfY0FwOFduLVB0Nl9aaDAw?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 15:07:37 GMT",
+     "source": "AD HOC NEWS"
+    },
+    {
+     "title": "Howmet Rises 21.4% in Past Year: Should You Buy the Stock? - TradingView",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMXRiQTlzRkJXRHRqY01xdU5BMVNmUGp0YkFELVdNcFFuakh3ay1XTmFZN3FMcTJ4S0hBMkc4b0EtTE9PNVdqTjVIR3JqRzJrVmY4UFdpQVB4NnVGTFhfcldteGVMTlB2bFRSR004cXFhWk5OMVd1UXFZTjA1TXhIZTU3a0ZFS0VmUjNPSDkwd2p3Y2VtZ2JyV1lhazN4eDJ3Y1ZTbUtaNGZ0SXRTWkdZ?oc=5",
+     "pubDate": "Mon, 05 Oct 2026 16:26:00 GMT",
+     "source": "TradingView"
     }
    ]
   },
@@ -3053,12 +2944,12 @@ window.DASHBOARD_DATA = {
     309.39
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 309.41,
-    "changePct": 0.01
+    "label": "pre-market",
+    "price": 309.27,
+    "changePct": 0.96
    },
-   "relVol": 1.1,
-   "avgVolume": 3192702,
+   "relVol": 1.2,
+   "avgVolume": 3040236,
    "symbol": "GE",
    "name": "GE Aerospace",
    "vertical": "Engines & Suppliers",
@@ -3086,16 +2977,16 @@ window.DASHBOARD_DATA = {
      "source": "MarketBeat"
     },
     {
+     "title": "GE Aerospace, HEICO And 3 Other Stocks Downgraded By Melius, \u2018Several Years Of Robust\u2019 Growth Set To Slow - Stocktwits",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1hwMExoajFadTlNcHd6MUxJWGdEUUg0VFJtQVNjSEdvOERsMkZZSFQ2NUdZbUJ5MXJ4bWJxeUgxWE9MVkN5a0lFVkZnWWVOZWNYOUxxbHFFVU1QejBGeU1VblhZWFQtcFI4UjEwN0VmNmRzNk5leDk1MHJsSy1wTF90LWRLR0JJMGNGSkszSVVhMHRMOG43dUxrcDJ4cTVUeXo4akRjMFpnd2ZoaE5fVy1teDZVQlhyUjN4dW4xOFJfbnRwV2s5c3MxNnc3LWhnYzJSOVE4YTF6UQ?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 23:21:38 GMT",
+     "source": "Stocktwits"
+    },
+    {
      "title": "Should You Think About GE Aerospace Stock Differently Now? - Trefis",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2hIc0ZOMjRwQ2pDM0h0QmJ6dE1EanZvOUxldWpaeXM1WTFZZUpZU1BaTkxBaEY3WHJPa1hrbVhwZFNTd2hXVGtPaWc5OGQxTW5rMWlvM29QV1lSN2RaN3F3ZGN4MGlHdS14RnhRdDNvYWpJckM5WGJQcGR4M2NZYktHaDhUSGVOUTRLMk4zQkFqU3UxNG9wQ3N4Zmxkbkt6SVNPQ1NQV1UxbFhLV0tmOVRvcU00N2c?oc=5",
      "pubDate": "Fri, 02 Oct 2026 10:00:08 GMT",
      "source": "Trefis"
-    },
-    {
-     "title": "GE Aerospace vs. SpaceX: Which Aerospace Giant Is a Better Stock Buy in 2026? - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcmxPU2t1LUdHMTZWUHYycXdITkZCR2QtZjJvRDkwRldHQkJyRUM4QTVWcFdJOHhKZ05aR3RVSFptdkw1OVo1T3hsYkV2TXhDdUU0YkJ2a21LMGs3UFpNT2J3VnFZMjRhbjJ5WjFZQTJkaURRT2hLTzlpYlJnQm5SSGF5aVpYOWxXV19fd1FJU21WSnBEdkVqRE0yQjVwMk5NMDlzTW9hSk9XeW9WdlpRc19XaHAwbFJLS3dDVkJleEJIMmJ1cFE?oc=5",
-     "pubDate": "Fri, 02 Oct 2026 00:20:00 GMT",
-     "source": "The Motley Fool"
     }
    ]
   },
@@ -3128,13 +3019,9 @@ window.DASHBOARD_DATA = {
     36.79,
     36.78
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 36.8,
-    "changePct": 0.05
-   },
-   "relVol": 1.7,
-   "avgVolume": 472959,
+   "ext": null,
+   "relVol": 1.6,
+   "avgVolume": 513113,
    "symbol": "DRS",
    "name": "Leonardo DRS",
    "vertical": "Defense Tech & Software",
@@ -3205,12 +3092,12 @@ window.DASHBOARD_DATA = {
     22.36
    ],
    "ext": {
-    "label": "after-hours",
+    "label": "pre-market",
     "price": 22.48,
-    "changePct": 0.54
+    "changePct": 2.98
    },
    "relVol": 0.7,
-   "avgVolume": 3147174,
+   "avgVolume": 2908328,
    "symbol": "UMAC",
    "name": "Unusual Machines",
    "vertical": "Drones & Counter-UAS",
@@ -3227,8 +3114,8 @@ window.DASHBOARD_DATA = {
    "news": [
     {
      "title": "What Comes Next For Unusual Machines After The 35% Gain - Simply Wall Street",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMWtuQWdua2hKbFhhRWlYaUV4YlVJQy1CaHA1M2UyVFU4cDJKcXhwYXdFUi1YY1pEbjV1V0RQNkVFb0UwQ3gzdlJMRkVER3h0ZXBKZmZONWVqRzQ4VkFtdEx2aWxWemc5ZHNKODRPVzJpdFpfaTlaN244ajlhQVhwLUlzQjl2dzhyYzBiYVlXUm5jRy1uZTZteU51VmRPVExKWlJsU1BadHpMRnUtUHJLcXJ2bDdIMERpOEZ0STc0NEw2UnBU0gHKAUFVX3lxTE1HT3FIZTZ2ZjB6aFBWVXRPX1VSakZoLUhyYlhwYTFzR1hhU29ELXdrU3l5TjFuVzUtUy1fUUt6cXNLU1JZV3BWSjBBN1pGMFZxSGNMY3hsSFMyUGM4dnkwd2N6eEtiWU9CY0NvdlRFODBrSXBNSEVmN2VKVTVhTGI0ejhXSUMtWUllLXVuelg2VS1pMG92ZDNnbTRNUEwzYlVTMUhaNEpwSWJRZjZSWkdlc3UyOHV6TXU5R0lCMlFaMDF6aWVQbmpoTUE?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 15:31:09 GMT",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR09xSGU2dmYwemhQVlV0T19VUmpGaC1IcmJYcGExc0dYYVNvRC13a1N5eU4xblc1LVMtX1FLenFzS1NSWVdwVkowQTdaRjBWcUhjTGN4bEhTMlBjOHZ5MHdjenhLYllPQmNDb3ZURTgwa0lwTUhFZjdlSlU1YUxiNHo4V0lDLVlJZS11bnpYNlUtaTBvdmQzZ200TVBMM2JVUzFIWjRKcEliUWY2UlpHZXN1Mjh1ek11OUdJQjJRWjAxemllUG5qaE1B0gHKAUFVX3lxTE1HT3FIZTZ2ZjB6aFBWVXRPX1VSakZoLUhyYlhwYTFzR1hhU29ELXdrU3l5TjFuVzUtUy1fUUt6cXNLU1JZV3BWSjBBN1pGMFZxSGNMY3hsSFMyUGM4dnkwd2N6eEtiWU9CY0NvdlRFODBrSXBNSEVmN2VKVTVhTGI0ejhXSUMtWUllLXVuelg2VS1pMG92ZDNnbTRNUEwzYlVTMUhaNEpwSWJRZjZSWkdlc3UyOHV6TXU5R0lCMlFaMDF6aWVQbmpoTUE?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 15:31:11 GMT",
      "source": "Simply Wall Street"
     },
     {
@@ -3283,12 +3170,12 @@ window.DASHBOARD_DATA = {
     145.7
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 146.58,
-    "changePct": 0.6
+    "label": "pre-market",
+    "price": 145.25,
+    "changePct": 7.31
    },
-   "relVol": 1.6,
-   "avgVolume": 1229133,
+   "relVol": 1.4,
+   "avgVolume": 1327526,
    "symbol": "BWXT",
    "name": "BWX Technologies",
    "vertical": "Shipbuilding & Naval",
@@ -3365,12 +3252,12 @@ window.DASHBOARD_DATA = {
     4.65
    ],
    "ext": {
-    "label": "after-hours",
-    "price": 4.68,
-    "changePct": 0.65
+    "label": "pre-market",
+    "price": 4.65,
+    "changePct": -1.48
    },
    "relVol": 1.3,
-   "avgVolume": 19809693,
+   "avgVolume": 20770329,
    "symbol": "ACHR",
    "name": "Archer Aviation",
    "vertical": "eVTOL & Air Mobility",
@@ -3386,9 +3273,9 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316803,
    "news": [
     {
-     "title": "Joby Aviation Is Near Its 52-Week Low With 91% Upside. The Catch Is Real - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOXzdxWEpENHEtUndEQ0Z0b3NnYUs5bmR1Y0Q0cGZPT2xTYmVfVDNBaFhsbjNBZTNMV3ZKVHo4YllsMFlya3U0ZnVsdkRhNFBYZlhfRjFndm9lR0ZDNzdCcHVQa1E0OURibHAxLW5HNmM4N2N0bmREYzJQM3JBa2hXRWpDUWNHX3pkbHlOdXhsQi0wYmdRemc?oc=5",
-     "pubDate": "Mon, 05 Oct 2026 17:00:49 GMT",
+     "title": "Cathie Wood\u2019s ARK Invest Loads Up On Joby, Archer Aviation As Airtaxi, Defense Prospects Grow - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3hxM25zSEZlY296d1F2MjR6MkkzU3lFODFUQnVnR3N5Y3Zndl91T1A5QTJuTU1LZkttRDU0QmNlVUZFcHJGMEpCN0labko4ZGdBaEd6RVhEZWFrTkRGdThoY21HLUh2Sk02eHpzb1ltanc4dmNaVXBzbnBHcGd1ZjBObWFZdkppVGJFQ1FLUG4zNWZhZ0Rfdw?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 03:28:00 GMT",
      "source": "Yahoo Finance"
     },
     {
@@ -3398,21 +3285,21 @@ window.DASHBOARD_DATA = {
      "source": "The Motley Fool"
     },
     {
-     "title": "Joby Aviation or Archer Aviation: Which eVTOL Stock Has a Stronger Cash Position? Top Investor Weighs In - TipRanks",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNExPdDlOMElvdTU1dEJDUks4NzQweFFPaTkzazFlZlpHT3FORWM4aVQ4WjZmUlRUZE9OUEVmMzhQM0g2UHMxQUZZYlluYmRwaFJnc1VUMmNhd1lvVHVYS1k5eEhMVHpDa0wzOFhvSUNjd2ZRX09aX3hJb2h3N2NMY0xadkVXbUlhbmVPeURVb0IzdG1URkNOdk5qZG92X01pMm9paUM1Z1FWNGVubElkNjZRTXMyLTJzeGdBQUszOGtuMnR4d1JZNkJzX0F4a1ZsX09sVEpqVQ?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 16:07:19 GMT",
-     "source": "TipRanks"
-    },
-    {
      "title": "Joby Aviation Is Near Its 52-Week Low With 91% Upside. The Catch Is Real - 24/7 Wall St.",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa05yOG1pVVFrYjlMSHR4ckJMVmtsV2s4UVNrX2wzNFVjaVBrZy1TeHAzU29oRE1BQ2lTM1BTcFZoNmRmZGYyVWMyakE4a0ZiTWpra1U1b3JnNDJNcGZNdnNlZFF5aVJwQllaam5fRVlNNUdybFl2OUNVNDdzV0hBRDRjUHRvWi00aGtEcVQ1cFExN3NSYmpaUWwwMFJMVWhNazhBWG1GMGVPRjltSDl5d181U04?oc=5",
      "pubDate": "Mon, 05 Oct 2026 17:00:00 GMT",
      "source": "24/7 Wall St."
     },
     {
-     "title": "Cathie Wood Buys $16.2M of Archer Aviation and Joby Stocks Today \u2014 Here\u2019s What Wall Street Sees Next - TipRanks",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2xWaXJNakZFNUdaTzZLZFBMS19sRVBpWVI0N21Od2h5M1NSenBVbTNLMG14R3dHWWNqX2h4UElyMnpGQkNiaWpiUnFsSEkteUNhcXlYLVo2S3dQbE9fcXlOMHk2Z0M4bVJ2TUw0VERmZS1ZckFJbVVOeUh0Z3dDRGxOeE41MVdaQWMwcTZ5WVFPU3BkeXNmRjl3MnVESnVEcms0R3ZPc2hpWnUzT3hMQl9SQm9RU3NrT056U3B1NEdYMXRw?oc=5",
-     "pubDate": "Wed, 07 Oct 2026 01:38:47 GMT",
+     "title": "Joby Aviation or Archer Aviation: Which eVTOL Stock Has a Stronger Cash Position? Top Investor Weighs In - TipRanks",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNExPdDlOMElvdTU1dEJDUks4NzQweFFPaTkzazFlZlpHT3FORWM4aVQ4WjZmUlRUZE9OUEVmMzhQM0g2UHMxQUZZYlluYmRwaFJnc1VUMmNhd1lvVHVYS1k5eEhMVHpDa0wzOFhvSUNjd2ZRX09aX3hJb2h3N2NMY0xadkVXbUlhbmVPeURVb0IzdG1URkNOdk5qZG92X01pMm9paUM1Z1FWNGVubElkNjZRTXMyLTJzeGdBQUszOGtuMnR4d1JZNkJzX0F4a1ZsX09sVEpqVQ?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 16:07:19 GMT",
+     "source": "TipRanks"
+    },
+    {
+     "title": "SPCX or ACHR: Cathie Wood Buys $12.1M of One Aerospace Stock, Sells $9.4M of the Other - TipRanks",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcGpnaTJhcVVaYUo2ZUN6UnZ6Qmh6bzV4TGd1bkFsUUI3YVIyaGs0eGNINy1IZW9PdUlZYkF2c2ZwUDFfanRxYzdjYTh5TUktQmpOekg0VEpvU0gyTFl5SkFLdGZXaEdHdjhHdkRVcjdfbU5PMlNMVlRScklzRE5wTk5XOXhCQ3RVNkZLYTI0MUk3QVZ1RkRCaVVRYlJWd1RQOTYwSWhrQ3ZRbFdES0FvUWRn?oc=5",
+     "pubDate": "Wed, 07 Oct 2026 04:24:58 GMT",
      "source": "TipRanks"
     }
    ]
@@ -3446,13 +3333,9 @@ window.DASHBOARD_DATA = {
     42.08,
     42.1
    ],
-   "ext": {
-    "label": "after-hours",
-    "price": 42.1,
-    "changePct": 0.0
-   },
-   "relVol": 0.8,
-   "avgVolume": 1320175,
+   "ext": null,
+   "relVol": 0.9,
+   "avgVolume": 1244889,
    "symbol": "PSN",
    "name": "Parsons",
    "vertical": "Gov Services & IT",
@@ -3468,10 +3351,10 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791316802,
    "news": [
     {
-     "title": "Parsons Corporation (PSN) stock price, news, quote and history - Yahoo Finance UK",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iMC1GMHdReHBNZW1QaXZ0Nm9hMEVMQlpua2x5bzN6X2dXN1hnYnYxT2dCRnhLU294U0tyeGN5NlAtb1hBQ0pSb0JaMlBDcEZU?oc=5",
-     "pubDate": "Tue, 06 Oct 2026 10:34:05 GMT",
-     "source": "Yahoo Finance UK"
+     "title": "Parsons Corporation (PSN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QTVpVWFNPWWFLRTRzaUJGd1ZiVHpjeTNtV3pGT19mWDJGdUhudWw2bUJ2bFVaYjVUbHJEQXZzRlAySHdtWE9CckRGSmw3R2lk?oc=5",
+     "pubDate": "Sun, 04 Oct 2026 11:52:52 GMT",
+     "source": "Yahoo! Finance Canada"
     },
     {
      "title": "symbol__ Stock Quote Price and Forecast - CNN",
@@ -3486,16 +3369,16 @@ window.DASHBOARD_DATA = {
      "source": "StockInvest.us"
     },
     {
+     "title": "Parsons Corporation (PSN) stock price, news, quote and history - Yahoo Finance UK",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iMC1GMHdReHBNZW1QaXZ0Nm9hMEVMQlpua2x5bzN6X2dXN1hnYnYxT2dCRnhLU294U0tyeGN5NlAtb1hBQ0pSb0JaMlBDcEZU?oc=5",
+     "pubDate": "Tue, 06 Oct 2026 10:34:05 GMT",
+     "source": "Yahoo Finance UK"
+    },
+    {
      "title": "TD Cowen Cuts Parsons (NYSE:PSN) Price Target to $62.00 - MarketBeat",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSk5kajVIQXpHYmlxMHlna3NJNFRTZ3NGeHZCN3NXd2VPb3FPVFhhelFvQ0dfdElXUVlGVkVRQWZfajg2aTdMdDRfRzI5V09tZkxadW5ZTndoTC1tSUVPQV9Wd2RreWlEVm5zckMtUllPTVZ2MFFrTHlNbi15OHh5T2FRMVdQUEJQLUs3R3QyU1B1aUdCUXBZNFg4NGs2WGtmOHVtbG9sdUpOTGJGTXBKU2Vhbw?oc=5",
      "pubDate": "Tue, 06 Oct 2026 15:46:02 GMT",
      "source": "MarketBeat"
-    },
-    {
-     "title": "Parsons Corporation (PSN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QTVpVWFNPWWFLRTRzaUJGd1ZiVHpjeTNtV3pGT19mWDJGdUhudWw2bUJ2bFVaYjVUbHJEQXZzRlAySHdtWE9CckRGSmw3R2lk?oc=5",
-     "pubDate": "Sun, 04 Oct 2026 11:52:52 GMT",
-     "source": "Yahoo! Finance Canada"
     }
    ]
   }
@@ -3514,10 +3397,10 @@ window.DASHBOARD_DATA = {
    "source": "The World Economic Forum"
   },
   {
-   "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 05:00:00 GMT",
-   "source": "Britannica"
+   "title": "October 7 taught Israel a brutal lesson. Egypt is the next test - Ynetnews",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DZklkRGhuY2szbjJWZGRQZjRQQThMR3o5aGdUMXlFd1RVc1l5WWp5bVhuRFZHUEtrQl9JajFCbE10RW1UQ2NZTnprUkpHMDNVNzNBa3gzZWVXbndxMnN6STl3dGpXLXBlT3R3UXln?oc=5",
+   "pubDate": "Wed, 07 Oct 2026 03:07:02 GMT",
+   "source": "Ynetnews"
   },
   {
    "title": "Blood, Bombs & Billions - Tehran Times",
@@ -3544,28 +3427,22 @@ window.DASHBOARD_DATA = {
    "source": "The Source Magazine"
   },
   {
-   "title": "Trump sparks outrage with remarks about LA, San Diego at rally - Ventura County Star",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZk0yS0RPNVNpcTM5dGdwU1dPaVAwUW9sSWJxV29HbzlrRnlsejhUVE0xS0RLRWIyQ2tHeGtWZHhrS2ZGUWhpUzRlWk55dnh5ZTVRTFM4QXJhTTBQSEN6RWhpV1JpbnZ0Y1ItZWFtVTVRLWdPZHptd1VrdmJqTnltbkxZODBQdXp0OHFsM0NjNjVQS1NMMWN6S3AwTXQ5NDhmdHVtc2JTQ3dZRmxqdnVDTUh3UGpsWndVd0ZhaWxhMDM?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 04:14:00 GMT",
-   "source": "Ventura County Star"
-  },
-  {
-   "title": "Beyond victory: Azerbaijan builds a long-term security architecture - Latest news from Azerbaijan",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc3VOSkwxdDlaLWhLVUtIaVZlYnFDVjRsWExMazc1S2J5THlzeEk1UHRqQk5wSUE0T2U3cFl1TGNubllWRjIzQUpsb21PdlpNcnRQR294T0tZeE5lMThIX3lUaU5nWl9pSjY5Um9LTXR4VkExb2xpUWYzcHhnM2IxaXhqc01yNEl5MVhYLWg5YmQ?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 05:59:40 GMT",
-   "source": "Latest news from Azerbaijan"
-  },
-  {
-   "title": "Swiss Franc weakens as US Dollar (USD) gains on escalating geopolitical conflicts | FXStreet - \u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaWmROYmhlVjNkOXJFRGpOcjl3bWwxS1hoTEdELVFRZW9OQ3RrZjVGcGNkeEp6cWluWVg4Rkc3SE1MWWgwZFdOR1hCcDRwNkFON0dF?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 07:31:59 GMT",
-   "source": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629"
+   "title": "Sadyr Japarov addresses world leaders ahead of UN Security Council elections - 24.KG",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1pbmhzNmVvZUVnUnVnUlR2WUFGVEJPUFVFazNha2N4MEl4VXFOdkRTR1AxY1VhbzU1NkFWVDNVUmh5WDNxRmc?oc=5",
+   "pubDate": "Tue, 06 Oct 2026 09:31:35 GMT",
+   "source": "24.KG"
   },
   {
    "title": "Venezuela Airspace Crisis Oct. 6: Airline Rerouting & Miami Hub Pressure - Travel Tourister",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaF9FYXNxV3ZMNy1rMHlFV1pFWV9vLXJuaUEycTFLaG95c2ZYVlRZczdya3hqRXJ6RkNQVGFORHZTRTN5dTNzTGQyOGU2SWRwOFNCS0w0cDBmby1CWmNuclJEN3JOejk3a0tRN2VNeXZVVGN2Vm1wUGV4SzkwUG0zUTNUMzBNeEVZQ3MzMzZDTG1VZVY1VFZtckhlNWRFS0pTMURqbkE5aDRzcF9SdGRNUXdCMEJyR0hPNndCallDcGIzelNSSDFqLTlsQ2hmN1FGWjFOYjJhVTdpdzQ?oc=5",
    "pubDate": "Tue, 06 Oct 2026 10:10:51 GMT",
    "source": "Travel Tourister"
+  },
+  {
+   "title": "OPEC+ Holds November Output Targets Steady Amid Iran War Disruptions - streamlinefeed.co.ke",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ0F5VlJXOXlVVVZycjVHU0NPYlZVXzd4Mkhjby1hcGEybzFudjN6ai1iajcydkNUaldYSl8tdmtLSHp4YW1EYVpQaGZZRnl6VUxuOE9lb1dzTU1ORl92UDFsYi0yYURTeWRIeXR4UUV3QWxSQUo2RzlWT1RVSGtwQTY5aUtIN21EY0RGdC1PdGpOVmZvbVBoeHJNUmtJSlRjS2dz?oc=5",
+   "pubDate": "Wed, 07 Oct 2026 05:43:10 GMT",
+   "source": "streamlinefeed.co.ke"
   },
   {
    "title": "Vitol CEO Warns Western Oil Inventories Exhausted Amid Iran Conflict - https://streamlinefeed.co.ke/",
@@ -3644,10 +3521,16 @@ window.DASHBOARD_DATA = {
    "source": "News 9"
   },
   {
-   "title": "Oklahoma\u2019s aerospace industry grows by $9 billion since 2017 - KOCO",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDNzU1BVWk45V3l2dlhFSlN6cHM1QjFtV0RRSEQtNVJaSXpfekY3ZFpxREExNnEzS1Z6UV9DZmwzSkVuaUNwZ3h0d01ISzdhcG5ERzctQzlKdDJpN0drUUFlVEhJZE1ENHZwWmlEMzBCMkdwM0ZZOTdidmR3aFVGTlM1ekJtSDc0?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 21:09:00 GMT",
-   "source": "KOCO"
+   "title": "Arizona\u2019s aerospace and defense industry pipeline just got longer - KTAR News 92.3 FM",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOEJsNHZ3SmRycmxTVmhjX3FMS2dkdWRKYlFiTXg5eS16YzlDbWdPVGttU1hyMV9zUXFzaWFMUGVVN2hITktpTGhfNWxEMm9JNi1HRFZHNlZvTW5qTWFLQjE3ekZNampVQzRQUVlqYS1FVWZuUGpQODZocHRKYUFaOFNUdi13ZGNhRHVkNnR0ZUYwd0N1VTVnTmZsblpnUWtGQTEyV2Z1ekxzN09yM0FhclZNcnduQUpYdm9pSmJSMEJGZw?oc=5",
+   "pubDate": "Tue, 06 Oct 2026 23:55:57 GMT",
+   "source": "KTAR News 92.3 FM"
+  },
+  {
+   "title": "Oklahoma Aerospace and Defense Continues to Soar - PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGxDWHBVSS1iaDg5NjliOFMzNjE1bEFDYmNFNEpFRkpSWlUya3RmLThtZ2FGUkJtODRNbzdCT2pXSUtDME8wZ1prWjA1LXZ4S25JTDl6RzExbVNycFNuRHA4NjRpdWRsM25PWlIwQjQ4RWZYcVgtOFZKQnZzYTg5c1JsbS1lZ1g3Y0E1SVBlYmxLTVN0ZlpJeUlJR1lHaEVBaTBCRTVIYw?oc=5",
+   "pubDate": "Tue, 06 Oct 2026 21:53:00 GMT",
+   "source": "PR Newswire"
   },
   {
    "title": "Oklahoma aerospace projected to overtake oil and gas as top economic driver - The Oklahoman",
@@ -3656,10 +3539,22 @@ window.DASHBOARD_DATA = {
    "source": "The Oklahoman"
   },
   {
-   "title": "Oklahoma Aerospace and Defense Continues to Soar - Morningstar",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSDNZUzFudUt4WlVrVGlvUDlIaGVHZTJiZTRreFdBdlE2a3B6VFowWFJPM0NaYkc2dk90Rml4dW5kOU0tZWlaRkVTVHVTUWJUa3huak55T19yaGJ0NVpDYkFOanB0ZlFxYmZoY2xrVktUS2xsbEdpU254VUF1VlhjYndGZmNsME1OdzA2M25oeFIyX1k2dGw1RlptY2RYajNrVXRLWjVUUG1uUmZ3OEE?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 21:53:00 GMT",
-   "source": "Morningstar"
+   "title": "Oklahoma\u2019s aerospace industry grows by $9 billion since 2017 - KOCO",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSDNzU1BVWk45V3l2dlhFSlN6cHM1QjFtV0RRSEQtNVJaSXpfekY3ZFpxREExNnEzS1Z6UV9DZmwzSkVuaUNwZ3h0d01ISzdhcG5ERzctQzlKdDJpN0drUUFlVEhJZE1ENHZwWmlEMzBCMkdwM0ZZOTdidmR3aFVGTlM1ekJtSDc0?oc=5",
+   "pubDate": "Tue, 06 Oct 2026 22:17:00 GMT",
+   "source": "KOCO"
+  },
+  {
+   "title": "Textron: Balanced Aerospace And Defense Growth Backed By Record Backlog And Capital Discipline - Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVGRpSmRic0FxcmxFRGt5RkdlSVkzVHBPZHR1SUxVTlg3OXNjWm9Cc1NxN3Y1QUxnSVRKYWlCY0JqQ0s2LS11ajl1VlpZdVRONl9USXpmd3pSa0JTS2RaX05YX2k0RE9uaTc4Q2lTSmJnX2tHRFFNODJJazBDLVJ2dnI3QWQzNEphWlg0OC1zZklpVFVBMWFlSjVYXzVQeWwwVjhEamlvNDY1YjZIZHAxRzVZQURQc0dERm45cTR6QWhqZ1R6Wk5UUmo0Vk56UUk?oc=5",
+   "pubDate": "Wed, 07 Oct 2026 07:48:50 GMT",
+   "source": "Seeking Alpha"
+  },
+  {
+   "title": "Australian Defense and Aerospace Contractor Advanced Composite Structures Picks Arlington for U.S. HQ - Dallas Innovates",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRFpYNFVCMXdSdjRROTQzbnNrMU9jX28yQ24tX2J3NGNqTkM2V29hTlh4QmZPeFB0Um16X2xvOFM2elZPRDJGYkZIa1Q5Um1zM3VtWTRuakRFa05sLUluSEJmaTRMS01ET0V1c3ZGdFFaTW9FcXR5Ti1JYzhEd3hOeUpUdmhBZkNzazhtOURKTzF3YzdEdVA5WkNMRDdQNXNtZXRxY0pkM1JaeUFrR3Q5LWJHTGExaXh5N0Z3cGJINWtLcWRyXy0xOA?oc=5",
+   "pubDate": "Tue, 06 Oct 2026 22:41:59 GMT",
+   "source": "Dallas Innovates"
   },
   {
    "title": "Booming aerospace industry in Oklahoma\u2014new report - Oklahoma Energy Today",
@@ -3668,37 +3563,25 @@ window.DASHBOARD_DATA = {
    "source": "Oklahoma Energy Today"
   },
   {
-   "title": "Australian Defense and Aerospace Contractor Advanced Composite Structures Picks Arlington for U.S. HQ - Dallas Innovates",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRFpYNFVCMXdSdjRROTQzbnNrMU9jX28yQ24tX2J3NGNqTkM2V29hTlh4QmZPeFB0Um16X2xvOFM2elZPRDJGYkZIa1Q5Um1zM3VtWTRuakRFa05sLUluSEJmaTRMS01ET0V1c3ZGdFFaTW9FcXR5Ti1JYzhEd3hOeUpUdmhBZkNzazhtOURKTzF3YzdEdVA5WkNMRDdQNXNtZXRxY0pkM1JaeUFrR3Q5LWJHTGExaXh5N0Z3cGJINWtLcWRyXy0xOA?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 22:37:04 GMT",
-   "source": "Dallas Innovates"
-  },
-  {
-   "title": "Oklahoma\u2019s aerospace industry hits $52.5 billion - KFOR",
+   "title": "Oklahoma\u2019s aerospace industry hits $52.5 billion - KFOR.com",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMTItVGV2STdzcjdMSWdDMGFDdHdtWVRYQkZ2aEZhSXA4MTh0Y1N2QTFzbzBHc1pQQkhiZnNlUHFIYV80UnhBTDNqOHVoZUlCRzFwNm9fdmpmVEI0M20tLUI4VVBXZ25ZeTRvU19VNVh5c21RazZaeGEweXh3ZVNaSdIBhgFBVV95cUxNb2o5TGVXaGVTeU40MzZPQkJ6VWk1Nkg4N3c2bGJraVZfSldLLUZvd002aDJON3RkTXdyQWg4Z2ZTUW5mTTdPX1B5akw4MlF4SUZOSk9KeUN1aDl0dmJ2VXBUdFM2Y0pmc3hVNVpoQjVzREl5QVFkMFEwVXNSMmZZbm1NV3NzZw?oc=5",
    "pubDate": "Tue, 06 Oct 2026 22:03:48 GMT",
-   "source": "KFOR"
-  },
-  {
-   "title": "Colorado Springs joins local leaders in Alabama to support aerospace, defense industry - KRDO",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUDUwQ2YtOXFuTzVKN1RpTGhnNGVDWERheV9qN3lKcm84SzlhcWJTeEZKOHpmWEpsTndLS1V2QVgtbHpGd1ZHYnpoQTJhRXBwU04wSlNTZ0k3TGpHMXJLVmlCWUI5VmxYcEQydWFmSl9JOFRpQmptaVNUWXcxYTJieGs3SGJQQQ?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 04:47:18 GMT",
-   "source": "KRDO"
+   "source": "KFOR.com"
   },
   {
    "title": "TECH DAY 2026: AI, Aerospace & Defense in LA - Los Angeles Times",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsOGtPU1RndzdYdGVvc3ltY3VrVkcwTVZYQ2FTaERjY3ZmdFFTMHhYRllISk82aU1TVllIaHExSXBtYzFEbkQyR0hqdGxqSE40QmRkWmx3?oc=5",
    "pubDate": "Tue, 06 Oct 2026 20:10:30 GMT",
    "source": "Los Angeles Times"
-  },
-  {
-   "title": "Aerospace & Defense Future48 Workforce Accelerator Grand Opening - Arizona Commerce Authority",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPODVMbWhuR0RsaXA5anBOcXJUSGV2WkRRMDFCOVpDanN2VEpUMHpQSzk4LU9mTWJDRUE1NDFTSzdOZFdfT3ZzM1U1Q2Rkb2lMQXJzOEc1aTA2OUxHWV91cGpaQnVMNTlZVlNSVmdXS0JBZFZVVDNyblpNMXBWekhwZXFtd01IMzdETEZRa3dGcVNVRE1CN0FvTXpMd2wzVGRLZVZMOFlYMnZyMnNYOEhQTnVMRUUwdw?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 19:45:05 GMT",
-   "source": "Arizona Commerce Authority"
   }
  ],
  "industrialsNews": [
+  {
+   "title": "German Industrial Output Rebounds at Strongest Pace Since Early 2025 - WSJ",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHhBSUs0enRTWUQyZ3JxdzlmdUFkN1hHSTNINmJQQzl2cUJVWEE5RkMtUm9wRDNPLWJTRUlnTzgybkw3UTdqVXRhdkFqaklDdDc4WThmbDdWRTNEVUlxa25JSzYtQlk3S2RaaGtobnc3bUQxNXFjZGNNU3BncUVwRG4walJsc3dWTlFrLVlOeEpVbjlWZ0ZrS1JhMktibzN6RTBuazFOc1hESXlFd0RJ?oc=5",
+   "pubDate": "Wed, 07 Oct 2026 07:13:00 GMT",
+   "source": "WSJ"
+  },
   {
    "title": "Electronics leads Mexican manufacturing - MEXICONOW",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KQjVrSTFyZHlwQVBLdGc4bF9RTWlUNjJsdlZpbkZIRXgzWWlDdklUSHQ3bVFSdVo4SktWa1FXNnVtT2xGbTdlMGlDeENaNVpsbk9MMkhCTnRlQUVudHAxNGlYQ09qdGRObGVSbVlBS00?oc=5",
@@ -3706,16 +3589,10 @@ window.DASHBOARD_DATA = {
    "source": "MEXICONOW"
   },
   {
-   "title": "German industrial orders slump as large contracts dry up - Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMVR0aUJiNTJPSGx5bHAyUVI2ZDZUd0VucWN6dlg4MDR3SzRfMnBKa1VaSDNTSi0zY081UFVuWUg1YVJNQ0diMVVsUkZvcF9qZ0VEdGFJSGNZQW1ERlNmbzdHRU5vSk96VFRmR2pQYnItaThRZnVuTWhMTmVjMnNfZTFVVXlNYTVaUHJnOVVfbEhpbTQ1N0xiNUpJVTYwd0lLZ3c?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 06:05:00 GMT",
-   "source": "Reuters"
-  },
-  {
-   "title": "Anduril, U.S. Navy Invest $6.6 Billion to Expand America's Submarine Industrial Base - Anduril",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGpaSXlGbjRUMzhUOHZHcF80Rmg1QkJXWUFQSW82LWJ6Ni14RVl5c1RqaWhkUFUxS3BVOVBjYXJxTVFqa3MzWWR6aVVaSVIyWkt6Z3Yzajk5VU1ISDVYRXlFbzFPUmJFZVV2cGVNUGFFdE5MQm1Wd1NmY1lSWUNpR0dfOHhPVVlTRTVGR1htOE5WTzdFZUQzclo4WnowVi1uUW4yNjB2U1cwY1VEeV9WelV1NA?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 20:30:06 GMT",
-   "source": "Anduril"
+   "title": "German industrial production rises more than expected in August - Sharecast.com",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObVFWSFBIcDRqd2dKRG5ZOVpZNlJfS1FCTjRVbG9qQi05bFpzQ0NSS2txSnR3YjNqSDl0cUVVRTZDeDhud19xODBMcS0wRjlqTmwweFdxbkFkeDlkRE52RUg5Mm02R2o2R0xmdDZjX1VUVkN2UEpOZGtaY19vVlVrUkJsbDlSYnBXcmQ5enJiZE9WeEFuQlFMSkZCallEbTJmYzdqcG95Rmc1dnhfLU9nc0ktbS1HQzlYRF9VOGUta0Y5dDllWUptcFVMUDfSAdIBQVVfeXFMTUhsb0xXUDhxNlJZNFhWNHJfVTB3RVloSUhOQTVpSnZ4OTNLcGtyR192bTNKY1NHRWZ4c2RxOHdEeWMtS3hHSlRwR0FqdnRFbnM1X0otSlpqam40TDJ5d1hQd0NMSEhpM2tlUUdHNWRIRFJQbEprSGpiNnc1RnJYRUpIbUNEb1V2a01pTUwteU5TY3h2eTNtc0xuOGFNZDJmMnYycVpQWTctckhpMHE0YnNvTTNyMHoyWk5CbWxDbXF6NTBYbGR6WXFmckdHYTZZSjN3?oc=5",
+   "pubDate": "Wed, 07 Oct 2026 06:47:37 GMT",
+   "source": "Sharecast.com"
   },
   {
    "title": "37.5-percent Growth in $100M New Industrial Planned Projects MoM for September 2026 - Send2Press",
@@ -3724,28 +3601,28 @@ window.DASHBOARD_DATA = {
    "source": "Send2Press"
   },
   {
-   "title": "Industrial weakness increases the risk of stagnation in France - ING Think",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWGcxUlZSYUJ4WncwN2JWT1VOeTU5d1M2aEtmS1JIRklTUndZalEtWVp2b1pWWE96X2p1ejdGTEFFUjNSZF8wZjdrLVJRSWhpU1h4aHRJTGVURHVXYTJNZGZXcVNlNHJOcHRRNmpZX1ZGR0ZJQW1iVWx2VEJKTjlKY2pDS2xlM3VkSWxsUXpvcGVHS2lDRmc?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 08:54:22 GMT",
-   "source": "ING Think"
-  },
-  {
-   "title": "37.5-percent Growth in $100M New Industrial Planned Projects MoM for September 2026 - Ottumwa Courier",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZnZQYWIyaDIwc1FEWVdnQmVwOEZLU1J0ZE9ONTNCX3E3Q196anE5eThqRmxwaDlFek9uYjhMVS11SHF0bUUwN0xlQWdtWUdfZjRWZ1ZfRFd4WVd5b3RRM1V2bnpDR2E4VDFrUHp0T2dFNWRidGdyTWFiYk5yMTFia09wQ1lUYnR0ZkFueWFXY3EwRlZvaVBmRTRhaUNBeWNRWl9BZlg3U1dmc0tkLWVWb2ZIcmI0eDJ6Yi1keG5ZRXRKaFJwakd1R0lNZUI1M2ZvamZlWHpnSnpHcDVIaGtDOTJGdFVoVHBFZG9iaVdyYXlOdnFqZVRVZmZETmk3bWhCWG9GWVBNRVBFcjU3cDlr?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 12:08:31 GMT",
-   "source": "Ottumwa Courier"
-  },
-  {
-   "title": "META_TITLE_SECTORS - Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xaUI0VGVJZjVZc3ZkOGRhUURTbXE4Z0d0T3IxTjFXWTM4LWZicHA1el9oWENqWVVwNGcxbmNCS1VkZmxPRTd4dmhZcWo0ZVM0MlNjR0VvMHFhcEdmVGZQN2JrYnV5X01NMDFCMTNIbTEycmxpMHNidHJhZnBzUQ?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 10:16:50 GMT",
-   "source": "Yahoo Finance"
-  },
-  {
    "title": "6 Best Drone Stocks for 2026 and How to Invest - The Motley Fool",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWt5Z0s0MGJCTG1OS1FTUVM1MHFmSDl3VU54SlRzSHlka2JCb0RIQ1dBMUx0enVybDZ1ZTRQVlA4YWY5emEyT3o3am1oUjJfSVRVeV85VUJQQkRQVFVJTUI2WFdYd0JFUGFMdFFsZENlZ1FDNXppSklULTFMMmJ4ZE5RQnk2aTdfb1owTQ?oc=5",
    "pubDate": "Tue, 06 Oct 2026 15:34:00 GMT",
    "source": "The Motley Fool"
+  },
+  {
+   "title": "Magma Bags \u20b9800 Crore Worth Industrial Solutions Orders - Chemical Industry Digest",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdk5jWXloSVRpSzBpNExFcDQyX3Q0ajF2S2JfOHVfVjJUZ0ZfZkd1Si1yOGhQZWJMX2xJdG5iVEhqX0Uwdl9Jd0tzOHo4eklPUU83b1haQmFGRFEwN2VHdGlfVXVRX0NnWHQ1WU5QVjdvTjlJd2d3U1M1TlVpdmZZR1l4cXpaZW5uUmhaMjNBYlJfWWs?oc=5",
+   "pubDate": "Wed, 07 Oct 2026 06:46:33 GMT",
+   "source": "Chemical Industry Digest"
+  },
+  {
+   "title": "Tinubu assures manufacturers of Nigeria Industrial Policy implementation - Peoples Gazette Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTl9qWDM0Y2NkTmluR29QMlA3LXJFbzg4YjdJc1plbC0ySXZDUHFiLWFCQVcxalplczljV1ZacHJMUWpPLXhpVXhmWndncWlmcHpRN052Sy1KeGNSeF9HNzBuSjZkQ2g2MF9FdnZWNkh6VkpScDg0WkZ4ekFYMGhhTFIyTWowaG84a3pQallYdGVtX1JhQWI0QVYwMUY?oc=5",
+   "pubDate": "Tue, 06 Oct 2026 22:00:39 GMT",
+   "source": "Peoples Gazette Nigeria"
+  },
+  {
+   "title": "New value chains from two industrial \u2013 renewable energy centres - Vietnam+ (VietnamPlus)",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2lMWUZBZmZiN0NzNEVFR3VWb2JmUVMzaThxOThid2w2UloxQU14Q2NlMDQ0d3cxLUtCb0Z3SnVEQWd0X2NVcmlIaS1kUzVPMjBXcnF6TjRVcmFIcmhnajQ4WEVSaVZsYllCT252Z045eVZNa1NteDZJb1BSb0tGS2p6WnRaWTNmREoyV251czNwNmRGcjcwTlRCR3U2N19oUmtWXw?oc=5",
+   "pubDate": "Wed, 07 Oct 2026 02:52:37 GMT",
+   "source": "Vietnam+ (VietnamPlus)"
   }
  ],
  "contractNews": [
@@ -3762,6 +3639,12 @@ window.DASHBOARD_DATA = {
    "source": "Investor's Business Daily"
   },
   {
+   "title": "Anduril Scores $2.9B Navy Contract in Defense Tech Surge - The Tech Buzz",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0tqclNYVV9BNXBWNVo2amNVS3Z3MjMzZE9yUUpjc1M1RGpDUjhMeHRDcXRhYzU1ZDg2c1pBcG1aaUl6ME10eW9VUU8tRDM2cVZvS212bHFESUZyTXFxVWhkNWY0Um91REo4cWV5SFVBVWZPUUFyMWFGOGVDcHFxdzNsYlNBN1hGUlpEYzFvZHFMUQ?oc=5",
+   "pubDate": "Tue, 06 Oct 2026 21:09:00 GMT",
+   "source": "The Tech Buzz"
+  },
+  {
    "title": "New Maryland defense shipyard gets $6.6 billion commitment and Trump visit - Reuters",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTnNtRWdSbGZ1VU9sbXBXSXlLMWQ1MmJWbjRNYllDdHhNQzFpdzdidnZBRGJhX0ZnWkJoRE1lX25lVE12dUw3cTZpV1luazdEc3MxSE81a1QwV05EUFBnWGNnMFFYQmR6R1hDSXNYV3FLZ0puTzNablBCRUlKOXZ3d1FyVm1FSldOT1VuaGZ0azAwcnk0aW1HRUhVNzZCY3RGRlE4ekwyM0VoZzBreFRrTmZVc3RkQWM3N2w4NUNsUURZUmc?oc=5",
    "pubDate": "Tue, 06 Oct 2026 13:10:00 GMT",
@@ -3774,34 +3657,16 @@ window.DASHBOARD_DATA = {
    "source": "CNBC"
   },
   {
-   "title": "Detroit Defense Secures Army Vehicle Sustainment Contract - ExecutiveBiz",
+   "title": "Detroit Defense Receives Army Contract for Vehicle Predictive Sustainment Effort at Fort Hood - ExecutiveBiz",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSVFPUnk2TG1iak4xbGJRejVYY1dGTTJXUGV6SmRnNGttVkFrZFZqaXNacGdHSzE3Yjd4YXRBb1FqdlU0X2c1eWNsSGhOOGhiN3QwMnNyRUpZM0pkNWhBUkdkX2x2WUoxWmdnRGNqWTBqX2xfX3ZZTHNiX0xCS05jRTBvd05VeHhQSW1vdHJ5RFpvcGhaMWc?oc=5",
    "pubDate": "Tue, 06 Oct 2026 15:38:38 GMT",
    "source": "ExecutiveBiz"
-  },
-  {
-   "title": "Anduril Secures $2.9B Navy Submarine Contract - The Tech Buzz",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUFhHZzMzYnQ4ZWJ6NXRlcm5PUU9EWmZhLWVKSTBDWDJWSnZxdlU5SG9BTlI0YmZ3UWdvcklOX2s0VzRfRjQ3bi1BWDA0a3lCTktUdDQyT0dONnNmRjRRcXJZS2Z1NHB2UEJDV1dIS0xFU005LTJNZDM2bkpvYmRWeTh5VQ?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 20:08:00 GMT",
-   "source": "The Tech Buzz"
   },
   {
    "title": "Defense Speak Interpreted: The Impact of Venture Capital-backed Defense Contractor Firms - I-Connect007",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRlFqaXNic09FM19JOVVLX0xyc214ckQ4MFphNzZSVWx4VTJGRmpJYmszMlprLWQ1dkdLNV9YOE1SbmZWUDZ1bTJPVlhaUlpkQ2RDbVl1NGFtX1pEbFR6RVFRdkdpZFRPbUplWTF0TkxjaVNKMS1mRUVibGQ1aXluM0ktSHFVWF9mdnNIYlRMNE1FX2ljT0dNSXNkU3lWSThyWjZkWnJrNGNLXzhCZ2ZRT2JYcGhZU1RKU0ZGaDYwaEc5RTZ2bWwtWE5yeVl6NGNKTEltVWZtbw?oc=5",
    "pubDate": "Tue, 06 Oct 2026 14:01:38 GMT",
    "source": "I-Connect007"
-  },
-  {
-   "title": "Anduril won a $2.9 billion Navy contract to build submarine parts in Maryland - Quartz",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EQ0xkU2VnV2hVdFJMeHNBWTEwdlYyRWhObVpEUEpZNlNGaDhGOUdTb3lZbU50aUlucU5iU1lCdnJmN2Ezd003VkVLdjVOZ1FxWkFRZnFFRmR1dFlwYUFBMW1qZmZ6VWxtTldvelFfcUhwU2F5aFRkSzJDNGY?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 13:22:11 GMT",
-   "source": "Quartz"
-  },
-  {
-   "title": "Kymeta Awarded U.S. DoD Development Contract to Turn Osprey\u2122 u8 Antenna Into Multi-Mission Edge Platform - GlobeNewswire",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQR2tQR2tPcktVQ0ZYOGpwSlJoRkJIV01HNS1fTklJeFZRc3gxRUYyM09MenlEZWdob042U0dSOTZzcGV6cW9mQ2lYRUVuaG91cHdtZEtFaWNfOGZQdHhHMFpOcTJFTnd5WWNkQmJVeTNYU0VHQ0pXaTkxOWZvSm5WQjZPN3M4REx6VkdleFhhUDg1VHhINVl5M0hIcW01Mk5nbDRLUGtIOFBFSVdwWDNkWTZ2WERXLUZYdWhJNWNuQVRBc0R0QjZTR242S1lTTWIyY0RmeGRSMUwyOUJuUVBOVlRqNnJnWnI1QWQ2X1psRF9yeTdJQlozRGRwZFNNcXFzS2g3Zw?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 13:00:00 GMT",
-   "source": "GlobeNewswire"
   },
   {
    "title": "Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries - NPR",
@@ -3816,10 +3681,22 @@ window.DASHBOARD_DATA = {
    "source": "Newswire.com"
   },
   {
-   "title": "Trump to Announce Investment in Maryland Submarine Facility - The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLTk4TGlxNEFwZVNJTlg1Y3lmZl9JSDdJYS0yUEhEeDFhY3JIVTJiMGdNSHRicHRHS3Zac0N1amxwZF9IdzdPYTdybDJmaDJJelRoWjZGcHAzSzBNclJnR1J5SDc3MzYzNUxtTURtdmgtNjJVRDJtS1BIRXAwQ3cwekd1S2ZqTG5iZDJLSjdxVkhWTHVnLVZMUEh1UEtlaDdhZ1B0NmNn?oc=5",
-   "pubDate": "Tue, 06 Oct 2026 19:01:44 GMT",
-   "source": "The New York Times"
+   "title": "Anduril won a $2.9 billion Navy contract to build submarine parts in Maryland - Quartz",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EQ0xkU2VnV2hVdFJMeHNBWTEwdlYyRWhObVpEUEpZNlNGaDhGOUdTb3lZbU50aUlucU5iU1lCdnJmN2Ezd003VkVLdjVOZ1FxWkFRZnFFRmR1dFlwYUFBMW1qZmZ6VWxtTldvelFfcUhwU2F5aFRkSzJDNGY?oc=5",
+   "pubDate": "Tue, 06 Oct 2026 13:22:11 GMT",
+   "source": "Quartz"
+  },
+  {
+   "title": "Anduril, US Navy invest $6.6 billion to boost submarine parts production - Defense News",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1l2SnlodTdSTlR5YS0wTENhZjNLTmJpOWthdlFLaUM2VFJSdlM0ajUzcFExSnZJN3l3cTRkM2xOX3lsZ01qTDFXT1JjT3dhSE9YS084QVJmLVpuRVFzTkdQM0twbkpwRlVLeldqaDJtc3pkbFk2blpFNGtfeXJ3RUs4R045V3pXMFNwcEhyaEY1YnZGSHR5NkFIV3NCT3kxQ1lrcFNoZWxOTEktb1pjeDRvTWlDODBxcDhWSzFkbmlXZVM5Zmhj?oc=5",
+   "pubDate": "Tue, 06 Oct 2026 14:15:29 GMT",
+   "source": "Defense News"
+  },
+  {
+   "title": "Metallus Secures $995M Pentagon Deal to Boost US Military Steel Supply - The Defense Post",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CTmltYlF5Y2lBeFpFUnN4dnlfNV9MUVQ4N2dRZ25STko4eU14MEZqUmZCbFpxU3JtWWNkLTRDX0tCa2tidnEtdzJPTmRxa2VMc2lrd3YtaE5pSnJ5c0hJcGQ0VmZzb3oxTXRGTlEtU3Y1bVlMVXVVb9IBfkFVX3lxTE1fbDJVV0lsZ3llOFZiWGdydkJQNVViMnBTRU1zdGRCcHhqN2Q5NHRDZ2t5WVdpS0RFUFlvQ0VaSkpkMjRpTVlOdGdudUhKdjhvNVBLYzg3WEo2N0JMMlI5Q19ONjQ0dU1fTWUwVlhFWF80SnM2VzBEQktWaG5IQQ?oc=5",
+   "pubDate": "Mon, 05 Oct 2026 21:44:05 GMT",
+   "source": "The Defense Post"
   }
  ],
  "sdaNews": [
@@ -3848,16 +3725,16 @@ window.DASHBOARD_DATA = {
    "source": "Space Development Agency (SDA) (.mil)"
   },
   {
-   "title": "Space Development Agency Aims for Two More Launches This Year - Air & Space Forces Magazine",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQanVYU0pKMmFMbFBjdFVaa3haYTR5dlY3QTRjZEhqVDR0MVNaWS1UQXNkdDBMMzFpZ2ZuT1RWQ2lMRi1pdkd1YlVBMWt5U0Nta1ItbzRoM2pxX1l6RDdzeWJidGxjaDBqVjZRZFlTanp0Z2tsb2Q3WnkzQzJDdmItdzlwOGd4cHpmcWc?oc=5",
-   "pubDate": "Wed, 16 Sep 2026 07:00:00 GMT",
-   "source": "Air & Space Forces Magazine"
-  },
-  {
    "title": "AFA NEWS: First Tranche of Space Development Agency's Missile Tracking Constellation Nearly Complete - National Defense Magazine",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMnhNamlST3FVUzJWRWNzQU42TTdETVlmVktPMzc1Z3VqaDBFSEFGOW5zSGJOWXoxcHg5OUFvbHVPSXc3VXN0bUZ0OGxNM2dHVTFvZzRiTUNnSEViTmwxRmJkSjB3WlM3dklkYjhfNnBmSWJiUDdOZDRTdk56YVVLNTUyNVVvSHZ2TGphSUV1dmh5RHl0dU92cXFIa1pvZzdBYTVEZGFzN3RtZFVuM1RIOGJmWHR4YU5MODlWdGg2VG9DZTRmaGtjb2tpaEI3NWNkeGF5Z3BiUzdNZGdxdVUxazVVNkFBMC12Q3FkUEhIdw?oc=5",
    "pubDate": "Tue, 15 Sep 2026 07:00:00 GMT",
    "source": "National Defense Magazine"
+  },
+  {
+   "title": "Space Development Agency Aims for Two More Launches This Year - Air & Space Forces Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQanVYU0pKMmFMbFBjdFVaa3haYTR5dlY3QTRjZEhqVDR0MVNaWS1UQXNkdDBMMzFpZ2ZuT1RWQ2lMRi1pdkd1YlVBMWt5U0Nta1ItbzRoM2pxX1l6RDdzeWJidGxjaDBqVjZRZFlTanp0Z2tsb2Q3WnkzQzJDdmItdzlwOGd4cHpmcWc?oc=5",
+   "pubDate": "Wed, 16 Sep 2026 07:00:00 GMT",
+   "source": "Air & Space Forces Magazine"
   },
   {
    "title": "L3Harris Completes Preliminary Design Review for SDA Tranche 3 Missile Tracking Satellites - L3Harris\u00ae Fast. Forward.",
@@ -3866,36 +3743,24 @@ window.DASHBOARD_DATA = {
    "source": "L3Harris\u00ae Fast. Forward."
   },
   {
-   "title": "Space Development Agency Issues $369 Million Solicitation for Global Missile Tracking Ground Entry Points - SatNews Publishers",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZzVCbFIyM19HMXowYVJzdnRXLU5ZU190dXg0SktGX1FoS3dOcU5CWEhYcGlhV2VuVTR4WFQzdm9HRmpvUTdnbE9SMFFVSENFSHFpb3NZX0Z5dEhRRXVkcjgwUlUtU0haU21uQXY3eWtnc2RYUlhyWjFNTmlFeUxIR0t6ZGI3VVFFRWdKWFpDVmFZNzhFTDhzbEtJenRhaE9iWkRROE9LblVXWTZ0MmYxcUt5UFE5Qy14VG9UTjBvVnlsTFEzZWRXZlBCZVJocjh3WHc?oc=5",
-   "pubDate": "Tue, 22 Sep 2026 19:21:03 GMT",
-   "source": "SatNews Publishers"
+   "title": "SDA\u2019s Fourth Tranche 1 Mission - SpaceX",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XbnVpODR4eS1keE1WaDNVU1hmQ2N4YnY3eWdCcW1KSWM4dk5KSWFscDk0eERzQ0ZnXzlhSTBZbkZtbS1uM2V1VVdGUTNGNjhHZXhVNQ?oc=5",
+   "pubDate": "Thu, 01 Oct 2026 17:45:57 GMT",
+   "source": "SpaceX"
   }
  ],
  "ipoNews": [
   {
-   "title": "7 Best Defense Stocks to Buy Now | Investing - U.S. News Money",
+   "title": "7 Best Defense Stocks to Buy Now | Investing - U.S. News - Money",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5NXdkOHFBUzZuVUo4TmZrb0F2Yng4VGExSlVZa3BUMzFyOU1lVl9Gc0l5SUxzUmpnbllaOTViRnZfWGxxNm00Q3RLODhCMjFRRVR4Y1pvMUVLNVE2VF9IRDdGb2JfYWh6cE4xUHg4c0hYNUdyb1ZLUk5CSWhibXc?oc=5",
    "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
-   "source": "U.S. News Money"
+   "source": "U.S. News - Money"
   },
   {
    "title": "Defense tech firm REDLattice strikes SPAC deal to go public in US - Reuters",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVU5rdmJEUjY4cW1wQWFtam9TQVNIckNodHdCWE8yaERZLUFUWGNGMXp6QVhKVHJLQjBUSnE0TTlURmVwUWliYnBseXZfMnowTmp6Q0RvU3p3ckEwZE1KZ2UwNkdCS3hUallOVVU5OUl4SXJjemswanM3WXVkVHR2NEV5VloxQmJ6R2tDUWxrajNHZVRCLVpGRWtPNGRKY09tLWdjR1VCUm92S01UdkdvVlVGQ1FyUQ?oc=5",
    "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
    "source": "Reuters"
-  },
-  {
-   "title": "Powerus Set to Complete Merger and Become Nasdaq-Listed Drone Company - Dronelife",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWcG83Qi1LaVdZQ3E1T1ZsdkF6WDRxcFUtbW02UDVEZEFLbjQzZVdmQXRZclFjV0hVc0RsTkR1WTRnV05xdVRWWHpKZ25ZV1k5cE1CaG1sSHlzSnVMT0d6bjIxaVZqbVY3Mm15bTJYbFRQY3pfb29faA?oc=5",
-   "pubDate": "Wed, 30 Sep 2026 17:45:35 GMT",
-   "source": "Dronelife"
-  },
-  {
-   "title": "Finnish Drone Group Sensofusion Seeks $344 Million in Helsinki IPO - WSJ",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUwwVHVtRWlhMkk0Q3RmeTdaNGc2RFlxcmpTVUwzNlVxSS1GTkQzbGVQbWM4TlZoeEo0Z1QzTGhuSDNXSDAzMWNlUjV6RUk3NHpKTUtoMmdSRFdWTmVKaHBsTjByUmRBc1hzTjZjdkprWDl2WmdfemROc1lMcURzek5CNzBDLXFfd3hYazd1UmthdVJRZHVlTlRQM1U2QzBiTFpBV1RCQjRzZkRBZlNB?oc=5",
-   "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT",
-   "source": "WSJ"
   },
   {
    "title": "IAI: No longer just platforms, but integrated solutions - The Jerusalem Post",
@@ -3910,16 +3775,22 @@ window.DASHBOARD_DATA = {
    "source": "IPO Edge"
   },
   {
-   "title": "Applied Aerospace & Defense: Selloff Puts The Stock In A Buy Range - Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVJ5LWgxOUwtYmdMVU5tSnI2VG9DdFNUZnRIM3B1RWhVUjdzRFdEcVV0aVRPNzE2Z3NtTHpZODJpWm9CZ09jMDlyNzMtRG9VQVNPMktTYUhEejJ3VVRjTGtMMXd1UWNZMXlaZlhJZkYxR0FFUGF6cU9RZVJId2NtZjlFcVBsdjFnaldwczgwU0ZGaWowQl9lZlRTeDZDLXBaUW4tbA?oc=5",
-   "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT",
-   "source": "Seeking Alpha"
+   "title": "SpaceX boosted revenue but isn't profitable, first-ever earnings report shows - ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMGl3bVhNVVpvSnhTTzFheWFsSkJqWkJsVEgtMUlBZjBJWkk2X19OS2JEY0tKdDFfMjRpUS14cDhCTG5nQVlIc09UMXlneXNka2tKcGUxbmxBdU90b3Nsc2ZmdExmbjN1aTFnYkVDMy1lOTFmWk9iQ1VnaGZCYXp0ajNPX0FjWGhoWkhhVmNGcTY0NmtUXzZEVzVyTkQ3UzjSAaQBQVVfeXFMTUI4dXF2UzNpRThfT00wMW04Vm5IZFlLeUlMdlU2WUtnWWllSG5neTM3SnhTRVFLSGttOW9pQ1NmSm1VRVpXNzlFLW5XSE9ySEl3alBUZGxQTzNPUldHY0hNczJ4Z2JfbnAwVV9EdzVnYlNBLVhQNHU3ako2WmowWTZDUUQ4VFM4OUh3V2lqdlRUcHRlX0h5bThPUGhzdlA5d0NGMmY?oc=5",
+   "pubDate": "Tue, 06 Oct 2026 01:28:23 GMT",
+   "source": "ABC News - Breaking News, Latest News and Videos"
   },
   {
    "title": "3 Defense Stocks That Are Starting October Below Their 52-Week Highs - 24/7 Wall St.",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYmF5aGMzQ1NYRHFLaWRKVXBLT19aV3JHSDNKTjE1aV9WSEowN3B2TEFZNWFZZW5uY25TOFRpLVBqRWRxRGxPeWhHZVhLQjVURVRvNkRLVGc0M29FVnEzTGdKNElFemZEelhpTGNtd2JpUHJTZm0teE53ejFheEpyeGVKeVFPY1VzWGd0X2tlTjViakFwWXdDdTdtbHJGbEZFd0FlREVUV1VPQmtnUDVCVFRB?oc=5",
    "pubDate": "Fri, 02 Oct 2026 11:30:00 GMT",
    "source": "24/7 Wall St."
+  },
+  {
+   "title": "Applied Aerospace & Defense: Selloff Puts The Stock In A Buy Range - Seeking Alpha",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaVJ5LWgxOUwtYmdMVU5tSnI2VG9DdFNUZnRIM3B1RWhVUjdzRFdEcVV0aVRPNzE2Z3NtTHpZODJpWm9CZ09jMDlyNzMtRG9VQVNPMktTYUhEejJ3VVRjTGtMMXd1UWNZMXlaZlhJZkYxR0FFUGF6cU9RZVJId2NtZjlFcVBsdjFnaldwczgwU0ZGaWowQl9lZlRTeDZDLXBaUW4tbA?oc=5",
+   "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT",
+   "source": "Seeking Alpha"
   },
   {
    "title": "\u200bDuksan Navcours Lists on KOSDAQ, Expands Defense and Aerospace Business - THE ELEC, Korea Electronics Industry Media",
@@ -3932,6 +3803,12 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNmhtOEd3eXVkZEZYQzZoRG1YZkIxNG1nRW9kWVpnVVpHMjVYdUwyN3NRQ2Z4dEtLZFhTVVVIZkNXQVNlcGJQdU1yeGh3VHdyM0tCOFlhazRDT3ktRUhubXFpZEozVzdSY3l5VmJVUm5hZzM4YlFBUXNoSzdyc2ctTGxFb0ZMSVU4Z2FoNk55VkRfb2RQZy1lWEJfVnAzdw?oc=5",
    "pubDate": "Wed, 07 Oct 2026 01:11:58 GMT",
    "source": "Dealroom"
+  },
+  {
+   "title": "How to Buy SpaceX Stock (SPCX) in 2026 - The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWVlkQ1JxWVFwaWJlUDVEV3RUcWNua2hMcnNmZi1fbnAyYzI1akEtY2pETGYwRzI3eEpfSlRmWTFzUGFaMzdzRV8wZC0wWTVTc3J1ZDk2eHdad3IzUl9SejBhcld0SDhLM0NYTHk5cktQU3Z0ZS1sMm5GVWJKa1VSbWRBV1pWQlJRQWc?oc=5",
+   "pubDate": "Mon, 05 Oct 2026 18:58:00 GMT",
+   "source": "The Motley Fool"
   }
  ],
  "dodAwards": [
