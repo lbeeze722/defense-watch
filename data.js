@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-08T20:21:06.381659+00:00",
+ "generatedAt": "2026-10-08T20:26:42.611137+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -238,7 +238,7 @@ window.DASHBOARD_DATA = {
     14.1,
     13.97,
     13.98,
-    14.41,
+    14.4,
     14.42,
     13.85,
     13.73,
@@ -335,7 +335,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.44
    },
    "relVol": 1.0,
-   "avgVolume": 21569933,
+   "avgVolume": 21569921,
    "symbol": "RKLB",
    "name": "Rocket Lab",
    "vertical": "Space",
@@ -496,7 +496,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 9.81,
-    "changePct": 0.51
+    "changePct": 0.5
    },
    "relVol": 0.7,
    "avgVolume": 14939422,
@@ -577,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.89,
-    "changePct": 0.58
+    "price": 6.88,
+    "changePct": 0.44
    },
    "relVol": 1.3,
    "avgVolume": 44809895,
@@ -990,8 +990,8 @@ window.DASHBOARD_DATA = {
     "price": 2.48,
     "changePct": 0.81
    },
-   "relVol": 1.6,
-   "avgVolume": 565033,
+   "relVol": 1.5,
+   "avgVolume": 617041,
    "symbol": "KULR",
    "name": "KULR Technology",
    "vertical": "Defense Tech & Software",
@@ -1073,7 +1073,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.19
    },
    "relVol": 0.8,
-   "avgVolume": 2653584,
+   "avgVolume": 2653530,
    "symbol": "UMAC",
    "name": "Unusual Machines",
    "vertical": "Drones & Counter-UAS",
@@ -1559,9 +1559,13 @@ window.DASHBOARD_DATA = {
     127.34,
     127.35
    ],
-   "ext": null,
-   "relVol": 1.3,
-   "avgVolume": 497288,
+   "ext": {
+    "label": "after-hours",
+    "price": 127.35,
+    "changePct": 0.0
+   },
+   "relVol": 1.1,
+   "avgVolume": 590148,
    "symbol": "OSK",
    "name": "Oshkosh",
    "vertical": "Ground & Vehicles",
@@ -1639,8 +1643,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 198.49,
-    "changePct": -0.15
+    "price": 198.45,
+    "changePct": -0.17
    },
    "relVol": 3.1,
    "avgVolume": 13647632,
@@ -2035,7 +2039,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.0
    },
    "relVol": 1.0,
-   "avgVolume": 1210932,
+   "avgVolume": 1215467,
    "symbol": "PSN",
    "name": "Parsons",
    "vertical": "Gov Services & IT",
@@ -2259,8 +2263,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.76,
-    "changePct": 0.85
+    "price": 4.81,
+    "changePct": 1.91
    },
    "relVol": 1.2,
    "avgVolume": 23856358,
@@ -2396,7 +2400,7 @@ window.DASHBOARD_DATA = {
     309.44,
     309.03,
     308.48,
-    309.38,
+    309.37,
     305.65,
     306.31,
     305.46,
@@ -2414,8 +2418,8 @@ window.DASHBOARD_DATA = {
     "price": 305.62,
     "changePct": 0.0
    },
-   "relVol": 1.6,
-   "avgVolume": 3464375,
+   "relVol": 1.7,
+   "avgVolume": 3219417,
    "symbol": "GE",
    "name": "GE Aerospace",
    "vertical": "Engines & Suppliers",
@@ -2487,8 +2491,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 188.25,
-    "changePct": 0.27
+    "price": 188.1,
+    "changePct": 0.19
    },
    "relVol": 1.5,
    "avgVolume": 7334802,
@@ -2715,8 +2719,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.67,
-    "changePct": -1.39
+    "price": 5.68,
+    "changePct": -1.22
    },
    "relVol": 1.6,
    "avgVolume": 17882944,
@@ -3095,8 +3099,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 417.31,
-    "changePct": 0.0
+    "price": 417.25,
+    "changePct": -0.01
    },
    "relVol": 1.7,
    "avgVolume": 919864,
@@ -3171,8 +3175,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 484.0,
-    "changePct": -0.1
+    "price": 480.21,
+    "changePct": -0.88
    },
    "relVol": 0.9,
    "avgVolume": 1229917,
@@ -3296,7 +3300,11 @@ window.DASHBOARD_DATA = {
     70.85,
     70.97
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 70.97,
+    "changePct": 0.0
+   },
    "relVol": 1.6,
    "avgVolume": 279663,
    "symbol": "VVX",
@@ -3361,7 +3369,7 @@ window.DASHBOARD_DATA = {
     14.1,
     13.97,
     13.98,
-    14.41,
+    14.4,
     14.42,
     13.85,
     13.73,
@@ -3458,7 +3466,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.44
    },
    "relVol": 1.0,
-   "avgVolume": 21569933,
+   "avgVolume": 21569921,
    "symbol": "RKLB",
    "name": "Rocket Lab",
    "vertical": "Space",
@@ -3619,7 +3627,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 9.81,
-    "changePct": 0.51
+    "changePct": 0.5
    },
    "relVol": 0.7,
    "avgVolume": 14939422,
@@ -3700,8 +3708,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.89,
-    "changePct": 0.58
+    "price": 6.88,
+    "changePct": 0.44
    },
    "relVol": 1.3,
    "avgVolume": 44809895,
@@ -4113,8 +4121,8 @@ window.DASHBOARD_DATA = {
     "price": 2.48,
     "changePct": 0.81
    },
-   "relVol": 1.6,
-   "avgVolume": 565033,
+   "relVol": 1.5,
+   "avgVolume": 617041,
    "symbol": "KULR",
    "name": "KULR Technology",
    "vertical": "Defense Tech & Software",
@@ -4196,7 +4204,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.19
    },
    "relVol": 0.8,
-   "avgVolume": 2653584,
+   "avgVolume": 2653530,
    "symbol": "UMAC",
    "name": "Unusual Machines",
    "vertical": "Drones & Counter-UAS",
@@ -4682,9 +4690,13 @@ window.DASHBOARD_DATA = {
     127.34,
     127.35
    ],
-   "ext": null,
-   "relVol": 1.3,
-   "avgVolume": 497288,
+   "ext": {
+    "label": "after-hours",
+    "price": 127.35,
+    "changePct": 0.0
+   },
+   "relVol": 1.1,
+   "avgVolume": 590148,
    "symbol": "OSK",
    "name": "Oshkosh",
    "vertical": "Ground & Vehicles",
@@ -4762,8 +4774,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 198.49,
-    "changePct": -0.15
+    "price": 198.45,
+    "changePct": -0.17
    },
    "relVol": 3.1,
    "avgVolume": 13647632,
