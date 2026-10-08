@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-08T20:09:20.157552+00:00",
+ "generatedAt": "2026-10-08T20:14:53.975724+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -250,7 +250,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 13.72,
-    "changePct": 0.18
+    "changePct": 0.15
    },
    "relVol": 1.1,
    "avgVolume": 8099281,
@@ -263,7 +263,7 @@ window.DASHBOARD_DATA = {
    "changePct": -9.03,
    "volume": 9114230,
    "dayHigh": 14.38,
-   "dayLow": 13.405,
+   "dayLow": 13.4,
    "fiftyTwoWeekHigh": 46.75,
    "fiftyTwoWeekLow": 7.78,
    "marketTime": 1791489601,
@@ -331,11 +331,11 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 68.66,
-    "changePct": 0.38
+    "price": 68.54,
+    "changePct": 0.2
    },
    "relVol": 1.0,
-   "avgVolume": 21569921,
+   "avgVolume": 21569933,
    "symbol": "RKLB",
    "name": "Rocket Lab",
    "vertical": "Space",
@@ -489,8 +489,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.8,
-    "changePct": 0.46
+    "price": 9.81,
+    "changePct": 0.56
    },
    "relVol": 0.7,
    "avgVolume": 14939422,
@@ -650,9 +650,13 @@ window.DASHBOARD_DATA = {
     72.62,
     72.87
    ],
-   "ext": null,
-   "relVol": 0.8,
-   "avgVolume": 1705575,
+   "ext": {
+    "label": "after-hours",
+    "price": 72.87,
+    "changePct": -0.0
+   },
+   "relVol": 0.7,
+   "avgVolume": 1879498,
    "symbol": "BAH",
    "name": "Booz Allen",
    "vertical": "Gov Services & IT",
@@ -812,8 +816,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.91,
-    "changePct": 0.0
+    "price": 5.95,
+    "changePct": 0.67
    },
    "relVol": 1.2,
    "avgVolume": 5261022,
@@ -897,7 +901,7 @@ window.DASHBOARD_DATA = {
     "price": 78.52,
     "changePct": 0.0
    },
-   "relVol": 1.1,
+   "relVol": 1.0,
    "avgVolume": 349134,
    "symbol": "MRCY",
    "name": "Mercury Systems",
@@ -906,7 +910,7 @@ window.DASHBOARD_DATA = {
    "price": 78.52,
    "prevClose": 82.8,
    "changePct": -5.17,
-   "volume": 381578,
+   "volume": 365649,
    "dayHigh": 79.93,
    "dayLow": 77.44,
    "fiftyTwoWeekHigh": 128.45,
@@ -971,15 +975,15 @@ window.DASHBOARD_DATA = {
     2.52,
     2.5,
     2.47,
-    2.46
+    2.47
    ],
    "ext": {
     "label": "after-hours",
     "price": 2.48,
-    "changePct": 0.53
+    "changePct": 0.61
    },
-   "relVol": 1.3,
-   "avgVolume": 565033,
+   "relVol": 1.2,
+   "avgVolume": 617041,
    "symbol": "KULR",
    "name": "KULR Technology",
    "vertical": "Defense Tech & Software",
@@ -1211,7 +1215,7 @@ window.DASHBOARD_DATA = {
     125.98,
     127.83,
     129.25,
-    129.71,
+    129.68,
     129.71
    ],
    "ext": {
@@ -1377,7 +1381,11 @@ window.DASHBOARD_DATA = {
     222.36,
     222.6
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 222.56,
+    "changePct": -0.02
+   },
    "relVol": 1.2,
    "avgVolume": 1703118,
    "symbol": "HWM",
@@ -1455,7 +1463,11 @@ window.DASHBOARD_DATA = {
     665.36,
     665.09
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 665.09,
+    "changePct": 0.0
+   },
    "relVol": 0.8,
    "avgVolume": 77404,
    "symbol": "ESLT",
@@ -1612,8 +1624,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 198.52,
-    "changePct": -0.13
+    "price": 198.49,
+    "changePct": -0.15
    },
    "relVol": 3.0,
    "avgVolume": 13647632,
@@ -1691,7 +1703,11 @@ window.DASHBOARD_DATA = {
     73.09,
     73.2
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 73.22,
+    "changePct": 0.03
+   },
    "relVol": 1.2,
    "avgVolume": 1285560,
    "symbol": "TXT",
@@ -1996,7 +2012,7 @@ window.DASHBOARD_DATA = {
     "changePct": -0.06
    },
    "relVol": 0.6,
-   "avgVolume": 1215467,
+   "avgVolume": 1210932,
    "symbol": "PSN",
    "name": "Parsons",
    "vertical": "Gov Services & IT",
@@ -2142,8 +2158,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.75,
-    "changePct": 0.42
+    "price": 4.77,
+    "changePct": 0.85
    },
    "relVol": 0.9,
    "avgVolume": 23856358,
@@ -2230,7 +2246,7 @@ window.DASHBOARD_DATA = {
    "prevClose": 34.61,
    "changePct": 1.65,
    "volume": 1273342,
-   "dayHigh": 35.21,
+   "dayHigh": 35.205,
    "dayLow": 33.66,
    "fiftyTwoWeekHigh": 46.96,
    "fiftyTwoWeekLow": 29.94,
@@ -2367,8 +2383,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 305.04,
-    "changePct": -0.19
+    "price": 305.81,
+    "changePct": 0.07
    },
    "relVol": 1.1,
    "avgVolume": 3219417,
@@ -2442,8 +2458,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 187.8,
-    "changePct": 0.02
+    "price": 187.29,
+    "changePct": -0.26
    },
    "relVol": 0.9,
    "avgVolume": 7334802,
@@ -2593,8 +2609,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 184.0,
-    "changePct": -0.16
+    "price": 184.32,
+    "changePct": 0.02
    },
    "relVol": 1.2,
    "avgVolume": 2745485,
@@ -2666,9 +2682,13 @@ window.DASHBOARD_DATA = {
     264.63,
     265.12
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 265.02,
+    "changePct": -0.04
+   },
    "relVol": 0.7,
-   "avgVolume": 468964,
+   "avgVolume": 472305,
    "symbol": "HII",
    "name": "Huntington Ingalls",
    "vertical": "Shipbuilding & Naval",
@@ -2813,7 +2833,11 @@ window.DASHBOARD_DATA = {
     507.87,
     507.96
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 507.89,
+    "changePct": -0.01
+   },
    "relVol": 1.1,
    "avgVolume": 778048,
    "symbol": "LMT",
@@ -2884,7 +2908,11 @@ window.DASHBOARD_DATA = {
     330.67,
     329.92
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 329.9,
+    "changePct": -0.01
+   },
    "relVol": 1.2,
    "avgVolume": 855279,
    "symbol": "GD",
@@ -2957,8 +2985,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.74,
-    "changePct": -0.35
+    "price": 5.7,
+    "changePct": -1.04
    },
    "relVol": 1.2,
    "avgVolume": 17882944,
@@ -3031,7 +3059,11 @@ window.DASHBOARD_DATA = {
     417.33,
     417.31
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 417.31,
+    "changePct": 0.0
+   },
    "relVol": 1.7,
    "avgVolume": 919864,
    "symbol": "AXON",
@@ -3104,11 +3136,11 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 478.68,
-    "changePct": -1.16
+    "price": 481.18,
+    "changePct": -0.64
    },
    "relVol": 0.6,
-   "avgVolume": 1229917,
+   "avgVolume": 1248118,
    "symbol": "NOC",
    "name": "Northrop Grumman",
    "vertical": "Prime Contractors",
@@ -3300,7 +3332,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 13.72,
-    "changePct": 0.18
+    "changePct": 0.15
    },
    "relVol": 1.1,
    "avgVolume": 8099281,
@@ -3313,7 +3345,7 @@ window.DASHBOARD_DATA = {
    "changePct": -9.03,
    "volume": 9114230,
    "dayHigh": 14.38,
-   "dayLow": 13.405,
+   "dayLow": 13.4,
    "fiftyTwoWeekHigh": 46.75,
    "fiftyTwoWeekLow": 7.78,
    "marketTime": 1791489601,
@@ -3381,11 +3413,11 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 68.66,
-    "changePct": 0.38
+    "price": 68.54,
+    "changePct": 0.2
    },
    "relVol": 1.0,
-   "avgVolume": 21569921,
+   "avgVolume": 21569933,
    "symbol": "RKLB",
    "name": "Rocket Lab",
    "vertical": "Space",
@@ -3539,8 +3571,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.8,
-    "changePct": 0.46
+    "price": 9.81,
+    "changePct": 0.56
    },
    "relVol": 0.7,
    "avgVolume": 14939422,
@@ -3700,9 +3732,13 @@ window.DASHBOARD_DATA = {
     72.62,
     72.87
    ],
-   "ext": null,
-   "relVol": 0.8,
-   "avgVolume": 1705575,
+   "ext": {
+    "label": "after-hours",
+    "price": 72.87,
+    "changePct": -0.0
+   },
+   "relVol": 0.7,
+   "avgVolume": 1879498,
    "symbol": "BAH",
    "name": "Booz Allen",
    "vertical": "Gov Services & IT",
@@ -3862,8 +3898,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.91,
-    "changePct": 0.0
+    "price": 5.95,
+    "changePct": 0.67
    },
    "relVol": 1.2,
    "avgVolume": 5261022,
@@ -3947,7 +3983,7 @@ window.DASHBOARD_DATA = {
     "price": 78.52,
     "changePct": 0.0
    },
-   "relVol": 1.1,
+   "relVol": 1.0,
    "avgVolume": 349134,
    "symbol": "MRCY",
    "name": "Mercury Systems",
@@ -3956,7 +3992,7 @@ window.DASHBOARD_DATA = {
    "price": 78.52,
    "prevClose": 82.8,
    "changePct": -5.17,
-   "volume": 381578,
+   "volume": 365649,
    "dayHigh": 79.93,
    "dayLow": 77.44,
    "fiftyTwoWeekHigh": 128.45,
@@ -4021,15 +4057,15 @@ window.DASHBOARD_DATA = {
     2.52,
     2.5,
     2.47,
-    2.46
+    2.47
    ],
    "ext": {
     "label": "after-hours",
     "price": 2.48,
-    "changePct": 0.53
+    "changePct": 0.61
    },
-   "relVol": 1.3,
-   "avgVolume": 565033,
+   "relVol": 1.2,
+   "avgVolume": 617041,
    "symbol": "KULR",
    "name": "KULR Technology",
    "vertical": "Defense Tech & Software",
@@ -4261,7 +4297,7 @@ window.DASHBOARD_DATA = {
     125.98,
     127.83,
     129.25,
-    129.71,
+    129.68,
     129.71
    ],
    "ext": {
@@ -4427,7 +4463,11 @@ window.DASHBOARD_DATA = {
     222.36,
     222.6
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 222.56,
+    "changePct": -0.02
+   },
    "relVol": 1.2,
    "avgVolume": 1703118,
    "symbol": "HWM",
@@ -4505,7 +4545,11 @@ window.DASHBOARD_DATA = {
     665.36,
     665.09
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 665.09,
+    "changePct": 0.0
+   },
    "relVol": 0.8,
    "avgVolume": 77404,
    "symbol": "ESLT",
@@ -4662,8 +4706,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 198.52,
-    "changePct": -0.13
+    "price": 198.49,
+    "changePct": -0.15
    },
    "relVol": 3.0,
    "avgVolume": 13647632,
@@ -4741,7 +4785,11 @@ window.DASHBOARD_DATA = {
     73.09,
     73.2
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 73.22,
+    "changePct": 0.03
+   },
    "relVol": 1.2,
    "avgVolume": 1285560,
    "symbol": "TXT",
