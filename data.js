@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-09T20:26:42.387113+00:00",
+ "generatedAt": "2026-10-09T20:32:20.201209+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -413,8 +413,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 208.58,
-    "changePct": -0.22
+    "price": 208.47,
+    "changePct": -0.28
    },
    "relVol": 1.9,
    "avgVolume": 19687287,
@@ -498,8 +498,8 @@ window.DASHBOARD_DATA = {
     "price": 73.94,
     "changePct": 0.0
    },
-   "relVol": 0.7,
-   "avgVolume": 1666844,
+   "relVol": 0.8,
+   "avgVolume": 1492921,
    "symbol": "BAH",
    "name": "Booz Allen",
    "vertical": "Gov Services & IT",
@@ -905,8 +905,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.98,
-    "changePct": 0.34
+    "price": 4.96,
+    "changePct": 0.02
    },
    "relVol": 1.6,
    "avgVolume": 23744492,
@@ -988,7 +988,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 5.77,
-    "changePct": 0.0
+    "changePct": -0.03
    },
    "relVol": 1.0,
    "avgVolume": 5119374,
@@ -1069,8 +1069,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.43,
-    "changePct": -0.18
+    "price": 5.44,
+    "changePct": -0.01
    },
    "relVol": 2.0,
    "avgVolume": 19265988,
@@ -1151,8 +1151,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 68.34,
-    "changePct": 0.19
+    "price": 68.27,
+    "changePct": 0.09
    },
    "relVol": 0.7,
    "avgVolume": 19986864,
@@ -1233,7 +1233,7 @@ window.DASHBOARD_DATA = {
    ],
    "ext": null,
    "relVol": 0.8,
-   "avgVolume": 621233,
+   "avgVolume": 621037,
    "symbol": "KULR",
    "name": "KULR Technology",
    "vertical": "Defense Tech & Software",
@@ -1444,11 +1444,11 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 20.98,
-    "changePct": 0.71
+    "price": 20.79,
+    "changePct": -0.19
    },
    "relVol": 1.1,
-   "avgVolume": 2374521,
+   "avgVolume": 2374468,
    "symbol": "UMAC",
    "name": "Unusual Machines",
    "vertical": "Drones & Counter-UAS",
@@ -1539,7 +1539,7 @@ window.DASHBOARD_DATA = {
    "prevClose": 33.89,
    "changePct": 4.28,
    "volume": 1176789,
-   "dayHigh": 35.9,
+   "dayHigh": 35.92,
    "dayLow": 35.04,
    "fiftyTwoWeekHigh": 45.48,
    "fiftyTwoWeekLow": 29.94,
@@ -1694,7 +1694,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.0
    },
    "relVol": 1.0,
-   "avgVolume": 390949,
+   "avgVolume": 390950,
    "symbol": "VSEC",
    "name": "VSE Corp",
    "vertical": "Gov Services & IT",
@@ -1857,8 +1857,8 @@ window.DASHBOARD_DATA = {
     "price": 125.23,
     "changePct": 0.0
    },
-   "relVol": 1.2,
-   "avgVolume": 563156,
+   "relVol": 1.5,
+   "avgVolume": 470296,
    "symbol": "OSK",
    "name": "Oshkosh",
    "vertical": "Ground & Vehicles",
@@ -1930,8 +1930,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 509.59,
-    "changePct": 0.0
+    "price": 510.37,
+    "changePct": 0.15
    },
    "relVol": 1.0,
    "avgVolume": 776689,
@@ -2314,7 +2314,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.0
    },
    "relVol": 0.8,
-   "avgVolume": 815202,
+   "avgVolume": 797000,
    "symbol": "NOC",
    "name": "Northrop Grumman",
    "vertical": "Prime Contractors",
@@ -2386,8 +2386,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 308.2,
-    "changePct": 0.0
+    "price": 308.1,
+    "changePct": -0.03
    },
    "relVol": 0.9,
    "avgVolume": 3238962,
@@ -2465,8 +2465,8 @@ window.DASHBOARD_DATA = {
     "price": 236.97,
     "changePct": 0.0
    },
-   "relVol": 1.0,
-   "avgVolume": 949753,
+   "relVol": 1.1,
+   "avgVolume": 853639,
    "symbol": "LHX",
    "name": "L3Harris",
    "vertical": "Prime Contractors",
@@ -2542,7 +2542,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.52
    },
    "relVol": 1.2,
-   "avgVolume": 904165,
+   "avgVolume": 934427,
    "symbol": "GD",
    "name": "General Dynamics",
    "vertical": "Prime Contractors",
@@ -2778,7 +2778,7 @@ window.DASHBOARD_DATA = {
    "price": 225.26,
    "prevClose": 222.75,
    "changePct": 1.13,
-   "volume": 2619921,
+   "volume": 2670252,
    "dayHigh": 226.22,
    "dayLow": 220.829,
    "fiftyTwoWeekHigh": 310.0,
@@ -2842,8 +2842,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 190.41,
-    "changePct": 0.02
+    "price": 190.47,
+    "changePct": 0.05
    },
    "relVol": 0.8,
    "avgVolume": 6002134,
@@ -2921,8 +2921,8 @@ window.DASHBOARD_DATA = {
     "price": 1107.99,
     "changePct": 0.0
    },
-   "relVol": 1.1,
-   "avgVolume": 247361,
+   "relVol": 1.0,
+   "avgVolume": 284449,
    "symbol": "TDG",
    "name": "TransDigm",
    "vertical": "Engines & Suppliers",
@@ -3540,8 +3540,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 208.58,
-    "changePct": -0.22
+    "price": 208.47,
+    "changePct": -0.28
    },
    "relVol": 1.9,
    "avgVolume": 19687287,
@@ -3625,8 +3625,8 @@ window.DASHBOARD_DATA = {
     "price": 73.94,
     "changePct": 0.0
    },
-   "relVol": 0.7,
-   "avgVolume": 1666844,
+   "relVol": 0.8,
+   "avgVolume": 1492921,
    "symbol": "BAH",
    "name": "Booz Allen",
    "vertical": "Gov Services & IT",
@@ -4032,8 +4032,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.98,
-    "changePct": 0.34
+    "price": 4.96,
+    "changePct": 0.02
    },
    "relVol": 1.6,
    "avgVolume": 23744492,
@@ -4115,7 +4115,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 5.77,
-    "changePct": 0.0
+    "changePct": -0.03
    },
    "relVol": 1.0,
    "avgVolume": 5119374,
@@ -4196,8 +4196,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.43,
-    "changePct": -0.18
+    "price": 5.44,
+    "changePct": -0.01
    },
    "relVol": 2.0,
    "avgVolume": 19265988,
@@ -4278,8 +4278,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 68.34,
-    "changePct": 0.19
+    "price": 68.27,
+    "changePct": 0.09
    },
    "relVol": 0.7,
    "avgVolume": 19986864,
@@ -4360,7 +4360,7 @@ window.DASHBOARD_DATA = {
    ],
    "ext": null,
    "relVol": 0.8,
-   "avgVolume": 621233,
+   "avgVolume": 621037,
    "symbol": "KULR",
    "name": "KULR Technology",
    "vertical": "Defense Tech & Software",
@@ -4571,11 +4571,11 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 20.98,
-    "changePct": 0.71
+    "price": 20.79,
+    "changePct": -0.19
    },
    "relVol": 1.1,
-   "avgVolume": 2374521,
+   "avgVolume": 2374468,
    "symbol": "UMAC",
    "name": "Unusual Machines",
    "vertical": "Drones & Counter-UAS",
@@ -4666,7 +4666,7 @@ window.DASHBOARD_DATA = {
    "prevClose": 33.89,
    "changePct": 4.28,
    "volume": 1176789,
-   "dayHigh": 35.9,
+   "dayHigh": 35.92,
    "dayLow": 35.04,
    "fiftyTwoWeekHigh": 45.48,
    "fiftyTwoWeekLow": 29.94,
@@ -4821,7 +4821,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.0
    },
    "relVol": 1.0,
-   "avgVolume": 390949,
+   "avgVolume": 390950,
    "symbol": "VSEC",
    "name": "VSE Corp",
    "vertical": "Gov Services & IT",
