@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-09T20:09:22.862120+00:00",
+ "generatedAt": "2026-10-09T20:15:00.943969+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -315,7 +315,7 @@ window.DASHBOARD_DATA = {
     14.1,
     13.97,
     13.98,
-    14.41,
+    14.4,
     14.42,
     13.85,
     13.73,
@@ -413,11 +413,11 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 208.6,
-    "changePct": -0.21
+    "price": 208.66,
+    "changePct": -0.19
    },
-   "relVol": 1.8,
-   "avgVolume": 19687287,
+   "relVol": 1.7,
+   "avgVolume": 20679460,
    "symbol": "PLTR",
    "name": "Palantir",
    "vertical": "Defense Tech & Software",
@@ -812,7 +812,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 4.99,
-    "changePct": 0.39
+    "changePct": 0.4
    },
    "relVol": 1.5,
    "avgVolume": 23744492,
@@ -894,7 +894,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 6.73,
-    "changePct": -0.0
+    "changePct": 0.0
    },
    "relVol": 0.8,
    "avgVolume": 47912067,
@@ -975,11 +975,11 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.79,
-    "changePct": 0.32
+    "price": 5.77,
+    "changePct": 0.01
    },
    "relVol": 1.0,
-   "avgVolume": 5119374,
+   "avgVolume": 5116826,
    "symbol": "RCAT",
    "name": "Red Cat Holdings",
    "vertical": "Drones & Counter-UAS",
@@ -987,7 +987,7 @@ window.DASHBOARD_DATA = {
    "price": 5.77,
    "prevClose": 6.15,
    "changePct": -6.18,
-   "volume": 5225576,
+   "volume": 5228458,
    "dayHigh": 5.99,
    "dayLow": 5.7,
    "fiftyTwoWeekHigh": 18.78,
@@ -1057,7 +1057,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 5.43,
-    "changePct": -0.12
+    "changePct": -0.09
    },
    "relVol": 1.9,
    "avgVolume": 19265988,
@@ -1138,8 +1138,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 68.29,
-    "changePct": 0.12
+    "price": 68.27,
+    "changePct": 0.09
    },
    "relVol": 0.7,
    "avgVolume": 19986864,
@@ -1223,7 +1223,7 @@ window.DASHBOARD_DATA = {
     "changePct": 1.16
    },
    "relVol": 0.9,
-   "avgVolume": 222466,
+   "avgVolume": 222463,
    "symbol": "CACI",
    "name": "CACI Intl",
    "vertical": "Gov Services & IT",
@@ -1427,11 +1427,11 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 20.77,
-    "changePct": -0.38
+    "price": 20.81,
+    "changePct": -0.18
    },
    "relVol": 1.0,
-   "avgVolume": 2374521,
+   "avgVolume": 2374468,
    "symbol": "UMAC",
    "name": "Unusual Machines",
    "vertical": "Drones & Counter-UAS",
@@ -1506,9 +1506,13 @@ window.DASHBOARD_DATA = {
     35.6,
     35.32
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 35.34,
+    "changePct": 0.06
+   },
    "relVol": 0.8,
-   "avgVolume": 1229538,
+   "avgVolume": 1230629,
    "symbol": "KBR",
    "name": "KBR",
    "vertical": "Gov Services & IT",
@@ -1517,7 +1521,7 @@ window.DASHBOARD_DATA = {
    "prevClose": 33.89,
    "changePct": 4.22,
    "volume": 968260,
-   "dayHigh": 35.9,
+   "dayHigh": 35.92,
    "dayLow": 35.04,
    "fiftyTwoWeekHigh": 45.48,
    "fiftyTwoWeekLow": 29.94,
@@ -1584,7 +1588,11 @@ window.DASHBOARD_DATA = {
     423.0,
     422.89
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 422.89,
+    "changePct": 0.0
+   },
    "relVol": 0.7,
    "avgVolume": 1014290,
    "symbol": "AXON",
@@ -1745,8 +1753,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 186.2,
-    "changePct": 0.14
+    "price": 185.97,
+    "changePct": 0.01
    },
    "relVol": 0.9,
    "avgVolume": 2940765,
@@ -1899,7 +1907,11 @@ window.DASHBOARD_DATA = {
     509.02,
     509.61
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 509.59,
+    "changePct": -0.0
+   },
    "relVol": 0.8,
    "avgVolume": 776689,
    "symbol": "LMT",
@@ -2121,7 +2133,11 @@ window.DASHBOARD_DATA = {
     265.42,
     264.77
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 264.8,
+    "changePct": 0.01
+   },
    "relVol": 0.8,
    "avgVolume": 416342,
    "symbol": "HII",
@@ -2192,7 +2208,11 @@ window.DASHBOARD_DATA = {
     479.43,
     480.74
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 480.72,
+    "changePct": -0.0
+   },
    "relVol": 0.6,
    "avgVolume": 797000,
    "symbol": "NOC",
@@ -2263,7 +2283,11 @@ window.DASHBOARD_DATA = {
     74.22,
     74.15
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 74.16,
+    "changePct": 0.01
+   },
    "relVol": 0.9,
    "avgVolume": 1303353,
    "symbol": "TXT",
@@ -2415,7 +2439,7 @@ window.DASHBOARD_DATA = {
     "changePct": -0.01
    },
    "relVol": 0.9,
-   "avgVolume": 904165,
+   "avgVolume": 934427,
    "symbol": "GD",
    "name": "General Dynamics",
    "vertical": "Prime Contractors",
@@ -2489,8 +2513,8 @@ window.DASHBOARD_DATA = {
     "price": 236.97,
     "changePct": 0.0
    },
-   "relVol": 0.9,
-   "avgVolume": 949753,
+   "relVol": 1.0,
+   "avgVolume": 853639,
    "symbol": "LHX",
    "name": "L3Harris",
    "vertical": "Prime Contractors",
@@ -2713,8 +2737,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 190.39,
-    "changePct": -0.01
+    "price": 190.55,
+    "changePct": 0.07
    },
    "relVol": 0.8,
    "avgVolume": 6002134,
@@ -2788,8 +2812,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 225.8,
-    "changePct": 0.25
+    "price": 224.0,
+    "changePct": -0.55
    },
    "relVol": 1.1,
    "avgVolume": 1786713,
@@ -2939,8 +2963,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 42.36,
-    "changePct": 0.0
+    "price": 42.42,
+    "changePct": 0.15
    },
    "relVol": 0.9,
    "avgVolume": 4733667,
@@ -3163,8 +3187,12 @@ window.DASHBOARD_DATA = {
     64.26,
     64.22
    ],
-   "ext": null,
-   "relVol": 1.1,
+   "ext": {
+    "label": "after-hours",
+    "price": 64.22,
+    "changePct": 0.0
+   },
+   "relVol": 1.2,
    "avgVolume": 299467,
    "symbol": "ATRO",
    "name": "Astronics",
@@ -3173,7 +3201,7 @@ window.DASHBOARD_DATA = {
    "price": 64.22,
    "prevClose": 64.63,
    "changePct": -0.63,
-   "volume": 342867,
+   "volume": 357646,
    "dayHigh": 65.035,
    "dayLow": 62.34,
    "fiftyTwoWeekHigh": 94.46,
@@ -3232,7 +3260,7 @@ window.DASHBOARD_DATA = {
     78.64,
     79.21,
     79.18,
-    79.49,
+    79.55,
     79.49
    ],
    "ext": {
@@ -3381,7 +3409,7 @@ window.DASHBOARD_DATA = {
     14.1,
     13.97,
     13.98,
-    14.41,
+    14.4,
     14.42,
     13.85,
     13.73,
@@ -3479,11 +3507,11 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 208.6,
-    "changePct": -0.21
+    "price": 208.66,
+    "changePct": -0.19
    },
-   "relVol": 1.8,
-   "avgVolume": 19687287,
+   "relVol": 1.7,
+   "avgVolume": 20679460,
    "symbol": "PLTR",
    "name": "Palantir",
    "vertical": "Defense Tech & Software",
@@ -3878,7 +3906,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 4.99,
-    "changePct": 0.39
+    "changePct": 0.4
    },
    "relVol": 1.5,
    "avgVolume": 23744492,
@@ -3960,7 +3988,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 6.73,
-    "changePct": -0.0
+    "changePct": 0.0
    },
    "relVol": 0.8,
    "avgVolume": 47912067,
@@ -4041,11 +4069,11 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.79,
-    "changePct": 0.32
+    "price": 5.77,
+    "changePct": 0.01
    },
    "relVol": 1.0,
-   "avgVolume": 5119374,
+   "avgVolume": 5116826,
    "symbol": "RCAT",
    "name": "Red Cat Holdings",
    "vertical": "Drones & Counter-UAS",
@@ -4053,7 +4081,7 @@ window.DASHBOARD_DATA = {
    "price": 5.77,
    "prevClose": 6.15,
    "changePct": -6.18,
-   "volume": 5225576,
+   "volume": 5228458,
    "dayHigh": 5.99,
    "dayLow": 5.7,
    "fiftyTwoWeekHigh": 18.78,
@@ -4123,7 +4151,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 5.43,
-    "changePct": -0.12
+    "changePct": -0.09
    },
    "relVol": 1.9,
    "avgVolume": 19265988,
@@ -4204,8 +4232,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 68.29,
-    "changePct": 0.12
+    "price": 68.27,
+    "changePct": 0.09
    },
    "relVol": 0.7,
    "avgVolume": 19986864,
@@ -4289,7 +4317,7 @@ window.DASHBOARD_DATA = {
     "changePct": 1.16
    },
    "relVol": 0.9,
-   "avgVolume": 222466,
+   "avgVolume": 222463,
    "symbol": "CACI",
    "name": "CACI Intl",
    "vertical": "Gov Services & IT",
@@ -4493,11 +4521,11 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 20.77,
-    "changePct": -0.38
+    "price": 20.81,
+    "changePct": -0.18
    },
    "relVol": 1.0,
-   "avgVolume": 2374521,
+   "avgVolume": 2374468,
    "symbol": "UMAC",
    "name": "Unusual Machines",
    "vertical": "Drones & Counter-UAS",
@@ -4572,9 +4600,13 @@ window.DASHBOARD_DATA = {
     35.6,
     35.32
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 35.34,
+    "changePct": 0.06
+   },
    "relVol": 0.8,
-   "avgVolume": 1229538,
+   "avgVolume": 1230629,
    "symbol": "KBR",
    "name": "KBR",
    "vertical": "Gov Services & IT",
@@ -4583,7 +4615,7 @@ window.DASHBOARD_DATA = {
    "prevClose": 33.89,
    "changePct": 4.22,
    "volume": 968260,
-   "dayHigh": 35.9,
+   "dayHigh": 35.92,
    "dayLow": 35.04,
    "fiftyTwoWeekHigh": 45.48,
    "fiftyTwoWeekLow": 29.94,
@@ -4650,7 +4682,11 @@ window.DASHBOARD_DATA = {
     423.0,
     422.89
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 422.89,
+    "changePct": 0.0
+   },
    "relVol": 0.7,
    "avgVolume": 1014290,
    "symbol": "AXON",
@@ -4811,8 +4847,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 186.2,
-    "changePct": 0.14
+    "price": 185.97,
+    "changePct": 0.01
    },
    "relVol": 0.9,
    "avgVolume": 2940765,
