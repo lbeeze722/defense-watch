@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-12T20:22:08.865152+00:00",
+ "generatedAt": "2026-10-12T20:27:42.498790+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -331,8 +331,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.43,
-    "changePct": 0.73
+    "price": 5.41,
+    "changePct": 0.38
    },
    "relVol": 1.2,
    "avgVolume": 5159921,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 12.93,
-    "changePct": 0.54
+    "price": 12.84,
+    "changePct": -0.16
    },
    "relVol": 0.7,
    "avgVolume": 7877971,
@@ -577,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.23,
-    "changePct": 0.07
+    "price": 9.22,
+    "changePct": 0.0
    },
    "relVol": 0.7,
    "avgVolume": 11825758,
@@ -741,8 +741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 208.7,
-    "changePct": -0.14
+    "price": 208.68,
+    "changePct": -0.15
    },
    "relVol": 1.0,
    "avgVolume": 24705548,
@@ -1149,9 +1149,13 @@ window.DASHBOARD_DATA = {
     1119.94,
     1119.94
    ],
-   "ext": null,
-   "relVol": 1.3,
-   "avgVolume": 246175,
+   "ext": {
+    "label": "after-hours",
+    "price": 1119.94,
+    "changePct": 0.0
+   },
+   "relVol": 1.2,
+   "avgVolume": 283263,
    "symbol": "TDG",
    "name": "TransDigm",
    "vertical": "Engines & Suppliers",
@@ -1385,7 +1389,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.0
    },
    "relVol": 1.2,
-   "avgVolume": 374428,
+   "avgVolume": 374375,
    "symbol": "SAIC",
    "name": "SAIC",
    "vertical": "Gov Services & IT",
@@ -1964,8 +1968,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 186.93,
-    "changePct": 0.14
+    "price": 187.57,
+    "changePct": 0.49
    },
    "relVol": 1.2,
    "avgVolume": 3011722,
@@ -2167,7 +2171,7 @@ window.DASHBOARD_DATA = {
     309.44,
     309.03,
     308.48,
-    309.38,
+    309.37,
     305.65,
     306.31,
     305.46,
@@ -2195,8 +2199,8 @@ window.DASHBOARD_DATA = {
     "price": 309.01,
     "changePct": 0.12
    },
-   "relVol": 0.8,
-   "avgVolume": 2973664,
+   "relVol": 0.9,
+   "avgVolume": 2728706,
    "symbol": "GE",
    "name": "GE Aerospace",
    "vertical": "Engines & Suppliers",
@@ -2725,7 +2729,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 4.71,
-    "changePct": 0.41
+    "changePct": 0.4
    },
    "relVol": 0.9,
    "avgVolume": 28142731,
@@ -2880,7 +2884,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.0
    },
    "relVol": 1.2,
-   "avgVolume": 480104,
+   "avgVolume": 481111,
    "symbol": "OSK",
    "name": "Oshkosh",
    "vertical": "Ground & Vehicles",
@@ -3102,7 +3106,11 @@ window.DASHBOARD_DATA = {
     264.09,
     264.03
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 264.03,
+    "changePct": 0.0
+   },
    "relVol": 0.8,
    "avgVolume": 439608,
    "symbol": "HII",
@@ -3179,8 +3187,8 @@ window.DASHBOARD_DATA = {
     "price": 484.0,
     "changePct": -0.21
    },
-   "relVol": 0.9,
-   "avgVolume": 669700,
+   "relVol": 0.8,
+   "avgVolume": 687902,
    "symbol": "NOC",
    "name": "Northrop Grumman",
    "vertical": "Prime Contractors",
@@ -3412,8 +3420,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.43,
-    "changePct": 0.73
+    "price": 5.41,
+    "changePct": 0.38
    },
    "relVol": 1.2,
    "avgVolume": 5159921,
@@ -3576,8 +3584,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 12.93,
-    "changePct": 0.54
+    "price": 12.84,
+    "changePct": -0.16
    },
    "relVol": 0.7,
    "avgVolume": 7877971,
@@ -3658,8 +3666,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.23,
-    "changePct": 0.07
+    "price": 9.22,
+    "changePct": 0.0
    },
    "relVol": 0.7,
    "avgVolume": 11825758,
@@ -3822,8 +3830,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 208.7,
-    "changePct": -0.14
+    "price": 208.68,
+    "changePct": -0.15
    },
    "relVol": 1.0,
    "avgVolume": 24705548,
