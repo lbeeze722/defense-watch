@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-12T20:16:35.394264+00:00",
+ "generatedAt": "2026-10-12T20:22:08.865152+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.14,
-    "changePct": 0.0
+    "price": 5.15,
+    "changePct": 0.19
    },
    "relVol": 1.0,
    "avgVolume": 23620859,
@@ -332,10 +332,10 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 5.43,
-    "changePct": 0.74
+    "changePct": 0.73
    },
    "relVol": 1.2,
-   "avgVolume": 5157373,
+   "avgVolume": 5159921,
    "symbol": "RCAT",
    "name": "Red Cat Holdings",
    "vertical": "Drones & Counter-UAS",
@@ -474,7 +474,7 @@ window.DASHBOARD_DATA = {
     14.1,
     13.97,
     13.98,
-    14.41,
+    14.4,
     14.42,
     13.85,
     13.73,
@@ -578,7 +578,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 9.23,
-    "changePct": 0.11
+    "changePct": 0.07
    },
    "relVol": 0.7,
    "avgVolume": 11825758,
@@ -657,9 +657,13 @@ window.DASHBOARD_DATA = {
     2.33,
     2.33
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 2.33,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
-   "avgVolume": 576995,
+   "avgVolume": 576799,
    "symbol": "KULR",
    "name": "KULR Technology",
    "vertical": "Defense Tech & Software",
@@ -819,8 +823,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 131.7,
-    "changePct": 0.14
+    "price": 132.0,
+    "changePct": 0.37
    },
    "relVol": 1.3,
    "avgVolume": 1380962,
@@ -901,8 +905,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 65.78,
-    "changePct": 0.11
+    "price": 65.75,
+    "changePct": 0.06
    },
    "relVol": 0.8,
    "avgVolume": 19083120,
@@ -1060,6 +1064,7 @@ window.DASHBOARD_DATA = {
     75.75,
     75.57,
     75.59,
+    75.78,
     75.78
    ],
    "ext": {
@@ -1067,7 +1072,7 @@ window.DASHBOARD_DATA = {
     "price": 75.78,
     "changePct": 0.0
    },
-   "relVol": 1.4,
+   "relVol": 1.8,
    "avgVolume": 1315282,
    "symbol": "TXT",
    "name": "Textron",
@@ -1076,12 +1081,12 @@ window.DASHBOARD_DATA = {
    "price": 75.78,
    "prevClose": 73.22,
    "changePct": 3.5,
-   "volume": 1834498,
+   "volume": 2360967,
    "dayHigh": 76.12,
    "dayLow": 73.76,
    "fiftyTwoWeekHigh": 101.57,
    "fiftyTwoWeekLow": 71.87,
-   "marketTime": 1791835199,
+   "marketTime": 1791835265,
    "news": [
     {
      "title": "Textron (TXT) Faces A 27% Fair Value Gap On Execution Concerns - Yahoo Finance",
@@ -1145,8 +1150,8 @@ window.DASHBOARD_DATA = {
     1119.94
    ],
    "ext": null,
-   "relVol": 1.1,
-   "avgVolume": 283263,
+   "relVol": 1.3,
+   "avgVolume": 246175,
    "symbol": "TDG",
    "name": "TransDigm",
    "vertical": "Engines & Suppliers",
@@ -1154,9 +1159,9 @@ window.DASHBOARD_DATA = {
    "price": 1119.94,
    "prevClose": 1089.3,
    "changePct": 2.81,
-   "volume": 316823,
+   "volume": 327141,
    "dayHigh": 1129.21,
-   "dayLow": 1105.15,
+   "dayLow": 1105.56,
    "fiftyTwoWeekHigh": 1463.03,
    "fiftyTwoWeekLow": 1071.25,
    "marketTime": 1791835203,
@@ -1300,8 +1305,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.72,
-    "changePct": 0.73
+    "price": 6.7,
+    "changePct": 0.45
    },
    "relVol": 1.5,
    "avgVolume": 48269906,
@@ -1450,7 +1455,11 @@ window.DASHBOARD_DATA = {
     614.57,
     614.36
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 614.36,
+    "changePct": 0.0
+   },
    "relVol": 0.8,
    "avgVolume": 228724,
    "symbol": "CACI",
@@ -1649,8 +1658,12 @@ window.DASHBOARD_DATA = {
     335.19,
     335.46
    ],
-   "ext": null,
-   "relVol": 1.5,
+   "ext": {
+    "label": "after-hours",
+    "price": 335.46,
+    "changePct": 0.0
+   },
+   "relVol": 1.8,
    "avgVolume": 920240,
    "symbol": "GD",
    "name": "General Dynamics",
@@ -1659,7 +1672,7 @@ window.DASHBOARD_DATA = {
    "price": 335.46,
    "prevClose": 329.9,
    "changePct": 1.69,
-   "volume": 1422505,
+   "volume": 1646905,
    "dayHigh": 336.22,
    "dayLow": 332.326,
    "fiftyTwoWeekHigh": 400.0,
@@ -1797,7 +1810,11 @@ window.DASHBOARD_DATA = {
     139.86,
     139.92
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 139.92,
+    "changePct": 0.0
+   },
    "relVol": 0.7,
    "avgVolume": 1256412,
    "symbol": "BWXT",
@@ -1807,7 +1824,7 @@ window.DASHBOARD_DATA = {
    "price": 139.92,
    "prevClose": 142.22,
    "changePct": -1.62,
-   "volume": 900099,
+   "volume": 915239,
    "dayHigh": 143.93,
    "dayLow": 139.59,
    "fiftyTwoWeekHigh": 241.82,
@@ -1950,7 +1967,7 @@ window.DASHBOARD_DATA = {
     "price": 186.93,
     "changePct": 0.14
    },
-   "relVol": 1.1,
+   "relVol": 1.2,
    "avgVolume": 3011722,
    "symbol": "RTX",
    "name": "RTX Corp",
@@ -1959,7 +1976,7 @@ window.DASHBOARD_DATA = {
    "price": 186.66,
    "prevClose": 184.32,
    "changePct": 1.27,
-   "volume": 3166305,
+   "volume": 3586171,
    "dayHigh": 187.41,
    "dayLow": 185.952,
    "fiftyTwoWeekHigh": 226.88,
@@ -2187,7 +2204,7 @@ window.DASHBOARD_DATA = {
    "price": 308.64,
    "prevClose": 305.62,
    "changePct": 0.99,
-   "volume": 2336160,
+   "volume": 2396611,
    "dayHigh": 311.728,
    "dayLow": 307.647,
    "fiftyTwoWeekHigh": 388.84,
@@ -2263,7 +2280,7 @@ window.DASHBOARD_DATA = {
    "price": 189.5,
    "prevClose": 187.75,
    "changePct": 0.93,
-   "volume": 3569463,
+   "volume": 3687168,
    "dayHigh": 191.9,
    "dayLow": 188.77,
    "fiftyTwoWeekHigh": 254.35,
@@ -2325,8 +2342,12 @@ window.DASHBOARD_DATA = {
     511.97,
     511.88
    ],
-   "ext": null,
-   "relVol": 1.0,
+   "ext": {
+    "label": "after-hours",
+    "price": 511.88,
+    "changePct": 0.0
+   },
+   "relVol": 1.1,
    "avgVolume": 773882,
    "symbol": "LMT",
    "name": "Lockheed Martin",
@@ -2335,9 +2356,9 @@ window.DASHBOARD_DATA = {
    "price": 511.88,
    "prevClose": 507.89,
    "changePct": 0.79,
-   "volume": 797517,
+   "volume": 819760,
    "dayHigh": 515.77,
-   "dayLow": 510.75,
+   "dayLow": 510.9,
    "fiftyTwoWeekHigh": 692.0,
    "fiftyTwoWeekLow": 437.25,
    "marketTime": 1791835202,
@@ -2394,9 +2415,14 @@ window.DASHBOARD_DATA = {
     222.68,
     222.54,
     221.52,
+    220.74,
     220.81
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 220.81,
+    "changePct": 0.0
+   },
    "relVol": 1.0,
    "avgVolume": 1907225,
    "symbol": "HWM",
@@ -2406,12 +2432,12 @@ window.DASHBOARD_DATA = {
    "price": 220.81,
    "prevClose": 222.56,
    "changePct": -0.79,
-   "volume": 1949675,
-   "dayHigh": 225.543,
+   "volume": 1845443,
+   "dayHigh": 225.56,
    "dayLow": 220.35,
    "fiftyTwoWeekHigh": 310.0,
    "fiftyTwoWeekLow": 185.83,
-   "marketTime": 1791835197,
+   "marketTime": 1791835442,
    "news": [
     {
      "title": "Howmet Gains From Strength in Commercial Aerospace: Will the Momentum Last? - Yahoo Finance",
@@ -2470,8 +2496,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 41.8,
-    "changePct": 0.43
+    "price": 41.75,
+    "changePct": 0.31
    },
    "relVol": 0.8,
    "avgVolume": 4493918,
@@ -2698,8 +2724,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.7,
-    "changePct": 0.21
+    "price": 4.71,
+    "changePct": 0.41
    },
    "relVol": 0.9,
    "avgVolume": 28142731,
@@ -2848,8 +2874,12 @@ window.DASHBOARD_DATA = {
     126.64,
     126.62
    ],
-   "ext": null,
-   "relVol": 1.1,
+   "ext": {
+    "label": "after-hours",
+    "price": 126.62,
+    "changePct": 0.0
+   },
+   "relVol": 1.2,
    "avgVolume": 480104,
    "symbol": "OSK",
    "name": "Oshkosh",
@@ -2858,9 +2888,9 @@ window.DASHBOARD_DATA = {
    "price": 126.62,
    "prevClose": 127.35,
    "changePct": -0.57,
-   "volume": 547188,
-   "dayHigh": 128.11,
-   "dayLow": 125.31,
+   "volume": 554648,
+   "dayHigh": 128.01,
+   "dayLow": 125.86,
    "fiftyTwoWeekHigh": 180.49,
    "fiftyTwoWeekLow": 116.77,
    "marketTime": 1791835202,
@@ -2925,7 +2955,7 @@ window.DASHBOARD_DATA = {
     "price": 238.25,
     "changePct": 0.0
    },
-   "relVol": 1.1,
+   "relVol": 1.2,
    "avgVolume": 930672,
    "symbol": "LHX",
    "name": "L3Harris",
@@ -2934,9 +2964,9 @@ window.DASHBOARD_DATA = {
    "price": 238.25,
    "prevClose": 236.92,
    "changePct": 0.56,
-   "volume": 1048569,
+   "volume": 1076463,
    "dayHigh": 238.39,
-   "dayLow": 236.01,
+   "dayLow": 236.125,
    "fiftyTwoWeekHigh": 379.23,
    "fiftyTwoWeekLow": 232.34,
    "marketTime": 1791835202,
@@ -2996,7 +3026,11 @@ window.DASHBOARD_DATA = {
     297.08,
     297.09
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 297.09,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 306587,
    "symbol": "HEI",
@@ -3006,9 +3040,9 @@ window.DASHBOARD_DATA = {
    "price": 297.09,
    "prevClose": 295.91,
    "changePct": 0.4,
-   "volume": 322510,
+   "volume": 331567,
    "dayHigh": 300.75,
-   "dayLow": 296.73,
+   "dayLow": 296.74,
    "fiftyTwoWeekHigh": 376.86,
    "fiftyTwoWeekLow": 256.11,
    "marketTime": 1791835202,
@@ -3069,7 +3103,7 @@ window.DASHBOARD_DATA = {
     264.03
    ],
    "ext": null,
-   "relVol": 0.7,
+   "relVol": 0.8,
    "avgVolume": 439608,
    "symbol": "HII",
    "name": "Huntington Ingalls",
@@ -3078,8 +3112,8 @@ window.DASHBOARD_DATA = {
    "price": 264.03,
    "prevClose": 265.02,
    "changePct": -0.37,
-   "volume": 326153,
-   "dayHigh": 268.42,
+   "volume": 335266,
+   "dayHigh": 268.41,
    "dayLow": 263.8,
    "fiftyTwoWeekHigh": 460.0,
    "fiftyTwoWeekLow": 256.79,
@@ -3145,8 +3179,8 @@ window.DASHBOARD_DATA = {
     "price": 484.0,
     "changePct": -0.21
    },
-   "relVol": 0.8,
-   "avgVolume": 687902,
+   "relVol": 0.9,
+   "avgVolume": 669700,
    "symbol": "NOC",
    "name": "Northrop Grumman",
    "vertical": "Prime Contractors",
@@ -3154,7 +3188,7 @@ window.DASHBOARD_DATA = {
    "price": 485.0,
    "prevClose": 484.48,
    "changePct": 0.11,
-   "volume": 557055,
+   "volume": 572055,
    "dayHigh": 486.63,
    "dayLow": 480.5,
    "fiftyTwoWeekHigh": 774.0,
@@ -3222,7 +3256,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.0
    },
    "relVol": 0.8,
-   "avgVolume": 1186327,
+   "avgVolume": 1185236,
    "symbol": "KBR",
    "name": "KBR",
    "vertical": "Gov Services & IT",
@@ -3296,8 +3330,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.14,
-    "changePct": 0.0
+    "price": 5.15,
+    "changePct": 0.19
    },
    "relVol": 1.0,
    "avgVolume": 23620859,
@@ -3379,10 +3413,10 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 5.43,
-    "changePct": 0.74
+    "changePct": 0.73
    },
    "relVol": 1.2,
-   "avgVolume": 5157373,
+   "avgVolume": 5159921,
    "symbol": "RCAT",
    "name": "Red Cat Holdings",
    "vertical": "Drones & Counter-UAS",
@@ -3521,7 +3555,7 @@ window.DASHBOARD_DATA = {
     14.1,
     13.97,
     13.98,
-    14.41,
+    14.4,
     14.42,
     13.85,
     13.73,
@@ -3625,7 +3659,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 9.23,
-    "changePct": 0.11
+    "changePct": 0.07
    },
    "relVol": 0.7,
    "avgVolume": 11825758,
@@ -3704,9 +3738,13 @@ window.DASHBOARD_DATA = {
     2.33,
     2.33
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 2.33,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
-   "avgVolume": 576995,
+   "avgVolume": 576799,
    "symbol": "KULR",
    "name": "KULR Technology",
    "vertical": "Defense Tech & Software",
@@ -3866,8 +3904,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 131.7,
-    "changePct": 0.14
+    "price": 132.0,
+    "changePct": 0.37
    },
    "relVol": 1.3,
    "avgVolume": 1380962,
@@ -3948,8 +3986,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 65.78,
-    "changePct": 0.11
+    "price": 65.75,
+    "changePct": 0.06
    },
    "relVol": 0.8,
    "avgVolume": 19083120,
@@ -4107,6 +4145,7 @@ window.DASHBOARD_DATA = {
     75.75,
     75.57,
     75.59,
+    75.78,
     75.78
    ],
    "ext": {
@@ -4114,7 +4153,7 @@ window.DASHBOARD_DATA = {
     "price": 75.78,
     "changePct": 0.0
    },
-   "relVol": 1.4,
+   "relVol": 1.8,
    "avgVolume": 1315282,
    "symbol": "TXT",
    "name": "Textron",
@@ -4123,12 +4162,12 @@ window.DASHBOARD_DATA = {
    "price": 75.78,
    "prevClose": 73.22,
    "changePct": 3.5,
-   "volume": 1834498,
+   "volume": 2360967,
    "dayHigh": 76.12,
    "dayLow": 73.76,
    "fiftyTwoWeekHigh": 101.57,
    "fiftyTwoWeekLow": 71.87,
-   "marketTime": 1791835199,
+   "marketTime": 1791835265,
    "news": [
     {
      "title": "Textron (TXT) Faces A 27% Fair Value Gap On Execution Concerns - Yahoo Finance",
