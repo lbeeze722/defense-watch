@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-12T20:27:42.498790+00:00",
+ "generatedAt": "2026-10-12T20:33:28.038538+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.15,
-    "changePct": 0.19
+    "price": 5.14,
+    "changePct": 0.0
    },
    "relVol": 1.0,
    "avgVolume": 23620859,
@@ -269,9 +269,9 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791835202,
    "news": [
     {
-     "title": "Joby Just Dropped 20% in a Month: Is It Time to Sell? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3djcm9CMk5uWU9lMmMybHNlSkY5czREVE1lNHZwLTVWMmg4ZldDMThETW5sUENtX1AwQ1JVQ3FFdnprcmFYWWRmVndmZk02RnBTS3A4S3ZVdEtvdE5oRXo2VDAtZTktNGcwSUFHd1UxRU1HNVp1LUxwWFNWVjZVVE1vZE96NDNCU1BQcDNfdVBYZWJsZFE?oc=5",
-     "pubDate": "Mon, 12 Oct 2026 19:10:38 GMT",
+     "title": "Joby Aviation (JOBY) After Barclays Cut Raises A Bigger Valuation Question - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHVHTzZDa09yOWItdHIwV3FlR3pMOG9KS001ZkNFakRNbFRsYmJqd3ZCUG1hM0d1R2xrX0trdVBqakg4MldVMW9RQkE4eVFhWE03WnFna0hjLXFRM3FlOVBDTk5MVnJoMnhObzZFa1dlZGVXRW9fVm5ucEdVbWl6WHRKTUdLOXJoUWo1XzZMQ2hXbDQ1SVdPelNOME4?oc=5",
+     "pubDate": "Sun, 11 Oct 2026 12:13:08 GMT",
      "source": "Yahoo Finance"
     },
     {
@@ -281,10 +281,10 @@ window.DASHBOARD_DATA = {
      "source": "The Motley Fool"
     },
     {
-     "title": "Barclays Just Downgraded JOBY Stock. Here's Why. - Barchart.com",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaFZuMGp6Mm1JNHU5aHEzYWNxcGd1dnhPeGdQdkJ4UWZSdmdJRzVTZzhjYnFLTnVPMVNzM0NYQVFsM1owRFNxMnFNd1ZTeXVBVGhLVzdfRVg2bDlnZUY4bzRDeV9JTTU5a2VHVmZiLU5jM0dDUllTRGF4YUxfTnBGQ1dBa0pjZERBRnNvXy0tUlhHM190?oc=5",
-     "pubDate": "Fri, 09 Oct 2026 20:30:11 GMT",
-     "source": "Barchart.com"
+     "title": "What Has The Market Missed In Joby Stock\u2019s Drop? - Trefis",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFJXbk5nclJUazYzTTJkTGpheFZfaV9QYUQ3cF80aU1BSFkwNTBnYlAtQWUySmhIeDNxbGhUMm5peHVZdkR1WGZaRzVocFBUYXlaM25kcmNXZFRKOHF1U1Z3WTdrR2JBd2xGRTNzRVozbnJrNUREMUhEdGJ1WEhxSWM4bXJQT0xtRElIY3N0cWYwcEYyenA5VlVmeUFMODhxa1Y1QTRrU0xjWlk?oc=5",
+     "pubDate": "Fri, 09 Oct 2026 12:18:46 GMT",
+     "source": "Trefis"
     },
     {
      "title": "Why Is Joby Aviation Stock Falling on Friday? - Benzinga",
@@ -293,10 +293,10 @@ window.DASHBOARD_DATA = {
      "source": "Benzinga"
     },
     {
-     "title": "What Has The Market Missed In Joby Stock\u2019s Drop? - Trefis",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFJXbk5nclJUazYzTTJkTGpheFZfaV9QYUQ3cF80aU1BSFkwNTBnYlAtQWUySmhIeDNxbGhUMm5peHVZdkR1WGZaRzVocFBUYXlaM25kcmNXZFRKOHF1U1Z3WTdrR2JBd2xGRTNzRVozbnJrNUREMUhEdGJ1WEhxSWM4bXJQT0xtRElIY3N0cWYwcEYyenA5VlVmeUFMODhxa1Y1QTRrU0xjWlk?oc=5",
-     "pubDate": "Fri, 09 Oct 2026 12:18:46 GMT",
-     "source": "Trefis"
+     "title": "Barclays Just Downgraded JOBY Stock. Here's Why. - Barchart.com",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaFZuMGp6Mm1JNHU5aHEzYWNxcGd1dnhPeGdQdkJ4UWZSdmdJRzVTZzhjYnFLTnVPMVNzM0NYQVFsM1owRFNxMnFNd1ZTeXVBVGhLVzdfRVg2bDlnZUY4bzRDeV9JTTU5a2VHVmZiLU5jM0dDUllTRGF4YUxfTnBGQ1dBa0pjZERBRnNvXy0tUlhHM190?oc=5",
+     "pubDate": "Fri, 09 Oct 2026 20:30:11 GMT",
+     "source": "Barchart.com"
     }
    ]
   },
@@ -332,10 +332,10 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 5.41,
-    "changePct": 0.38
+    "changePct": 0.37
    },
    "relVol": 1.2,
-   "avgVolume": 5159921,
+   "avgVolume": 5157373,
    "symbol": "RCAT",
    "name": "Red Cat Holdings",
    "vertical": "Drones & Counter-UAS",
@@ -474,7 +474,7 @@ window.DASHBOARD_DATA = {
     14.1,
     13.97,
     13.98,
-    14.4,
+    14.41,
     14.42,
     13.85,
     13.73,
@@ -577,8 +577,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.22,
-    "changePct": 0.0
+    "price": 9.23,
+    "changePct": 0.11
    },
    "relVol": 0.7,
    "avgVolume": 11825758,
@@ -663,7 +663,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.0
    },
    "relVol": 1.2,
-   "avgVolume": 576799,
+   "avgVolume": 576995,
    "symbol": "KULR",
    "name": "KULR Technology",
    "vertical": "Defense Tech & Software",
@@ -685,6 +685,12 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "KULR Technology Group (KULR) Short Interest & Short Float | Updated Oct 2026 - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Md2VjZXh3TVJWS1VOT3RKVXJRcTh3alJidzBGWURhX1l6S1F4S2Yzb0QzdjNDc1pkNGw2b1V1dU5ZTl9pZmxfZVU0cHNwdGNXWVVRa1JlQno1eXJVRUppUFFNUmZpLXFLbHV6U0N4SE1zVHl2emc?oc=5",
+     "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+     "source": "MarketBeat"
+    },
+    {
      "title": "Can Execution Reframe KULR Technology Group (NYSE:KULR)? - Kalkine Media",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDVJcm9lMWFWejctWGJqR1RDVERPVk5zUUt4a2FWUmlsRGsyUDlGZWUtM25nNUktUGJuc3Bobmw0SlZGMlNOZDFHa2lVUVRUZ2ltbFRmcGpBcUFGRGlDcTJoaU9NWHB6RDFZZGtkQ2tFbDZmUnItQ01CRU1jZlVyZlBPRzVDdjBjNXJ2cmFwdEZKRDhoRHNCZw?oc=5",
      "pubDate": "Sat, 10 Oct 2026 18:05:00 GMT",
@@ -701,12 +707,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcjNRb2hTc3BsRXotTmdWdndyaTZLTFBFX2NZRU9IampBbks5ZEtkTDl1RU5uWHlwRTZrNUlGMmFjZjdvTTNoS2k4MTZ0TVZiNmpaWXpuTGJIdHNiWkgzYVFjUFJWWXVDcFNUVk1YVFA5UjNueVdBY2JITUJVazc1aDFYX0habnRyaF9JZW9lb01wN0gyVXJ2SXRoRFBiZ1d1S3dJajZyLXJQYWFxWGJZM3R4UWxqVUVSYWF4b0RkTTh5RGtGT0U5SjdUUQ?oc=5",
      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
      "source": "Stock Titan"
-    },
-    {
-     "title": "Defense Drone Battery Prototype Deal Could Be A Game Changer For KULR Technology Group (KULR) - Simply Wall Street",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRHpvT0FxbW5XU21TR1NoV1RPRGtlVEJjT0NfZUlxMmhnaHVvVnQyendFVUNuREJDWGxvcTZldFRaVk1SVDFVUzdseGt6Vk9NZGJCUHVMZXJTNl9PMWJlMURVUHNBc2V2WC1rbkNmZGk4WWpWbGlmWlBuMVVXYU9CT1lFdmU1SVNoeWlMeGZWNE52RmhaYTBUdlFNTHUwNVl4bFNTUGR0V0hadXJkMG1pQllweWxXbWVYY25mX2wtOTZ6QTRmWThZWTAyZGhobHFrTFQtNDhwY0o3Tkpvc1Uw0gHkAUFVX3lxTE0zMEJ6R3kyVkExWVhUWDZfRUppTWIzUkotN0g4MlBiUm9rNFp3Yjh3U1RCNGRhT3JjVEdQMjRLNGc4YzZCckxOWjFyc01Xa1ZiN1g3NVlZMlRTb19MNkpPV3JvdTFON1k1RVV2TzVtQ2FLZ2wwVkFrYTBPRXJOdXV6OUtrbWY2YmVSQWRJSHB6VDI1dVl4bXpBdDhhOTRneXBMSzd6LUpJWFJnY3FGUVJOZUJFcDRDMFhlZEN4cGo4ZktlWUY3bjU1MmFFdTlDT1JPaUZUN1hjc2Q5ZGlPSjFzMHFJUw?oc=5",
-     "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-     "source": "Simply Wall Street"
     }
    ]
   },
@@ -741,8 +741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 208.68,
-    "changePct": -0.15
+    "price": 208.67,
+    "changePct": -0.16
    },
    "relVol": 1.0,
    "avgVolume": 24705548,
@@ -861,10 +861,10 @@ window.DASHBOARD_DATA = {
      "source": "24/7 Wall St."
     },
     {
-     "title": "AeroVironment (AVAV) Stock Forecast 2026: $500M Army Contract After a 133% Revenue Beat - Can It Reach $260? - TradingKey",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQzg1bElPUzV2N25LY0RiN2xoT2VHaVRObnRSR1QzWHZfREZ2d0NOMW9UUVZKMHVkNm1ieWpIdFJ4bmN1eUZocWNLek9LRFRGR0REc0VTOXZ2RG1BcmRZbFcyUU9kb2FKTnJacXd4T0s3TkRVeTVvSk10TWJhd2RtRWtRZXFma3RjbEo4SWZHTEpnVzI2YjhrdHhNbUUtR00xem9iMThCREE0ZVlxdzVJMlVNT2FZaGtfTENULTJ4Skkza25G?oc=5",
-     "pubDate": "Sat, 10 Oct 2026 12:43:40 GMT",
-     "source": "TradingKey"
+     "title": "AVAV, KTOS Stocks Gain Overnight: Wedbush Calls AeroVironment, Kratos Long-Term Winners In Defense Tech - Stocktwits",
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb2owajBrWkNQVnV4N25mSHVocEZWb0JpS2JfYjhXR0NXc0lZX0p2MXdsaWp5LUx4UzlMVDNiVXlySEpxVDQ2TFVBSkxsS3RXQlFNZnl5bXFFX1VBUTY0d1poRkpLN29GaHUtZHFkdXk3aEwwYkF0bjQ2TS1LdDBPTVh3c3NWZXdURFBkMmdRMElEbUNYeUNsdTJDUWw5cUJoNGhiNGhISVR2QXRZZThuWlhMUGF4SXYxUWg3YUdqUWt1N25feHhORDFMOHQ1U1BNTU02SmVrcWpacWZGZlREM2UtZ3F6M2JwQXFXRy1peDV3MU80MnBsdw?oc=5",
+     "pubDate": "Mon, 12 Oct 2026 05:54:38 GMT",
+     "source": "Stocktwits"
     },
     {
      "title": "AeroVironment (AVAV) Stock Looks Reasonable As Shares Fell 65% - Yahoo Finance",
@@ -905,8 +905,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 65.75,
-    "changePct": 0.06
+    "price": 65.78,
+    "changePct": 0.11
    },
    "relVol": 0.8,
    "avgVolume": 19083120,
@@ -1154,8 +1154,8 @@ window.DASHBOARD_DATA = {
     "price": 1119.94,
     "changePct": 0.0
    },
-   "relVol": 1.2,
-   "avgVolume": 283263,
+   "relVol": 1.3,
+   "avgVolume": 246175,
    "symbol": "TDG",
    "name": "TransDigm",
    "vertical": "Engines & Suppliers",
@@ -1309,8 +1309,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.7,
-    "changePct": 0.45
+    "price": 6.71,
+    "changePct": 0.6
    },
    "relVol": 1.5,
    "avgVolume": 48269906,
@@ -1667,8 +1667,8 @@ window.DASHBOARD_DATA = {
     "price": 335.46,
     "changePct": 0.0
    },
-   "relVol": 1.8,
-   "avgVolume": 920240,
+   "relVol": 1.9,
+   "avgVolume": 889979,
    "symbol": "GD",
    "name": "General Dynamics",
    "vertical": "Prime Contractors",
@@ -1971,8 +1971,8 @@ window.DASHBOARD_DATA = {
     "price": 187.57,
     "changePct": 0.49
    },
-   "relVol": 1.2,
-   "avgVolume": 3011722,
+   "relVol": 1.1,
+   "avgVolume": 3352799,
    "symbol": "RTX",
    "name": "RTX Corp",
    "vertical": "Prime Contractors",
@@ -2048,7 +2048,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.42
    },
    "relVol": 1.1,
-   "avgVolume": 292819,
+   "avgVolume": 292753,
    "symbol": "MRCY",
    "name": "Mercury Systems",
    "vertical": "Defense Tech & Software",
@@ -2272,8 +2272,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 189.5,
-    "changePct": 0.0
+    "price": 189.6,
+    "changePct": 0.05
    },
    "relVol": 0.6,
    "avgVolume": 5733074,
@@ -2348,8 +2348,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 511.88,
-    "changePct": 0.0
+    "price": 512.35,
+    "changePct": 0.09
    },
    "relVol": 1.1,
    "avgVolume": 773882,
@@ -2436,8 +2436,8 @@ window.DASHBOARD_DATA = {
    "price": 220.81,
    "prevClose": 222.56,
    "changePct": -0.79,
-   "volume": 1845443,
-   "dayHigh": 225.56,
+   "volume": 1949675,
+   "dayHigh": 225.543,
    "dayLow": 220.35,
    "fiftyTwoWeekHigh": 310.0,
    "fiftyTwoWeekLow": 185.83,
@@ -2729,7 +2729,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 4.71,
-    "changePct": 0.4
+    "changePct": 0.41
    },
    "relVol": 0.9,
    "avgVolume": 28142731,
@@ -3111,8 +3111,8 @@ window.DASHBOARD_DATA = {
     "price": 264.03,
     "changePct": 0.0
    },
-   "relVol": 0.8,
-   "avgVolume": 439608,
+   "relVol": 0.9,
+   "avgVolume": 386816,
    "symbol": "HII",
    "name": "Huntington Ingalls",
    "vertical": "Shipbuilding & Naval",
@@ -3264,7 +3264,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.0
    },
    "relVol": 0.8,
-   "avgVolume": 1185236,
+   "avgVolume": 1186327,
    "symbol": "KBR",
    "name": "KBR",
    "vertical": "Gov Services & IT",
@@ -3338,8 +3338,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.15,
-    "changePct": 0.19
+    "price": 5.14,
+    "changePct": 0.0
    },
    "relVol": 1.0,
    "avgVolume": 23620859,
@@ -3358,9 +3358,9 @@ window.DASHBOARD_DATA = {
    "marketTime": 1791835202,
    "news": [
     {
-     "title": "Joby Just Dropped 20% in a Month: Is It Time to Sell? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3djcm9CMk5uWU9lMmMybHNlSkY5czREVE1lNHZwLTVWMmg4ZldDMThETW5sUENtX1AwQ1JVQ3FFdnprcmFYWWRmVndmZk02RnBTS3A4S3ZVdEtvdE5oRXo2VDAtZTktNGcwSUFHd1UxRU1HNVp1LUxwWFNWVjZVVE1vZE96NDNCU1BQcDNfdVBYZWJsZFE?oc=5",
-     "pubDate": "Mon, 12 Oct 2026 19:10:38 GMT",
+     "title": "Joby Aviation (JOBY) After Barclays Cut Raises A Bigger Valuation Question - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHVHTzZDa09yOWItdHIwV3FlR3pMOG9KS001ZkNFakRNbFRsYmJqd3ZCUG1hM0d1R2xrX0trdVBqakg4MldVMW9RQkE4eVFhWE03WnFna0hjLXFRM3FlOVBDTk5MVnJoMnhObzZFa1dlZGVXRW9fVm5ucEdVbWl6WHRKTUdLOXJoUWo1XzZMQ2hXbDQ1SVdPelNOME4?oc=5",
+     "pubDate": "Sun, 11 Oct 2026 12:13:08 GMT",
      "source": "Yahoo Finance"
     },
     {
@@ -3370,10 +3370,10 @@ window.DASHBOARD_DATA = {
      "source": "The Motley Fool"
     },
     {
-     "title": "Barclays Just Downgraded JOBY Stock. Here's Why. - Barchart.com",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaFZuMGp6Mm1JNHU5aHEzYWNxcGd1dnhPeGdQdkJ4UWZSdmdJRzVTZzhjYnFLTnVPMVNzM0NYQVFsM1owRFNxMnFNd1ZTeXVBVGhLVzdfRVg2bDlnZUY4bzRDeV9JTTU5a2VHVmZiLU5jM0dDUllTRGF4YUxfTnBGQ1dBa0pjZERBRnNvXy0tUlhHM190?oc=5",
-     "pubDate": "Fri, 09 Oct 2026 20:30:11 GMT",
-     "source": "Barchart.com"
+     "title": "What Has The Market Missed In Joby Stock\u2019s Drop? - Trefis",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFJXbk5nclJUazYzTTJkTGpheFZfaV9QYUQ3cF80aU1BSFkwNTBnYlAtQWUySmhIeDNxbGhUMm5peHVZdkR1WGZaRzVocFBUYXlaM25kcmNXZFRKOHF1U1Z3WTdrR2JBd2xGRTNzRVozbnJrNUREMUhEdGJ1WEhxSWM4bXJQT0xtRElIY3N0cWYwcEYyenA5VlVmeUFMODhxa1Y1QTRrU0xjWlk?oc=5",
+     "pubDate": "Fri, 09 Oct 2026 12:18:46 GMT",
+     "source": "Trefis"
     },
     {
      "title": "Why Is Joby Aviation Stock Falling on Friday? - Benzinga",
@@ -3382,10 +3382,10 @@ window.DASHBOARD_DATA = {
      "source": "Benzinga"
     },
     {
-     "title": "What Has The Market Missed In Joby Stock\u2019s Drop? - Trefis",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUFJXbk5nclJUazYzTTJkTGpheFZfaV9QYUQ3cF80aU1BSFkwNTBnYlAtQWUySmhIeDNxbGhUMm5peHVZdkR1WGZaRzVocFBUYXlaM25kcmNXZFRKOHF1U1Z3WTdrR2JBd2xGRTNzRVozbnJrNUREMUhEdGJ1WEhxSWM4bXJQT0xtRElIY3N0cWYwcEYyenA5VlVmeUFMODhxa1Y1QTRrU0xjWlk?oc=5",
-     "pubDate": "Fri, 09 Oct 2026 12:18:46 GMT",
-     "source": "Trefis"
+     "title": "Barclays Just Downgraded JOBY Stock. Here's Why. - Barchart.com",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaFZuMGp6Mm1JNHU5aHEzYWNxcGd1dnhPeGdQdkJ4UWZSdmdJRzVTZzhjYnFLTnVPMVNzM0NYQVFsM1owRFNxMnFNd1ZTeXVBVGhLVzdfRVg2bDlnZUY4bzRDeV9JTTU5a2VHVmZiLU5jM0dDUllTRGF4YUxfTnBGQ1dBa0pjZERBRnNvXy0tUlhHM190?oc=5",
+     "pubDate": "Fri, 09 Oct 2026 20:30:11 GMT",
+     "source": "Barchart.com"
     }
    ]
   },
@@ -3421,10 +3421,10 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 5.41,
-    "changePct": 0.38
+    "changePct": 0.37
    },
    "relVol": 1.2,
-   "avgVolume": 5159921,
+   "avgVolume": 5157373,
    "symbol": "RCAT",
    "name": "Red Cat Holdings",
    "vertical": "Drones & Counter-UAS",
@@ -3563,7 +3563,7 @@ window.DASHBOARD_DATA = {
     14.1,
     13.97,
     13.98,
-    14.4,
+    14.41,
     14.42,
     13.85,
     13.73,
@@ -3666,8 +3666,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.22,
-    "changePct": 0.0
+    "price": 9.23,
+    "changePct": 0.11
    },
    "relVol": 0.7,
    "avgVolume": 11825758,
@@ -3752,7 +3752,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.0
    },
    "relVol": 1.2,
-   "avgVolume": 576799,
+   "avgVolume": 576995,
    "symbol": "KULR",
    "name": "KULR Technology",
    "vertical": "Defense Tech & Software",
@@ -3774,6 +3774,12 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "KULR Technology Group (KULR) Short Interest & Short Float | Updated Oct 2026 - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Md2VjZXh3TVJWS1VOT3RKVXJRcTh3alJidzBGWURhX1l6S1F4S2Yzb0QzdjNDc1pkNGw2b1V1dU5ZTl9pZmxfZVU0cHNwdGNXWVVRa1JlQno1eXJVRUppUFFNUmZpLXFLbHV6U0N4SE1zVHl2emc?oc=5",
+     "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+     "source": "MarketBeat"
+    },
+    {
      "title": "Can Execution Reframe KULR Technology Group (NYSE:KULR)? - Kalkine Media",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDVJcm9lMWFWejctWGJqR1RDVERPVk5zUUt4a2FWUmlsRGsyUDlGZWUtM25nNUktUGJuc3Bobmw0SlZGMlNOZDFHa2lVUVRUZ2ltbFRmcGpBcUFGRGlDcTJoaU9NWHB6RDFZZGtkQ2tFbDZmUnItQ01CRU1jZlVyZlBPRzVDdjBjNXJ2cmFwdEZKRDhoRHNCZw?oc=5",
      "pubDate": "Sat, 10 Oct 2026 18:05:00 GMT",
@@ -3790,12 +3796,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcjNRb2hTc3BsRXotTmdWdndyaTZLTFBFX2NZRU9IampBbks5ZEtkTDl1RU5uWHlwRTZrNUlGMmFjZjdvTTNoS2k4MTZ0TVZiNmpaWXpuTGJIdHNiWkgzYVFjUFJWWXVDcFNUVk1YVFA5UjNueVdBY2JITUJVazc1aDFYX0habnRyaF9JZW9lb01wN0gyVXJ2SXRoRFBiZ1d1S3dJajZyLXJQYWFxWGJZM3R4UWxqVUVSYWF4b0RkTTh5RGtGT0U5SjdUUQ?oc=5",
      "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
      "source": "Stock Titan"
-    },
-    {
-     "title": "Defense Drone Battery Prototype Deal Could Be A Game Changer For KULR Technology Group (KULR) - Simply Wall Street",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRHpvT0FxbW5XU21TR1NoV1RPRGtlVEJjT0NfZUlxMmhnaHVvVnQyendFVUNuREJDWGxvcTZldFRaVk1SVDFVUzdseGt6Vk9NZGJCUHVMZXJTNl9PMWJlMURVUHNBc2V2WC1rbkNmZGk4WWpWbGlmWlBuMVVXYU9CT1lFdmU1SVNoeWlMeGZWNE52RmhaYTBUdlFNTHUwNVl4bFNTUGR0V0hadXJkMG1pQllweWxXbWVYY25mX2wtOTZ6QTRmWThZWTAyZGhobHFrTFQtNDhwY0o3Tkpvc1Uw0gHkAUFVX3lxTE0zMEJ6R3kyVkExWVhUWDZfRUppTWIzUkotN0g4MlBiUm9rNFp3Yjh3U1RCNGRhT3JjVEdQMjRLNGc4YzZCckxOWjFyc01Xa1ZiN1g3NVlZMlRTb19MNkpPV3JvdTFON1k1RVV2TzVtQ2FLZ2wwVkFrYTBPRXJOdXV6OUtrbWY2YmVSQWRJSHB6VDI1dVl4bXpBdDhhOTRneXBMSzd6LUpJWFJnY3FGUVJOZUJFcDRDMFhlZEN4cGo4ZktlWUY3bjU1MmFFdTlDT1JPaUZUN1hjc2Q5ZGlPSjFzMHFJUw?oc=5",
-     "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-     "source": "Simply Wall Street"
     }
    ]
   },
@@ -3830,8 +3830,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 208.68,
-    "changePct": -0.15
+    "price": 208.67,
+    "changePct": -0.16
    },
    "relVol": 1.0,
    "avgVolume": 24705548,
@@ -3950,10 +3950,10 @@ window.DASHBOARD_DATA = {
      "source": "24/7 Wall St."
     },
     {
-     "title": "AeroVironment (AVAV) Stock Forecast 2026: $500M Army Contract After a 133% Revenue Beat - Can It Reach $260? - TradingKey",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQzg1bElPUzV2N25LY0RiN2xoT2VHaVRObnRSR1QzWHZfREZ2d0NOMW9UUVZKMHVkNm1ieWpIdFJ4bmN1eUZocWNLek9LRFRGR0REc0VTOXZ2RG1BcmRZbFcyUU9kb2FKTnJacXd4T0s3TkRVeTVvSk10TWJhd2RtRWtRZXFma3RjbEo4SWZHTEpnVzI2YjhrdHhNbUUtR00xem9iMThCREE0ZVlxdzVJMlVNT2FZaGtfTENULTJ4Skkza25G?oc=5",
-     "pubDate": "Sat, 10 Oct 2026 12:43:40 GMT",
-     "source": "TradingKey"
+     "title": "AVAV, KTOS Stocks Gain Overnight: Wedbush Calls AeroVironment, Kratos Long-Term Winners In Defense Tech - Stocktwits",
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb2owajBrWkNQVnV4N25mSHVocEZWb0JpS2JfYjhXR0NXc0lZX0p2MXdsaWp5LUx4UzlMVDNiVXlySEpxVDQ2TFVBSkxsS3RXQlFNZnl5bXFFX1VBUTY0d1poRkpLN29GaHUtZHFkdXk3aEwwYkF0bjQ2TS1LdDBPTVh3c3NWZXdURFBkMmdRMElEbUNYeUNsdTJDUWw5cUJoNGhiNGhISVR2QXRZZThuWlhMUGF4SXYxUWg3YUdqUWt1N25feHhORDFMOHQ1U1BNTU02SmVrcWpacWZGZlREM2UtZ3F6M2JwQXFXRy1peDV3MU80MnBsdw?oc=5",
+     "pubDate": "Mon, 12 Oct 2026 05:54:38 GMT",
+     "source": "Stocktwits"
     },
     {
      "title": "AeroVironment (AVAV) Stock Looks Reasonable As Shares Fell 65% - Yahoo Finance",
@@ -3994,8 +3994,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 65.75,
-    "changePct": 0.06
+    "price": 65.78,
+    "changePct": 0.11
    },
    "relVol": 0.8,
    "avgVolume": 19083120,
@@ -4266,6 +4266,12 @@ window.DASHBOARD_DATA = {
    "source": "ChemNet News"
   },
   {
+   "title": "Jordan King Blames Western Interference for Turbulence in Gulf Zone - https://dailyasianage.com/",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFVVYk5CbzJzc1l4dE5NbWRRMkJOenMzMVQyQTJPZXRBeFltV2lOTE5CVm5yTUJGRkVpVzY1aGhySk0xQkRQSTFjbkZ2MFNEdXBLMzhCa0VVV1h0VjNDVHJ0c2V3QUh5ZkZQR1JXVXl4S01sZWxPYVVaLXNYM25jX0NqQkFFdEFZQVYtcHZVQUdrS3JTZVVuUTNpb19FX3RCMUdiazU2WlE?oc=5",
+   "pubDate": "Mon, 12 Oct 2026 18:13:00 GMT",
+   "source": "https://dailyasianage.com/"
+  },
+  {
    "title": "West Asia conflict disrupts regional medical travel as flight routes close - Travel Daily Media",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU25sUGFTWDd5cEhEM3lmX1RvTHVKTUhhYkFWbmg1eFFMOGN4Zk1na2VfRXByeklVSndhS3g1MDYtWjB1N0Y5X3d1Q1loUlJpakM3Ymgtd1JxdjE3cHRqLWlPd21PZUFMY3otZHRfN242QWU4d01PbGMxMmNDazZ0Y0VrUXFtNlFiR0t0bmI2Y0V4cG9KeEZDZTBpaGhvQzh4OFRzRFREM1BPaGk3?oc=5",
    "pubDate": "Sun, 11 Oct 2026 23:08:39 GMT",
@@ -4276,12 +4282,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wM0pBQlBaWUlTbUZfckhiLVdhVUZfOUdwdHd2d3BrLXMxOV92cUF0Y0RsbGRicGxwdGJhNU50cDRzNkVPOWxkRTQ0cTlhajVGTHlwMA?oc=5",
    "pubDate": "Sun, 11 Oct 2026 21:48:34 GMT",
    "source": "bloomingbit"
-  },
-  {
-   "title": "The Broken Promises Facing Colombian Mercenaries In Ukraine - \u0418\u0424\u0417 \u0420\u0410\u041d",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS1U4UXhqakVPb001WnhXbHp6ZTNhNjU1TDlLZGl5bzZ6clJ4UDlXX2JZX0YzVUlkVUJST1JjekQ5bE9lLUFZaVI4YXB5WlY1SF90dEtyb25IS1FEMGg2a0dfV1dFeUJVWWQtVC1mUkM0T2ZTWmtiVDZGekx1d2Zjb3dZQQ?oc=5",
-   "pubDate": "Mon, 12 Oct 2026 12:01:03 GMT",
-   "source": "\u0418\u0424\u0417 \u0420\u0410\u041d"
   }
  ],
  "mna": [
@@ -4384,28 +4384,28 @@ window.DASHBOARD_DATA = {
    "source": "Rubber News"
   },
   {
+   "title": "Moroccan Industry Teams With KAI For FA-50 Offer - Aviation Week",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZVZyYzRGTElJX29pZTBGVGQ2NlRFLXhZTTNzRUQ1a25scWJkblk5VU1kcTNiei03YjlFbExJS285WGRqVjJjblh6cER1YVgtaEN3NjFnSHp4RUdkdUNxZ0dTSy1leWdyZURqRTlvS1VLZmxhcFppeVZ0ZlFhVXJ3MzFKcDNfdzlpQzJBdjFMU3hramdCV1ZN?oc=5",
+   "pubDate": "Mon, 12 Oct 2026 17:57:50 GMT",
+   "source": "Aviation Week"
+  },
+  {
    "title": "Israel Aerospace Industries slows hiring despite soaring demand as AI reshapes workforce - Ynetnews",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rU3Z2UmVRbkw4QnBHTHhla0l1dEVxS2ZlMVpvQzcxbkQzUXgydWljR3VfX2NBbXZ1cjZYQ0h1dE9JVk50UGYzYm92YU1LTmxRNnBoYVFPeDNvbTF2VVItUWFR?oc=5",
    "pubDate": "Mon, 12 Oct 2026 14:55:17 GMT",
    "source": "Ynetnews"
   },
   {
-   "title": "GE Aerospace announces plans to nearly double supplier spend in-country to help meet India\u2019s aviation industry growth - GE Aerospace",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaHJ5RHpXV0plQl81V3BSTlZ0Z202Sk02RUhpUFlGd3NjZWw3RXZMd04tQ3FOVmV0MjJOREhHejQ3V1ZWYUk0VjhwVG1xaVViQUpTUkFWdFBkSjFzclFFbVlqVlozbGJJZEpmd3J3UmgzUVJ4ZHdJeVF5V1pEZE43MldMUmNGX1V2NDl2dFFYcTJOS3Rkc1RKOTlqaWM5OTViT0tSVWh6V3hXV3RZMVI5dUh6UnotMGxSRnRoVHEzWHBRUXFUVU45aXNRaEk5MFRIbXc?oc=5",
-   "pubDate": "Mon, 12 Oct 2026 10:31:41 GMT",
-   "source": "GE Aerospace"
+   "title": "Northern Virginia Defense Firm Plans Hiring Surge as Pentagon Bets on Quantum - Clearance Jobs",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakVpbnJaeDVTeHdOeGl4b0JDRTFzY0NhN1FyZThJUExwaTZvMFVWUTdDS1A1d0gya3lsTE5KM01pNExoYTZrVHgxcnZyVE9WZUVrMUM5ZFFrLWZrUGpORFp1Umw4Y3lYLVY0c2c1T1JycUk0Xzg4eFhLNXg1NHdod0gtT2NBWUQ3VkRfUXhLRkpNY2N1YmdMN1EwY2ZwdmdVUVJXcDFDRGUyWEtQOTFEMkNBakhtbDJKQTJ0Zw?oc=5",
+   "pubDate": "Mon, 12 Oct 2026 14:30:54 GMT",
+   "source": "Clearance Jobs"
   },
   {
    "title": "Top Applied Aerospace & Defense (AADX) Competitors 2026 - MarketBeat",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vb3NDaUdGb2I1TXNQRUdiOWRvNDZVNFJvVkNtOGpHRnctZnhSZTY4WWlNNkRHNWxBRVg5Vi1qVFh5WUIybURDSGN0QmRNN1F5WTFWR1pKRDVMLXhOVEVQOXZ4WmRPRk9HMExkWGdKSWItNXJlUHBiN1pxREVnZw?oc=5",
    "pubDate": "Mon, 12 Oct 2026 15:41:26 GMT",
    "source": "MarketBeat"
-  },
-  {
-   "title": "Morocco Nears Deal for Israeli LORA Ballistic Missiles, Report Says - Morocco World News",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYi0wejRUMXNYLU1hbnVGVHRUeUNLQVI4ZkNsRnUwXzRoVW1DOXpqcGRuSnBkUFF5UmxkS0ktQTBBV1ZMWWQ1LU9hTTNGVVY1OWo4T3M5Tjc2b2pjNS1qLTVqcEVsNk1EQzA3R3hRaWFZejY1Sldva1FoT2pFSlRsRmloUUxXcFh0YmY4OGI1c3pRdnpJY3gyUU9GUXhVUlJPUE83WUU0emV6RDY1M2s4d0Iyd1A2dw?oc=5",
-   "pubDate": "Mon, 12 Oct 2026 19:29:53 GMT",
-   "source": "Morocco World News"
   }
  ],
  "industrialsNews": [
@@ -4484,22 +4484,22 @@ window.DASHBOARD_DATA = {
    "source": "256 Today"
   },
   {
-   "title": "ProPublica: The Pentagon Gave $350 Million in Contracts to a Firm Closely Tied to a Senior Defense Department Official - Sierra Sun Times",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNbGJKRllzbDJtbGQtMjlQQVNRZ2htU19IVkg3eFpERWpFcTZEM1prS1JOeWNBVDMtVlkyVjNsQWdENFRuWVJuN1VoNkowVzlrZzMxamprMmJzazhDd3lUY1ZKb1pMM1pUTW1WU3REc2s3Q2tPUk9qNDFNYy1xRk5IekpEWDVHTG5TZVBzMVdJSHNTZXhfb3NxenBqVzMwMzVaMWw5X2xEUnAzd3JNZ1hCV3N0NGZPQUZpczBBWU1zck83SEZMUU8yMVVBcWpzTTZWa2ttdjhHVHA0NjVVdmcxSExLQkJma0UzMUsxMjdHeUxld2wxUkFfWmNUbTBLRldTQlpzNGtXQTF4a2hhejJvTldKZGF5QQ?oc=5",
-   "pubDate": "Mon, 12 Oct 2026 12:06:15 GMT",
-   "source": "Sierra Sun Times"
-  },
-  {
    "title": "Lockheed Martin says proven interceptors underpin its expanding missile defense portfolio - Defence Industry Europe",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObGpOUTdUdnYtU1FXTVBKcGJnR2dVT1pkV25XWFRLVFpQMkZQczRyZDh3QWFHbmVISTBBcS11UTl3YWY5b0ktb2llMnR3d0NyMG42YUptMFNZd3doM29zSEpBdXlVWW5KdnJfR3dFNThQRURVdThCTkFtaDV4cGZGX3dCcC1uRW91czhJenpYbUY0QmRiYm5HeGRTMmV2VDZOd2JnSW11QXRLZUFUVkNSWGhmQVQ5TFVldGc?oc=5",
    "pubDate": "Mon, 12 Oct 2026 16:44:41 GMT",
    "source": "Defence Industry Europe"
   },
   {
-   "title": "Kopin Secures $18.6M US Deal to Advance Color MicroLED Displays - The Defense Post",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jNmlxa3Q3Z1ZqX2dnenM5NzdpaGtnNTROOV9Xc2Q4MHZnQTlCbWxiSl94SDFOZmtWeXQ5RkhJSS1JOHEwWkowbjk4UjJMc3JGZUNmaGRmZVZPMWZ3QnVuVlNOZGEyOEhKZDJBNGc1b05aSklGOVgyZtIBeEFVX3lxTE1jNmlxa3Q3Z1ZqX2dnenM5NzdpaGtnNTROOV9Xc2Q4MHZnQTlCbWxiSl94SDFOZmtWeXQ5RkhJSS1JOHEwWkowbjk4UjJMc3JGZUNmaGRmZVZPMWZ3QnVuVlNOZGEyOEhKZDJBNGc1b05aSklGOVgyZg?oc=5",
-   "pubDate": "Mon, 12 Oct 2026 10:12:05 GMT",
-   "source": "The Defense Post"
+   "title": "ProPublica: The Pentagon Gave $350 Million in Contracts to a Firm Closely Tied to a Senior Defense Department Official - Sierra Sun Times",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNbGJKRllzbDJtbGQtMjlQQVNRZ2htU19IVkg3eFpERWpFcTZEM1prS1JOeWNBVDMtVlkyVjNsQWdENFRuWVJuN1VoNkowVzlrZzMxamprMmJzazhDd3lUY1ZKb1pMM1pUTW1WU3REc2s3Q2tPUk9qNDFNYy1xRk5IekpEWDVHTG5TZVBzMVdJSHNTZXhfb3NxenBqVzMwMzVaMWw5X2xEUnAzd3JNZ1hCV3N0NGZPQUZpczBBWU1zck83SEZMUU8yMVVBcWpzTTZWa2ttdjhHVHA0NjVVdmcxSExLQkJma0UzMUsxMjdHeUxld2wxUkFfWmNUbTBLRldTQlpzNGtXQTF4a2hhejJvTldKZGF5QQ?oc=5",
+   "pubDate": "Mon, 12 Oct 2026 12:06:15 GMT",
+   "source": "Sierra Sun Times"
+  },
+  {
+   "title": "Mountain Horse Solutions Receives Second G-TEAD Order for FD-1 Interceptor Under Army Other Transaction Agreement - European Security & Defence",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbTlLeE5SdE9kZDBjMEtzeFU1OW9wSk1JWjgzelZtY3kyLUx4SUVNSEJSYzZQSXAyR285ZFN5SGxveTdrVUtrdjY5NE9PMG9HcUl1Y3lQTlE2ZW9DVGllNHlTbUo3MUxDWEJHaWJycnNKdEIwUHNvTWRhUlpneXZSQ3d6Y2w2Zw?oc=5",
+   "pubDate": "Mon, 12 Oct 2026 13:20:37 GMT",
+   "source": "European Security & Defence"
   },
   {
    "title": "5 Things To Know About Boeing's $20 Billion US Navy Next-Generation Fighter Contract - Simple Flying",
