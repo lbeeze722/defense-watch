@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-14T20:20:24.128647+00:00",
+ "generatedAt": "2026-10-14T20:22:56.466640+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -261,8 +261,8 @@ window.DASHBOARD_DATA = {
    "price": 1.99,
    "prevClose": 2.33,
    "changePct": -14.59,
-   "volume": 1262773,
-   "dayHigh": 2.105,
+   "volume": 1293567,
+   "dayHigh": 2.11,
    "dayLow": 1.96,
    "fiftyTwoWeekHigh": 5.51,
    "fiftyTwoWeekLow": 1.94,
@@ -425,7 +425,7 @@ window.DASHBOARD_DATA = {
    "price": 4.07,
    "prevClose": 4.69,
    "changePct": -13.22,
-   "volume": 25534830,
+   "volume": 25524072,
    "dayHigh": 4.37,
    "dayLow": 4.06,
    "fiftyTwoWeekHigh": 14.62,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.73,
-    "changePct": -0.03
+    "price": 4.72,
+    "changePct": -0.21
    },
    "relVol": 1.6,
    "avgVolume": 5328897,
@@ -589,7 +589,7 @@ window.DASHBOARD_DATA = {
    "price": 4.61,
    "prevClose": 5.14,
    "changePct": -10.31,
-   "volume": 23739491,
+   "volume": 25769352,
    "dayHigh": 4.912,
    "dayLow": 4.605,
    "fiftyTwoWeekHigh": 18.77,
@@ -659,8 +659,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 59.42,
-    "changePct": 0.41
+    "price": 59.37,
+    "changePct": 0.32
    },
    "relVol": 1.4,
    "avgVolume": 15188689,
@@ -741,10 +741,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 17.9,
-    "changePct": 0.96
+    "price": 17.79,
+    "changePct": 0.34
    },
-   "relVol": 1.3,
+   "relVol": 1.4,
    "avgVolume": 2549513,
    "symbol": "UMAC",
    "name": "Unusual Machines",
@@ -753,7 +753,7 @@ window.DASHBOARD_DATA = {
    "price": 17.73,
    "prevClose": 19.64,
    "changePct": -9.73,
-   "volume": 3380556,
+   "volume": 3646173,
    "dayHigh": 19.29,
    "dayLow": 17.52,
    "fiftyTwoWeekHigh": 34.926,
@@ -823,8 +823,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 120.72,
-    "changePct": 0.1
+    "price": 120.7,
+    "changePct": 0.08
    },
    "relVol": 1.3,
    "avgVolume": 1348880,
@@ -905,8 +905,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.17,
-    "changePct": 0.46
+    "price": 6.16,
+    "changePct": 0.33
    },
    "relVol": 1.2,
    "avgVolume": 57157665,
@@ -1069,10 +1069,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.64,
-    "changePct": 0.23
+    "price": 8.63,
+    "changePct": 0.12
    },
-   "relVol": 1.3,
+   "relVol": 1.4,
    "avgVolume": 8605222,
    "symbol": "RDW",
    "name": "Redwire",
@@ -1081,7 +1081,7 @@ window.DASHBOARD_DATA = {
    "price": 8.62,
    "prevClose": 9.22,
    "changePct": -6.51,
-   "volume": 10966701,
+   "volume": 12145911,
    "dayHigh": 9.02,
    "dayLow": 8.47,
    "fiftyTwoWeekHigh": 26.64,
@@ -1318,7 +1318,7 @@ window.DASHBOARD_DATA = {
     "price": 42.79,
     "changePct": 0.0
    },
-   "relVol": 0.9,
+   "relVol": 1.1,
    "avgVolume": 827050,
    "symbol": "PSN",
    "name": "Parsons",
@@ -1327,7 +1327,7 @@ window.DASHBOARD_DATA = {
    "price": 42.79,
    "prevClose": 44.6,
    "changePct": -4.06,
-   "volume": 751223,
+   "volume": 917284,
    "dayHigh": 44.03,
    "dayLow": 42.56,
    "fiftyTwoWeekHigh": 88.0,
@@ -1479,8 +1479,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 200.48,
-    "changePct": -0.24
+    "price": 200.5,
+    "changePct": -0.23
    },
    "relVol": 0.8,
    "avgVolume": 28949939,
@@ -1637,8 +1637,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 184.54,
-    "changePct": -0.07
+    "price": 184.55,
+    "changePct": -0.06
    },
    "relVol": 1.0,
    "avgVolume": 4585113,
@@ -1792,7 +1792,7 @@ window.DASHBOARD_DATA = {
     "price": 71.87,
     "changePct": 0.0
    },
-   "relVol": 0.9,
+   "relVol": 1.1,
    "avgVolume": 1093672,
    "symbol": "BAH",
    "name": "Booz Allen",
@@ -1801,7 +1801,7 @@ window.DASHBOARD_DATA = {
    "price": 71.87,
    "prevClose": 73.63,
    "changePct": -2.39,
-   "volume": 945646,
+   "volume": 1167029,
    "dayHigh": 73.29,
    "dayLow": 70.86,
    "fiftyTwoWeekHigh": 109.1,
@@ -1865,8 +1865,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 495.69,
-    "changePct": 0.0
+    "price": 495.1,
+    "changePct": -0.12
    },
    "relVol": 1.6,
    "avgVolume": 576846,
@@ -1941,8 +1941,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 521.5,
-    "changePct": -0.14
+    "price": 521.99,
+    "changePct": -0.05
    },
    "relVol": 1.8,
    "avgVolume": 701548,
@@ -2172,7 +2172,7 @@ window.DASHBOARD_DATA = {
     "price": 604.01,
     "changePct": 0.0
    },
-   "relVol": 0.7,
+   "relVol": 0.9,
    "avgVolume": 166957,
    "symbol": "CACI",
    "name": "CACI Intl",
@@ -2181,8 +2181,8 @@ window.DASHBOARD_DATA = {
    "price": 604.01,
    "prevClose": 614.36,
    "changePct": -1.68,
-   "volume": 117327,
-   "dayHigh": 616.617,
+   "volume": 151262,
+   "dayHigh": 617.53,
    "dayLow": 601.39,
    "fiftyTwoWeekHigh": 683.5,
    "fiftyTwoWeekLow": 434.7,
@@ -2220,8 +2220,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 217.55,
-    "changePct": 0.0
+    "price": 220.0,
+    "changePct": 1.13
    },
    "relVol": 1.3,
    "avgVolume": 2102106,
@@ -2232,7 +2232,7 @@ window.DASHBOARD_DATA = {
    "price": 217.54,
    "prevClose": 220.81,
    "changePct": -1.48,
-   "volume": 2654405,
+   "volume": 2732640,
    "dayHigh": 219.875,
    "dayLow": 215.44,
    "fiftyTwoWeekHigh": 310.0,
@@ -2375,7 +2375,7 @@ window.DASHBOARD_DATA = {
     "price": 68.12,
     "changePct": 0.0
    },
-   "relVol": 1.3,
+   "relVol": 1.7,
    "avgVolume": 318878,
    "symbol": "VVX",
    "name": "V2X",
@@ -2384,8 +2384,8 @@ window.DASHBOARD_DATA = {
    "price": 68.12,
    "prevClose": 69.02,
    "changePct": -1.3,
-   "volume": 412552,
-   "dayHigh": 68.755,
+   "volume": 533173,
+   "dayHigh": 68.8,
    "dayLow": 66.83,
    "fiftyTwoWeekHigh": 93.98,
    "fiftyTwoWeekLow": 50.889,
@@ -2603,7 +2603,7 @@ window.DASHBOARD_DATA = {
     "price": 118.18,
     "changePct": -2.0
    },
-   "relVol": 0.8,
+   "relVol": 1.1,
    "avgVolume": 810460,
    "symbol": "LDOS",
    "name": "Leidos",
@@ -2612,8 +2612,8 @@ window.DASHBOARD_DATA = {
    "price": 120.59,
    "prevClose": 121.6,
    "changePct": -0.83,
-   "volume": 685880,
-   "dayHigh": 121.12,
+   "volume": 892594,
+   "dayHigh": 121.15,
    "dayLow": 117.84,
    "fiftyTwoWeekHigh": 205.77,
    "fiftyTwoWeekLow": 98.86,
@@ -2755,7 +2755,7 @@ window.DASHBOARD_DATA = {
     "price": 500.48,
     "changePct": 0.0
    },
-   "relVol": 1.3,
+   "relVol": 1.7,
    "avgVolume": 301379,
    "symbol": "CW",
    "name": "Curtiss-Wright",
@@ -2764,7 +2764,7 @@ window.DASHBOARD_DATA = {
    "price": 500.48,
    "prevClose": 504.16,
    "changePct": -0.73,
-   "volume": 388309,
+   "volume": 512047,
    "dayHigh": 509.565,
    "dayLow": 498.76,
    "fiftyTwoWeekHigh": 808.16,
@@ -3211,7 +3211,7 @@ window.DASHBOARD_DATA = {
     "price": 34.72,
     "changePct": -1.45
    },
-   "relVol": 0.9,
+   "relVol": 1.1,
    "avgVolume": 976713,
    "symbol": "KBR",
    "name": "KBR",
@@ -3220,7 +3220,7 @@ window.DASHBOARD_DATA = {
    "price": 35.23,
    "prevClose": 35.19,
    "changePct": 0.11,
-   "volume": 893304,
+   "volume": 1095502,
    "dayHigh": 35.84,
    "dayLow": 34.861,
    "fiftyTwoWeekHigh": 45.37,
@@ -3374,8 +3374,8 @@ window.DASHBOARD_DATA = {
    "price": 1.99,
    "prevClose": 2.33,
    "changePct": -14.59,
-   "volume": 1262773,
-   "dayHigh": 2.105,
+   "volume": 1293567,
+   "dayHigh": 2.11,
    "dayLow": 1.96,
    "fiftyTwoWeekHigh": 5.51,
    "fiftyTwoWeekLow": 1.94,
@@ -3538,7 +3538,7 @@ window.DASHBOARD_DATA = {
    "price": 4.07,
    "prevClose": 4.69,
    "changePct": -13.22,
-   "volume": 25534830,
+   "volume": 25524072,
    "dayHigh": 4.37,
    "dayLow": 4.06,
    "fiftyTwoWeekHigh": 14.62,
@@ -3608,8 +3608,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.73,
-    "changePct": -0.03
+    "price": 4.72,
+    "changePct": -0.21
    },
    "relVol": 1.6,
    "avgVolume": 5328897,
@@ -3702,7 +3702,7 @@ window.DASHBOARD_DATA = {
    "price": 4.61,
    "prevClose": 5.14,
    "changePct": -10.31,
-   "volume": 23739491,
+   "volume": 25769352,
    "dayHigh": 4.912,
    "dayLow": 4.605,
    "fiftyTwoWeekHigh": 18.77,
@@ -3772,8 +3772,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 59.42,
-    "changePct": 0.41
+    "price": 59.37,
+    "changePct": 0.32
    },
    "relVol": 1.4,
    "avgVolume": 15188689,
@@ -3854,10 +3854,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 17.9,
-    "changePct": 0.96
+    "price": 17.79,
+    "changePct": 0.34
    },
-   "relVol": 1.3,
+   "relVol": 1.4,
    "avgVolume": 2549513,
    "symbol": "UMAC",
    "name": "Unusual Machines",
@@ -3866,7 +3866,7 @@ window.DASHBOARD_DATA = {
    "price": 17.73,
    "prevClose": 19.64,
    "changePct": -9.73,
-   "volume": 3380556,
+   "volume": 3646173,
    "dayHigh": 19.29,
    "dayLow": 17.52,
    "fiftyTwoWeekHigh": 34.926,
@@ -3936,8 +3936,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 120.72,
-    "changePct": 0.1
+    "price": 120.7,
+    "changePct": 0.08
    },
    "relVol": 1.3,
    "avgVolume": 1348880,
@@ -4018,8 +4018,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.17,
-    "changePct": 0.46
+    "price": 6.16,
+    "changePct": 0.33
    },
    "relVol": 1.2,
    "avgVolume": 57157665,
@@ -4182,10 +4182,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.64,
-    "changePct": 0.23
+    "price": 8.63,
+    "changePct": 0.12
    },
-   "relVol": 1.3,
+   "relVol": 1.4,
    "avgVolume": 8605222,
    "symbol": "RDW",
    "name": "Redwire",
@@ -4194,7 +4194,7 @@ window.DASHBOARD_DATA = {
    "price": 8.62,
    "prevClose": 9.22,
    "changePct": -6.51,
-   "volume": 10966701,
+   "volume": 12145911,
    "dayHigh": 9.02,
    "dayLow": 8.47,
    "fiftyTwoWeekHigh": 26.64,
@@ -4431,7 +4431,7 @@ window.DASHBOARD_DATA = {
     "price": 42.79,
     "changePct": 0.0
    },
-   "relVol": 0.9,
+   "relVol": 1.1,
    "avgVolume": 827050,
    "symbol": "PSN",
    "name": "Parsons",
@@ -4440,7 +4440,7 @@ window.DASHBOARD_DATA = {
    "price": 42.79,
    "prevClose": 44.6,
    "changePct": -4.06,
-   "volume": 751223,
+   "volume": 917284,
    "dayHigh": 44.03,
    "dayLow": 42.56,
    "fiftyTwoWeekHigh": 88.0,
@@ -4592,8 +4592,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 200.48,
-    "changePct": -0.24
+    "price": 200.5,
+    "changePct": -0.23
    },
    "relVol": 0.8,
    "avgVolume": 28949939,
