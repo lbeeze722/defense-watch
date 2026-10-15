@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-15T20:17:00.066454+00:00",
+ "generatedAt": "2026-10-15T20:22:30.630581+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -189,9 +189,9 @@ window.DASHBOARD_DATA = {
   },
   {
    "date": "2026-10-15",
-   "advancers": 22,
+   "advancers": 23,
    "decliners": 17,
-   "avgChangePct": -0.51,
+   "avgChangePct": -0.47,
    "topMovers": [
     {
      "symbol": "RKLB",
@@ -211,7 +211,7 @@ window.DASHBOARD_DATA = {
     },
     {
      "symbol": "LMT",
-     "changePct": 5.73
+     "changePct": 5.68
     }
    ],
    "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 55.76,
-    "changePct": 0.92
+    "price": 55.72,
+    "changePct": 0.85
    },
    "relVol": 3.2,
    "avgVolume": 15114100,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 17.84,
-    "changePct": 0.06
+    "price": 17.83,
+    "changePct": 0.0
    },
    "relVol": 1.3,
    "avgVolume": 2903316,
@@ -572,28 +572,29 @@ window.DASHBOARD_DATA = {
     531.0,
     530.53,
     531.02,
-    532.88
+    532.88,
+    532.64
    ],
    "ext": {
     "label": "after-hours",
     "price": 532.64,
-    "changePct": -0.05
+    "changePct": 0.0
    },
-   "relVol": 1.5,
+   "relVol": 1.8,
    "avgVolume": 813408,
    "symbol": "LMT",
    "name": "Lockheed Martin",
    "vertical": "Prime Contractors",
    "description": "Largest US defense prime \u2014 F-35 fighter, missiles & fire control (PAC-3, HIMARS), Sikorsky helicopters, and space systems.",
-   "price": 532.88,
+   "price": 532.64,
    "prevClose": 504.02,
-   "changePct": 5.73,
-   "volume": 1198172,
+   "changePct": 5.68,
+   "volume": 1424528,
    "dayHigh": 534.25,
    "dayLow": 526.07,
    "fiftyTwoWeekHigh": 692.0,
    "fiftyTwoWeekLow": 437.25,
-   "marketTime": 1792094398,
+   "marketTime": 1792094402,
    "news": [
     {
      "title": "Lockheed Martin stock may move 3.5% on Oct. 22 earnings - Investing.com",
@@ -658,8 +659,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.95,
-    "changePct": 1.02
+    "price": 4.93,
+    "changePct": 0.61
    },
    "relVol": 1.6,
    "avgVolume": 6008857,
@@ -902,7 +903,11 @@ window.DASHBOARD_DATA = {
     308.59,
     308.64
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 308.64,
+    "changePct": 0.0
+   },
    "relVol": 1.7,
    "avgVolume": 277943,
    "symbol": "HEI",
@@ -982,8 +987,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 200.3,
-    "changePct": -0.1
+    "price": 200.1,
+    "changePct": -0.2
    },
    "relVol": 1.0,
    "avgVolume": 24379399,
@@ -1064,8 +1069,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.27,
-    "changePct": 0.01
+    "price": 4.28,
+    "changePct": 0.23
    },
    "relVol": 1.0,
    "avgVolume": 25924091,
@@ -1141,28 +1146,29 @@ window.DASHBOARD_DATA = {
     499.52,
     497.76,
     497.18,
-    499.51
+    499.48,
+    499.63
    ],
    "ext": {
     "label": "after-hours",
     "price": 499.63,
-    "changePct": 0.03
+    "changePct": 0.0
    },
-   "relVol": 1.7,
+   "relVol": 2.0,
    "avgVolume": 631401,
    "symbol": "NOC",
    "name": "Northrop Grumman",
    "vertical": "Prime Contractors",
    "description": "Prime behind the B-21 stealth bomber, Sentinel ICBM, military space systems, and advanced sensors.",
-   "price": 499.5,
+   "price": 499.63,
    "prevClose": 481.38,
-   "changePct": 3.77,
-   "volume": 1062603,
+   "changePct": 3.79,
+   "volume": 1288188,
    "dayHigh": 508.09,
    "dayLow": 496.59,
    "fiftyTwoWeekHigh": 774.0,
    "fiftyTwoWeekLow": 470.06,
-   "marketTime": 1792094398,
+   "marketTime": 1792094402,
    "news": [
     {
      "title": "Northrop Grumman (NOC) Stock Could Still Be A Bargain Despite Its 34% Run - Simply Wall Street",
@@ -1627,8 +1633,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.82,
-    "changePct": 0.21
+    "price": 4.83,
+    "changePct": 0.42
    },
    "relVol": 1.1,
    "avgVolume": 25497696,
@@ -1926,28 +1932,29 @@ window.DASHBOARD_DATA = {
     186.75,
     185.86,
     185.58,
-    186.9
+    186.94,
+    186.95
    ],
    "ext": {
     "label": "after-hours",
     "price": 187.14,
-    "changePct": 0.13
+    "changePct": 0.1
    },
-   "relVol": 1.2,
+   "relVol": 1.5,
    "avgVolume": 3185784,
    "symbol": "RTX",
    "name": "RTX Corp",
    "vertical": "Prime Contractors",
    "description": "Defense and aerospace giant \u2014 Raytheon missiles & air defense (Patriot, AMRAAM), Pratt & Whitney engines, Collins Aerospace avionics.",
-   "price": 186.91,
+   "price": 186.95,
    "prevClose": 183.02,
-   "changePct": 2.12,
-   "volume": 3688001,
+   "changePct": 2.15,
+   "volume": 4669071,
    "dayHigh": 189.96,
    "dayLow": 185.31,
    "fiftyTwoWeekHigh": 226.88,
    "fiftyTwoWeekLow": 156.1,
-   "marketTime": 1792094399,
+   "marketTime": 1792094402,
    "news": []
   },
   {
@@ -2104,6 +2111,57 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    331.5,
+    331.77,
+    331.43,
+    331.56,
+    331.31,
+    334.71,
+    335.04,
+    334.7,
+    334.81,
+    335.19,
+    329.96,
+    330.17,
+    332.9,
+    333.62,
+    332.42,
+    334.62,
+    334.22,
+    334.82,
+    334.39,
+    334.74,
+    337.36,
+    336.46,
+    335.95,
+    335.61,
+    337.02,
+    337.03
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 337.03,
+    "changePct": 0.0
+   },
+   "relVol": 1.4,
+   "avgVolume": 872010,
+   "symbol": "GD",
+   "name": "General Dynamics",
+   "vertical": "Prime Contractors",
+   "description": "Abrams tanks and combat vehicles, nuclear submarines (Electric Boat), Gulfstream business jets, and defense IT (GDIT).",
+   "price": 337.03,
+   "prevClose": 332.42,
+   "changePct": 1.39,
+   "volume": 1224503,
+   "dayHigh": 341.15,
+   "dayLow": 335.275,
+   "fiftyTwoWeekHigh": 400.0,
+   "fiftyTwoWeekLow": 306.77,
+   "marketTime": 1792094402,
+   "news": []
+  },
+  {
+   "spark": [
     225.59,
     224.36,
     226.0,
@@ -2129,12 +2187,12 @@ window.DASHBOARD_DATA = {
     217.84,
     218.84,
     219.75,
-    219.75
+    219.7
    ],
    "ext": {
     "label": "after-hours",
     "price": 219.7,
-    "changePct": -0.02
+    "changePct": 0.0
    },
    "relVol": 1.6,
    "avgVolume": 2132672,
@@ -2142,15 +2200,15 @@ window.DASHBOARD_DATA = {
    "name": "Howmet Aerospace",
    "vertical": "Engines & Suppliers",
    "description": "Engineered metal components \u2014 jet engine airfoils, fasteners, and titanium structures for commercial and defense aircraft.",
-   "price": 219.75,
+   "price": 219.7,
    "prevClose": 216.84,
-   "changePct": 1.34,
-   "volume": 3422982,
+   "changePct": 1.32,
+   "volume": 3332985,
    "dayHigh": 220.615,
    "dayLow": 211.08,
    "fiftyTwoWeekHigh": 310.0,
    "fiftyTwoWeekLow": 187.46,
-   "marketTime": 1792094400,
+   "marketTime": 1792094672,
    "news": [
     {
      "title": "Howmet Aerospace (HWM) Stock Looks Fairly Valued On Cash Flow - Yahoo Finance",
@@ -2209,8 +2267,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 188.12,
-    "changePct": -0.32
+    "price": 188.45,
+    "changePct": -0.15
    },
    "relVol": 1.4,
    "avgVolume": 4181741,
@@ -3090,7 +3148,11 @@ window.DASHBOARD_DATA = {
     501.27,
     501.49
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 501.49,
+    "changePct": 0.0
+   },
    "relVol": 1.3,
    "avgVolume": 307749,
    "symbol": "CW",
@@ -3242,8 +3304,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 55.76,
-    "changePct": 0.92
+    "price": 55.72,
+    "changePct": 0.85
    },
    "relVol": 3.2,
    "avgVolume": 15114100,
@@ -3488,8 +3550,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 17.84,
-    "changePct": 0.06
+    "price": 17.83,
+    "changePct": 0.0
    },
    "relVol": 1.3,
    "avgVolume": 2903316,
@@ -3565,28 +3627,29 @@ window.DASHBOARD_DATA = {
     531.0,
     530.53,
     531.02,
-    532.88
+    532.88,
+    532.64
    ],
    "ext": {
     "label": "after-hours",
     "price": 532.64,
-    "changePct": -0.05
+    "changePct": 0.0
    },
-   "relVol": 1.5,
+   "relVol": 1.8,
    "avgVolume": 813408,
    "symbol": "LMT",
    "name": "Lockheed Martin",
    "vertical": "Prime Contractors",
    "description": "Largest US defense prime \u2014 F-35 fighter, missiles & fire control (PAC-3, HIMARS), Sikorsky helicopters, and space systems.",
-   "price": 532.88,
+   "price": 532.64,
    "prevClose": 504.02,
-   "changePct": 5.73,
-   "volume": 1198172,
+   "changePct": 5.68,
+   "volume": 1424528,
    "dayHigh": 534.25,
    "dayLow": 526.07,
    "fiftyTwoWeekHigh": 692.0,
    "fiftyTwoWeekLow": 437.25,
-   "marketTime": 1792094398,
+   "marketTime": 1792094402,
    "news": [
     {
      "title": "Lockheed Martin stock may move 3.5% on Oct. 22 earnings - Investing.com",
@@ -3651,8 +3714,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.95,
-    "changePct": 1.02
+    "price": 4.93,
+    "changePct": 0.61
    },
    "relVol": 1.6,
    "avgVolume": 6008857,
@@ -3895,7 +3958,11 @@ window.DASHBOARD_DATA = {
     308.59,
     308.64
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 308.64,
+    "changePct": 0.0
+   },
    "relVol": 1.7,
    "avgVolume": 277943,
    "symbol": "HEI",
@@ -3975,8 +4042,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 200.3,
-    "changePct": -0.1
+    "price": 200.1,
+    "changePct": -0.2
    },
    "relVol": 1.0,
    "avgVolume": 24379399,
@@ -4057,8 +4124,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.27,
-    "changePct": 0.01
+    "price": 4.28,
+    "changePct": 0.23
    },
    "relVol": 1.0,
    "avgVolume": 25924091,
@@ -4134,28 +4201,29 @@ window.DASHBOARD_DATA = {
     499.52,
     497.76,
     497.18,
-    499.51
+    499.48,
+    499.63
    ],
    "ext": {
     "label": "after-hours",
     "price": 499.63,
-    "changePct": 0.03
+    "changePct": 0.0
    },
-   "relVol": 1.7,
+   "relVol": 2.0,
    "avgVolume": 631401,
    "symbol": "NOC",
    "name": "Northrop Grumman",
    "vertical": "Prime Contractors",
    "description": "Prime behind the B-21 stealth bomber, Sentinel ICBM, military space systems, and advanced sensors.",
-   "price": 499.5,
+   "price": 499.63,
    "prevClose": 481.38,
-   "changePct": 3.77,
-   "volume": 1062603,
+   "changePct": 3.79,
+   "volume": 1288188,
    "dayHigh": 508.09,
    "dayLow": 496.59,
    "fiftyTwoWeekHigh": 774.0,
    "fiftyTwoWeekLow": 470.06,
-   "marketTime": 1792094398,
+   "marketTime": 1792094402,
    "news": [
     {
      "title": "Northrop Grumman (NOC) Stock Could Still Be A Bargain Despite Its 34% Run - Simply Wall Street",
