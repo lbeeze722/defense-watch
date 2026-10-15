@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-15T20:00:28.988859+00:00",
+ "generatedAt": "2026-10-15T20:05:59.200744+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -211,7 +211,7 @@ window.DASHBOARD_DATA = {
     },
     {
      "symbol": "LMT",
-     "changePct": 5.72
+     "changePct": 5.73
     }
    ],
    "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
@@ -244,10 +244,14 @@ window.DASHBOARD_DATA = {
     52.46,
     53.58,
     55.14,
-    55.25,
+    55.24,
     55.25
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 55.5,
+    "changePct": 0.45
+   },
    "relVol": 3.2,
    "avgVolume": 15114100,
    "symbol": "RKLB",
@@ -412,12 +416,12 @@ window.DASHBOARD_DATA = {
    "price": 741.61,
    "prevClose": 667.67,
    "changePct": 11.07,
-   "volume": 189932,
+   "volume": 196245,
    "dayHigh": 746.26,
    "dayLow": 721.11,
    "fiftyTwoWeekHigh": 1016.06,
    "fiftyTwoWeekLow": 453.0,
-   "marketTime": 1792094400,
+   "marketTime": 1792094401,
    "news": [
     {
      "title": "Elbit Systems building European LWS production center - Globes - Israel Business News",
@@ -479,7 +483,11 @@ window.DASHBOARD_DATA = {
     17.73,
     17.84
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 17.84,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
    "avgVolume": 2903316,
    "symbol": "UMAC",
@@ -554,24 +562,28 @@ window.DASHBOARD_DATA = {
     531.0,
     530.53,
     531.02,
-    533.84
+    532.88
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 532.64,
+    "changePct": -0.05
+   },
    "relVol": 1.5,
    "avgVolume": 813408,
    "symbol": "LMT",
    "name": "Lockheed Martin",
    "vertical": "Prime Contractors",
    "description": "Largest US defense prime \u2014 F-35 fighter, missiles & fire control (PAC-3, HIMARS), Sikorsky helicopters, and space systems.",
-   "price": 532.85,
+   "price": 532.88,
    "prevClose": 504.02,
-   "changePct": 5.72,
-   "volume": 1193783,
+   "changePct": 5.73,
+   "volume": 1198172,
    "dayHigh": 534.25,
    "dayLow": 526.07,
    "fiftyTwoWeekHigh": 692.0,
    "fiftyTwoWeekLow": 437.25,
-   "marketTime": 1792094390,
+   "marketTime": 1792094398,
    "news": [
     {
      "title": "Lockheed Martin stock may move 3.5% on Oct. 22 earnings - Investing.com",
@@ -634,7 +646,11 @@ window.DASHBOARD_DATA = {
     4.9,
     4.9
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 4.91,
+    "changePct": 0.3
+   },
    "relVol": 1.6,
    "avgVolume": 6008857,
    "symbol": "RCAT",
@@ -709,10 +725,14 @@ window.DASHBOARD_DATA = {
     6.18,
     6.26,
     6.26,
-    6.35,
+    6.34,
     6.35
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 6.36,
+    "changePct": 0.16
+   },
    "relVol": 1.2,
    "avgVolume": 59298355,
    "symbol": "ONDS",
@@ -787,10 +807,14 @@ window.DASHBOARD_DATA = {
     11.16,
     11.26,
     11.62,
-    11.57,
+    11.56,
     11.57
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 11.58,
+    "changePct": 0.09
+   },
    "relVol": 1.8,
    "avgVolume": 6383697,
    "symbol": "LUNR",
@@ -942,10 +966,14 @@ window.DASHBOARD_DATA = {
     198.92,
     200.05,
     200.18,
-    200.51,
+    200.5,
     200.5
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 200.77,
+    "changePct": 0.13
+   },
    "relVol": 1.0,
    "avgVolume": 24379399,
    "symbol": "PLTR",
@@ -1020,24 +1048,28 @@ window.DASHBOARD_DATA = {
     499.52,
     497.76,
     497.18,
-    500.07
+    499.51
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 499.63,
+    "changePct": 0.03
+   },
    "relVol": 1.7,
    "avgVolume": 631401,
    "symbol": "NOC",
    "name": "Northrop Grumman",
    "vertical": "Prime Contractors",
    "description": "Prime behind the B-21 stealth bomber, Sentinel ICBM, military space systems, and advanced sensors.",
-   "price": 499.6,
+   "price": 499.5,
    "prevClose": 481.38,
-   "changePct": 3.78,
-   "volume": 1056740,
+   "changePct": 3.77,
+   "volume": 1062603,
    "dayHigh": 508.09,
    "dayLow": 496.59,
    "fiftyTwoWeekHigh": 774.0,
    "fiftyTwoWeekLow": 470.06,
-   "marketTime": 1792094391,
+   "marketTime": 1792094398,
    "news": [
     {
      "title": "Northrop Grumman (NOC) Stock Could Still Be A Bargain Despite Its 34% Run - Simply Wall Street",
@@ -1099,7 +1131,11 @@ window.DASHBOARD_DATA = {
     4.24,
     4.28
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 4.27,
+    "changePct": -0.11
+   },
    "relVol": 0.9,
    "avgVolume": 25924091,
    "symbol": "ACHR",
@@ -1332,10 +1368,14 @@ window.DASHBOARD_DATA = {
     120.87,
     120.87,
     122.25,
-    123.22,
+    123.17,
     123.22
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 123.4,
+    "changePct": 0.15
+   },
    "relVol": 1.0,
    "avgVolume": 1519206,
    "symbol": "AVAV",
@@ -1483,7 +1523,11 @@ window.DASHBOARD_DATA = {
     4.78,
     4.8
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 4.82,
+    "changePct": 0.31
+   },
    "relVol": 1.0,
    "avgVolume": 25497696,
    "symbol": "JOBY",
@@ -1629,7 +1673,11 @@ window.DASHBOARD_DATA = {
     8.87,
     8.9
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 8.93,
+    "changePct": 0.3
+   },
    "relVol": 1.6,
    "avgVolume": 8883431,
    "symbol": "RDW",
@@ -1698,24 +1746,29 @@ window.DASHBOARD_DATA = {
     240.38,
     240.34,
     241.36,
-    240.82
+    240.16,
+    240.47
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 240.5,
+    "changePct": 0.01
+   },
    "relVol": 2.1,
    "avgVolume": 1215582,
    "symbol": "LHX",
    "name": "L3Harris",
    "vertical": "Prime Contractors",
    "description": "Tactical radios, ISR and space sensors, electronic warfare, and Aerojet Rocketdyne solid rocket motors.",
-   "price": 240.49,
+   "price": 240.47,
    "prevClose": 234.72,
-   "changePct": 2.46,
-   "volume": 2524478,
+   "changePct": 2.45,
+   "volume": 2542922,
    "dayHigh": 242.07,
    "dayLow": 238.915,
    "fiftyTwoWeekHigh": 379.23,
    "fiftyTwoWeekLow": 232.34,
-   "marketTime": 1792094397,
+   "marketTime": 1792094400,
    "news": [
     {
      "title": "HGT Law Announces Investigation of L3Harris Technologies, Inc. (NYSE:LHX) - Stock Titan",
@@ -1841,24 +1894,28 @@ window.DASHBOARD_DATA = {
     186.75,
     185.86,
     185.58,
-    187.0
+    186.9
    ],
-   "ext": null,
-   "relVol": 1.1,
+   "ext": {
+    "label": "after-hours",
+    "price": 186.95,
+    "changePct": 0.02
+   },
+   "relVol": 1.2,
    "avgVolume": 3185784,
    "symbol": "RTX",
    "name": "RTX Corp",
    "vertical": "Prime Contractors",
    "description": "Defense and aerospace giant \u2014 Raytheon missiles & air defense (Patriot, AMRAAM), Pratt & Whitney engines, Collins Aerospace avionics.",
-   "price": 186.97,
+   "price": 186.91,
    "prevClose": 183.02,
-   "changePct": 2.16,
-   "volume": 3653945,
+   "changePct": 2.12,
+   "volume": 3688001,
    "dayHigh": 189.96,
    "dayLow": 185.31,
    "fiftyTwoWeekHigh": 226.88,
    "fiftyTwoWeekLow": 156.1,
-   "marketTime": 1792094392,
+   "marketTime": 1792094399,
    "news": []
   },
   {
@@ -1960,7 +2017,11 @@ window.DASHBOARD_DATA = {
     310.89,
     312.01
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 312.0,
+    "changePct": -0.0
+   },
    "relVol": 1.1,
    "avgVolume": 2477577,
    "symbol": "GE",
@@ -2029,24 +2090,28 @@ window.DASHBOARD_DATA = {
     336.46,
     335.95,
     335.61,
-    336.81
+    337.05
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 337.03,
+    "changePct": -0.0
+   },
    "relVol": 0.9,
    "avgVolume": 872010,
    "symbol": "GD",
    "name": "General Dynamics",
    "vertical": "Prime Contractors",
    "description": "Abrams tanks and combat vehicles, nuclear submarines (Electric Boat), Gulfstream business jets, and defense IT (GDIT).",
-   "price": 337.06,
+   "price": 337.05,
    "prevClose": 332.42,
-   "changePct": 1.4,
-   "volume": 791011,
+   "changePct": 1.39,
+   "volume": 793699,
    "dayHigh": 341.15,
    "dayLow": 335.275,
    "fiftyTwoWeekHigh": 400.0,
    "fiftyTwoWeekLow": 306.77,
-   "marketTime": 1792094395,
+   "marketTime": 1792094398,
    "news": [
     {
      "title": "RBC Capital cuts General Dynamics stock price target on Gulfstream outlook - Investing.com India",
@@ -2100,9 +2165,13 @@ window.DASHBOARD_DATA = {
     216.71,
     217.84,
     218.84,
-    219.91
+    219.69
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 219.7,
+    "changePct": 0.0
+   },
    "relVol": 1.4,
    "avgVolume": 2132672,
    "symbol": "HWM",
@@ -2171,24 +2240,28 @@ window.DASHBOARD_DATA = {
     186.6,
     187.05,
     187.59,
-    188.49
+    188.68
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 188.73,
+    "changePct": 0.03
+   },
    "relVol": 1.1,
    "avgVolume": 4181741,
    "symbol": "BA",
    "name": "Boeing",
    "vertical": "Prime Contractors",
    "description": "Commercial jets plus defense: F-15EX, KC-46 tanker, Apache helicopter, satellites, and weapons programs.",
-   "price": 188.73,
+   "price": 188.68,
    "prevClose": 186.49,
-   "changePct": 1.2,
-   "volume": 4717095,
+   "changePct": 1.17,
+   "volume": 4736941,
    "dayHigh": 188.77,
    "dayLow": 184.38,
    "fiftyTwoWeekHigh": 254.35,
    "fiftyTwoWeekLow": 176.77,
-   "marketTime": 1792094395,
+   "marketTime": 1792094399,
    "news": [
     {
      "title": "Here's How To Trade Boeing As Shares Struggle To Gain Lift - Investor's Business Daily",
@@ -2244,7 +2317,11 @@ window.DASHBOARD_DATA = {
     136.57,
     137.23
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 137.2,
+    "changePct": -0.02
+   },
    "relVol": 1.6,
    "avgVolume": 707315,
    "symbol": "BWXT",
@@ -2313,7 +2390,7 @@ window.DASHBOARD_DATA = {
     157.49,
     160.43,
     160.75,
-    161.55,
+    161.61,
     161.55
    ],
    "ext": null,
@@ -2388,7 +2465,11 @@ window.DASHBOARD_DATA = {
     40.74,
     40.74
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 40.74,
+    "changePct": 0.0
+   },
    "relVol": 1.3,
    "avgVolume": 3953248,
    "symbol": "KTOS",
@@ -2532,7 +2613,7 @@ window.DASHBOARD_DATA = {
     402.61,
     409.27,
     414.57,
-    417.19,
+    417.05,
     417.19
    ],
    "ext": null,
@@ -2604,7 +2685,7 @@ window.DASHBOARD_DATA = {
     35.48,
     35.38,
     35.42,
-    35.47,
+    35.46,
     35.47
    ],
    "ext": null,
@@ -2747,10 +2828,14 @@ window.DASHBOARD_DATA = {
     74.81,
     74.53,
     75.26,
-    76.41,
+    76.42,
     76.41
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 76.63,
+    "changePct": 0.29
+   },
    "relVol": 1.5,
    "avgVolume": 303893,
    "symbol": "MRCY",
@@ -2894,9 +2979,13 @@ window.DASHBOARD_DATA = {
     607.53,
     606.47,
     607.15,
-    612.88
+    611.03
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 611.36,
+    "changePct": 0.05
+   },
    "relVol": 1.3,
    "avgVolume": 145094,
    "symbol": "CACI",
@@ -3086,7 +3175,7 @@ window.DASHBOARD_DATA = {
     133.38,
     132.89,
     133.6,
-    133.31,
+    133.35,
     133.31
    ],
    "ext": {
@@ -3164,10 +3253,14 @@ window.DASHBOARD_DATA = {
     52.46,
     53.58,
     55.14,
-    55.25,
+    55.24,
     55.25
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 55.5,
+    "changePct": 0.45
+   },
    "relVol": 3.2,
    "avgVolume": 15114100,
    "symbol": "RKLB",
@@ -3332,12 +3425,12 @@ window.DASHBOARD_DATA = {
    "price": 741.61,
    "prevClose": 667.67,
    "changePct": 11.07,
-   "volume": 189932,
+   "volume": 196245,
    "dayHigh": 746.26,
    "dayLow": 721.11,
    "fiftyTwoWeekHigh": 1016.06,
    "fiftyTwoWeekLow": 453.0,
-   "marketTime": 1792094400,
+   "marketTime": 1792094401,
    "news": [
     {
      "title": "Elbit Systems building European LWS production center - Globes - Israel Business News",
@@ -3399,7 +3492,11 @@ window.DASHBOARD_DATA = {
     17.73,
     17.84
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 17.84,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
    "avgVolume": 2903316,
    "symbol": "UMAC",
@@ -3474,24 +3571,28 @@ window.DASHBOARD_DATA = {
     531.0,
     530.53,
     531.02,
-    533.84
+    532.88
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 532.64,
+    "changePct": -0.05
+   },
    "relVol": 1.5,
    "avgVolume": 813408,
    "symbol": "LMT",
    "name": "Lockheed Martin",
    "vertical": "Prime Contractors",
    "description": "Largest US defense prime \u2014 F-35 fighter, missiles & fire control (PAC-3, HIMARS), Sikorsky helicopters, and space systems.",
-   "price": 532.85,
+   "price": 532.88,
    "prevClose": 504.02,
-   "changePct": 5.72,
-   "volume": 1193783,
+   "changePct": 5.73,
+   "volume": 1198172,
    "dayHigh": 534.25,
    "dayLow": 526.07,
    "fiftyTwoWeekHigh": 692.0,
    "fiftyTwoWeekLow": 437.25,
-   "marketTime": 1792094390,
+   "marketTime": 1792094398,
    "news": [
     {
      "title": "Lockheed Martin stock may move 3.5% on Oct. 22 earnings - Investing.com",
@@ -3554,7 +3655,11 @@ window.DASHBOARD_DATA = {
     4.9,
     4.9
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 4.91,
+    "changePct": 0.3
+   },
    "relVol": 1.6,
    "avgVolume": 6008857,
    "symbol": "RCAT",
@@ -3629,10 +3734,14 @@ window.DASHBOARD_DATA = {
     6.18,
     6.26,
     6.26,
-    6.35,
+    6.34,
     6.35
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 6.36,
+    "changePct": 0.16
+   },
    "relVol": 1.2,
    "avgVolume": 59298355,
    "symbol": "ONDS",
@@ -3707,10 +3816,14 @@ window.DASHBOARD_DATA = {
     11.16,
     11.26,
     11.62,
-    11.57,
+    11.56,
     11.57
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 11.58,
+    "changePct": 0.09
+   },
    "relVol": 1.8,
    "avgVolume": 6383697,
    "symbol": "LUNR",
@@ -3862,10 +3975,14 @@ window.DASHBOARD_DATA = {
     198.92,
     200.05,
     200.18,
-    200.51,
+    200.5,
     200.5
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 200.77,
+    "changePct": 0.13
+   },
    "relVol": 1.0,
    "avgVolume": 24379399,
    "symbol": "PLTR",
@@ -3940,24 +4057,28 @@ window.DASHBOARD_DATA = {
     499.52,
     497.76,
     497.18,
-    500.07
+    499.51
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 499.63,
+    "changePct": 0.03
+   },
    "relVol": 1.7,
    "avgVolume": 631401,
    "symbol": "NOC",
    "name": "Northrop Grumman",
    "vertical": "Prime Contractors",
    "description": "Prime behind the B-21 stealth bomber, Sentinel ICBM, military space systems, and advanced sensors.",
-   "price": 499.6,
+   "price": 499.5,
    "prevClose": 481.38,
-   "changePct": 3.78,
-   "volume": 1056740,
+   "changePct": 3.77,
+   "volume": 1062603,
    "dayHigh": 508.09,
    "dayLow": 496.59,
    "fiftyTwoWeekHigh": 774.0,
    "fiftyTwoWeekLow": 470.06,
-   "marketTime": 1792094391,
+   "marketTime": 1792094398,
    "news": [
     {
      "title": "Northrop Grumman (NOC) Stock Could Still Be A Bargain Despite Its 34% Run - Simply Wall Street",
@@ -4019,7 +4140,11 @@ window.DASHBOARD_DATA = {
     4.24,
     4.28
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 4.27,
+    "changePct": -0.11
+   },
    "relVol": 0.9,
    "avgVolume": 25924091,
    "symbol": "ACHR",
@@ -4252,10 +4377,14 @@ window.DASHBOARD_DATA = {
     120.87,
     120.87,
     122.25,
-    123.22,
+    123.17,
     123.22
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 123.4,
+    "changePct": 0.15
+   },
    "relVol": 1.0,
    "avgVolume": 1519206,
    "symbol": "AVAV",
