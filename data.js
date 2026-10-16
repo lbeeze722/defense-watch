@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-16T20:03:41.614160+00:00",
+ "generatedAt": "2026-10-16T20:09:39.417180+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 50.85,
-    "changePct": 0.02
+    "price": 50.62,
+    "changePct": -0.43
    },
    "relVol": 1.0,
    "avgVolume": 23134409,
@@ -407,8 +407,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 16.35,
-    "changePct": 0.06
+    "price": 16.64,
+    "changePct": 1.84
    },
    "relVol": 1.0,
    "avgVolume": 3179299,
@@ -567,8 +567,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 185.9,
-    "changePct": -0.07
+    "price": 185.6,
+    "changePct": -0.23
    },
    "relVol": 1.5,
    "avgVolume": 21649083,
@@ -579,7 +579,7 @@ window.DASHBOARD_DATA = {
    "price": 186.03,
    "prevClose": 200.97,
    "changePct": -7.43,
-   "volume": 32802979,
+   "volume": 32842585,
    "dayHigh": 203.55,
    "dayLow": 184.45,
    "fiftyTwoWeekHigh": 212.94,
@@ -593,28 +593,28 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "Could Palantir Stock Create Life-Changing Wealth for Patient Investors? - 24/7 Wall St.",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSFNndF9OLU8zYWRlTzZ3eXM1anVJTWlyVWswNmhOWkJuYl9JRUNBV2VxQjV6VzVNdXhuMGc1cS1LUkVvSU9xLUtyZnI3UndSZDBtbV9hbUhMNzBnS2VBWW5jdkp1cmg3NXREZUlJTm94elZvNFNtUUpJTVl2Wk1NTkc4bW9lemwtTmxQS2ZUanV3cWtmR0owTWYzU0lXV1pka1dNZEJYb21URlJ3b3REV2ZKeHk?oc=5",
+     "pubDate": "Fri, 16 Oct 2026 14:00:00 GMT",
+     "source": "24/7 Wall St."
+    },
+    {
+     "title": "Palantir Stock Is Near Its Record. Here's the Price at Which I'd Buy It. - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMy1tWmNYNkVrcFhQbXg4YUVfc2I1cGlpVFFfbDFnUklEWE5PLU5hdk1DZlZWVTFLT25UaXh6Ry16LW96UG5VR0tva3lUdEg4c1IzMnNCVGlnY1QzRFkwXzJWMVJnQi1LdUIzTks3OVVWQTRFZnRIVjZwRXdLMmdRYzRzWnhKSDFiSFVjSU1IUXY1SjE5emxpUDJwZUxBOFM1UWFua05QV0M3ZkFQeTB6WVVvTQ?oc=5",
+     "pubDate": "Fri, 16 Oct 2026 15:37:00 GMT",
+     "source": "The Motley Fool"
+    },
+    {
      "title": "Palantir Stocks Fall Although Mizuho Lifts Target and Bank Adopts AI - TradingView",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUU9Wc2RBS0IyYWhNeDROaWJaZ0RZaDY3ODNYZXYzREk5cTdTQXFiWGZZR0NPWHRtT0JMZXNwNVRRRkRNUkZ1ekstcXhqS3Bua2JhM042X0NHVWlTRFFIbzRnak9wS0JOanMtbkVGdUJRLXFoZjV4QjlRRUtnczU5bkR6QWJkTnozUldyRlRCWWQ4WmVxT01aZEotZXhLNHFWNzFBNlp6MlRWWmNmU2pQdW11dHB2VkRoSGZ6dWJVQWdiX0QtMllB?oc=5",
      "pubDate": "Fri, 16 Oct 2026 12:40:20 GMT",
      "source": "TradingView"
     },
     {
-     "title": "Palantir Technologies Inc Stock (PLTR) Moved Down by 5.74% on Oct 16: What Investors Need To Know - TradingKey",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUdHN0dYQjdvdDJvX0x4SnhnemtXY1FGWnZpc0VlQXY4cFBfTWMwWmhLQ29RZkYteGNrc0ltMlByX3NFS2wzYWU4VEh3ajJoSG54Y0FQakJQRUhOQWJPUDRLUkJtM3RBRm44Tmw2X0FBbVNqcEYwbFpPb2NZZDNkRXh4LUtVekdER1Zv?oc=5",
-     "pubDate": "Fri, 16 Oct 2026 15:15:25 GMT",
-     "source": "TradingKey"
-    },
-    {
-     "title": "Palantir Technologies Stock Is Falling Friday: What's Going On? - Benzinga",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVUhFTmVyeFpNYkIxamtKMm1LMU1xT0ttYmhDQkQ4eUpNbDNEUUlGVkVyV0NXZUJMTERtZ3lDRkctUnNaZWpyMV94dVFCX3hKMnhiRm9pVUJwWmF6Ym9tNUxXb1VYN2tSZzZRVXZRc1lxLTI3d05QYWFPMHN2Wk45QnZ2Y3pDbU9PNXdELTZ5Q3ROVFBIc0IzS21paWxfZE1lWm5iTDJNcG1sRnRNdUFybk1RSQ?oc=5",
-     "pubDate": "Fri, 16 Oct 2026 18:17:12 GMT",
+     "title": "Cathie Wood Buys $12.4 Million Of CoreWeave Stock As Analyst Warns Of Equity Wipeout, Ark Sells Palantir Shares - Benzinga",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUURTWDd2bzJZYXd3cUxwUnhoNzRUUExlUGxhdjNteDdxSmRockdaaWVTUHdlQldsUWZpeXZidmttN3hBZ29HdHI1YXVSNHRZSzZkaGl5YkliU3JiWktPT3NRWm5XVHgtWXlLOTJWeVcteGFQYWsyMjBrSnFrenBQd3hLLU1WVWhkRmoxWHhjZDRDM0pMRUZHZENZUUFDVXlyaG80bXdHUFlsYkhUX2tEWEwtTnRETzVKWlNzVzFSbF9DUlBmdkVTT3M4c2ZsYlJCWDV1SFpBOGs3eV93OGhqbml5QWZ3TTdRWXc?oc=5",
+     "pubDate": "Thu, 15 Oct 2026 01:55:04 GMT",
      "source": "Benzinga"
-    },
-    {
-     "title": "Palantir's Price Tag Scared Wall Street. Why More Analysts Are Bullish. - Investor's Business Daily",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaFZobGxtT2tVV0FIRlhIMDU0VVhycDJrVHBvWWVFSHNBSUVSYzhlUGFBUFNDT1BCcmlqQjFPVDVha3ZWV1FnUUxXNW5MU0JZcFBveGluOUw3TnhCOWlNTjNfTzZlZlFzaVluRDgyaWRQb1lsNEdVUHVVdmhETGlhcE52Vl9GWnpCLXVqYUJONU0tbUQ1T3F1VUYyY2NkelpEMUZGVU1R?oc=5",
-     "pubDate": "Tue, 13 Oct 2026 13:45:00 GMT",
-     "source": "Investor's Business Daily"
     }
    ]
   },
@@ -646,7 +646,11 @@ window.DASHBOARD_DATA = {
     549.99,
     551.73
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 549.66,
+    "changePct": -0.37
+   },
    "relVol": 1.4,
    "avgVolume": 957016,
    "symbol": "LMT",
@@ -880,8 +884,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 390.29,
-    "changePct": 0.0
+    "price": 391.6,
+    "changePct": 0.34
    },
    "relVol": 2.1,
    "avgVolume": 676673,
@@ -918,9 +922,9 @@ window.DASHBOARD_DATA = {
      "source": "MarketBeat"
     },
     {
-     "title": "Axon Enterprise (AXON) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRFYxZmdkNzExakdDN3FmR0gtSF9lRHl2T0dFQVIxSnJCV0NTczk0RjR1Wmd2Qk9od3VscktLbDF4eHZTQmc3WUJOUldKbW5ZV1Z4Zm90Y2lTY2Y5OEc5dEVrRnl1dnZWdFFEMlJQR2w2NVdiMFFGeF9kNkFoa1VLS0xhZm9HckdwOGNqTXo4QVZaejNmc2YtaWxTcC13dw?oc=5",
-     "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT",
+     "title": "Here's Why Axon Enterprise (AXON) Fell More Than Broader Market - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVTZSWG1icmFqbExSdVcyQkpiMVlac1REWWE0TTZVWXpyQVNnZ2tnYXc0N0VISUN3amZMczk4bjllRkdkZXB3UTVnNVlTZlNOM0ZKQWZ0MUJVWkJQRExTdTBmZDlSTTMwSVI0em5QYjNCNjVPOVRublpiTk9ieFZiYkRNV2VoempvMG9tbFEzVUpyNjRHUjVIYm1RMA?oc=5",
+     "pubDate": "Wed, 14 Oct 2026 21:00:06 GMT",
      "source": "Yahoo Finance"
     },
     {
@@ -959,7 +963,11 @@ window.DASHBOARD_DATA = {
     193.43,
     193.9
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 193.9,
+    "changePct": 0.0
+   },
    "relVol": 1.7,
    "avgVolume": 3770039,
    "symbol": "RTX",
@@ -1139,16 +1147,16 @@ window.DASHBOARD_DATA = {
    "marketTime": 1792180791,
    "news": [
     {
-     "title": "Leidos Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR29RRXpQb3FncGpWNEdoSXNYdndfM2l2bzFLNWUtU0tsd1IzZG43U1V3V2M1dzNJV0JqOHBUMVNlRjFkWlVidUFKQWdkeTFSNG1RdWNfSDZaVERrM2h3bWNDRGVCMjcyd1pKQ01qaUpURHhpTzAxNlBPZVdXWTVKV2RtQlBpdTJpSWZKSjRKeGtLYlBzWGc4X1JLUkt3b0REckduT1hQVXhxMzZlMWMycWl6RnVyMVlLZWFBc2trdEt5Ty1LR0JjMHBWMXBtWXFpdnhZMWlBcWhWZV81WmUxZ2Q3UQ?oc=5",
-     "pubDate": "Thu, 15 Oct 2026 21:09:00 GMT",
-     "source": "MarketWatch"
-    },
-    {
      "title": "Leidos (LDOS) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON2lRb1AyeTRrODE4Q2YxcmlNUDlkOHFfbVZYYWtXWHhVWTRfTW5TRDVBc3ZKZUt5LUJSZlRFbkJTRzlUeE1waUo5THNaaHpDaFpVdHQ0amxsajY0YUkzRTZkQWFVRnc5bldxWWRTNEd1VUpHcXZtbjhiaURPSnRGQVluT2lnbFY2QllzOWZrSlh1dmIwcnpWcTdIcl8yd0E?oc=5",
      "pubDate": "Tue, 13 Oct 2026 20:50:03 GMT",
      "source": "Yahoo Finance"
+    },
+    {
+     "title": "Leidos Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR29RRXpQb3FncGpWNEdoSXNYdndfM2l2bzFLNWUtU0tsd1IzZG43U1V3V2M1dzNJV0JqOHBUMVNlRjFkWlVidUFKQWdkeTFSNG1RdWNfSDZaVERrM2h3bWNDRGVCMjcyd1pKQ01qaUpURHhpTzAxNlBPZVdXWTVKV2RtQlBpdTJpSWZKSjRKeGtLYlBzWGc4X1JLUkt3b0REckduT1hQVXhxMzZlMWMycWl6RnVyMVlLZWFBc2trdEt5Ty1LR0JjMHBWMXBtWXFpdnhZMWlBcWhWZV81WmUxZ2Q3UQ?oc=5",
+     "pubDate": "Thu, 15 Oct 2026 21:09:00 GMT",
+     "source": "MarketWatch"
     },
     {
      "title": "Leidos Holdings, Inc. $LDOS Stock Position Reduced by First Citizens Bank & Trust Co. - MarketBeat",
@@ -1243,6 +1251,12 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JOGhTVUM2RWJvZ1hUWlQwbEJrV2Jnb3pLSG9DX09SZk1FUU8tck1HRGtMMDF4WWZSSW9ON2Z3QUJhSFBfclpXeU1EUWE5TTA?oc=5",
      "pubDate": "Wed, 14 Oct 2026 14:20:19 GMT",
      "source": "Yahoo Finance"
+    },
+    {
+     "title": "VSE Executives to Meet Investors Virtually at Aug. 18 Event - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUdtUHdhakNIVng2M2JXb1BFQzlXZjEwMmNTNzB2bkdNcU9ZMkV0bnVQYnBfa2YxQ0g3eFZQb2NwRl9QcVNNbi1ldmxYTVljdGl2SzU1MGkwcVdQcWxOVS03X1BBVVRaM3czM3JsaUFrbHBJanpGV054S0VhbWdHVG1FMHFibDdxUGpyYkhLbTdrOFVCZUtOWGRLNVIwcUFLZWI4VkdnRDA5NUFqZkYySWVB?oc=5",
+     "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+     "source": "Stock Titan"
     }
    ]
   },
@@ -1582,8 +1596,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 189.74,
-    "changePct": -0.16
+    "price": 189.92,
+    "changePct": -0.06
    },
    "relVol": 1.5,
    "avgVolume": 4232010,
@@ -1874,8 +1888,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.39,
-    "changePct": 0.12
+    "price": 8.43,
+    "changePct": 0.6
    },
    "relVol": 1.0,
    "avgVolume": 10466374,
@@ -1954,7 +1968,11 @@ window.DASHBOARD_DATA = {
     40.42,
     40.42
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 40.47,
+    "changePct": 0.12
+   },
    "relVol": 1.3,
    "avgVolume": 4143521,
    "symbol": "KTOS",
@@ -2174,8 +2192,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.83,
-    "changePct": 0.46
+    "price": 10.8,
+    "changePct": 0.23
    },
    "relVol": 0.9,
    "avgVolume": 7312596,
@@ -2447,8 +2465,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.04,
-    "changePct": 0.0
+    "price": 6.05,
+    "changePct": 0.17
    },
    "relVol": 0.6,
    "avgVolume": 68506391,
@@ -2518,7 +2536,7 @@ window.DASHBOARD_DATA = {
     222.37,
     221.12,
     221.38,
-    220.91
+    220.88
    ],
    "ext": null,
    "relVol": 0.9,
@@ -3123,8 +3141,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.74,
-    "changePct": 0.35
+    "price": 4.72,
+    "changePct": 0.0
    },
    "relVol": 1.1,
    "avgVolume": 6992596,
@@ -3198,8 +3216,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.06,
-    "changePct": -0.25
+    "price": 4.07,
+    "changePct": -0.02
    },
    "relVol": 0.7,
    "avgVolume": 23185375,
@@ -3276,8 +3294,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 50.85,
-    "changePct": 0.02
+    "price": 50.62,
+    "changePct": -0.43
    },
    "relVol": 1.0,
    "avgVolume": 23134409,
@@ -3434,8 +3452,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 16.35,
-    "changePct": 0.06
+    "price": 16.64,
+    "changePct": 1.84
    },
    "relVol": 1.0,
    "avgVolume": 3179299,
@@ -3594,8 +3612,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 185.9,
-    "changePct": -0.07
+    "price": 185.6,
+    "changePct": -0.23
    },
    "relVol": 1.5,
    "avgVolume": 21649083,
@@ -3606,7 +3624,7 @@ window.DASHBOARD_DATA = {
    "price": 186.03,
    "prevClose": 200.97,
    "changePct": -7.43,
-   "volume": 32802979,
+   "volume": 32842585,
    "dayHigh": 203.55,
    "dayLow": 184.45,
    "fiftyTwoWeekHigh": 212.94,
@@ -3620,28 +3638,28 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "Could Palantir Stock Create Life-Changing Wealth for Patient Investors? - 24/7 Wall St.",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSFNndF9OLU8zYWRlTzZ3eXM1anVJTWlyVWswNmhOWkJuYl9JRUNBV2VxQjV6VzVNdXhuMGc1cS1LUkVvSU9xLUtyZnI3UndSZDBtbV9hbUhMNzBnS2VBWW5jdkp1cmg3NXREZUlJTm94elZvNFNtUUpJTVl2Wk1NTkc4bW9lemwtTmxQS2ZUanV3cWtmR0owTWYzU0lXV1pka1dNZEJYb21URlJ3b3REV2ZKeHk?oc=5",
+     "pubDate": "Fri, 16 Oct 2026 14:00:00 GMT",
+     "source": "24/7 Wall St."
+    },
+    {
+     "title": "Palantir Stock Is Near Its Record. Here's the Price at Which I'd Buy It. - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMy1tWmNYNkVrcFhQbXg4YUVfc2I1cGlpVFFfbDFnUklEWE5PLU5hdk1DZlZWVTFLT25UaXh6Ry16LW96UG5VR0tva3lUdEg4c1IzMnNCVGlnY1QzRFkwXzJWMVJnQi1LdUIzTks3OVVWQTRFZnRIVjZwRXdLMmdRYzRzWnhKSDFiSFVjSU1IUXY1SjE5emxpUDJwZUxBOFM1UWFua05QV0M3ZkFQeTB6WVVvTQ?oc=5",
+     "pubDate": "Fri, 16 Oct 2026 15:37:00 GMT",
+     "source": "The Motley Fool"
+    },
+    {
      "title": "Palantir Stocks Fall Although Mizuho Lifts Target and Bank Adopts AI - TradingView",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUU9Wc2RBS0IyYWhNeDROaWJaZ0RZaDY3ODNYZXYzREk5cTdTQXFiWGZZR0NPWHRtT0JMZXNwNVRRRkRNUkZ1ekstcXhqS3Bua2JhM042X0NHVWlTRFFIbzRnak9wS0JOanMtbkVGdUJRLXFoZjV4QjlRRUtnczU5bkR6QWJkTnozUldyRlRCWWQ4WmVxT01aZEotZXhLNHFWNzFBNlp6MlRWWmNmU2pQdW11dHB2VkRoSGZ6dWJVQWdiX0QtMllB?oc=5",
      "pubDate": "Fri, 16 Oct 2026 12:40:20 GMT",
      "source": "TradingView"
     },
     {
-     "title": "Palantir Technologies Inc Stock (PLTR) Moved Down by 5.74% on Oct 16: What Investors Need To Know - TradingKey",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUdHN0dYQjdvdDJvX0x4SnhnemtXY1FGWnZpc0VlQXY4cFBfTWMwWmhLQ29RZkYteGNrc0ltMlByX3NFS2wzYWU4VEh3ajJoSG54Y0FQakJQRUhOQWJPUDRLUkJtM3RBRm44Tmw2X0FBbVNqcEYwbFpPb2NZZDNkRXh4LUtVekdER1Zv?oc=5",
-     "pubDate": "Fri, 16 Oct 2026 15:15:25 GMT",
-     "source": "TradingKey"
-    },
-    {
-     "title": "Palantir Technologies Stock Is Falling Friday: What's Going On? - Benzinga",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVUhFTmVyeFpNYkIxamtKMm1LMU1xT0ttYmhDQkQ4eUpNbDNEUUlGVkVyV0NXZUJMTERtZ3lDRkctUnNaZWpyMV94dVFCX3hKMnhiRm9pVUJwWmF6Ym9tNUxXb1VYN2tSZzZRVXZRc1lxLTI3d05QYWFPMHN2Wk45QnZ2Y3pDbU9PNXdELTZ5Q3ROVFBIc0IzS21paWxfZE1lWm5iTDJNcG1sRnRNdUFybk1RSQ?oc=5",
-     "pubDate": "Fri, 16 Oct 2026 18:17:12 GMT",
+     "title": "Cathie Wood Buys $12.4 Million Of CoreWeave Stock As Analyst Warns Of Equity Wipeout, Ark Sells Palantir Shares - Benzinga",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUURTWDd2bzJZYXd3cUxwUnhoNzRUUExlUGxhdjNteDdxSmRockdaaWVTUHdlQldsUWZpeXZidmttN3hBZ29HdHI1YXVSNHRZSzZkaGl5YkliU3JiWktPT3NRWm5XVHgtWXlLOTJWeVcteGFQYWsyMjBrSnFrenBQd3hLLU1WVWhkRmoxWHhjZDRDM0pMRUZHZENZUUFDVXlyaG80bXdHUFlsYkhUX2tEWEwtTnRETzVKWlNzVzFSbF9DUlBmdkVTT3M4c2ZsYlJCWDV1SFpBOGs3eV93OGhqbml5QWZ3TTdRWXc?oc=5",
+     "pubDate": "Thu, 15 Oct 2026 01:55:04 GMT",
      "source": "Benzinga"
-    },
-    {
-     "title": "Palantir's Price Tag Scared Wall Street. Why More Analysts Are Bullish. - Investor's Business Daily",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaFZobGxtT2tVV0FIRlhIMDU0VVhycDJrVHBvWWVFSHNBSUVSYzhlUGFBUFNDT1BCcmlqQjFPVDVha3ZWV1FnUUxXNW5MU0JZcFBveGluOUw3TnhCOWlNTjNfTzZlZlFzaVluRDgyaWRQb1lsNEdVUHVVdmhETGlhcE52Vl9GWnpCLXVqYUJONU0tbUQ1T3F1VUYyY2NkelpEMUZGVU1R?oc=5",
-     "pubDate": "Tue, 13 Oct 2026 13:45:00 GMT",
-     "source": "Investor's Business Daily"
     }
    ]
   },
@@ -3673,7 +3691,11 @@ window.DASHBOARD_DATA = {
     549.99,
     551.73
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 549.66,
+    "changePct": -0.37
+   },
    "relVol": 1.4,
    "avgVolume": 957016,
    "symbol": "LMT",
@@ -3907,8 +3929,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 390.29,
-    "changePct": 0.0
+    "price": 391.6,
+    "changePct": 0.34
    },
    "relVol": 2.1,
    "avgVolume": 676673,
@@ -3945,9 +3967,9 @@ window.DASHBOARD_DATA = {
      "source": "MarketBeat"
     },
     {
-     "title": "Axon Enterprise (AXON) Stock Sinks As Market Gains: What You Should Know - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRFYxZmdkNzExakdDN3FmR0gtSF9lRHl2T0dFQVIxSnJCV0NTczk0RjR1Wmd2Qk9od3VscktLbDF4eHZTQmc3WUJOUldKbW5ZV1Z4Zm90Y2lTY2Y5OEc5dEVrRnl1dnZWdFFEMlJQR2w2NVdiMFFGeF9kNkFoa1VLS0xhZm9HckdwOGNqTXo4QVZaejNmc2YtaWxTcC13dw?oc=5",
-     "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT",
+     "title": "Here's Why Axon Enterprise (AXON) Fell More Than Broader Market - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVTZSWG1icmFqbExSdVcyQkpiMVlac1REWWE0TTZVWXpyQVNnZ2tnYXc0N0VISUN3amZMczk4bjllRkdkZXB3UTVnNVlTZlNOM0ZKQWZ0MUJVWkJQRExTdTBmZDlSTTMwSVI0em5QYjNCNjVPOVRublpiTk9ieFZiYkRNV2VoempvMG9tbFEzVUpyNjRHUjVIYm1RMA?oc=5",
+     "pubDate": "Wed, 14 Oct 2026 21:00:06 GMT",
      "source": "Yahoo Finance"
     },
     {
@@ -3986,7 +4008,11 @@ window.DASHBOARD_DATA = {
     193.43,
     193.9
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 193.9,
+    "changePct": 0.0
+   },
    "relVol": 1.7,
    "avgVolume": 3770039,
    "symbol": "RTX",
@@ -4166,16 +4192,16 @@ window.DASHBOARD_DATA = {
    "marketTime": 1792180791,
    "news": [
     {
-     "title": "Leidos Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR29RRXpQb3FncGpWNEdoSXNYdndfM2l2bzFLNWUtU0tsd1IzZG43U1V3V2M1dzNJV0JqOHBUMVNlRjFkWlVidUFKQWdkeTFSNG1RdWNfSDZaVERrM2h3bWNDRGVCMjcyd1pKQ01qaUpURHhpTzAxNlBPZVdXWTVKV2RtQlBpdTJpSWZKSjRKeGtLYlBzWGc4X1JLUkt3b0REckduT1hQVXhxMzZlMWMycWl6RnVyMVlLZWFBc2trdEt5Ty1LR0JjMHBWMXBtWXFpdnhZMWlBcWhWZV81WmUxZ2Q3UQ?oc=5",
-     "pubDate": "Thu, 15 Oct 2026 21:09:00 GMT",
-     "source": "MarketWatch"
-    },
-    {
      "title": "Leidos (LDOS) Registers a Bigger Fall Than the Market: Important Facts to Note - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON2lRb1AyeTRrODE4Q2YxcmlNUDlkOHFfbVZYYWtXWHhVWTRfTW5TRDVBc3ZKZUt5LUJSZlRFbkJTRzlUeE1waUo5THNaaHpDaFpVdHQ0amxsajY0YUkzRTZkQWFVRnc5bldxWWRTNEd1VUpHcXZtbjhiaURPSnRGQVluT2lnbFY2QllzOWZrSlh1dmIwcnpWcTdIcl8yd0E?oc=5",
      "pubDate": "Tue, 13 Oct 2026 20:50:03 GMT",
      "source": "Yahoo Finance"
+    },
+    {
+     "title": "Leidos Holdings Inc. stock outperforms competitors on strong trading day - MarketWatch",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR29RRXpQb3FncGpWNEdoSXNYdndfM2l2bzFLNWUtU0tsd1IzZG43U1V3V2M1dzNJV0JqOHBUMVNlRjFkWlVidUFKQWdkeTFSNG1RdWNfSDZaVERrM2h3bWNDRGVCMjcyd1pKQ01qaUpURHhpTzAxNlBPZVdXWTVKV2RtQlBpdTJpSWZKSjRKeGtLYlBzWGc4X1JLUkt3b0REckduT1hQVXhxMzZlMWMycWl6RnVyMVlLZWFBc2trdEt5Ty1LR0JjMHBWMXBtWXFpdnhZMWlBcWhWZV81WmUxZ2Q3UQ?oc=5",
+     "pubDate": "Thu, 15 Oct 2026 21:09:00 GMT",
+     "source": "MarketWatch"
     },
     {
      "title": "Leidos Holdings, Inc. $LDOS Stock Position Reduced by First Citizens Bank & Trust Co. - MarketBeat",
@@ -4270,6 +4296,12 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JOGhTVUM2RWJvZ1hUWlQwbEJrV2Jnb3pLSG9DX09SZk1FUU8tck1HRGtMMDF4WWZSSW9ON2Z3QUJhSFBfclpXeU1EUWE5TTA?oc=5",
      "pubDate": "Wed, 14 Oct 2026 14:20:19 GMT",
      "source": "Yahoo Finance"
+    },
+    {
+     "title": "VSE Executives to Meet Investors Virtually at Aug. 18 Event - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUdtUHdhakNIVng2M2JXb1BFQzlXZjEwMmNTNzB2bkdNcU9ZMkV0bnVQYnBfa2YxQ0g3eFZQb2NwRl9QcVNNbi1ldmxYTVljdGl2SzU1MGkwcVdQcWxOVS03X1BBVVRaM3czM3JsaUFrbHBJanpGV054S0VhbWdHVG1FMHFibDdxUGpyYkhLbTdrOFVCZUtOWGRLNVIwcUFLZWI4VkdnRDA5NUFqZkYySWVB?oc=5",
+     "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+     "source": "Stock Titan"
     }
    ]
   },
@@ -4553,9 +4585,9 @@ window.DASHBOARD_DATA = {
    "source": "The Globe and Mail"
   },
   {
-   "title": "Yemen Houthi Missile Attack on Presidential Palace in Aden Kills Five, Injures 16 - www.nationpathindia.com",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN0MwZ3dTQjRpX1B6eHRHSmRDRTJ2T0tXVEswazlLVXdDWUtwRkY4dWNjYzlJQmVQeDNBRUJtOWxjY3hveUROTWNNakVrQWtIWXYyQUhIQ1h4MVNrZjFuQzJVbXdIbm9wdm9WcVJ6VlNybk56WC1VWEdIdlZLRTlrRFBsYTR3YzFSZktqMEd4a3RVSFlRWGN0NzRxNlJTcGs2SEctY3E5a0d0T0RmeFB5elJOSTJ4YmFBYkRvWEd2bw?oc=5",
-   "pubDate": "Fri, 16 Oct 2026 10:49:56 GMT",
+   "title": "Houthi Missile Strike on Yemen Presidential Palace in Aden Kills Five, Injures 16 - www.nationpathindia.com",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjNydlVJbzB3OC15RFZ5UjFKMEVkWlc4cS1jdXNvOFBuNFN0T3BfZUdjb21IOHpEWEk4Slptc3BVNUkwRTJXZHU3Z1l0dlQ4LWRLeEl5d081TU9feXlKQ1RTaHdxV09oMjhfelJ0WjgzUVc3bzc0R2RQQVg2Zlg0MXNmQmlTZmxjQURJMW5wbXpFMGxxeVZ1bGtPN2pnUkRtSnAwbUF0bHB4NTA?oc=5",
+   "pubDate": "Fri, 16 Oct 2026 03:27:19 GMT",
    "source": "www.nationpathindia.com"
   },
   {
@@ -4565,10 +4597,10 @@ window.DASHBOARD_DATA = {
    "source": "\u0418\u0424\u0417 \u0420\u0410\u041d"
   },
   {
-   "title": "Houthi Missile Strike on Yemen Presidential Palace in Aden Kills Five, Injures 16 - www.nationpathindia.com",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjNydlVJbzB3OC15RFZ5UjFKMEVkWlc4cS1jdXNvOFBuNFN0T3BfZUdjb21IOHpEWEk4Slptc3BVNUkwRTJXZHU3Z1l0dlQ4LWRLeEl5d081TU9feXlKQ1RTaHdxV09oMjhfelJ0WjgzUVc3bzc0R2RQQVg2Zlg0MXNmQmlTZmxjQURJMW5wbXpFMGxxeVZ1bGtPN2pnUkRtSnAwbUF0bHB4NTA?oc=5",
-   "pubDate": "Fri, 16 Oct 2026 03:27:19 GMT",
-   "source": "www.nationpathindia.com"
+   "title": "Why The New Fighting In Tigray Threatens The Fragile Peace - \u0418\u0424\u0417 \u0420\u0410\u041d",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEMk9kQmo3X0pJUTlaNXBHMkNCOHhWOEtfSWMwQ3I4bE13QlZiR2NHT0RCNTZxM05Vemd1MFZzeWh5bVBIdmtyZ1Y0QmlnTFl5Sld0clYxaFhFeThPYUdKYVNCc0JaaEdmODF1RGJDWjJLRHYxVG9z?oc=5",
+   "pubDate": "Thu, 15 Oct 2026 23:32:33 GMT",
+   "source": "\u0418\u0424\u0417 \u0420\u0410\u041d"
   },
   {
    "title": "DR Congo condemns Formula One planned Rwandan Grand Prix as morally indefensible - https://streamlinefeed.co.ke/",
@@ -4659,10 +4691,10 @@ window.DASHBOARD_DATA = {
    "source": "Investor's Business Daily"
   },
   {
-   "title": "Utah builds the technologies that defend the nation and power the economy - KSL News",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSk9mWjdhYW13NC1RRkJZUnFQSXBtT2lFdG1sLUJaT1RXWHFFLWdPN3NXLUVxb1lwQUt4Mmd0cFp5Q2I3Z2liN0oweGZ2MWZDZlp5TjNORUpLYjAwREtxd0MyVlYzQ0dYaEN5ZkhlMmVWMmF4b2JYcDVVaFgwS0tuLUpJTlg0eGhnYkM3bndIQkZBVEVpNGMyb2MxZmtQTFBzQjlTc2g4WFFpeU4yNUFj?oc=5",
-   "pubDate": "Fri, 16 Oct 2026 14:01:40 GMT",
-   "source": "KSL News"
+   "title": "Aerospace, Defense Demand Intact Heading Into Earnings Despite Sentiment Softness, Morgan Stanley Says - Yahoo Finance",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTFBvcXhwQklSVlJ0eUV6LVd1bEtUUmRqREFScWpDTWh2eC03QkZaWFZwUG1WOTZnR1o3WEVEdHFUX0Y0a0kwdkgwQUpGOE1ZMktXbVo2WjVOZmxXREFEdy16WDczWkNTakU5WktodzNzcmRKd3pEUGNvZGN4d0duX1dITEg1QUNHdzhXYV85Z183aTdCQkpQVWhYRWpXMnJKRGs1bUl6Zw?oc=5",
+   "pubDate": "Fri, 16 Oct 2026 19:30:28 GMT",
+   "source": "Yahoo Finance"
   },
   {
    "title": "Through Hole Passive Components Market To 2035: Aerospace and Defense Demand Supports Growth - News and Statistics - IndexBox",
@@ -4677,12 +4709,6 @@ window.DASHBOARD_DATA = {
    "source": "The Oklahoman"
   },
   {
-   "title": "Businesses warn of airlines halting operations and defense contracts being disrupted - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkJDclJFTG53bmNianVnSXFHVUx3TjNRRVBiQ003d3g2ZDFjaTVrVDZEU2ZrdHBoelJRcHd2aFg0bjJrbTZmb1hJOU9lNUQ2Ukh6Vjdfd0xXOFV4Q2wwSVpnNE10Z1RQVG9RMVJ4c3ptNV92YmZWWW5NbEtSbWxWVzBNVlFKQU9rNkdHUFY0ZTF5OFRnbFRCVTZYVlh3U2dG0gGfAUFVX3lxTE5fLVNURzVzamtRRTZRcEVfd1RNalNUTXRka0tHbzR5Zk52a1dSR1dTTnJOTDZ4MTNJb3lqQzBFVnN5MWtZRnRrUTVReTF4b0FPa1paRGRfWmlpcnJmeTRwNWlwU3c3VGR4QWZvOHd0bUxqLVFqRmMyLXhKU1h5M1VCeno1N1pZU1FnQmNLUUpXVk5ZeXZYNXAwRnQwbWt5UQ?oc=5",
-   "pubDate": "Fri, 16 Oct 2026 13:30:45 GMT",
-   "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)"
-  },
-  {
    "title": "Fathom Digital Manufacturing expands aerospace and defense platform with three strategic acquisitions - Defense and Munitions",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb0pMQm9MdmU4TXpZenRBOVpkRHh3dVBUSU5hdUhFQWJmbmJOWDQ4aHJteTZEVFUwMWpEWnExaThGMGZGb0htdjd0a2dCbFJ5ckx2YkdkV3pkR0REc1lGaDRMSXVYZTlZLThRNkh6UWozVnV3WFdjNG1pVjVHOUx5OTBSYTN3RGlFdlAzREVZVlVOWjFPUjBfWHRtVy1pX3duWG4tNXBHbGpZQ0lVMnZfVFQ0T2dNc0tWYnJKeWNna3BkSEJrSzdtYy1Yc0VqWE0?oc=5",
    "pubDate": "Fri, 16 Oct 2026 06:00:00 GMT",
@@ -4695,10 +4721,16 @@ window.DASHBOARD_DATA = {
    "source": "Finimize"
   },
   {
-   "title": "Space Coast snags $25M aerospace investment, 100 jobs - The Business Journals",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlVYNlZpOVNyUHpsODI2X0loU2ZvZnVKSExBNWVMYXhDMTVMSmEzbW9JNndEd2hXT3lKUE1XMkYyTjAzZm5IdXVEcFEyNFFtNE91WjcxQnZWZlNlTkI3dTBFUHZCVHhoajR5ZzQtNTNfVFl2bmxOYU1ueUJPcTd0UFA0SUVLSzhPWm1Cdks0SW1TX3dlUlp2dFJKblR1cnFHN2pYeTA2dlJYUQ?oc=5",
-   "pubDate": "Fri, 16 Oct 2026 13:00:00 GMT",
-   "source": "The Business Journals"
+   "title": "Utah builds the technologies that defend the nation and power the economy - KSL News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSk9mWjdhYW13NC1RRkJZUnFQSXBtT2lFdG1sLUJaT1RXWHFFLWdPN3NXLUVxb1lwQUt4Mmd0cFp5Q2I3Z2liN0oweGZ2MWZDZlp5TjNORUpLYjAwREtxd0MyVlYzQ0dYaEN5ZkhlMmVWMmF4b2JYcDVVaFgwS0tuLUpJTlg0eGhnYkM3bndIQkZBVEVpNGMyb2MxZmtQTFBzQjlTc2g4WFFpeU4yNUFj?oc=5",
+   "pubDate": "Fri, 16 Oct 2026 14:01:40 GMT",
+   "source": "KSL News"
+  },
+  {
+   "title": "Businesses warn of airlines halting operations and defense contracts being disrupted - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkJDclJFTG53bmNianVnSXFHVUx3TjNRRVBiQ003d3g2ZDFjaTVrVDZEU2ZrdHBoelJRcHd2aFg0bjJrbTZmb1hJOU9lNUQ2Ukh6Vjdfd0xXOFV4Q2wwSVpnNE10Z1RQVG9RMVJ4c3ptNV92YmZWWW5NbEtSbWxWVzBNVlFKQU9rNkdHUFY0ZTF5OFRnbFRCVTZYVlh3U2dG0gGfAUFVX3lxTE5fLVNURzVzamtRRTZRcEVfd1RNalNUTXRka0tHbzR5Zk52a1dSR1dTTnJOTDZ4MTNJb3lqQzBFVnN5MWtZRnRrUTVReTF4b0FPa1paRGRfWmlpcnJmeTRwNWlwU3c3VGR4QWZvOHd0bUxqLVFqRmMyLXhKU1h5M1VCeno1N1pZU1FnQmNLUUpXVk5ZeXZYNXAwRnQwbWt5UQ?oc=5",
+   "pubDate": "Fri, 16 Oct 2026 13:30:45 GMT",
+   "source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)"
   },
   {
    "title": "With Increased Aerospace & Defense Focus, CORE Industrial Partners Buys More Manufacturing Firms - 3DPrint.com",
@@ -4765,16 +4797,16 @@ window.DASHBOARD_DATA = {
    "source": "Clearance Jobs"
   },
   {
-   "title": "Contracts for Oct. 13, 2026 - U.S. Department of War (.gov)",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM2NqNkI4QmxMQTMwXzdURVdXQVdWbndqS0dlc0tBY0dhREk5d1hVclRmcmFEQkdZMnRvTHlLOEdpMnZKU3ZwZllHcDFaeEVzQm1VTGhYM3UxYk1wV195YXZYYW9qeXRkS0FTYjVFQ2tyUGNRSFVCZk5VazA5UkFCSWFrYW1pQ2syNExVS1AtRQ?oc=5",
-   "pubDate": "Tue, 13 Oct 2026 21:08:53 GMT",
-   "source": "U.S. Department of War (.gov)"
-  },
-  {
    "title": "Army Awards Shift5 $99M Contract to Support Next Generation Command and Control - GovCon Wire",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uNEZMZVhEQXl1VThLWEJZeER5MkptVU14ZnNoVDhCYXY5Q1UzUTY1TjNwaVJ3RlFNM0FVOU1IRVZmNDYzLTFzbGNRWU9Lc3h5UmFsSU1jZUtReTNadkVVRXpxdTliX2t2SHdnQTdCVERicU0?oc=5",
    "pubDate": "Fri, 16 Oct 2026 09:28:25 GMT",
    "source": "GovCon Wire"
+  },
+  {
+   "title": "Contracts for Oct. 13, 2026 - U.S. Department of War (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM2NqNkI4QmxMQTMwXzdURVdXQVdWbndqS0dlc0tBY0dhREk5d1hVclRmcmFEQkdZMnRvTHlLOEdpMnZKU3ZwZllHcDFaeEVzQm1VTGhYM3UxYk1wV195YXZYYW9qeXRkS0FTYjVFQ2tyUGNRSFVCZk5VazA5UkFCSWFrYW1pQ2syNExVS1AtRQ?oc=5",
+   "pubDate": "Tue, 13 Oct 2026 21:08:53 GMT",
+   "source": "U.S. Department of War (.gov)"
   },
   {
    "title": "Anduril awarded contract to expand US Army\u2019s next-gen battlefield command system - Defense News",
@@ -4783,10 +4815,10 @@ window.DASHBOARD_DATA = {
    "source": "Defense News"
   },
   {
-   "title": "Pentagon awards more than $1 billion in contracts to major university - AL.com",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMkRZZVA3b1BNQkNzTzhhZnhUMmlFZm11UXVjdjQ0bkl1ZzZmR2hsbWFNTFNYX2p5UTAwTTRGUlRfVHdjcFA4UVBocDE4NmZWdER1eldaZU1hMnZZdEJvNlF0bkpwc0JvaC1uajcwS0RiYW10Q0hadG90c1ZoXzlKeDBPejhrMGpXYmJRaHdVSC1fM3RaM0xkX2tJcTF6WWg0Y0I0V1g3UEjSAbwBQVVfeXFMTmgzOG5yTnc3Y0xhUlpxQzN0ZE9vQ2JCR2RZdm1lR084amhaclJYWk4zcV9Uem81TGlxLWpQNGJRYVUyRkNSNktPZVp4d3FKb2NXMi1tbzU2V0EzZDU1YTZZZkhsQUtxZTBVLXBRT2tCRGs3VmlWVXFwNi1DeXdVckQ3TVY5bnZwakJrSG85Q2t1X214dlVHMnNFOVd0azRCb3Q4MUxQT09TbDV6Y1A3Z3lTbjRGMUYyZHFNc0Q?oc=5",
+   "title": "Pentagon awards more than $1 billion in contracts to major university - SILive.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORjBvVTNjVkVRcndlLU9LdWRpX1RhT0ZLSTEyc1BDQzZrbUhBZHI5Yjdxcmd6RXUtM2ZGeEtwYjl1RkFWai0yUUlnNG5mVDhva3FBcjg2UXdmWTNMMENEazA3N1hLU1c1a2VKSm0zQWVnWWJVOWZQWmhUWDFqdFVSN04zSHh5cXRXWm14MDVsbHI1XzZ4dFpGZzRBeUFDREE2UW5EOXAtR0dxY002V1ZVMg?oc=5",
    "pubDate": "Thu, 15 Oct 2026 18:46:00 GMT",
-   "source": "AL.com"
+   "source": "SILive.com"
   },
   {
    "title": "Defense Engineering Corp. lands $37M+ contract for long range kill web work - The Business Journals",
@@ -4795,22 +4827,10 @@ window.DASHBOARD_DATA = {
    "source": "The Business Journals"
   },
   {
-   "title": "Raytheon + Northrop Grumman land new defense contracts - Hville Blast",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jYmtQS210WjFDRld6UUJtQzlPd21QWlVmc1ptRjRESmhXdnZDcG9qSC02cVRvUE9iVmpzMWtBOGdjV2tBVzQ4M3RqTTByMnU5cF9ITnVPbERuZXU4RFkyak5RRHl4Zzk0OC1nU1dtdXg5akdGanZVLUhFS3dvUQ?oc=5",
-   "pubDate": "Wed, 14 Oct 2026 18:03:07 GMT",
-   "source": "Hville Blast"
-  },
-  {
-   "title": "Contracts for Oct. 14, 2026 - U.S. Department of War (.gov)",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOejhPbDlpVDFFQjFFX2UxQkhYelVJejMxcE40NkRscDJHYkdsRWpFS0Fyd1ZhN0o4Z21FRjIyZEpReHBiN21qXzF4eTdrbUFqbGhkVEw0ZVd3WnNsbUlYWGo1MGJNMzRuVTNCQlFfYXRLcGZKNFlYMGVzRDY3VnIwd3h0R0JnWDZsbzY1elNtNA?oc=5",
-   "pubDate": "Wed, 14 Oct 2026 21:19:15 GMT",
-   "source": "U.S. Department of War (.gov)"
-  },
-  {
-   "title": "HII wins U.S. Navy contract for 10 ROMULUS USVs - Defense and Munitions",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZXNLWFZwN0wxV0hfR1RRV3VoWjEyVjhFUXZzYXlERkRUWkJTMFUwYkFhZTRDR2FiaGtkS0NnNTBmbmNNc3lRc1VZb1k3dUNFQlNJR3FnXzVveFlyUUZQRjNqUnJiakhaLU0yRDJQSmd5Ui1mOU55T0QxS1cxLU9nNDhGV3FzQXdQS0ZpOU1CZUY?oc=5",
-   "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
-   "source": "Defense and Munitions"
+   "title": "Defense giant nabs $8 billion nuclear communications system contract - AL.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGJfMXBGYTFLemxla3hJREtaSlJ6WWFUdll6VHJtNThZQnJ0NDUzT2M1WE1QM3RoUjNGckdHSkM4N1pVaGhaaWljdjFwaVRQT3dtOVNkZk5nQjVZejR5ZjVRcUdXY0lPTTdtbFE5T0hUUDRWSGlER2RBTjRFX1YySXBzZFBLMWt2WGpxRnA4ZVlfRGRSdGNFRzNZYkVlb0Z6Y0ZoM3ZNUdIBuwFBVV95cUxPVnlEejUtc1ZaZ0JrRURvTWt4RDBLT2pMX1pOeHJfV0dkM1pWbnNRM1lRV2g1MXNpdl9ncHVWckx2MXFyUU5GR21HWWFJRTFwUnpSVWdmcGE3aU80NmM1ZFR0WGFLVVdGZS1ndXZfa2Z6eHd6OTczRVcweDFvdXJobk5yeURnSTZKbnBhU0k1VUdzUkhJUm5rek04b184Vk1TM1dFWmZGTHRrSjBkWE9pT3NyZWFYTWVwVkVR?oc=5",
+   "pubDate": "Wed, 14 Oct 2026 21:33:00 GMT",
+   "source": "AL.com"
   },
   {
    "title": "Pentagon awards San Diego company $500M for system that shoots down Iranian drones - San Diego Union-Tribune",
@@ -4819,16 +4839,28 @@ window.DASHBOARD_DATA = {
    "source": "San Diego Union-Tribune"
   },
   {
+   "title": "Raytheon + Northrop Grumman land new defense contracts - Hville Blast",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jYmtQS210WjFDRld6UUJtQzlPd21QWlVmc1ptRjRESmhXdnZDcG9qSC02cVRvUE9iVmpzMWtBOGdjV2tBVzQ4M3RqTTByMnU5cF9ITnVPbERuZXU4RFkyak5RRHl4Zzk0OC1nU1dtdXg5akdGanZVLUhFS3dvUQ?oc=5",
+   "pubDate": "Wed, 14 Oct 2026 18:03:07 GMT",
+   "source": "Hville Blast"
+  },
+  {
    "title": "West Chester-based manufacturer wins $490M defense contract - WKRC",
    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLWN5YXNDZHVYRUxFYWFLRVpxWHJXYldETjAyZE9ZWFhSa01zdzZBUkZMQlZiVDJqRkZFRldRSkdrNFRmY3RuUW9kSXlCcmFRNmFRSnhzRmNrdmpBVFphZFRkYURLMDNJWDI4NG9YRHdwU3hBLUIxSWdaX2hPMF9ZZUJsTExoTjlnVG1jSmpBamZFS2pscmFnSVVCR1dVdHBMR3ljVTFHbVc4OHhRQU9QeHhfRm14WlpQcWVmUkpsZW5HYk84NDYyWW5qSF9vX0RYUW5PMHh6Y1VVcE1PQ2c?oc=5",
    "pubDate": "Fri, 16 Oct 2026 05:30:52 GMT",
    "source": "WKRC"
   },
   {
-   "title": "U.S. Army\u2019s National Simulation Center Acquires Omni One for Immersive Soldier Training - markets.businessinsider.com",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaHNRTmwxWm5WZ2d1TDJRdC1qcmc3ekZOYnh0ZmxaT1JoRUdJYUZHWG8zOTUwVERNNDZibDhXcnV4R0pqN043SVppQl9CRDZ1MGkyS2tHQm13TnF4OUNpZVM0NTRaRDNVMExuRG5wam0zWmxJX3J2dXpEbVdzVUUzWFlqdnMwc1pudWNoN19UT1RwTU55cHllVzhVRW5pU2VqbFV5STBfUWVfaElKNmJOWl8yN2UyVTFpVTlGQWF1cjZUOW5WLUV5VGRXSkttZnBVaXhmVzZrZ01oMG9ZNFE?oc=5",
-   "pubDate": "Wed, 14 Oct 2026 19:35:27 GMT",
-   "source": "markets.businessinsider.com"
+   "title": "HII wins U.S. Navy contract for 10 ROMULUS USVs - Defense and Munitions",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZXNLWFZwN0wxV0hfR1RRV3VoWjEyVjhFUXZzYXlERkRUWkJTMFUwYkFhZTRDR2FiaGtkS0NnNTBmbmNNc3lRc1VZb1k3dUNFQlNJR3FnXzVveFlyUUZQRjNqUnJiakhaLU0yRDJQSmd5Ui1mOU55T0QxS1cxLU9nNDhGV3FzQXdQS0ZpOU1CZUY?oc=5",
+   "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
+   "source": "Defense and Munitions"
+  },
+  {
+   "title": "Contracts for Oct. 14, 2026 - U.S. Department of War (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOejhPbDlpVDFFQjFFX2UxQkhYelVJejMxcE40NkRscDJHYkdsRWpFS0Fyd1ZhN0o4Z21FRjIyZEpReHBiN21qXzF4eTdrbUFqbGhkVEw0ZVd3WnNsbUlYWGo1MGJNMzRuVTNCQlFfYXRLcGZKNFlYMGVzRDY3VnIwd3h0R0JnWDZsbzY1elNtNA?oc=5",
+   "pubDate": "Wed, 14 Oct 2026 21:19:15 GMT",
+   "source": "U.S. Department of War (.gov)"
   }
  ],
  "sdaNews": [
