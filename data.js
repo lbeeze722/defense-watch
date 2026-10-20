@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-20T20:15:55.339675+00:00",
+ "generatedAt": "2026-10-20T20:21:26.712661+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -210,8 +210,8 @@ window.DASHBOARD_DATA = {
      "changePct": -4.24
     },
     {
-     "symbol": "DRS",
-     "changePct": -4.18
+     "symbol": "HWM",
+     "changePct": -4.22
     }
    ],
    "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
@@ -252,7 +252,7 @@ window.DASHBOARD_DATA = {
     "price": 132.91,
     "changePct": 0.0
    },
-   "relVol": 1.3,
+   "relVol": 1.4,
    "avgVolume": 527396,
    "symbol": "OSK",
    "name": "Oshkosh",
@@ -261,9 +261,9 @@ window.DASHBOARD_DATA = {
    "price": 132.91,
    "prevClose": 127.02,
    "changePct": 4.64,
-   "volume": 690007,
+   "volume": 721965,
    "dayHigh": 133.245,
-   "dayLow": 127.52,
+   "dayLow": 127.8,
    "fiftyTwoWeekHigh": 180.49,
    "fiftyTwoWeekLow": 116.77,
    "marketTime": 1792526402,
@@ -413,10 +413,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 300.15,
-    "changePct": 0.09
+    "price": 300.65,
+    "changePct": 0.26
    },
-   "relVol": 2.8,
+   "relVol": 2.9,
    "avgVolume": 3123824,
    "symbol": "GE",
    "name": "GE Aerospace",
@@ -425,8 +425,8 @@ window.DASHBOARD_DATA = {
    "price": 299.87,
    "prevClose": 313.83,
    "changePct": -4.45,
-   "volume": 8655844,
-   "dayHigh": 307.355,
+   "volume": 8973832,
+   "dayHigh": 307.3,
    "dayLow": 294.22,
    "fiftyTwoWeekHigh": 388.84,
    "fiftyTwoWeekLow": 268.91,
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.54,
-    "changePct": 0.44
+    "price": 4.52,
+    "changePct": 0.01
    },
    "relVol": 0.7,
    "avgVolume": 7265808,
@@ -543,6 +543,88 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOckthcmFLei01aXpoN0lpS1V0VElXZk5aakQ3emdnLVpQNTFmX3pXR0VySkxETFNHMElHbFpzZkZ6cjNPYTAxLWtUNVl0TERpMEdzUXVDSVBSaHFqUnhCOTVydGgxNXJlcUkxaFdIYlhKcnc1LW1QbEZfR3VIUUJMZkxuS0cyVXBLS0YwMFAxSmYybWRscmQ2VlFZRXY?oc=5",
      "pubDate": "Tue, 20 Oct 2026 13:17:43 GMT",
      "source": "Investing.com"
+    }
+   ]
+  },
+  {
+   "spark": [
+    218.93,
+    216.61,
+    216.02,
+    216.74,
+    217.57,
+    216.25,
+    216.71,
+    217.84,
+    218.84,
+    219.75,
+    224.26,
+    222.37,
+    221.12,
+    221.38,
+    220.9,
+    220.54,
+    220.03,
+    219.59,
+    220.3,
+    220.11,
+    213.12,
+    208.49,
+    207.46,
+    210.32,
+    211.74,
+    211.63
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 211.63,
+    "changePct": 0.0
+   },
+   "relVol": 2.2,
+   "avgVolume": 2204205,
+   "symbol": "HWM",
+   "name": "Howmet Aerospace",
+   "vertical": "Engines & Suppliers",
+   "description": "Engineered metal components \u2014 jet engine airfoils, fasteners, and titanium structures for commercial and defense aircraft.",
+   "price": 211.63,
+   "prevClose": 220.96,
+   "changePct": -4.22,
+   "volume": 4841391,
+   "dayHigh": 218.21,
+   "dayLow": 204.85,
+   "fiftyTwoWeekHigh": 310.0,
+   "fiftyTwoWeekLow": 188.83,
+   "marketTime": 1792526592,
+   "news": [
+    {
+     "title": "Why Howmet Aerospace (HWM) Stock Is Down Today - Quiver Quantitative",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1lzd2U5UUJPQ1JlSjc2d3lBVnBUdzJTUVdXVk5uUEpVXzZqVVk3Q3JMZzI1Zk1ZRWlMMlRZTDU1SG1FeF9LVzZRWF96S1BubDdWQWl4R2R2ZEFwN0dKMTlOdjNHdVdMc3pFX0FKV0NrMnFsaFJCdVlVSXFuUGIzd29OVXJmeXprQnpj?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 15:33:00 GMT",
+     "source": "Quiver Quantitative"
+    },
+    {
+     "title": "Howmet Aerospace Inc Stock (HWM) Moved Down by 5.07% on Oct 20: Drivers Behind the Movement - TradingKey",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaV9VTGloUmNLSDNuV0ozVjZaZ0I3TkFFdHlmdm5PNnBrZC1SVW9XbHZKVnZ4R1p4LVk4WThFZ1ozazRwekFEQVJ4VklqTzlmQlh4bzFodTlLUXFJVTF4YmJWVmZCZWhuVFduWG1zcC15TVRKanhQd0hWQ0lFbjdDU3A5WVh2SGhrRmc?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 16:15:20 GMT",
+     "source": "TradingKey"
+    },
+    {
+     "title": "Could Howmet Stock's Winning Streak Be Luck? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMTBkdEs4bTIwZEZxdDVmamVacjZBMjZ5N3ZjdlFUOXhMVXo0QjBZTk45N1dtQXZ6WDZwV1NHUnFHMW4zTnFuWTc2OFc5WEU1S3QxSzduTXJYV3FVSDNERHFTd1h0TDlSMkJCRlNTbEVwd2tJM0lMX3I5UlVqSEhKeXdGLVR4X1BpdU1vblRQNGM3dEkzYjNOT25KWDBoNmNV?oc=5",
+     "pubDate": "Mon, 19 Oct 2026 21:49:02 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Howmet Aerospace (HWM), What Is Behind The Fresh Attention? - Simply Wall Street",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlRoWE1qVWllLXg5ZmNkMVk1OE1lZG9HcXIxejVzOHJoYmJPOGFZb2tENmVyVy00em5Fa2VYU0ZobXJvNXpVVzNoYnBkUHJyb0hWcHcwWVFhZHNZeWF4bzRIWm1QaWZTR1AzRDFNZDRPTzZhd0pqZTFfaUdmYnFZdS1QUVV0WUZBcUsyd0MxZlFhYmtFN1RfYVpvWUM0U0Q5Y1MwQ2JEZ19ELVN3MER5VGJuSV9yZzNoQmJhYVdRRFlVcGQ3UV9WVE91OUjSAdIBQVVfeXFMTlF0SGp1aGNNTzFKemFFUGNaTFFjZW1oOVkxOEk1azJSOWdXVEtKLXlLUzMtdV9YODNjOTVDQk1oLXNpelh6YTl5c0s4ZjNlQ2NhWDdYT081LXZ4blRzRDJDbDMzdXI3MGdQR1N5Z20wWjhNT0JUT2FtT1lUcWhsdGhlY3hPY2JmcnAxRGxyUk9uMUxWTnp5NjctSllPcVlVdlR3MUYtZFZXcklQN2dnY0M0NER5a0ZoZVVvYVJzYTdWYlB0ZW4wMFhac3BSWE1HZUx3?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 07:37:05 GMT",
+     "source": "Simply Wall Street"
+    },
+    {
+     "title": "Howmet Aerospace Board Approves Common Stock Dividend - PR Newswire",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdERQQVAyb2JEbEVXYXFsV2c0Sm9NNWdCeXI4RExPclU3VVdZdlBMY2dYWEFvTzRLOWgyS3cxMWo4VXkzaXJnQnZNajZaZ19KQzUtcGx0eTdmNUQxclo0RmVWckphSHFldWZhVnI2QV9JN2hYc2Fta3pqNGowTzBJOENHNm5tejFLeDJaZmhYY0piVHotMUNXR3lMWW5OemkxcV9lekVqR3MyRDlHYWc?oc=5",
+     "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
+     "source": "PR Newswire"
     }
    ]
   },
@@ -630,87 +712,6 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
-    218.93,
-    216.61,
-    216.02,
-    216.74,
-    217.57,
-    216.25,
-    216.71,
-    217.84,
-    218.84,
-    219.75,
-    224.26,
-    222.37,
-    221.12,
-    221.38,
-    220.9,
-    220.54,
-    220.03,
-    219.59,
-    220.3,
-    220.11,
-    213.12,
-    208.49,
-    207.46,
-    210.32,
-    211.63
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 211.63,
-    "changePct": -0.05
-   },
-   "relVol": 2.0,
-   "avgVolume": 2204205,
-   "symbol": "HWM",
-   "name": "Howmet Aerospace",
-   "vertical": "Engines & Suppliers",
-   "description": "Engineered metal components \u2014 jet engine airfoils, fasteners, and titanium structures for commercial and defense aircraft.",
-   "price": 211.74,
-   "prevClose": 220.96,
-   "changePct": -4.17,
-   "volume": 4380068,
-   "dayHigh": 218.21,
-   "dayLow": 204.85,
-   "fiftyTwoWeekHigh": 310.0,
-   "fiftyTwoWeekLow": 188.83,
-   "marketTime": 1792526399,
-   "news": [
-    {
-     "title": "Why Howmet Aerospace (HWM) Stock Is Down Today - Quiver Quantitative",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1lzd2U5UUJPQ1JlSjc2d3lBVnBUdzJTUVdXVk5uUEpVXzZqVVk3Q3JMZzI1Zk1ZRWlMMlRZTDU1SG1FeF9LVzZRWF96S1BubDdWQWl4R2R2ZEFwN0dKMTlOdjNHdVdMc3pFX0FKV0NrMnFsaFJCdVlVSXFuUGIzd29OVXJmeXprQnpj?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 15:33:00 GMT",
-     "source": "Quiver Quantitative"
-    },
-    {
-     "title": "Howmet Aerospace Inc Stock (HWM) Moved Down by 5.07% on Oct 20: Drivers Behind the Movement - TradingKey",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaV9VTGloUmNLSDNuV0ozVjZaZ0I3TkFFdHlmdm5PNnBrZC1SVW9XbHZKVnZ4R1p4LVk4WThFZ1ozazRwekFEQVJ4VklqTzlmQlh4bzFodTlLUXFJVTF4YmJWVmZCZWhuVFduWG1zcC15TVRKanhQd0hWQ0lFbjdDU3A5WVh2SGhrRmc?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 16:15:20 GMT",
-     "source": "TradingKey"
-    },
-    {
-     "title": "Could Howmet Stock's Winning Streak Be Luck? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMTBkdEs4bTIwZEZxdDVmamVacjZBMjZ5N3ZjdlFUOXhMVXo0QjBZTk45N1dtQXZ6WDZwV1NHUnFHMW4zTnFuWTc2OFc5WEU1S3QxSzduTXJYV3FVSDNERHFTd1h0TDlSMkJCRlNTbEVwd2tJM0lMX3I5UlVqSEhKeXdGLVR4X1BpdU1vblRQNGM3dEkzYjNOT25KWDBoNmNV?oc=5",
-     "pubDate": "Mon, 19 Oct 2026 21:49:02 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Howmet Aerospace (HWM), What Is Behind The Fresh Attention? - Simply Wall Street",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlRoWE1qVWllLXg5ZmNkMVk1OE1lZG9HcXIxejVzOHJoYmJPOGFZb2tENmVyVy00em5Fa2VYU0ZobXJvNXpVVzNoYnBkUHJyb0hWcHcwWVFhZHNZeWF4bzRIWm1QaWZTR1AzRDFNZDRPTzZhd0pqZTFfaUdmYnFZdS1QUVV0WUZBcUsyd0MxZlFhYmtFN1RfYVpvWUM0U0Q5Y1MwQ2JEZ19ELVN3MER5VGJuSV9yZzNoQmJhYVdRRFlVcGQ3UV9WVE91OUjSAdIBQVVfeXFMTlF0SGp1aGNNTzFKemFFUGNaTFFjZW1oOVkxOEk1azJSOWdXVEtKLXlLUzMtdV9YODNjOTVDQk1oLXNpelh6YTl5c0s4ZjNlQ2NhWDdYT081LXZ4blRzRDJDbDMzdXI3MGdQR1N5Z20wWjhNT0JUT2FtT1lUcWhsdGhlY3hPY2JmcnAxRGxyUk9uMUxWTnp5NjctSllPcVlVdlR3MUYtZFZXcklQN2dnY0M0NER5a0ZoZVVvYVJzYTdWYlB0ZW4wMFhac3BSWE1HZUx3?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 07:37:05 GMT",
-     "source": "Simply Wall Street"
-    },
-    {
-     "title": "Howmet Aerospace Board Approves Common Stock Dividend - PR Newswire",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdERQQVAyb2JEbEVXYXFsV2c0Sm9NNWdCeXI4RExPclU3VVdZdlBMY2dYWEFvTzRLOWgyS3cxMWo4VXkzaXJnQnZNajZaZ19KQzUtcGx0eTdmNUQxclo0RmVWckphSHFldWZhVnI2QV9JN2hYc2Fta3pqNGowTzBJOENHNm5tejFLeDJaZmhYY0piVHotMUNXR3lMWW5OemkxcV9lekVqR3MyRDlHYWc?oc=5",
-     "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
-     "source": "PR Newswire"
-    }
-   ]
-  },
-  {
-   "spark": [
     40.31,
     39.77,
     39.4,
@@ -740,8 +741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 38.7,
-    "changePct": -0.67
+    "price": 38.76,
+    "changePct": -0.51
    },
    "relVol": 0.8,
    "avgVolume": 3994711,
@@ -822,8 +823,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 193.22,
-    "changePct": 0.32
+    "price": 193.26,
+    "changePct": 0.34
    },
    "relVol": 0.7,
    "avgVolume": 22513484,
@@ -904,8 +905,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 117.42,
-    "changePct": -0.18
+    "price": 117.64,
+    "changePct": 0.01
    },
    "relVol": 0.8,
    "avgVolume": 1353989,
@@ -1074,9 +1075,9 @@ window.DASHBOARD_DATA = {
    "price": 534.0,
    "prevClose": 519.86,
    "changePct": 2.72,
-   "volume": 2042316,
+   "volume": 2058361,
    "dayHigh": 550.89,
-   "dayLow": 523.64,
+   "dayLow": 524.729,
    "fiftyTwoWeekHigh": 774.0,
    "fiftyTwoWeekLow": 470.06,
    "marketTime": 1792526402,
@@ -1150,7 +1151,7 @@ window.DASHBOARD_DATA = {
    "price": 127.66,
    "prevClose": 124.85,
    "changePct": 2.25,
-   "volume": 1028985,
+   "volume": 1044734,
    "dayHigh": 128.5,
    "dayLow": 126.24,
    "fiftyTwoWeekHigh": 205.77,
@@ -1214,8 +1215,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.61,
-    "changePct": 0.66
+    "price": 10.59,
+    "changePct": 0.51
    },
    "relVol": 0.8,
    "avgVolume": 7215078,
@@ -1291,7 +1292,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 3.99,
-    "changePct": 0.2
+    "changePct": 0.25
    },
    "relVol": 0.8,
    "avgVolume": 19381900,
@@ -1302,7 +1303,7 @@ window.DASHBOARD_DATA = {
    "price": 3.98,
    "prevClose": 4.07,
    "changePct": -2.21,
-   "volume": 16142146,
+   "volume": 16325604,
    "dayHigh": 4.13,
    "dayLow": 3.96,
    "fiftyTwoWeekHigh": 11.97,
@@ -1378,7 +1379,7 @@ window.DASHBOARD_DATA = {
    "price": 134.24,
    "prevClose": 137.01,
    "changePct": -2.02,
-   "volume": 630313,
+   "volume": 655271,
    "dayHigh": 137.87,
    "dayLow": 133.74,
    "fiftyTwoWeekHigh": 241.82,
@@ -1454,7 +1455,7 @@ window.DASHBOARD_DATA = {
    "price": 77.15,
    "prevClose": 75.93,
    "changePct": 1.61,
-   "volume": 1241949,
+   "volume": 1271545,
    "dayHigh": 77.27,
    "dayLow": 75.88,
    "fiftyTwoWeekHigh": 101.57,
@@ -1602,8 +1603,8 @@ window.DASHBOARD_DATA = {
    "price": 305.21,
    "prevClose": 309.87,
    "changePct": -1.5,
-   "volume": 292106,
-   "dayHigh": 311.35,
+   "volume": 297439,
+   "dayHigh": 310.98,
    "dayLow": 303.78,
    "fiftyTwoWeekHigh": 376.86,
    "fiftyTwoWeekLow": 256.11,
@@ -1754,7 +1755,7 @@ window.DASHBOARD_DATA = {
    "price": 495.25,
    "prevClose": 502.32,
    "changePct": -1.41,
-   "volume": 537331,
+   "volume": 542724,
    "dayHigh": 504.45,
    "dayLow": 485.804,
    "fiftyTwoWeekHigh": 808.16,
@@ -1830,7 +1831,7 @@ window.DASHBOARD_DATA = {
    "price": 36.84,
    "prevClose": 36.38,
    "changePct": 1.26,
-   "volume": 1196039,
+   "volume": 1235040,
    "dayHigh": 37.375,
    "dayLow": 36.442,
    "fiftyTwoWeekHigh": 45.37,
@@ -1906,7 +1907,7 @@ window.DASHBOARD_DATA = {
    "price": 44.65,
    "prevClose": 44.15,
    "changePct": 1.13,
-   "volume": 805950,
+   "volume": 822204,
    "dayHigh": 44.74,
    "dayLow": 43.67,
    "fiftyTwoWeekHigh": 88.0,
@@ -1970,8 +1971,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.3,
-    "changePct": 0.0
+    "price": 8.29,
+    "changePct": -0.12
    },
    "relVol": 1.1,
    "avgVolume": 11030661,
@@ -1982,7 +1983,7 @@ window.DASHBOARD_DATA = {
    "price": 8.3,
    "prevClose": 8.39,
    "changePct": -1.07,
-   "volume": 11981934,
+   "volume": 12144844,
    "dayHigh": 8.718,
    "dayLow": 8.19,
    "fiftyTwoWeekHigh": 26.64,
@@ -2049,7 +2050,7 @@ window.DASHBOARD_DATA = {
     "price": 607.75,
     "changePct": 0.0
    },
-   "relVol": 1.4,
+   "relVol": 1.5,
    "avgVolume": 156371,
    "symbol": "CACI",
    "name": "CACI Intl",
@@ -2058,7 +2059,7 @@ window.DASHBOARD_DATA = {
    "price": 607.75,
    "prevClose": 614.31,
    "changePct": -1.07,
-   "volume": 221903,
+   "volume": 228725,
    "dayHigh": 625.85,
    "dayLow": 603.86,
    "fiftyTwoWeekHigh": 683.5,
@@ -2097,8 +2098,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.1,
-    "changePct": 0.0
+    "price": 6.09,
+    "changePct": -0.16
    },
    "relVol": 0.6,
    "avgVolume": 49280972,
@@ -2171,7 +2172,11 @@ window.DASHBOARD_DATA = {
     74.97,
     74.97
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 74.97,
+    "changePct": 0.0
+   },
    "relVol": 0.9,
    "avgVolume": 1089513,
    "symbol": "BAH",
@@ -2181,7 +2186,7 @@ window.DASHBOARD_DATA = {
    "price": 74.97,
    "prevClose": 74.26,
    "changePct": 0.96,
-   "volume": 973752,
+   "volume": 991044,
    "dayHigh": 75.65,
    "dayLow": 74.26,
    "fiftyTwoWeekHigh": 109.1,
@@ -2248,7 +2253,7 @@ window.DASHBOARD_DATA = {
     "price": 548.71,
     "changePct": 0.0
    },
-   "relVol": 1.0,
+   "relVol": 1.1,
    "avgVolume": 1346112,
    "symbol": "LMT",
    "name": "Lockheed Martin",
@@ -2257,7 +2262,7 @@ window.DASHBOARD_DATA = {
    "price": 548.71,
    "prevClose": 552.09,
    "changePct": -0.61,
-   "volume": 1379956,
+   "volume": 1461220,
    "dayHigh": 559.48,
    "dayLow": 545.73,
    "fiftyTwoWeekHigh": 692.0,
@@ -2397,8 +2402,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 16.45,
-    "changePct": 0.43
+    "price": 16.35,
+    "changePct": -0.18
    },
    "relVol": 0.7,
    "avgVolume": 2980326,
@@ -2409,7 +2414,7 @@ window.DASHBOARD_DATA = {
    "price": 16.38,
    "prevClose": 16.31,
    "changePct": 0.43,
-   "volume": 2055689,
+   "volume": 2083922,
    "dayHigh": 16.879,
    "dayLow": 15.47,
    "fiftyTwoWeekHigh": 34.926,
@@ -2552,7 +2557,7 @@ window.DASHBOARD_DATA = {
     "price": 1143.06,
     "changePct": 0.0
    },
-   "relVol": 1.2,
+   "relVol": 1.4,
    "avgVolume": 246140,
    "symbol": "TDG",
    "name": "TransDigm",
@@ -2561,7 +2566,7 @@ window.DASHBOARD_DATA = {
    "price": 1143.06,
    "prevClose": 1139.34,
    "changePct": 0.33,
-   "volume": 304042,
+   "volume": 347825,
    "dayHigh": 1152.7,
    "dayLow": 1127.53,
    "fiftyTwoWeekHigh": 1463.03,
@@ -2625,8 +2630,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 193.0,
-    "changePct": -0.18
+    "price": 193.34,
+    "changePct": 0.0
    },
    "relVol": 1.8,
    "avgVolume": 5400211,
@@ -2637,7 +2642,7 @@ window.DASHBOARD_DATA = {
    "price": 193.34,
    "prevClose": 193.92,
    "changePct": -0.3,
-   "volume": 9642827,
+   "volume": 9842027,
    "dayHigh": 197.0,
    "dayLow": 188.08,
    "fiftyTwoWeekHigh": 226.88,
@@ -2702,7 +2707,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 4.67,
-    "changePct": 0.42
+    "changePct": 0.38
    },
    "relVol": 0.9,
    "avgVolume": 19904169,
@@ -2713,7 +2718,7 @@ window.DASHBOARD_DATA = {
    "price": 4.65,
    "prevClose": 4.66,
    "changePct": -0.21,
-   "volume": 17753407,
+   "volume": 17871495,
    "dayHigh": 4.79,
    "dayLow": 4.503,
    "fiftyTwoWeekHigh": 17.505,
@@ -2777,10 +2782,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 190.25,
-    "changePct": -0.12
+    "price": 190.38,
+    "changePct": -0.05
    },
-   "relVol": 1.4,
+   "relVol": 1.5,
    "avgVolume": 5051371,
    "symbol": "BA",
    "name": "Boeing",
@@ -2789,8 +2794,8 @@ window.DASHBOARD_DATA = {
    "price": 190.47,
    "prevClose": 190.21,
    "changePct": 0.14,
-   "volume": 7222706,
-   "dayHigh": 192.65,
+   "volume": 7327588,
+   "dayHigh": 192.67,
    "dayLow": 189.4,
    "fiftyTwoWeekHigh": 254.35,
    "fiftyTwoWeekLow": 176.77,
@@ -2865,8 +2870,8 @@ window.DASHBOARD_DATA = {
    "price": 70.08,
    "prevClose": 70.17,
    "changePct": -0.13,
-   "volume": 277583,
-   "dayHigh": 70.68,
+   "volume": 281545,
+   "dayHigh": 70.54,
    "dayLow": 68.3,
    "fiftyTwoWeekHigh": 93.98,
    "fiftyTwoWeekLow": 50.889,
@@ -2929,8 +2934,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 51.5,
-    "changePct": 1.18
+    "price": 51.51,
+    "changePct": 1.2
    },
    "relVol": 0.7,
    "avgVolume": 25336459,
@@ -3017,9 +3022,9 @@ window.DASHBOARD_DATA = {
    "price": 248.77,
    "prevClose": 248.51,
    "changePct": 0.1,
-   "volume": 1874835,
-   "dayHigh": 250.19,
-   "dayLow": 243.6,
+   "volume": 1900071,
+   "dayHigh": 250.18,
+   "dayLow": 243.65,
    "fiftyTwoWeekHigh": 379.23,
    "fiftyTwoWeekLow": 232.34,
    "marketTime": 1792526402,
@@ -3093,7 +3098,7 @@ window.DASHBOARD_DATA = {
    "price": 272.23,
    "prevClose": 272.0,
    "changePct": 0.08,
-   "volume": 542633,
+   "volume": 556135,
    "dayHigh": 274.775,
    "dayLow": 268.65,
    "fiftyTwoWeekHigh": 460.0,
@@ -3165,7 +3170,7 @@ window.DASHBOARD_DATA = {
    "price": 344.44,
    "prevClose": 344.23,
    "changePct": 0.06,
-   "volume": 952734,
+   "volume": 1002436,
    "dayHigh": 346.85,
    "dayLow": 341.95,
    "fiftyTwoWeekHigh": 400.0,
@@ -3229,8 +3234,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 1.73,
-    "changePct": 0.06
+    "price": 1.74,
+    "changePct": 0.58
    },
    "relVol": 0.6,
    "avgVolume": 1229478,
@@ -3241,7 +3246,7 @@ window.DASHBOARD_DATA = {
    "price": 1.73,
    "prevClose": 1.73,
    "changePct": 0.0,
-   "volume": 681806,
+   "volume": 682271,
    "dayHigh": 1.86,
    "dayLow": 1.73,
    "fiftyTwoWeekHigh": 5.43,
@@ -3310,7 +3315,7 @@ window.DASHBOARD_DATA = {
     "price": 132.91,
     "changePct": 0.0
    },
-   "relVol": 1.3,
+   "relVol": 1.4,
    "avgVolume": 527396,
    "symbol": "OSK",
    "name": "Oshkosh",
@@ -3319,9 +3324,9 @@ window.DASHBOARD_DATA = {
    "price": 132.91,
    "prevClose": 127.02,
    "changePct": 4.64,
-   "volume": 690007,
+   "volume": 721965,
    "dayHigh": 133.245,
-   "dayLow": 127.52,
+   "dayLow": 127.8,
    "fiftyTwoWeekHigh": 180.49,
    "fiftyTwoWeekLow": 116.77,
    "marketTime": 1792526402,
@@ -3471,10 +3476,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 300.15,
-    "changePct": 0.09
+    "price": 300.65,
+    "changePct": 0.26
    },
-   "relVol": 2.8,
+   "relVol": 2.9,
    "avgVolume": 3123824,
    "symbol": "GE",
    "name": "GE Aerospace",
@@ -3483,8 +3488,8 @@ window.DASHBOARD_DATA = {
    "price": 299.87,
    "prevClose": 313.83,
    "changePct": -4.45,
-   "volume": 8655844,
-   "dayHigh": 307.355,
+   "volume": 8973832,
+   "dayHigh": 307.3,
    "dayLow": 294.22,
    "fiftyTwoWeekHigh": 388.84,
    "fiftyTwoWeekLow": 268.91,
@@ -3553,8 +3558,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.54,
-    "changePct": 0.44
+    "price": 4.52,
+    "changePct": 0.01
    },
    "relVol": 0.7,
    "avgVolume": 7265808,
@@ -3601,6 +3606,88 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOckthcmFLei01aXpoN0lpS1V0VElXZk5aakQ3emdnLVpQNTFmX3pXR0VySkxETFNHMElHbFpzZkZ6cjNPYTAxLWtUNVl0TERpMEdzUXVDSVBSaHFqUnhCOTVydGgxNXJlcUkxaFdIYlhKcnc1LW1QbEZfR3VIUUJMZkxuS0cyVXBLS0YwMFAxSmYybWRscmQ2VlFZRXY?oc=5",
      "pubDate": "Tue, 20 Oct 2026 13:17:43 GMT",
      "source": "Investing.com"
+    }
+   ]
+  },
+  {
+   "spark": [
+    218.93,
+    216.61,
+    216.02,
+    216.74,
+    217.57,
+    216.25,
+    216.71,
+    217.84,
+    218.84,
+    219.75,
+    224.26,
+    222.37,
+    221.12,
+    221.38,
+    220.9,
+    220.54,
+    220.03,
+    219.59,
+    220.3,
+    220.11,
+    213.12,
+    208.49,
+    207.46,
+    210.32,
+    211.74,
+    211.63
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 211.63,
+    "changePct": 0.0
+   },
+   "relVol": 2.2,
+   "avgVolume": 2204205,
+   "symbol": "HWM",
+   "name": "Howmet Aerospace",
+   "vertical": "Engines & Suppliers",
+   "description": "Engineered metal components \u2014 jet engine airfoils, fasteners, and titanium structures for commercial and defense aircraft.",
+   "price": 211.63,
+   "prevClose": 220.96,
+   "changePct": -4.22,
+   "volume": 4841391,
+   "dayHigh": 218.21,
+   "dayLow": 204.85,
+   "fiftyTwoWeekHigh": 310.0,
+   "fiftyTwoWeekLow": 188.83,
+   "marketTime": 1792526592,
+   "news": [
+    {
+     "title": "Why Howmet Aerospace (HWM) Stock Is Down Today - Quiver Quantitative",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1lzd2U5UUJPQ1JlSjc2d3lBVnBUdzJTUVdXVk5uUEpVXzZqVVk3Q3JMZzI1Zk1ZRWlMMlRZTDU1SG1FeF9LVzZRWF96S1BubDdWQWl4R2R2ZEFwN0dKMTlOdjNHdVdMc3pFX0FKV0NrMnFsaFJCdVlVSXFuUGIzd29OVXJmeXprQnpj?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 15:33:00 GMT",
+     "source": "Quiver Quantitative"
+    },
+    {
+     "title": "Howmet Aerospace Inc Stock (HWM) Moved Down by 5.07% on Oct 20: Drivers Behind the Movement - TradingKey",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaV9VTGloUmNLSDNuV0ozVjZaZ0I3TkFFdHlmdm5PNnBrZC1SVW9XbHZKVnZ4R1p4LVk4WThFZ1ozazRwekFEQVJ4VklqTzlmQlh4bzFodTlLUXFJVTF4YmJWVmZCZWhuVFduWG1zcC15TVRKanhQd0hWQ0lFbjdDU3A5WVh2SGhrRmc?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 16:15:20 GMT",
+     "source": "TradingKey"
+    },
+    {
+     "title": "Could Howmet Stock's Winning Streak Be Luck? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMTBkdEs4bTIwZEZxdDVmamVacjZBMjZ5N3ZjdlFUOXhMVXo0QjBZTk45N1dtQXZ6WDZwV1NHUnFHMW4zTnFuWTc2OFc5WEU1S3QxSzduTXJYV3FVSDNERHFTd1h0TDlSMkJCRlNTbEVwd2tJM0lMX3I5UlVqSEhKeXdGLVR4X1BpdU1vblRQNGM3dEkzYjNOT25KWDBoNmNV?oc=5",
+     "pubDate": "Mon, 19 Oct 2026 21:49:02 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Howmet Aerospace (HWM), What Is Behind The Fresh Attention? - Simply Wall Street",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlRoWE1qVWllLXg5ZmNkMVk1OE1lZG9HcXIxejVzOHJoYmJPOGFZb2tENmVyVy00em5Fa2VYU0ZobXJvNXpVVzNoYnBkUHJyb0hWcHcwWVFhZHNZeWF4bzRIWm1QaWZTR1AzRDFNZDRPTzZhd0pqZTFfaUdmYnFZdS1QUVV0WUZBcUsyd0MxZlFhYmtFN1RfYVpvWUM0U0Q5Y1MwQ2JEZ19ELVN3MER5VGJuSV9yZzNoQmJhYVdRRFlVcGQ3UV9WVE91OUjSAdIBQVVfeXFMTlF0SGp1aGNNTzFKemFFUGNaTFFjZW1oOVkxOEk1azJSOWdXVEtKLXlLUzMtdV9YODNjOTVDQk1oLXNpelh6YTl5c0s4ZjNlQ2NhWDdYT081LXZ4blRzRDJDbDMzdXI3MGdQR1N5Z20wWjhNT0JUT2FtT1lUcWhsdGhlY3hPY2JmcnAxRGxyUk9uMUxWTnp5NjctSllPcVlVdlR3MUYtZFZXcklQN2dnY0M0NER5a0ZoZVVvYVJzYTdWYlB0ZW4wMFhac3BSWE1HZUx3?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 07:37:05 GMT",
+     "source": "Simply Wall Street"
+    },
+    {
+     "title": "Howmet Aerospace Board Approves Common Stock Dividend - PR Newswire",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdERQQVAyb2JEbEVXYXFsV2c0Sm9NNWdCeXI4RExPclU3VVdZdlBMY2dYWEFvTzRLOWgyS3cxMWo4VXkzaXJnQnZNajZaZ19KQzUtcGx0eTdmNUQxclo0RmVWckphSHFldWZhVnI2QV9JN2hYc2Fta3pqNGowTzBJOENHNm5tejFLeDJaZmhYY0piVHotMUNXR3lMWW5OemkxcV9lekVqR3MyRDlHYWc?oc=5",
+     "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
+     "source": "PR Newswire"
     }
    ]
   },
@@ -3688,87 +3775,6 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
-    218.93,
-    216.61,
-    216.02,
-    216.74,
-    217.57,
-    216.25,
-    216.71,
-    217.84,
-    218.84,
-    219.75,
-    224.26,
-    222.37,
-    221.12,
-    221.38,
-    220.9,
-    220.54,
-    220.03,
-    219.59,
-    220.3,
-    220.11,
-    213.12,
-    208.49,
-    207.46,
-    210.32,
-    211.63
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 211.63,
-    "changePct": -0.05
-   },
-   "relVol": 2.0,
-   "avgVolume": 2204205,
-   "symbol": "HWM",
-   "name": "Howmet Aerospace",
-   "vertical": "Engines & Suppliers",
-   "description": "Engineered metal components \u2014 jet engine airfoils, fasteners, and titanium structures for commercial and defense aircraft.",
-   "price": 211.74,
-   "prevClose": 220.96,
-   "changePct": -4.17,
-   "volume": 4380068,
-   "dayHigh": 218.21,
-   "dayLow": 204.85,
-   "fiftyTwoWeekHigh": 310.0,
-   "fiftyTwoWeekLow": 188.83,
-   "marketTime": 1792526399,
-   "news": [
-    {
-     "title": "Why Howmet Aerospace (HWM) Stock Is Down Today - Quiver Quantitative",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1lzd2U5UUJPQ1JlSjc2d3lBVnBUdzJTUVdXVk5uUEpVXzZqVVk3Q3JMZzI1Zk1ZRWlMMlRZTDU1SG1FeF9LVzZRWF96S1BubDdWQWl4R2R2ZEFwN0dKMTlOdjNHdVdMc3pFX0FKV0NrMnFsaFJCdVlVSXFuUGIzd29OVXJmeXprQnpj?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 15:33:00 GMT",
-     "source": "Quiver Quantitative"
-    },
-    {
-     "title": "Howmet Aerospace Inc Stock (HWM) Moved Down by 5.07% on Oct 20: Drivers Behind the Movement - TradingKey",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaV9VTGloUmNLSDNuV0ozVjZaZ0I3TkFFdHlmdm5PNnBrZC1SVW9XbHZKVnZ4R1p4LVk4WThFZ1ozazRwekFEQVJ4VklqTzlmQlh4bzFodTlLUXFJVTF4YmJWVmZCZWhuVFduWG1zcC15TVRKanhQd0hWQ0lFbjdDU3A5WVh2SGhrRmc?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 16:15:20 GMT",
-     "source": "TradingKey"
-    },
-    {
-     "title": "Could Howmet Stock's Winning Streak Be Luck? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMTBkdEs4bTIwZEZxdDVmamVacjZBMjZ5N3ZjdlFUOXhMVXo0QjBZTk45N1dtQXZ6WDZwV1NHUnFHMW4zTnFuWTc2OFc5WEU1S3QxSzduTXJYV3FVSDNERHFTd1h0TDlSMkJCRlNTbEVwd2tJM0lMX3I5UlVqSEhKeXdGLVR4X1BpdU1vblRQNGM3dEkzYjNOT25KWDBoNmNV?oc=5",
-     "pubDate": "Mon, 19 Oct 2026 21:49:02 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Howmet Aerospace (HWM), What Is Behind The Fresh Attention? - Simply Wall Street",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZlRoWE1qVWllLXg5ZmNkMVk1OE1lZG9HcXIxejVzOHJoYmJPOGFZb2tENmVyVy00em5Fa2VYU0ZobXJvNXpVVzNoYnBkUHJyb0hWcHcwWVFhZHNZeWF4bzRIWm1QaWZTR1AzRDFNZDRPTzZhd0pqZTFfaUdmYnFZdS1QUVV0WUZBcUsyd0MxZlFhYmtFN1RfYVpvWUM0U0Q5Y1MwQ2JEZ19ELVN3MER5VGJuSV9yZzNoQmJhYVdRRFlVcGQ3UV9WVE91OUjSAdIBQVVfeXFMTlF0SGp1aGNNTzFKemFFUGNaTFFjZW1oOVkxOEk1azJSOWdXVEtKLXlLUzMtdV9YODNjOTVDQk1oLXNpelh6YTl5c0s4ZjNlQ2NhWDdYT081LXZ4blRzRDJDbDMzdXI3MGdQR1N5Z20wWjhNT0JUT2FtT1lUcWhsdGhlY3hPY2JmcnAxRGxyUk9uMUxWTnp5NjctSllPcVlVdlR3MUYtZFZXcklQN2dnY0M0NER5a0ZoZVVvYVJzYTdWYlB0ZW4wMFhac3BSWE1HZUx3?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 07:37:05 GMT",
-     "source": "Simply Wall Street"
-    },
-    {
-     "title": "Howmet Aerospace Board Approves Common Stock Dividend - PR Newswire",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdERQQVAyb2JEbEVXYXFsV2c0Sm9NNWdCeXI4RExPclU3VVdZdlBMY2dYWEFvTzRLOWgyS3cxMWo4VXkzaXJnQnZNajZaZ19KQzUtcGx0eTdmNUQxclo0RmVWckphSHFldWZhVnI2QV9JN2hYc2Fta3pqNGowTzBJOENHNm5tejFLeDJaZmhYY0piVHotMUNXR3lMWW5OemkxcV9lekVqR3MyRDlHYWc?oc=5",
-     "pubDate": "Wed, 14 Oct 2026 12:00:00 GMT",
-     "source": "PR Newswire"
-    }
-   ]
-  },
-  {
-   "spark": [
     40.31,
     39.77,
     39.4,
@@ -3798,8 +3804,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 38.7,
-    "changePct": -0.67
+    "price": 38.76,
+    "changePct": -0.51
    },
    "relVol": 0.8,
    "avgVolume": 3994711,
@@ -3880,8 +3886,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 193.22,
-    "changePct": 0.32
+    "price": 193.26,
+    "changePct": 0.34
    },
    "relVol": 0.7,
    "avgVolume": 22513484,
@@ -3962,8 +3968,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 117.42,
-    "changePct": -0.18
+    "price": 117.64,
+    "changePct": 0.01
    },
    "relVol": 0.8,
    "avgVolume": 1353989,
