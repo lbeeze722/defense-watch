@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-20T20:04:47.260863+00:00",
+ "generatedAt": "2026-10-20T20:10:25.587546+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -408,8 +408,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 300.0,
-    "changePct": 0.03
+    "price": 299.81,
+    "changePct": -0.04
    },
    "relVol": 2.5,
    "avgVolume": 3123824,
@@ -428,34 +428,34 @@ window.DASHBOARD_DATA = {
    "marketTime": 1792526400,
    "news": [
     {
-     "title": "GE Aerospace Keeps Beating Earnings, GE Stock Keeps Falling - Barron's",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmUzbElHQTlYVzZhWllEZzZVcVl1Y3M2X3kxVlgxanpmSzd3RWNhQVpZODRweTBqZmltUlp6NldBZ0JCY0RGRzA5MHJxN0RPbk5pQldyeHFPWUlIZzI3bUw1b3JTX0FrZklUOFdhUnBfb19SWHFiRi1xRGVaSWgtamVpa2JMdjFvSFhBam02ZUxWS2c2OU43blhQZjFaR1BiUHc?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 18:25:00 GMT",
+     "title": "GM Stock: Why Good Earnings and a Massive Buyback Are Tanking Shares - Barron's",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS0xfak5TSHA3NWR0UnpiUXdpalJfdlhtSUdzc3lhaVEtTnNLV2NLMXJ5Q2NQVjdwQ3FwdDctRHY3SmJ5QjhEcDhmOHFDT0xfcHdtbGtRNEEwMjFQdjR1M2NzMkJpQ1VzelhmRmRTM1k0Mm8yMVpmTk93Qk82ZTVVMg?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 12:35:00 GMT",
      "source": "Barron's"
     },
     {
-     "title": "Stocks to Watch: GE Aerospace, Netflix SpaceX, Elice - WSJ",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbVlheVJNdFBWRE9BTkVNdV8wdzhnQldsUnpMeFBQZF9zbFFVbE1nMG1tam1nVy0ycTAxdDlaTTVDdlVnZEVHU3dHTFhOM29vT0xkdU1SbXlhek5UU2tpc0FqUVdiR2xubnllMHhLQmpibHktcHJlTnlxcDFrdGdlYzByVTczbWctdnJDdWVJUndNS09ENWY2LW1lTVh6NHdfMzVQTjlCMV9JWVR1dGhoZy1aYW1uS0VzLWxueHlUN0QyQWdjWkVVTEtTaF9peWsxY1VMZDJxbk5WVGNSd1A1anlnR1M1X1E?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 09:13:00 GMT",
-     "source": "WSJ"
+     "title": "GE Aerospace beats estimates, raises guidance on strong demand - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWVFmVmtWeHM2TERIM1V5TENTekx1Wm5KcXJCVlVGRzFIaGsyQzF1aEJHdXlwaHZtU1JuRDZyelhpRzN4NVVuOEhtV3pmRndUX18zWTJlQlRnaW1WMUx0SUV2Y0xkYnludkRtUUVTTU1MSFFrMlNuREwyRzlHY0txZlc1SmVZdVpOWk1aSTBicXpXZ0txR0ZrSEpmUmZWWGM1NVE?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 11:22:34 GMT",
+     "source": "Yahoo Finance"
     },
     {
-     "title": "GE Aerospace raises profit outlook as engine repairs defy fuel shock, Boeing costs loom - Reuters",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNnVUT0tINU83dGVFSG5iTnFZNFlyQk9vT3lHZEY0dU5rUUFJRGlTYndPWEdiM2M0a0lKLU5FUW5CV2JvZ2NJTDI5MXlkVk85NlFwOU1XdUk0VzdKZ2FpZXJDUUJNMlZWZURPcVpXLWVKQzZ4SUcyYkEwQnhZY2xUd0VIc3g3dHEyU0RncnZrVkV5MzQtTGdWbFAwXzJzR1RNU1BBb2pjdm5EcVBaTVZtajBzV1B4XzRHY2YyaG93YXR1Z05ESGR4TlAxR0N6Q2xq?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 14:03:49 GMT",
-     "source": "Reuters"
+     "title": "Dear GE Aerospace Stock Fans, Mark Your Calendars for October 20 - Barchart.com",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGdPTjFGRVFlNmJMcXMzcnpxYktiTTlaS0tyeVF4Qkx4RHJKeDNUX3lqZ1BUb1ducWVyUTQwT3pYUVotdFV1NWk5TWJZZGRqV3VuY1FkZGhrZDdSbTlsZkV1UXZ2bVE2VkpJdElQTUlZRGF1b3V2X2l6cTNTM2I2ZmE4MmV3bmluVVkyRXo3cmdKNzBKVl9PTEprVlJaQzZuUGJ2Sjd6MGxOYlE?oc=5",
+     "pubDate": "Mon, 19 Oct 2026 15:18:07 GMT",
+     "source": "Barchart.com"
     },
     {
-     "title": "GE Aerospace Falls 4% Despite Earnings Beat and Raised Outlook as Costs Climb; RTX Edges Higher, Boeing Barely Moves - 24/7 Wall St.",
-     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOclFVb2hvLUVpRS1HdlF0dmt3NkxkbFRRTDNYZy1pWGZYdjlMd2NTWE50Ykk5T21XVWlKTHFoZDNCbjY2bVh0YlQ1OTMzX1FUbTBWektqbVVSZ3ZBbzh0eXlxcWJKMExIWjNmLVFRUk9qZjRiUDNCa2ZYV3lVdU1xQ25oclU0aTZ3X2U3RU8yYXU2ZXVsekVxRDVyd2U5Q3VVNjNTbG82UHROUm9tQmh4cjYtR2hNWWY4RFFKMkhNZVFJTWI1dktOcHdOX0pTWXRWcERQN25mSUNaR3k4cHNqcWJQY19OY1RkajFENU1n?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 13:42:00 GMT",
-     "source": "24/7 Wall St."
+     "title": "Why GE Aerospace Stock Dropped After Beating Earnings - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeHhad3VXM0wwd19ubGlEN01MZ0d5SGZZSG5lM0djbDA3bjUxRnB5bkNwVHk5MFhzb3VzWGlQaEZ2MmJoNGhfTlRuaUx0SmhJMUlHYnRRUnk1eFloUnNKUW4yaFZ0RkRIWlNNYVlUX3VOeXRSLVpCN0NXb3Q1NE1FSUdjb2g4QlgzeTFEbWJiYUtqMVNfMk03YXRNN0c?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 16:07:00 GMT",
+     "source": "The Motley Fool"
     },
     {
-     "title": "Why GE Aerospace Stock Dropped After Beating Earnings - AOL.com",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jS3pLaWpaLTloRWROUUJzeko4UU5JaE8xQjhraHFVaExDMWt3cGNZaTNtNEZuZHJ1V05MbUNvUHBTcWRTekxlSy1KOVJJQkdDQmJmWHFwSkpzbmpvc2Ezc3JIcUEwdXNDcHBhR1lzV1UyeEtsbkxYUWxRUV9rdVk?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 15:27:08 GMT",
-     "source": "AOL.com"
+     "title": "Jefferies reiterates GE Aerospace stock rating on strong Q3 beat - Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGNlYmRrWGt5czN3MVhHa2N0bFlwNWJQRVdoZ241TWZLYXFVcGdkTnJ2RnYxd0hubTNQSGx0NGwxSDZ3ZEtybWRwdWVHYWFLWF85TjJhdTlqSG9sQy1CODA0b3lzNDlqaEVtaVNxVEhRN3lZQ2xxMmhwVWtSakZoM3Utc1pDcWtsOXc5ZGxBempGZHpZNnA0M19iZ05kRDRzbjhUdERkR1d2MG9JS2NyUHV0VnE5cjRmRk5hc2RWb2d6QQ?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 12:43:31 GMT",
+     "source": "Investing.com"
     }
    ]
   },
@@ -490,8 +490,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.55,
-    "changePct": 0.66
+    "price": 4.54,
+    "changePct": 0.44
    },
    "relVol": 0.7,
    "avgVolume": 7265808,
@@ -729,7 +729,11 @@ window.DASHBOARD_DATA = {
     38.96,
     38.96
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 38.7,
+    "changePct": -0.67
+   },
    "relVol": 0.8,
    "avgVolume": 3994711,
    "symbol": "KTOS",
@@ -809,8 +813,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 192.71,
-    "changePct": 0.06
+    "price": 193.3,
+    "changePct": 0.36
    },
    "relVol": 0.6,
    "avgVolume": 22513484,
@@ -847,16 +851,16 @@ window.DASHBOARD_DATA = {
      "source": "Investor's Business Daily"
     },
     {
+     "title": "Goldman sees 41% upside in overlooked AI stock - TheStreet",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbXNkNlBYYXhINDZVNFpEM3BwWGEySHY3aC1WX2V2R0kyTWVvUWowcFN0VDd6bm5oSzFXYTRYd2RaNUVaSGNrTVotQTVBTGxCdGxlMW0xWmtjRUtYN00zR1pTRWMzem91OEtMNXAycW1wZkxvLVRCV3g5SlhwR3BKbjRqdFoxWjFGRVcyYVpqYVZYSGR5XzBrUA?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 19:07:00 GMT",
+     "source": "TheStreet"
+    },
+    {
      "title": "Cathie Wood\u2019s ARK sells Palantir and Shopify stock, buys CoreWeave - Investing.com",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbUhXbVRPTEVsbzJfa2NxTVB1Q3I2Z3VhT3dkNTBoYnFSUFRrY3NETl82VnpPNDUwQVhsdHptZjhkTDBfR2NmU0ltUUl2a3pnRTR3ZE9EaG5ZSVBxcThSbnhUNXAwNXlZbURQeEh4dEZCaGtJd0FaZW1uemstaFFuWHpQYU5LM0tXUjVpcGNGcDcyUy1SaHNTVGp0a1lnS2U2XzY4WDhFUjFqTy1XVUVzQkFlXzh0WVd1WmZ2YmVn?oc=5",
      "pubDate": "Tue, 20 Oct 2026 02:39:13 GMT",
      "source": "Investing.com"
-    },
-    {
-     "title": "Palantir stock at $193 after a 4.4% Knox rebound: bull $213, bear $184 into the 2 November results - FinanceFeeds",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3BFbEhGUWhma3lrM3pDQVBINFkycUJISlRxQUUxakI1TGdra0lpME0zOExQbWFmcmV2SUd6TVo2UjFWX1BXcXhNRnhubnhCUDVidmJ0bFMzcWt3QXdwdV9xdkNmOUVVeVhwX2JLTU9ma216NFhtQ0dPb0pOYTJOcG1jNjFsZUR6SDJvTE41RnJfQQ?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 13:20:20 GMT",
-     "source": "FinanceFeeds"
     }
    ]
   },
@@ -891,8 +895,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 117.63,
-    "changePct": 0.0
+    "price": 117.42,
+    "changePct": -0.18
    },
    "relVol": 0.8,
    "avgVolume": 1353989,
@@ -1124,8 +1128,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.99,
-    "changePct": 0.38
+    "price": 3.97,
+    "changePct": -0.13
    },
    "relVol": 0.8,
    "avgVolume": 19381900,
@@ -1200,8 +1204,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.51,
-    "changePct": -0.28
+    "price": 10.54,
+    "changePct": 0.0
    },
    "relVol": 0.8,
    "avgVolume": 7215078,
@@ -1992,7 +1996,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 8.32,
-    "changePct": 0.18
+    "changePct": 0.17
    },
    "relVol": 1.0,
    "avgVolume": 11030661,
@@ -2067,8 +2071,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.09,
-    "changePct": -0.16
+    "price": 6.07,
+    "changePct": -0.49
    },
    "relVol": 0.6,
    "avgVolume": 49280972,
@@ -2283,7 +2287,11 @@ window.DASHBOARD_DATA = {
     547.95,
     548.87
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 548.71,
+    "changePct": -0.03
+   },
    "relVol": 0.9,
    "avgVolume": 1346112,
    "symbol": "LMT",
@@ -2354,7 +2362,11 @@ window.DASHBOARD_DATA = {
     1.75,
     1.74
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 1.73,
+    "changePct": -0.52
+   },
    "relVol": 0.6,
    "avgVolume": 1229478,
    "symbol": "KULR",
@@ -2427,8 +2439,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 16.39,
-    "changePct": 0.05
+    "price": 16.35,
+    "changePct": -0.18
    },
    "relVol": 0.7,
    "avgVolume": 2980326,
@@ -2502,8 +2514,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.65,
-    "changePct": 0.22
+    "price": 4.66,
+    "changePct": 0.43
    },
    "relVol": 0.8,
    "avgVolume": 19904169,
@@ -2729,8 +2741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 193.34,
-    "changePct": -0.02
+    "price": 193.0,
+    "changePct": -0.19
    },
    "relVol": 1.6,
    "avgVolume": 5400211,
@@ -2953,7 +2965,11 @@ window.DASHBOARD_DATA = {
     249.35,
     248.79
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 249.33,
+    "changePct": 0.22
+   },
    "relVol": 0.8,
    "avgVolume": 2099059,
    "symbol": "LHX",
@@ -3027,8 +3043,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 190.55,
-    "changePct": 0.09
+    "price": 190.29,
+    "changePct": -0.05
    },
    "relVol": 1.3,
    "avgVolume": 5051371,
@@ -3410,8 +3426,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 300.0,
-    "changePct": 0.03
+    "price": 299.81,
+    "changePct": -0.04
    },
    "relVol": 2.5,
    "avgVolume": 3123824,
@@ -3430,34 +3446,34 @@ window.DASHBOARD_DATA = {
    "marketTime": 1792526400,
    "news": [
     {
-     "title": "GE Aerospace Keeps Beating Earnings, GE Stock Keeps Falling - Barron's",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUmUzbElHQTlYVzZhWllEZzZVcVl1Y3M2X3kxVlgxanpmSzd3RWNhQVpZODRweTBqZmltUlp6NldBZ0JCY0RGRzA5MHJxN0RPbk5pQldyeHFPWUlIZzI3bUw1b3JTX0FrZklUOFdhUnBfb19SWHFiRi1xRGVaSWgtamVpa2JMdjFvSFhBam02ZUxWS2c2OU43blhQZjFaR1BiUHc?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 18:25:00 GMT",
+     "title": "GM Stock: Why Good Earnings and a Massive Buyback Are Tanking Shares - Barron's",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS0xfak5TSHA3NWR0UnpiUXdpalJfdlhtSUdzc3lhaVEtTnNLV2NLMXJ5Q2NQVjdwQ3FwdDctRHY3SmJ5QjhEcDhmOHFDT0xfcHdtbGtRNEEwMjFQdjR1M2NzMkJpQ1VzelhmRmRTM1k0Mm8yMVpmTk93Qk82ZTVVMg?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 12:35:00 GMT",
      "source": "Barron's"
     },
     {
-     "title": "Stocks to Watch: GE Aerospace, Netflix SpaceX, Elice - WSJ",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbVlheVJNdFBWRE9BTkVNdV8wdzhnQldsUnpMeFBQZF9zbFFVbE1nMG1tam1nVy0ycTAxdDlaTTVDdlVnZEVHU3dHTFhOM29vT0xkdU1SbXlhek5UU2tpc0FqUVdiR2xubnllMHhLQmpibHktcHJlTnlxcDFrdGdlYzByVTczbWctdnJDdWVJUndNS09ENWY2LW1lTVh6NHdfMzVQTjlCMV9JWVR1dGhoZy1aYW1uS0VzLWxueHlUN0QyQWdjWkVVTEtTaF9peWsxY1VMZDJxbk5WVGNSd1A1anlnR1M1X1E?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 09:13:00 GMT",
-     "source": "WSJ"
+     "title": "GE Aerospace beats estimates, raises guidance on strong demand - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWVFmVmtWeHM2TERIM1V5TENTekx1Wm5KcXJCVlVGRzFIaGsyQzF1aEJHdXlwaHZtU1JuRDZyelhpRzN4NVVuOEhtV3pmRndUX18zWTJlQlRnaW1WMUx0SUV2Y0xkYnludkRtUUVTTU1MSFFrMlNuREwyRzlHY0txZlc1SmVZdVpOWk1aSTBicXpXZ0txR0ZrSEpmUmZWWGM1NVE?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 11:22:34 GMT",
+     "source": "Yahoo Finance"
     },
     {
-     "title": "GE Aerospace raises profit outlook as engine repairs defy fuel shock, Boeing costs loom - Reuters",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNnVUT0tINU83dGVFSG5iTnFZNFlyQk9vT3lHZEY0dU5rUUFJRGlTYndPWEdiM2M0a0lKLU5FUW5CV2JvZ2NJTDI5MXlkVk85NlFwOU1XdUk0VzdKZ2FpZXJDUUJNMlZWZURPcVpXLWVKQzZ4SUcyYkEwQnhZY2xUd0VIc3g3dHEyU0RncnZrVkV5MzQtTGdWbFAwXzJzR1RNU1BBb2pjdm5EcVBaTVZtajBzV1B4XzRHY2YyaG93YXR1Z05ESGR4TlAxR0N6Q2xq?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 14:03:49 GMT",
-     "source": "Reuters"
+     "title": "Dear GE Aerospace Stock Fans, Mark Your Calendars for October 20 - Barchart.com",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeGdPTjFGRVFlNmJMcXMzcnpxYktiTTlaS0tyeVF4Qkx4RHJKeDNUX3lqZ1BUb1ducWVyUTQwT3pYUVotdFV1NWk5TWJZZGRqV3VuY1FkZGhrZDdSbTlsZkV1UXZ2bVE2VkpJdElQTUlZRGF1b3V2X2l6cTNTM2I2ZmE4MmV3bmluVVkyRXo3cmdKNzBKVl9PTEprVlJaQzZuUGJ2Sjd6MGxOYlE?oc=5",
+     "pubDate": "Mon, 19 Oct 2026 15:18:07 GMT",
+     "source": "Barchart.com"
     },
     {
-     "title": "GE Aerospace Falls 4% Despite Earnings Beat and Raised Outlook as Costs Climb; RTX Edges Higher, Boeing Barely Moves - 24/7 Wall St.",
-     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOclFVb2hvLUVpRS1HdlF0dmt3NkxkbFRRTDNYZy1pWGZYdjlMd2NTWE50Ykk5T21XVWlKTHFoZDNCbjY2bVh0YlQ1OTMzX1FUbTBWektqbVVSZ3ZBbzh0eXlxcWJKMExIWjNmLVFRUk9qZjRiUDNCa2ZYV3lVdU1xQ25oclU0aTZ3X2U3RU8yYXU2ZXVsekVxRDVyd2U5Q3VVNjNTbG82UHROUm9tQmh4cjYtR2hNWWY4RFFKMkhNZVFJTWI1dktOcHdOX0pTWXRWcERQN25mSUNaR3k4cHNqcWJQY19OY1RkajFENU1n?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 13:42:00 GMT",
-     "source": "24/7 Wall St."
+     "title": "Why GE Aerospace Stock Dropped After Beating Earnings - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeHhad3VXM0wwd19ubGlEN01MZ0d5SGZZSG5lM0djbDA3bjUxRnB5bkNwVHk5MFhzb3VzWGlQaEZ2MmJoNGhfTlRuaUx0SmhJMUlHYnRRUnk1eFloUnNKUW4yaFZ0RkRIWlNNYVlUX3VOeXRSLVpCN0NXb3Q1NE1FSUdjb2g4QlgzeTFEbWJiYUtqMVNfMk03YXRNN0c?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 16:07:00 GMT",
+     "source": "The Motley Fool"
     },
     {
-     "title": "Why GE Aerospace Stock Dropped After Beating Earnings - AOL.com",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jS3pLaWpaLTloRWROUUJzeko4UU5JaE8xQjhraHFVaExDMWt3cGNZaTNtNEZuZHJ1V05MbUNvUHBTcWRTekxlSy1KOVJJQkdDQmJmWHFwSkpzbmpvc2Ezc3JIcUEwdXNDcHBhR1lzV1UyeEtsbkxYUWxRUV9rdVk?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 15:27:08 GMT",
-     "source": "AOL.com"
+     "title": "Jefferies reiterates GE Aerospace stock rating on strong Q3 beat - Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGNlYmRrWGt5czN3MVhHa2N0bFlwNWJQRVdoZ241TWZLYXFVcGdkTnJ2RnYxd0hubTNQSGx0NGwxSDZ3ZEtybWRwdWVHYWFLWF85TjJhdTlqSG9sQy1CODA0b3lzNDlqaEVtaVNxVEhRN3lZQ2xxMmhwVWtSakZoM3Utc1pDcWtsOXc5ZGxBempGZHpZNnA0M19iZ05kRDRzbjhUdERkR1d2MG9JS2NyUHV0VnE5cjRmRk5hc2RWb2d6QQ?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 12:43:31 GMT",
+     "source": "Investing.com"
     }
    ]
   },
@@ -3492,8 +3508,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.55,
-    "changePct": 0.66
+    "price": 4.54,
+    "changePct": 0.44
    },
    "relVol": 0.7,
    "avgVolume": 7265808,
@@ -3731,7 +3747,11 @@ window.DASHBOARD_DATA = {
     38.96,
     38.96
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 38.7,
+    "changePct": -0.67
+   },
    "relVol": 0.8,
    "avgVolume": 3994711,
    "symbol": "KTOS",
@@ -3811,8 +3831,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 192.71,
-    "changePct": 0.06
+    "price": 193.3,
+    "changePct": 0.36
    },
    "relVol": 0.6,
    "avgVolume": 22513484,
@@ -3849,16 +3869,16 @@ window.DASHBOARD_DATA = {
      "source": "Investor's Business Daily"
     },
     {
+     "title": "Goldman sees 41% upside in overlooked AI stock - TheStreet",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbXNkNlBYYXhINDZVNFpEM3BwWGEySHY3aC1WX2V2R0kyTWVvUWowcFN0VDd6bm5oSzFXYTRYd2RaNUVaSGNrTVotQTVBTGxCdGxlMW0xWmtjRUtYN00zR1pTRWMzem91OEtMNXAycW1wZkxvLVRCV3g5SlhwR3BKbjRqdFoxWjFGRVcyYVpqYVZYSGR5XzBrUA?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 19:07:00 GMT",
+     "source": "TheStreet"
+    },
+    {
      "title": "Cathie Wood\u2019s ARK sells Palantir and Shopify stock, buys CoreWeave - Investing.com",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbUhXbVRPTEVsbzJfa2NxTVB1Q3I2Z3VhT3dkNTBoYnFSUFRrY3NETl82VnpPNDUwQVhsdHptZjhkTDBfR2NmU0ltUUl2a3pnRTR3ZE9EaG5ZSVBxcThSbnhUNXAwNXlZbURQeEh4dEZCaGtJd0FaZW1uemstaFFuWHpQYU5LM0tXUjVpcGNGcDcyUy1SaHNTVGp0a1lnS2U2XzY4WDhFUjFqTy1XVUVzQkFlXzh0WVd1WmZ2YmVn?oc=5",
      "pubDate": "Tue, 20 Oct 2026 02:39:13 GMT",
      "source": "Investing.com"
-    },
-    {
-     "title": "Palantir stock at $193 after a 4.4% Knox rebound: bull $213, bear $184 into the 2 November results - FinanceFeeds",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3BFbEhGUWhma3lrM3pDQVBINFkycUJISlRxQUUxakI1TGdra0lpME0zOExQbWFmcmV2SUd6TVo2UjFWX1BXcXhNRnhubnhCUDVidmJ0bFMzcWt3QXdwdV9xdkNmOUVVeVhwX2JLTU9ma216NFhtQ0dPb0pOYTJOcG1jNjFsZUR6SDJvTE41RnJfQQ?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 13:20:20 GMT",
-     "source": "FinanceFeeds"
     }
    ]
   },
@@ -3893,8 +3913,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 117.63,
-    "changePct": 0.0
+    "price": 117.42,
+    "changePct": -0.18
    },
    "relVol": 0.8,
    "avgVolume": 1353989,
@@ -3953,16 +3973,16 @@ window.DASHBOARD_DATA = {
    "source": "pv magazine USA"
   },
   {
-   "title": "How buying weapons can harm a country\u2019s economy - The Conversation",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaUxaSVl4TjBlUzJRWm1MaDMwQkpYWEZGNklTLTNiSlB4UllUZWNfUTRSTWR4QVdIRnpHOUtXTHBWczAyUEpPR1JNNWt4TGR2Mzc1WlpXeEhaTDRlVzV3U2dnbXFTV2VsQ0N1aHpvY1BiZmlsX3JtOGtzTGo1cXdfa25WVWl4dzNl?oc=5",
-   "pubDate": "Tue, 20 Oct 2026 13:28:40 GMT",
-   "source": "The Conversation"
-  },
-  {
    "title": "Aerospace and military contractors raise 2026 profit forecasts - Reuters",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObjZ2OHdlcWJLQ2hfbmFlekZkM09pYlVJWVpvTmRnVGhQTXdJZFhqc1JJWmFMc2VHYTFpWmZtUVN4c1hzZjZwY3JjUFNsMjM5S2FhYmpuSXVNWmc3MDJlSUwyZWpZTVlxaXhLRHN5MEhrODJmNEY5SzB4N0pWNndGcEh0b09PREJLa0U5akd2NkZRXzE3ci10dmVBbzQxczVvOW1KU3J4aXU4Sk1FMnVCQV8xcDZEMlpRbmRBamhfTEUyY0I0RkZERlZkckRWcUxR?oc=5",
    "pubDate": "Tue, 20 Oct 2026 14:30:20 GMT",
    "source": "Reuters"
+  },
+  {
+   "title": "How buying weapons can harm a country\u2019s economy - The Conversation",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaUxaSVl4TjBlUzJRWm1MaDMwQkpYWEZGNklTLTNiSlB4UllUZWNfUTRSTWR4QVdIRnpHOUtXTHBWczAyUEpPR1JNNWt4TGR2Mzc1WlpXeEhaTDRlVzV3U2dnbXFTV2VsQ0N1aHpvY1BiZmlsX3JtOGtzTGo1cXdfa25WVWl4dzNl?oc=5",
+   "pubDate": "Tue, 20 Oct 2026 13:28:40 GMT",
+   "source": "The Conversation"
   },
   {
    "title": "Northrop Grumman (NOC) Stock Trades Up, Here Is Why - TradingView",
@@ -3977,16 +3997,10 @@ window.DASHBOARD_DATA = {
    "source": "Global Times"
   },
   {
-   "title": "The Geopolitics Of The Persian Gulf And War With Iran \u2013 Analysis - Eurasia Review",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzliMFp6eEhYUTBYdjhCdThQQzJVX1lCc3lJSHRYSDZqbWgxTHhsQlJtam92S2picDV2X19QR0ZGRWJzQzAyU0ZSSWVxTEJKVUt3T2M1LTYxZFRaUWg4dWJoOTBLMWlUTl9SS1l1WWF1aHFlamItOE5sOGl1X0xRODFKMWlhdHpORzgyR3U5bWdnd2JwSWk2dE50S25LOXcyRzZkSQ?oc=5",
-   "pubDate": "Tue, 20 Oct 2026 00:18:42 GMT",
+   "title": "The Middle East\u2019s Geopolitical Deadlock: Why Change Must Come From Within Iran \u2013 OpEd - Eurasia Review",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVhlaGtGR3ljZ3RkbUM0RXZ1UjNaSzV2Z1Jkb2NMdlRiYmIxdVJYMjZtRWNSVFJVdmt2QnEtLUZFUGpqSnFMejNqNGVNaThINmEwTFlOM2tta015aTlmQmlsRWpqUlFYZVVLdnBNZURWMlJRM09FbWFoUEVoSDRlemkwcGVYaUV6bkxGd0VJVzN1UDdtMmNJb2JmQnhrQXBBcmRlRU9JX0t0WkhWdG5CQlA2UzdRUTk3QmN3OURn?oc=5",
+   "pubDate": "Tue, 20 Oct 2026 16:42:47 GMT",
    "source": "Eurasia Review"
-  },
-  {
-   "title": "Investors warned of overlooked risks beyond conflict - InvestorDaily",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcEVzWkVDSHNFeDg0bllXeXRMYV9oeWpxb1NVM2dGWkV2WXYwMHZGemVsU2drZmN2MzlrSHhJcWdFZldDaEgxaWVJanVXQlA3ZGRSd0EyZTdtV3I2SEhCMW5HSF9UOXN1QmdrS3V5MFZ5djZlV2ttRExqMDZlUHdvUHY4TUZYMGFIM194MkpmUQ?oc=5",
-   "pubDate": "Tue, 20 Oct 2026 07:47:35 GMT",
-   "source": "InvestorDaily"
   },
   {
    "title": "K-Defense Urged to Overhaul System for AI-Era Battlefields - \uc870\uc120\uc77c\ubcf4",
@@ -3995,28 +4009,34 @@ window.DASHBOARD_DATA = {
    "source": "\uc870\uc120\uc77c\ubcf4"
   },
   {
+   "title": "Investors warned of overlooked risks beyond conflict - InvestorDaily",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcEVzWkVDSHNFeDg0bllXeXRMYV9oeWpxb1NVM2dGWkV2WXYwMHZGemVsU2drZmN2MzlrSHhJcWdFZldDaEgxaWVJanVXQlA3ZGRSd0EyZTdtV3I2SEhCMW5HSF9UOXN1QmdrS3V5MFZ5djZlV2ttRExqMDZlUHdvUHY4TUZYMGFIM194MkpmUQ?oc=5",
+   "pubDate": "Tue, 20 Oct 2026 07:47:35 GMT",
+   "source": "InvestorDaily"
+  },
+  {
+   "title": "Eastern Libya\u2019s U-Turn on Turkey Deal Raises Concerns for Greece and Cyprus - POLITIS - To the point",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNGh2YTlLdkNCa1d1WEZxV0JJYVdPajZxeFVtLTU0SFVmbmJBcVdtSlNiSm5pR3VqVzlKWjRDeXMyYWJaYTVxVmIzN2xGUlBVeEdESDBPNVZUMmc0Z1E2cjhZMXhuQW9PSjdDQTdyYko3Tkd0WnhhR1prUC1SZkpBYXpIUnRwSmpGVU5LNHhmWTR0a2x1TFEyOUg2VUE5elBQVlM0MDBycGZaeHpMZVJIR2I0aGNzZDJxQkVr?oc=5",
+   "pubDate": "Tue, 20 Oct 2026 18:13:23 GMT",
+   "source": "POLITIS - To the point"
+  },
+  {
    "title": "Brent crude climbs to $110 a barrel as Middle East attacks lift oil prices - The New Voice of Ukraine",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSndIN2RJNHMzak85MEIwZUd1SFJDUzdPTm4xeWpHN1loWXZ4Y280M3hydEVYX2hVZEluSGdOS0dzc0x2S25DelhLSUh2ekhkN2pOX0tfd2x6eFRPZG9UdFRnY3B5ZlBzTWlKdVc2ZHJSOHN2ZVoteWNGUHpLY1k3ZlhOUFA5NzZtLWNXaFNCMUhxb0pXS1VjSmZhV3ZMVURXelU4alVTNk10b2fSAacBQVVfeXFMUDVNMG9GSDdEU21VNzZ5RVFxUHl5Z3hVZ0kxdEs5TDNfbTBsYUtZdGZrVVhJdlF2TnV2bTFwa0NJUDVQV1hOUWhISDBjWC1EejQ5blVKYXNCMUl0enBYNnEtVjlfeGVkQ01mT09LLXZScFJlWmxFMzU3Y2hlWWM1T0M1cnNYNENqSDVtX24td1c2RVRwYng4V2FjbTVSaFBtbWQ1OWFJakU?oc=5",
    "pubDate": "Tue, 20 Oct 2026 08:55:00 GMT",
    "source": "The New Voice of Ukraine"
   },
   {
-   "title": "Eastern Libya\u2019s U-Turn on Turkey Deal Raises Concerns for Greece and Cyprus - POLITIS - To the point",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNGh2YTlLdkNCa1d1WEZxV0JJYVdPajZxeFVtLTU0SFVmbmJBcVdtSlNiSm5pR3VqVzlKWjRDeXMyYWJaYTVxVmIzN2xGUlBVeEdESDBPNVZUMmc0Z1E2cjhZMXhuQW9PSjdDQTdyYko3Tkd0WnhhR1prUC1SZkpBYXpIUnRwSmpGVU5LNHhmWTR0a2x1TFEyOUg2VUE5elBQVlM0MDBycGZaeHpMZVJIR2I0aGNzZDJxQkVr?oc=5",
-   "pubDate": "Tue, 20 Oct 2026 16:54:18 GMT",
-   "source": "POLITIS - To the point"
-  },
-  {
-   "title": "Third World War is inevitable, former Serbian president Vu\u010di\u0107 warns - AzerNews",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MX1NmMlRWR3p3WjJndWJpY3JlaFVlRGNDNnhlWExCZDVtZVc4bEM1eU10RGxPV016Q3JRWXU0dkljYmZ0Q1BHMTlIRTFpYVlpWUQyZg?oc=5",
-   "pubDate": "Tue, 20 Oct 2026 13:54:00 GMT",
-   "source": "AzerNews"
-  },
-  {
-   "title": "Inspection Delays Hitting Deliveries, Says Military Parts Co Data Patterns - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOejEtVmtSaWlBSjVyZkY4d3VlYWljbXh1Qk5GLUlFZkRLVlNJWTRfNC1aNzlMSC1Pc2haVUpFQlR2eUtwSmVMWWJlb2pWbndQUG8yclhvdG41NHJ2dGJrUjNlUFJUbkZkU3pzVjNlRjN3aDcxLWp0TW53T0hnRTgzbHkxUlRMWTk2MTM0U1FGSnU4U3hERjhXRi1GRG9pQXhQUDVfeU9XLXhLQnRXaGNTUllHRXd5NEJLLTMxNmh4Ty10MFJEVU1Mdk5n?oc=5",
-   "pubDate": "Tue, 20 Oct 2026 04:12:00 GMT",
+   "title": "United Delivers Record 17% Revenue Growth in Q3, and Expects Record Q4 Revenue Growth, Underpinned by Accelerating Customer Investments - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOQTc5UGt0QVRqOXN4UkdjMkdaTkZiQjIxN0l1OXNCWEllRmpoYUNGMmViU0FvMGpXWUpDc1FpUDdSZW5tVlBRT3p4RkZkaXBzVGk3MlNsOU9LTzBBUmtrS2RackpHUlhMUGswOEh5Vlo5bVFWd2ktamRXX1ktd1VPVVRtMkdNeWdGcG1vOG1ZLTJWNUhmVGxOUmZFcFlyYk5jRHJLM2lsX01TbmUzbVp1YWVGbTlEOUljbVlEUjhQaWtuMWlOX044VE5EWTd6SWR5d09ZM0hCYnNsUWMzeHc0TjdiRnkzeDBzaXNseVl3VkdlbGtMX3EyNEFPQ0VuZHhZREpZaFZSTmZkQ24tbTNMOVN4a1FMbkFXR193Y0tn?oc=5",
+   "pubDate": "Tue, 20 Oct 2026 20:00:00 GMT",
    "source": "TradingView"
+  },
+  {
+   "title": "Fog Of War: A World Searching For An Exit - thepost.co.za",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMER5YjdHdV9RRHFpcUNOeTVUN3lsbGowem9ra1EzV0tqTkx4Qm9acFRNZnhSbkdrYlk3N0JNb1d5MGVuU3FKMHhvSWNmMXBDb2d5ejJyV0ZuSHR4NnJYR1dKS3FZbU9NRURGMldXcHl1YVJQRjdkYTV2NDdnNGVpR0JlajdLTUl0RnhYVUcyYW4?oc=5",
+   "pubDate": "Tue, 20 Oct 2026 02:35:23 GMT",
+   "source": "thepost.co.za"
   }
  ],
  "mna": [
@@ -4113,6 +4133,12 @@ window.DASHBOARD_DATA = {
    "source": "WSJ"
   },
   {
+   "title": "Atlanta-Based Drove Aeropower Emerges From Stealth With Defense Technology Backing - citybiz",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUW5HOXFSMktFam9rYk1vR2NQUjRqbjgxOUNkc01aSTJNS3U0cnNhemZwbi0zc0lMTmhRSlBLTjlFdW5xemx6XzdnUVVHTHkyTWh1THN6bFJ3Q19sR25haTlmZVQwaDNIb1JIX21kc0dRV1JFTnI2dFdzYi1JcG5xVDd0cnY5RmRlMEpMNi1jSzA2dEt1cW1NTkEzN2pDelo3WGVEQldkV1F3Q01idVZ0NlVySDNzM2lQZWVmWnFB?oc=5",
+   "pubDate": "Tue, 20 Oct 2026 20:01:22 GMT",
+   "source": "citybiz"
+  },
+  {
    "title": "Japan offers opportunities, partnerships for defense contractor Thales: CEO - Nikkei Asia",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZGxGVTNHNUZOT1hwOEplek9IbHV5SGhTTUpSa1dqZzlnTHBoQUJtb0JlSXczdE1nVV9qZ1JUWkx1NEFJMFhQczUzajJfTVVoTkltV1IyMmJvQmd1T2dVMngwNnBTckNXOF9SYVRXenNnaGY0T2FZajdPMHROS1d3NUI1bmlMSmU2NkFIQ1AxZ2Z1dHU5aUNUVUFoYkwzMm9fRU9JUjlzU2VPZ0xrTEVZYzZKTC1ESHBPY3V5M3hYTGhmQnhSYkNtSG1GcTVZbnhP?oc=5",
    "pubDate": "Tue, 20 Oct 2026 15:38:00 GMT",
@@ -4129,12 +4155,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc3piZmExWTdYNFNFbS0wdVFwM0wxdmttczd3dzZoY1J4dFhMUWl2T0dxN2VWQm9nRy02eXlndW5CMXQzeXFsaW1aSWpHbEhsUEk4T2RfMVpsMzUtS1BXZzltWmNLSTRad3NDenVMVkc0c25DblJ4SkxaZ0p5UnJXdFhVOUxFMFVjZDFPcmVISXprV0lJb3dnOUJSUGN4VDlmMmttUk9TX1F3c2U4YUJINUtOT1hPRmUtLWlzUU9ETlXSAcYBQVVfeXFMUGJoUk1qSWl4QjVuTVBjOEZjX1VwZlg4QlRpeTJLaU1fOEctbFVteXN6RGNub0ZvUmJWRWVpVmJtdFc2SFRKS0NfcUlubUo5Mi1KYzNKNkxRaWkxaUVvd3c4M1gxb1RsZFhnTHFoR19sNVBFN2RJSDZ6eWo4dnZRbUpxdDFlNU5XNzhJeDJSc2lodm1QaUtPcDEzMHI2a0p2dmFka3BHaURCMWZpdDdDcXN6d3kxTHZCQ0llZWF0MjVTck10X213?oc=5",
    "pubDate": "Tue, 20 Oct 2026 17:43:08 GMT",
    "source": "Simply Wall Street"
-  },
-  {
-   "title": "2026 Innovators Awards announced for enabling technologies in aerospace and defense applications - Military Aerospace",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMkFXaHBGT3JlcWhMRWhyLUQ1SHZwOTBTaWJZU3doSkVmRWRPQVhjYmlwZWx0aGNPYVVMRFFNRmNzLWNndzNRcTV0TkNhRjFJY0FfSFdieWsxbTBHX3o2c2xnanZhLXpWYWRqSDUyOWFibjdfbkw1QzRJXzJtTmFNcXJzenNhTDY0TlQ0aHBSSkZkZk5RYUF5RzNhUkU5aEoybkdoN3pBVHZPN05LTFNYVTdQOUk5dU45SFM5QktWSXNKR1hjcUtsYlZVSkx4TmpjMkxfTjhRN0kydVBtZGRZcERvc1BRRUk?oc=5",
-   "pubDate": "Tue, 20 Oct 2026 09:02:36 GMT",
-   "source": "Military Aerospace"
   },
   {
    "title": "K-Defense Urged to Overhaul System for AI-Era Battlefields - \uc870\uc120\uc77c\ubcf4",
