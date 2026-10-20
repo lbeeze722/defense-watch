@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-20T20:21:26.712661+00:00",
+ "generatedAt": "2026-10-20T20:27:06.984563+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -363,9 +363,9 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "VSE Executives to Meet Investors Virtually at Aug. 18 Event - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUdtUHdhakNIVng2M2JXb1BFQzlXZjEwMmNTNzB2bkdNcU9ZMkV0bnVQYnBfa2YxQ0g3eFZQb2NwRl9QcVNNbi1ldmxYTVljdGl2SzU1MGkwcVdQcWxOVS03X1BBVVRaM3czM3JsaUFrbHBJanpGV054S0VhbWdHVG1FMHFibDdxUGpyYkhLbTdrOFVCZUtOWGRLNVIwcUFLZWI4VkdnRDA5NUFqZkYySWVB?oc=5",
-     "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+     "title": "VSEC 8-K Filings - VSE Corp SEC 8-K - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yTjVWLV9RNy1OSzZ4a1paVV9NajVrS2RBTDNSUUlBQnF4TVlZVFhaTVJuTzNRVTlxbWtmeEg4Z0R4cHlkcTNfS2N2SlpjNHV5MGNWSU1vMWVTNHY3cFo2LUhn?oc=5",
+     "pubDate": "Wed, 23 Sep 2026 07:48:53 GMT",
      "source": "Stock Titan"
     },
     {
@@ -457,10 +457,10 @@ window.DASHBOARD_DATA = {
      "source": "The Motley Fool"
     },
     {
-     "title": "Jefferies reiterates GE Aerospace stock rating on strong Q3 beat - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGNlYmRrWGt5czN3MVhHa2N0bFlwNWJQRVdoZ241TWZLYXFVcGdkTnJ2RnYxd0hubTNQSGx0NGwxSDZ3ZEtybWRwdWVHYWFLWF85TjJhdTlqSG9sQy1CODA0b3lzNDlqaEVtaVNxVEhRN3lZQ2xxMmhwVWtSakZoM3Utc1pDcWtsOXc5ZGxBempGZHpZNnA0M19iZ05kRDRzbjhUdERkR1d2MG9JS2NyUHV0VnE5cjRmRk5hc2RWb2d6QQ?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 12:43:31 GMT",
-     "source": "Investing.com"
+     "title": "GE Aerospace Stock Is Falling Tuesday: What's Going On? - GE Aerospace (NYSE:GE) - Benzinga",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbWZtalpEbTR6anY2Z2hiSW9jZnJTbW5pRnZsVmpsSGxUWExYVi1oc28tb21vek43RTQ2Rm1NYzZGM2hJLWpoMGRwNlFxQkI1bU1QQ0tkVFZhUkdhZWpWNzdHal9MRW1TZ3MzM3BuTW9sRl9pcHNlZWJHWHY5amVZUHM2Y2pxa0taTkYxakhmckhqbDNfRXdKeFd6TzNCbEQtbEhFalVoMTdMWk8yRWphNnZJWDlvX0g2VUEtT1pCVXlTa19VQW40djh6Zw?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 14:09:41 GMT",
+     "source": "Benzinga"
     }
    ]
   },
@@ -495,8 +495,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.52,
-    "changePct": 0.01
+    "price": 4.51,
+    "changePct": -0.19
    },
    "relVol": 0.7,
    "avgVolume": 7265808,
@@ -741,8 +741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 38.76,
-    "changePct": -0.51
+    "price": 39.34,
+    "changePct": 0.97
    },
    "relVol": 0.8,
    "avgVolume": 3994711,
@@ -760,12 +760,6 @@ window.DASHBOARD_DATA = {
    "fiftyTwoWeekLow": 37.84,
    "marketTime": 1792526401,
    "news": [
-    {
-     "title": "Kratos Defense & Security Solutions, Inc. (KTOS) stock price, news, quote and history - Yahoo Finance Singapore",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkTEZjM0M3cFpGWVdweWJtUWFldFVaYmpuZUN5Q19pc2NyVktiRmpZYTNyeDIwcDFaTUVlVDdwNUMzbWd3Tm9XaHJMR3RQSk56U0FFNUE0eW53NjNnVXBGQXZR?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 13:26:25 GMT",
-     "source": "Yahoo Finance Singapore"
-    },
     {
      "title": "How New Defense Facilities At Kratos Defense & Security Solutions Stock Has Changed Its Investment Story - Simply Wall Street",
      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcVhpRjMyblJHVTByNUhIS2ppVTRxamh2ZF92NjgwZlMwczhjejVleEpCRThWWERmdnA1anhWWENiU1pjMEtaYldEQWtvSzNKaFdSanFpQXBkd1ctM01fV2hmTk1oVmZuZW9BMXFGV01GbGtadVh0R2FJR1pxNGgxRmVWSE1xVUNtWkVjNWRkRW0xVGhfaHRBTUhwd2lNUE84NElETE51dW9nb0FrOW9sRkp0RFRObW12ZXk5SWszTGZpVG9aMmp2WkR4bGtsSXZlbzZ4Vm9FM21sZ2wtZkZpOGlPc1Rndk5FVnRaZXdR0gHzAUFVX3lxTE9pNkpmQzFIU0hMb0FkZ3J1Z2lxX0k4N3lYQkZkV0hSdGVqd1VMVm9XMEZMazhCdEJ4ZWVvSUdVR21xQ0FmaWY4NHVXM194MWZLSmVMLUhwbXk4TWtsQmZFT1BuRGtuZGR5Z1V3QndoT0RyMFpfbWJobC1EZDRxdkFRaURmNTUyMUd5TVhNUmhRT3FXeXJwRnhJLWpGQnhQWWhweVZ6NHJZS3ZSUjNaQUVqSmN1bkJseTVEQmktdmliMHhzT2xYeC1uaHQzcnBvcUMyWlVRRG15cFZaekc2Z0pjcUdLRlNMZ0FDNXlWM2pDcVZybw?oc=5",
@@ -789,6 +783,12 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeGY2R1huLXh5VkxiOEtyOUNqZUdDTVRMNWM3eVVIZUdHNk42MWRJYlN5c3ZMQ1ctWkN6d0xFbUhIUUNaRk1DS01XX1RGajU0RU5pY2hjenFYbVBJNGdROFpPWTFJYVBEeGJDanB1MnROX2tmZktvUUp3bkcyck8xdTJaUTVpTV9GRU9HdkpJY2tkMWo4ang3bGhJczBJWG9RbmJDaE9odkFNWVBDYkl4TDluWkxyYXQyRDJRWlJzT28yTHR4ekxxaQ?oc=5",
      "pubDate": "Tue, 20 Oct 2026 18:10:30 GMT",
      "source": "ad-hoc-news.de"
+    },
+    {
+     "title": "Kratos Defense & Security Solutions, Inc. (KTOS) stock price, news, quote and history - Yahoo Finance Singapore",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkTEZjM0M3cFpGWVdweWJtUWFldFVaYmpuZUN5Q19pc2NyVktiRmpZYTNyeDIwcDFaTUVlVDdwNUMzbWd3Tm9XaHJMR3RQSk56U0FFNUE0eW53NjNnVXBGQXZR?oc=5",
+     "pubDate": "Mon, 19 Oct 2026 20:25:23 GMT",
+     "source": "Yahoo Finance Singapore"
     }
    ]
   },
@@ -823,8 +823,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 193.26,
-    "changePct": 0.34
+    "price": 193.0,
+    "changePct": 0.21
    },
    "relVol": 0.7,
    "avgVolume": 22513484,
@@ -931,28 +931,28 @@ window.DASHBOARD_DATA = {
      "source": "MarketBeat"
     },
     {
-     "title": "AeroVironment Lands Major Army Deals as AVAV Stock Looks More Attractive - Clearance Jobs",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSXhNU3lycW1lbWpjUTY4RjlhSkswOC14VTNjazJoTEtTY1VJbWMtZmM2WTJBSmZXYnRJV2xtS25sZms3R1VwYmltTmZqM2toeXJGZnlOR2R6VnhNVTl1c2hjdVgtMUIyOS1mNnFtdmlLQU44VkpjYjhEZmZGVVVZbWxhd1lwTmdBeE8yNTE3LTk1YTlPZXlDN1k0djBKb0F3dTdwOUE0UzB6c3hvOS1qbkZZZUJjdw?oc=5",
-     "pubDate": "Mon, 19 Oct 2026 14:30:46 GMT",
-     "source": "Clearance Jobs"
-    },
-    {
      "title": "AeroVironment Is Now Down 43% This Year. Is It Time to Sell This Dropping Drone Stock? - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUGs4aXV3cTRHcmpXU2dNempmNDRBMUdnVUFfYkRVSm5qa0hEVl9HYXpLNFlheVdkbDZJa0xCVV9JOGxmTEN1RTIyYXdGdzlDNGtlREJWdFVCdG9iY3RJaDhDN184cWEzeVo4U3RfUkpwOVpMYjUyWkJLZ094WHBKdldfVWdhX3p1akZOcVlKbllEWUh3TURXb0Zocw?oc=5",
      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
      "source": "Yahoo Finance"
     },
     {
-     "title": "Citizens cuts AeroVironment stock price target on budget uncertainty - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUnhLUGJRcUJ5UDd2eHh1NVBzOXFMX0s2WjgtYW1YS3dhNF85NEIxWjhTWHdNSmJLUF9FQjRHc09ncHc3TWhXVVJMOTdVd1c0Y2pVYzVyYm9obVU2ZlpOMWozLU95THpyMzJKUldCM1dPV0xHY1lfNlBZY0VkZjdYUzJ3ZlA4OFE4UVEwYV9RR05wRlRkWXNObHRpSnlKZW91bE92bXg3cktmczU1VzJWMmRtOUVaUlljNTA0NldsUWh0X1QtcE1B?oc=5",
-     "pubDate": "Mon, 19 Oct 2026 09:08:48 GMT",
-     "source": "Investing.com"
+     "title": "AeroVironment Lands Major Army Deals as AVAV Stock Looks More Attractive - Clearance Jobs",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSXhNU3lycW1lbWpjUTY4RjlhSkswOC14VTNjazJoTEtTY1VJbWMtZmM2WTJBSmZXYnRJV2xtS25sZms3R1VwYmltTmZqM2toeXJGZnlOR2R6VnhNVTl1c2hjdVgtMUIyOS1mNnFtdmlLQU44VkpjYjhEZmZGVVVZbWxhd1lwTmdBeE8yNTE3LTk1YTlPZXlDN1k0djBKb0F3dTdwOUE0UzB6c3hvOS1qbkZZZUJjdw?oc=5",
+     "pubDate": "Mon, 19 Oct 2026 14:30:46 GMT",
+     "source": "Clearance Jobs"
     },
     {
      "title": "Citizens JMP cuts AeroVironment target to USD 170 for AeroVironment stock - ad-hoc-news.de",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1p4QUl4SUhZWjdWVTNudU9SWUpTb2RWYmFiWVBHZ2R2bWdSbWpLUDJCSGRDVFFXWEtHMllyU1hFN296X2ZfRFFNRE9xSkNFb3dqVU4zZ2Ria0ZfWWFhVWtlX1dKZV92ZTJteTF5RXp2NXFmVDRBZ2RiV0E3azA0TDRrMncyZERkOWY5T05tVS1INHB2SDFLV1NOX2lQVFFYazVGWlNwTkZ1QWZUS1RaaEFGRXpwRzdBcVY1RzZCLUhRR0phcTk2WWlybGM?oc=5",
      "pubDate": "Tue, 20 Oct 2026 18:18:43 GMT",
      "source": "ad-hoc-news.de"
+    },
+    {
+     "title": "Macquarie initiates AeroVironment stock with outperform rating - Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTmgtV29LLV8xVGRPbHVuWFRMWXdOaHR5dU16MmcyLUw5YTNVRVNYeUFpRXNuMU04NG5BV2tEUnFfbHF5aVJWNUJVLTdiQ1ZCeHdYSTM5MVI1RUsxb3hvdjJxOExTZ2J3cFAtSGRtV1gtOGs3OEVFcjdRZXN1NjY1elRPazdaOVFhUXlndFhoNm91R0lmZW1maDdaQzBPdi1XX1BhQllLa2RoWEdEdVRTUnpGakFsZVBoeG9URDE4cw?oc=5",
+     "pubDate": "Fri, 16 Oct 2026 11:13:08 GMT",
+     "source": "Investing.com"
     }
    ]
   },
@@ -1063,8 +1063,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 533.5,
-    "changePct": -0.09
+    "price": 534.0,
+    "changePct": 0.0
    },
    "relVol": 2.1,
    "avgVolume": 969102,
@@ -1215,8 +1215,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.59,
-    "changePct": 0.51
+    "price": 10.55,
+    "changePct": 0.09
    },
    "relVol": 0.8,
    "avgVolume": 7215078,
@@ -1292,7 +1292,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 3.99,
-    "changePct": 0.25
+    "changePct": 0.24
    },
    "relVol": 0.8,
    "avgVolume": 19381900,
@@ -1517,7 +1517,11 @@ window.DASHBOARD_DATA = {
     135.11,
     135.1
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 135.1,
+    "changePct": 0.0
+   },
    "relVol": 1.3,
    "avgVolume": 265362,
    "symbol": "SAIC",
@@ -1971,8 +1975,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.29,
-    "changePct": -0.12
+    "price": 8.33,
+    "changePct": 0.36
    },
    "relVol": 1.1,
    "avgVolume": 11030661,
@@ -2098,8 +2102,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.09,
-    "changePct": -0.16
+    "price": 6.1,
+    "changePct": 0.0
    },
    "relVol": 0.6,
    "avgVolume": 49280972,
@@ -2402,8 +2406,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 16.35,
-    "changePct": -0.18
+    "price": 16.53,
+    "changePct": 0.92
    },
    "relVol": 0.7,
    "avgVolume": 2980326,
@@ -2706,8 +2710,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.67,
-    "changePct": 0.38
+    "price": 4.65,
+    "changePct": 0.0
    },
    "relVol": 0.9,
    "avgVolume": 19904169,
@@ -2782,8 +2786,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 190.38,
-    "changePct": -0.05
+    "price": 190.48,
+    "changePct": 0.01
    },
    "relVol": 1.5,
    "avgVolume": 5051371,
@@ -2934,8 +2938,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 51.51,
-    "changePct": 1.2
+    "price": 51.17,
+    "changePct": 0.54
    },
    "relVol": 0.7,
    "avgVolume": 25336459,
@@ -3160,7 +3164,11 @@ window.DASHBOARD_DATA = {
     344.48,
     344.44
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 344.44,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
    "avgVolume": 810597,
    "symbol": "GD",
@@ -3426,9 +3434,9 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "VSE Executives to Meet Investors Virtually at Aug. 18 Event - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObUdtUHdhakNIVng2M2JXb1BFQzlXZjEwMmNTNzB2bkdNcU9ZMkV0bnVQYnBfa2YxQ0g3eFZQb2NwRl9QcVNNbi1ldmxYTVljdGl2SzU1MGkwcVdQcWxOVS03X1BBVVRaM3czM3JsaUFrbHBJanpGV054S0VhbWdHVG1FMHFibDdxUGpyYkhLbTdrOFVCZUtOWGRLNVIwcUFLZWI4VkdnRDA5NUFqZkYySWVB?oc=5",
-     "pubDate": "Thu, 13 Aug 2026 07:00:00 GMT",
+     "title": "VSEC 8-K Filings - VSE Corp SEC 8-K - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yTjVWLV9RNy1OSzZ4a1paVV9NajVrS2RBTDNSUUlBQnF4TVlZVFhaTVJuTzNRVTlxbWtmeEg4Z0R4cHlkcTNfS2N2SlpjNHV5MGNWSU1vMWVTNHY3cFo2LUhn?oc=5",
+     "pubDate": "Wed, 23 Sep 2026 07:48:53 GMT",
      "source": "Stock Titan"
     },
     {
@@ -3520,10 +3528,10 @@ window.DASHBOARD_DATA = {
      "source": "The Motley Fool"
     },
     {
-     "title": "Jefferies reiterates GE Aerospace stock rating on strong Q3 beat - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGNlYmRrWGt5czN3MVhHa2N0bFlwNWJQRVdoZ241TWZLYXFVcGdkTnJ2RnYxd0hubTNQSGx0NGwxSDZ3ZEtybWRwdWVHYWFLWF85TjJhdTlqSG9sQy1CODA0b3lzNDlqaEVtaVNxVEhRN3lZQ2xxMmhwVWtSakZoM3Utc1pDcWtsOXc5ZGxBempGZHpZNnA0M19iZ05kRDRzbjhUdERkR1d2MG9JS2NyUHV0VnE5cjRmRk5hc2RWb2d6QQ?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 12:43:31 GMT",
-     "source": "Investing.com"
+     "title": "GE Aerospace Stock Is Falling Tuesday: What's Going On? - GE Aerospace (NYSE:GE) - Benzinga",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbWZtalpEbTR6anY2Z2hiSW9jZnJTbW5pRnZsVmpsSGxUWExYVi1oc28tb21vek43RTQ2Rm1NYzZGM2hJLWpoMGRwNlFxQkI1bU1QQ0tkVFZhUkdhZWpWNzdHal9MRW1TZ3MzM3BuTW9sRl9pcHNlZWJHWHY5amVZUHM2Y2pxa0taTkYxakhmckhqbDNfRXdKeFd6TzNCbEQtbEhFalVoMTdMWk8yRWphNnZJWDlvX0g2VUEtT1pCVXlTa19VQW40djh6Zw?oc=5",
+     "pubDate": "Tue, 20 Oct 2026 14:09:41 GMT",
+     "source": "Benzinga"
     }
    ]
   },
@@ -3558,8 +3566,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.52,
-    "changePct": 0.01
+    "price": 4.51,
+    "changePct": -0.19
    },
    "relVol": 0.7,
    "avgVolume": 7265808,
@@ -3804,8 +3812,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 38.76,
-    "changePct": -0.51
+    "price": 39.34,
+    "changePct": 0.97
    },
    "relVol": 0.8,
    "avgVolume": 3994711,
@@ -3823,12 +3831,6 @@ window.DASHBOARD_DATA = {
    "fiftyTwoWeekLow": 37.84,
    "marketTime": 1792526401,
    "news": [
-    {
-     "title": "Kratos Defense & Security Solutions, Inc. (KTOS) stock price, news, quote and history - Yahoo Finance Singapore",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkTEZjM0M3cFpGWVdweWJtUWFldFVaYmpuZUN5Q19pc2NyVktiRmpZYTNyeDIwcDFaTUVlVDdwNUMzbWd3Tm9XaHJMR3RQSk56U0FFNUE0eW53NjNnVXBGQXZR?oc=5",
-     "pubDate": "Tue, 20 Oct 2026 13:26:25 GMT",
-     "source": "Yahoo Finance Singapore"
-    },
     {
      "title": "How New Defense Facilities At Kratos Defense & Security Solutions Stock Has Changed Its Investment Story - Simply Wall Street",
      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcVhpRjMyblJHVTByNUhIS2ppVTRxamh2ZF92NjgwZlMwczhjejVleEpCRThWWERmdnA1anhWWENiU1pjMEtaYldEQWtvSzNKaFdSanFpQXBkd1ctM01fV2hmTk1oVmZuZW9BMXFGV01GbGtadVh0R2FJR1pxNGgxRmVWSE1xVUNtWkVjNWRkRW0xVGhfaHRBTUhwd2lNUE84NElETE51dW9nb0FrOW9sRkp0RFRObW12ZXk5SWszTGZpVG9aMmp2WkR4bGtsSXZlbzZ4Vm9FM21sZ2wtZkZpOGlPc1Rndk5FVnRaZXdR0gHzAUFVX3lxTE9pNkpmQzFIU0hMb0FkZ3J1Z2lxX0k4N3lYQkZkV0hSdGVqd1VMVm9XMEZMazhCdEJ4ZWVvSUdVR21xQ0FmaWY4NHVXM194MWZLSmVMLUhwbXk4TWtsQmZFT1BuRGtuZGR5Z1V3QndoT0RyMFpfbWJobC1EZDRxdkFRaURmNTUyMUd5TVhNUmhRT3FXeXJwRnhJLWpGQnhQWWhweVZ6NHJZS3ZSUjNaQUVqSmN1bkJseTVEQmktdmliMHhzT2xYeC1uaHQzcnBvcUMyWlVRRG15cFZaekc2Z0pjcUdLRlNMZ0FDNXlWM2pDcVZybw?oc=5",
@@ -3852,6 +3854,12 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeGY2R1huLXh5VkxiOEtyOUNqZUdDTVRMNWM3eVVIZUdHNk42MWRJYlN5c3ZMQ1ctWkN6d0xFbUhIUUNaRk1DS01XX1RGajU0RU5pY2hjenFYbVBJNGdROFpPWTFJYVBEeGJDanB1MnROX2tmZktvUUp3bkcyck8xdTJaUTVpTV9GRU9HdkpJY2tkMWo4ang3bGhJczBJWG9RbmJDaE9odkFNWVBDYkl4TDluWkxyYXQyRDJRWlJzT28yTHR4ekxxaQ?oc=5",
      "pubDate": "Tue, 20 Oct 2026 18:10:30 GMT",
      "source": "ad-hoc-news.de"
+    },
+    {
+     "title": "Kratos Defense & Security Solutions, Inc. (KTOS) stock price, news, quote and history - Yahoo Finance Singapore",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkTEZjM0M3cFpGWVdweWJtUWFldFVaYmpuZUN5Q19pc2NyVktiRmpZYTNyeDIwcDFaTUVlVDdwNUMzbWd3Tm9XaHJMR3RQSk56U0FFNUE0eW53NjNnVXBGQXZR?oc=5",
+     "pubDate": "Mon, 19 Oct 2026 20:25:23 GMT",
+     "source": "Yahoo Finance Singapore"
     }
    ]
   },
@@ -3886,8 +3894,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 193.26,
-    "changePct": 0.34
+    "price": 193.0,
+    "changePct": 0.21
    },
    "relVol": 0.7,
    "avgVolume": 22513484,
@@ -3994,28 +4002,28 @@ window.DASHBOARD_DATA = {
      "source": "MarketBeat"
     },
     {
-     "title": "AeroVironment Lands Major Army Deals as AVAV Stock Looks More Attractive - Clearance Jobs",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSXhNU3lycW1lbWpjUTY4RjlhSkswOC14VTNjazJoTEtTY1VJbWMtZmM2WTJBSmZXYnRJV2xtS25sZms3R1VwYmltTmZqM2toeXJGZnlOR2R6VnhNVTl1c2hjdVgtMUIyOS1mNnFtdmlLQU44VkpjYjhEZmZGVVVZbWxhd1lwTmdBeE8yNTE3LTk1YTlPZXlDN1k0djBKb0F3dTdwOUE0UzB6c3hvOS1qbkZZZUJjdw?oc=5",
-     "pubDate": "Mon, 19 Oct 2026 14:30:46 GMT",
-     "source": "Clearance Jobs"
-    },
-    {
      "title": "AeroVironment Is Now Down 43% This Year. Is It Time to Sell This Dropping Drone Stock? - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUGs4aXV3cTRHcmpXU2dNempmNDRBMUdnVUFfYkRVSm5qa0hEVl9HYXpLNFlheVdkbDZJa0xCVV9JOGxmTEN1RTIyYXdGdzlDNGtlREJWdFVCdG9iY3RJaDhDN184cWEzeVo4U3RfUkpwOVpMYjUyWkJLZ094WHBKdldfVWdhX3p1akZOcVlKbllEWUh3TURXb0Zocw?oc=5",
      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
      "source": "Yahoo Finance"
     },
     {
-     "title": "Citizens cuts AeroVironment stock price target on budget uncertainty - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUnhLUGJRcUJ5UDd2eHh1NVBzOXFMX0s2WjgtYW1YS3dhNF85NEIxWjhTWHdNSmJLUF9FQjRHc09ncHc3TWhXVVJMOTdVd1c0Y2pVYzVyYm9obVU2ZlpOMWozLU95THpyMzJKUldCM1dPV0xHY1lfNlBZY0VkZjdYUzJ3ZlA4OFE4UVEwYV9RR05wRlRkWXNObHRpSnlKZW91bE92bXg3cktmczU1VzJWMmRtOUVaUlljNTA0NldsUWh0X1QtcE1B?oc=5",
-     "pubDate": "Mon, 19 Oct 2026 09:08:48 GMT",
-     "source": "Investing.com"
+     "title": "AeroVironment Lands Major Army Deals as AVAV Stock Looks More Attractive - Clearance Jobs",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSXhNU3lycW1lbWpjUTY4RjlhSkswOC14VTNjazJoTEtTY1VJbWMtZmM2WTJBSmZXYnRJV2xtS25sZms3R1VwYmltTmZqM2toeXJGZnlOR2R6VnhNVTl1c2hjdVgtMUIyOS1mNnFtdmlLQU44VkpjYjhEZmZGVVVZbWxhd1lwTmdBeE8yNTE3LTk1YTlPZXlDN1k0djBKb0F3dTdwOUE0UzB6c3hvOS1qbkZZZUJjdw?oc=5",
+     "pubDate": "Mon, 19 Oct 2026 14:30:46 GMT",
+     "source": "Clearance Jobs"
     },
     {
      "title": "Citizens JMP cuts AeroVironment target to USD 170 for AeroVironment stock - ad-hoc-news.de",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1p4QUl4SUhZWjdWVTNudU9SWUpTb2RWYmFiWVBHZ2R2bWdSbWpLUDJCSGRDVFFXWEtHMllyU1hFN296X2ZfRFFNRE9xSkNFb3dqVU4zZ2Ria0ZfWWFhVWtlX1dKZV92ZTJteTF5RXp2NXFmVDRBZ2RiV0E3azA0TDRrMncyZERkOWY5T05tVS1INHB2SDFLV1NOX2lQVFFYazVGWlNwTkZ1QWZUS1RaaEFGRXpwRzdBcVY1RzZCLUhRR0phcTk2WWlybGM?oc=5",
      "pubDate": "Tue, 20 Oct 2026 18:18:43 GMT",
      "source": "ad-hoc-news.de"
+    },
+    {
+     "title": "Macquarie initiates AeroVironment stock with outperform rating - Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTmgtV29LLV8xVGRPbHVuWFRMWXdOaHR5dU16MmcyLUw5YTNVRVNYeUFpRXNuMU04NG5BV2tEUnFfbHF5aVJWNUJVLTdiQ1ZCeHdYSTM5MVI1RUsxb3hvdjJxOExTZ2J3cFAtSGRtV1gtOGs3OEVFcjdRZXN1NjY1elRPazdaOVFhUXlndFhoNm91R0lmZW1maDdaQzBPdi1XX1BhQllLa2RoWEdEdVRTUnpGakFsZVBoeG9URDE4cw?oc=5",
+     "pubDate": "Fri, 16 Oct 2026 11:13:08 GMT",
+     "source": "Investing.com"
     }
    ]
   }
@@ -4052,9 +4060,9 @@ window.DASHBOARD_DATA = {
    "source": "Global Times"
   },
   {
-   "title": "The Middle East\u2019s Geopolitical Deadlock: Why Change Must Come From Within Iran \u2013 OpEd - Eurasia Review",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVhlaGtGR3ljZ3RkbUM0RXZ1UjNaSzV2Z1Jkb2NMdlRiYmIxdVJYMjZtRWNSVFJVdmt2QnEtLUZFUGpqSnFMejNqNGVNaThINmEwTFlOM2tta015aTlmQmlsRWpqUlFYZVVLdnBNZURWMlJRM09FbWFoUEVoSDRlemkwcGVYaUV6bkxGd0VJVzN1UDdtMmNJb2JmQnhrQXBBcmRlRU9JX0t0WkhWdG5CQlA2UzdRUTk3QmN3OURn?oc=5",
-   "pubDate": "Tue, 20 Oct 2026 16:42:47 GMT",
+   "title": "The Geopolitics Of The Persian Gulf And War With Iran \u2013 Analysis - Eurasia Review",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzliMFp6eEhYUTBYdjhCdThQQzJVX1lCc3lJSHRYSDZqbWgxTHhsQlJtam92S2picDV2X19QR0ZGRWJzQzAyU0ZSSWVxTEJKVUt3T2M1LTYxZFRaUWg4dWJoOTBLMWlUTl9SS1l1WWF1aHFlamItOE5sOGl1X0xRODFKMWlhdHpORzgyR3U5bWdnd2JwSWk2dE50S25LOXcyRzZkSQ?oc=5",
+   "pubDate": "Tue, 20 Oct 2026 00:18:42 GMT",
    "source": "Eurasia Review"
   },
   {
@@ -4088,10 +4096,10 @@ window.DASHBOARD_DATA = {
    "source": "TradingView"
   },
   {
-   "title": "Fog Of War: A World Searching For An Exit - thepost.co.za",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMER5YjdHdV9RRHFpcUNOeTVUN3lsbGowem9ra1EzV0tqTkx4Qm9acFRNZnhSbkdrYlk3N0JNb1d5MGVuU3FKMHhvSWNmMXBDb2d5ejJyV0ZuSHR4NnJYR1dKS3FZbU9NRURGMldXcHl1YVJQRjdkYTV2NDdnNGVpR0JlajdLTUl0RnhYVUcyYW4?oc=5",
-   "pubDate": "Tue, 20 Oct 2026 02:35:23 GMT",
-   "source": "thepost.co.za"
+   "title": "Third World War is inevitable, former Serbian president Vu\u010di\u0107 warns - AzerNews",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MX1NmMlRWR3p3WjJndWJpY3JlaFVlRGNDNnhlWExCZDVtZVc4bEM1eU10RGxPV016Q3JRWXU0dkljYmZ0Q1BHMTlIRTFpYVlpWUQyZg?oc=5",
+   "pubDate": "Tue, 20 Oct 2026 13:54:00 GMT",
+   "source": "AzerNews"
   }
  ],
  "mna": [
