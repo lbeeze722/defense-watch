@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-26T20:09:21.418307+00:00",
+ "generatedAt": "2026-10-26T20:15:12.982391+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -191,7 +191,7 @@ window.DASHBOARD_DATA = {
    "date": "2026-10-26",
    "advancers": 34,
    "decliners": 6,
-   "avgChangePct": 2.44,
+   "avgChangePct": 2.43,
    "topMovers": [
     {
      "symbol": "LMT",
@@ -199,7 +199,7 @@ window.DASHBOARD_DATA = {
     },
     {
      "symbol": "CACI",
-     "changePct": 7.48
+     "changePct": 7.39
     },
     {
      "symbol": "AVAV",
@@ -249,8 +249,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 634.55,
-    "changePct": -0.12
+    "price": 636.0,
+    "changePct": 0.11
    },
    "relVol": 1.4,
    "avgVolume": 1641508,
@@ -327,23 +327,23 @@ window.DASHBOARD_DATA = {
     667.48,
     665.97,
     665.17,
-    665.56
+    665.0
    ],
    "ext": {
     "label": "after-hours",
     "price": 665.0,
-    "changePct": -0.08
+    "changePct": 0.0
    },
-   "relVol": 1.0,
+   "relVol": 1.4,
    "avgVolume": 269695,
    "symbol": "CACI",
    "name": "CACI Intl",
    "vertical": "Gov Services & IT",
    "description": "Intelligence services, signals/EW technology, and federal network modernization.",
-   "price": 665.56,
+   "price": 665.0,
    "prevClose": 619.22,
-   "changePct": 7.48,
-   "volume": 274399,
+   "changePct": 7.39,
+   "volume": 370492,
    "dayHigh": 674.44,
    "dayLow": 653.53,
    "fiftyTwoWeekHigh": 683.5,
@@ -394,7 +394,7 @@ window.DASHBOARD_DATA = {
    "price": 125.45,
    "prevClose": 117.7,
    "changePct": 6.58,
-   "volume": 1188123,
+   "volume": 1203792,
    "dayHigh": 125.75,
    "dayLow": 120.345,
    "fiftyTwoWeekHigh": 408.25,
@@ -545,8 +545,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 40.55,
-    "changePct": 0.3
+    "price": 40.1,
+    "changePct": -0.83
    },
    "relVol": 1.0,
    "avgVolume": 3409357,
@@ -709,10 +709,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 53.9,
-    "changePct": 0.15
+    "price": 53.88,
+    "changePct": 0.11
    },
-   "relVol": 0.8,
+   "relVol": 0.9,
    "avgVolume": 14395103,
    "symbol": "RKLB",
    "name": "Rocket Lab",
@@ -721,7 +721,7 @@ window.DASHBOARD_DATA = {
    "price": 53.82,
    "prevClose": 51.22,
    "changePct": 5.08,
-   "volume": 12212659,
+   "volume": 12526614,
    "dayHigh": 54.99,
    "dayLow": 52.15,
    "fiftyTwoWeekHigh": 151.0,
@@ -786,23 +786,23 @@ window.DASHBOARD_DATA = {
     77.01,
     76.63,
     76.74,
-    77.01
+    76.82
    ],
    "ext": {
     "label": "after-hours",
     "price": 76.82,
-    "changePct": -0.25
+    "changePct": 0.0
    },
-   "relVol": 0.8,
+   "relVol": 1.1,
    "avgVolume": 254292,
    "symbol": "VVX",
    "name": "V2X",
    "vertical": "Gov Services & IT",
    "description": "Global military base operations, logistics, and aircraft maintenance across combatant commands.",
-   "price": 77.01,
+   "price": 76.82,
    "prevClose": 73.36,
-   "changePct": 4.98,
-   "volume": 194146,
+   "changePct": 4.72,
+   "volume": 292145,
    "dayHigh": 77.29,
    "dayLow": 73.94,
    "fiftyTwoWeekHigh": 93.98,
@@ -870,7 +870,11 @@ window.DASHBOARD_DATA = {
     777.43,
     777.96
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 777.96,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 58132,
    "symbol": "ESLT",
@@ -945,24 +949,28 @@ window.DASHBOARD_DATA = {
     49.97,
     49.85,
     50.14,
-    49.98
+    49.99
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 49.99,
+    "changePct": 0.06
+   },
    "relVol": 1.1,
    "avgVolume": 844630,
    "symbol": "PSN",
    "name": "Parsons",
    "vertical": "Gov Services & IT",
    "description": "Cyber/EW, missile defense engineering, space ground systems, and critical infrastructure for federal customers.",
-   "price": 49.98,
+   "price": 49.96,
    "prevClose": 47.8,
-   "changePct": 4.56,
-   "volume": 948509,
+   "changePct": 4.52,
+   "volume": 939310,
    "dayHigh": 50.26,
    "dayLow": 48.814,
    "fiftyTwoWeekHigh": 88.0,
    "fiftyTwoWeekLow": 36.26,
-   "marketTime": 1793044795,
+   "marketTime": 1793044798,
    "news": [
     {
      "title": "Parsons Corporation (PSN) stock price, news, quote and history - Yahoo Finance Singapore",
@@ -1184,7 +1192,11 @@ window.DASHBOARD_DATA = {
     148.64,
     148.51
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 148.51,
+    "changePct": 0.0
+   },
    "relVol": 1.5,
    "avgVolume": 322415,
    "symbol": "SAIC",
@@ -1263,8 +1275,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.92,
-    "changePct": -0.25
+    "price": 3.95,
+    "changePct": 0.48
    },
    "relVol": 0.8,
    "avgVolume": 17280493,
@@ -1510,12 +1522,12 @@ window.DASHBOARD_DATA = {
    "price": 1.55,
    "prevClose": 1.59,
    "changePct": -2.52,
-   "volume": 510837,
+   "volume": 499051,
    "dayHigh": 1.62,
    "dayLow": 1.54,
    "fiftyTwoWeekHigh": 5.43,
    "fiftyTwoWeekLow": 1.5,
-   "marketTime": 1793044796,
+   "marketTime": 1793044797,
    "news": [
     {
      "title": "A Look At KULR Technology Group\u2019s (KULR) Valuation After Mixed Q1 Results And Growth Expansion Plans - Yahoo Finance",
@@ -1725,8 +1737,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 260.23,
-    "changePct": -0.0
+    "price": 259.9,
+    "changePct": -0.13
    },
    "relVol": 0.9,
    "avgVolume": 1263198,
@@ -1801,8 +1813,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.14,
-    "changePct": -0.31
+    "price": 6.15,
+    "changePct": -0.16
    },
    "relVol": 0.9,
    "avgVolume": 34719859,
@@ -1876,8 +1888,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.33,
-    "changePct": 0.0
+    "price": 8.3,
+    "changePct": -0.31
    },
    "relVol": 0.7,
    "avgVolume": 10402849,
@@ -1947,12 +1959,13 @@ window.DASHBOARD_DATA = {
     17.04,
     17.1,
     16.94,
-    16.61
+    16.61,
+    16.62
    ],
    "ext": {
     "label": "after-hours",
-    "price": 16.55,
-    "changePct": -0.35
+    "price": 16.54,
+    "changePct": -0.48
    },
    "relVol": 0.7,
    "avgVolume": 2543803,
@@ -2102,8 +2115,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 288.43,
-    "changePct": 0.02
+    "price": 288.72,
+    "changePct": 0.12
    },
    "relVol": 0.7,
    "avgVolume": 5958901,
@@ -2253,8 +2266,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 198.5,
-    "changePct": -0.17
+    "price": 198.84,
+    "changePct": 0.0
    },
    "relVol": 1.0,
    "avgVolume": 15555941,
@@ -2265,7 +2278,7 @@ window.DASHBOARD_DATA = {
    "price": 198.84,
    "prevClose": 196.19,
    "changePct": 1.35,
-   "volume": 14934905,
+   "volume": 16231618,
    "dayHigh": 200.05,
    "dayLow": 192.91,
    "fiftyTwoWeekHigh": 212.94,
@@ -2324,10 +2337,10 @@ window.DASHBOARD_DATA = {
     39.95,
     39.74,
     40.01,
-    40.01
+    40.02
    ],
    "ext": null,
-   "relVol": 1.2,
+   "relVol": 1.4,
    "avgVolume": 1371828,
    "symbol": "KBR",
    "name": "KBR",
@@ -2335,8 +2348,8 @@ window.DASHBOARD_DATA = {
    "description": "Government engineering and logistics plus sustainable technology solutions; major military base and space support.",
    "price": 40.02,
    "prevClose": 39.53,
-   "changePct": 1.23,
-   "volume": 1650763,
+   "changePct": 1.24,
+   "volume": 1960498,
    "dayHigh": 40.2,
    "dayLow": 39.385,
    "fiftyTwoWeekHigh": 45.37,
@@ -2923,8 +2936,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 188.32,
-    "changePct": 0.04
+    "price": 188.37,
+    "changePct": 0.07
    },
    "relVol": 1.1,
    "avgVolume": 5885665,
@@ -2999,8 +3012,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 10.53,
-    "changePct": 0.48
+    "price": 10.47,
+    "changePct": -0.1
    },
    "relVol": 0.8,
    "avgVolume": 5491129,
@@ -3087,7 +3100,7 @@ window.DASHBOARD_DATA = {
    "price": 147.87,
    "prevClose": 148.15,
    "changePct": -0.19,
-   "volume": 530723,
+   "volume": 546680,
    "dayHigh": 150.49,
    "dayLow": 142.687,
    "fiftyTwoWeekHigh": 247.85,
@@ -3304,8 +3317,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 634.55,
-    "changePct": -0.12
+    "price": 636.0,
+    "changePct": 0.11
    },
    "relVol": 1.4,
    "avgVolume": 1641508,
@@ -3382,23 +3395,23 @@ window.DASHBOARD_DATA = {
     667.48,
     665.97,
     665.17,
-    665.56
+    665.0
    ],
    "ext": {
     "label": "after-hours",
     "price": 665.0,
-    "changePct": -0.08
+    "changePct": 0.0
    },
-   "relVol": 1.0,
+   "relVol": 1.4,
    "avgVolume": 269695,
    "symbol": "CACI",
    "name": "CACI Intl",
    "vertical": "Gov Services & IT",
    "description": "Intelligence services, signals/EW technology, and federal network modernization.",
-   "price": 665.56,
+   "price": 665.0,
    "prevClose": 619.22,
-   "changePct": 7.48,
-   "volume": 274399,
+   "changePct": 7.39,
+   "volume": 370492,
    "dayHigh": 674.44,
    "dayLow": 653.53,
    "fiftyTwoWeekHigh": 683.5,
@@ -3449,7 +3462,7 @@ window.DASHBOARD_DATA = {
    "price": 125.45,
    "prevClose": 117.7,
    "changePct": 6.58,
-   "volume": 1188123,
+   "volume": 1203792,
    "dayHigh": 125.75,
    "dayLow": 120.345,
    "fiftyTwoWeekHigh": 408.25,
@@ -3600,8 +3613,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 40.55,
-    "changePct": 0.3
+    "price": 40.1,
+    "changePct": -0.83
    },
    "relVol": 1.0,
    "avgVolume": 3409357,
@@ -3764,10 +3777,10 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 53.9,
-    "changePct": 0.15
+    "price": 53.88,
+    "changePct": 0.11
    },
-   "relVol": 0.8,
+   "relVol": 0.9,
    "avgVolume": 14395103,
    "symbol": "RKLB",
    "name": "Rocket Lab",
@@ -3776,7 +3789,7 @@ window.DASHBOARD_DATA = {
    "price": 53.82,
    "prevClose": 51.22,
    "changePct": 5.08,
-   "volume": 12212659,
+   "volume": 12526614,
    "dayHigh": 54.99,
    "dayLow": 52.15,
    "fiftyTwoWeekHigh": 151.0,
@@ -3841,23 +3854,23 @@ window.DASHBOARD_DATA = {
     77.01,
     76.63,
     76.74,
-    77.01
+    76.82
    ],
    "ext": {
     "label": "after-hours",
     "price": 76.82,
-    "changePct": -0.25
+    "changePct": 0.0
    },
-   "relVol": 0.8,
+   "relVol": 1.1,
    "avgVolume": 254292,
    "symbol": "VVX",
    "name": "V2X",
    "vertical": "Gov Services & IT",
    "description": "Global military base operations, logistics, and aircraft maintenance across combatant commands.",
-   "price": 77.01,
+   "price": 76.82,
    "prevClose": 73.36,
-   "changePct": 4.98,
-   "volume": 194146,
+   "changePct": 4.72,
+   "volume": 292145,
    "dayHigh": 77.29,
    "dayLow": 73.94,
    "fiftyTwoWeekHigh": 93.98,
@@ -3925,7 +3938,11 @@ window.DASHBOARD_DATA = {
     777.43,
     777.96
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 777.96,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 58132,
    "symbol": "ESLT",
@@ -4000,24 +4017,28 @@ window.DASHBOARD_DATA = {
     49.97,
     49.85,
     50.14,
-    49.98
+    49.99
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 49.99,
+    "changePct": 0.06
+   },
    "relVol": 1.1,
    "avgVolume": 844630,
    "symbol": "PSN",
    "name": "Parsons",
    "vertical": "Gov Services & IT",
    "description": "Cyber/EW, missile defense engineering, space ground systems, and critical infrastructure for federal customers.",
-   "price": 49.98,
+   "price": 49.96,
    "prevClose": 47.8,
-   "changePct": 4.56,
-   "volume": 948509,
+   "changePct": 4.52,
+   "volume": 939310,
    "dayHigh": 50.26,
    "dayLow": 48.814,
    "fiftyTwoWeekHigh": 88.0,
    "fiftyTwoWeekLow": 36.26,
-   "marketTime": 1793044795,
+   "marketTime": 1793044798,
    "news": [
     {
      "title": "Parsons Corporation (PSN) stock price, news, quote and history - Yahoo Finance Singapore",
@@ -4239,7 +4260,11 @@ window.DASHBOARD_DATA = {
     148.64,
     148.51
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 148.51,
+    "changePct": 0.0
+   },
    "relVol": 1.5,
    "avgVolume": 322415,
    "symbol": "SAIC",
@@ -4318,8 +4343,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.92,
-    "changePct": -0.25
+    "price": 3.95,
+    "changePct": 0.48
    },
    "relVol": 0.8,
    "avgVolume": 17280493,
