@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-10-29T20:18:51.188622+00:00",
+ "generatedAt": "2026-10-29T20:36:22.012814+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -189,9 +189,9 @@ window.DASHBOARD_DATA = {
   },
   {
    "date": "2026-10-29",
-   "advancers": 36,
+   "advancers": 35,
    "decliners": 4,
-   "avgChangePct": 3.31,
+   "avgChangePct": 3.37,
    "topMovers": [
     {
      "symbol": "HII",
@@ -211,7 +211,7 @@ window.DASHBOARD_DATA = {
     },
     {
      "symbol": "HWM",
-     "changePct": 7.21
+     "changePct": 7.27
     }
    ],
    "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
@@ -411,7 +411,11 @@ window.DASHBOARD_DATA = {
     39.61,
     39.64
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 39.64,
+    "changePct": 0.0
+   },
    "relVol": 2.7,
    "avgVolume": 868461,
    "symbol": "DRS",
@@ -569,28 +573,28 @@ window.DASHBOARD_DATA = {
     205.13,
     204.76,
     205.81,
-    205.84
+    205.94
    ],
    "ext": {
     "label": "after-hours",
     "price": 205.94,
-    "changePct": 0.05
+    "changePct": 0.0
    },
-   "relVol": 1.4,
+   "relVol": 1.3,
    "avgVolume": 3808526,
    "symbol": "HWM",
    "name": "Howmet Aerospace",
    "vertical": "Engines & Suppliers",
    "description": "Engineered metal components \u2014 jet engine airfoils, fasteners, and titanium structures for commercial and defense aircraft.",
-   "price": 205.84,
+   "price": 205.94,
    "prevClose": 191.99,
-   "changePct": 7.21,
-   "volume": 5410426,
-   "dayHigh": 207.64,
+   "changePct": 7.27,
+   "volume": 4907118,
+   "dayHigh": 207.65,
    "dayLow": 195.46,
    "fiftyTwoWeekHigh": 310.0,
    "fiftyTwoWeekLow": 183.52,
-   "marketTime": 1793304000,
+   "marketTime": 1793304243,
    "news": [
     {
      "title": "Howmet Aerospace Stocks Rise 5.5% With Turbine Growth and Expanded Repurchase Authorization - Yahoo Finance",
@@ -655,8 +659,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 133.5,
-    "changePct": -1.02
+    "price": 133.0,
+    "changePct": -1.39
    },
    "relVol": 1.7,
    "avgVolume": 1014477,
@@ -819,8 +823,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 43.08,
-    "changePct": -1.17
+    "price": 43.06,
+    "changePct": -1.21
    },
    "relVol": 2.0,
    "avgVolume": 3124121,
@@ -901,8 +905,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 314.0,
-    "changePct": 0.3
+    "price": 314.25,
+    "changePct": 0.38
    },
    "relVol": 1.0,
    "avgVolume": 5912497,
@@ -1065,8 +1069,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 377.0,
-    "changePct": 1.67
+    "price": 370.22,
+    "changePct": -0.16
    },
    "relVol": 2.9,
    "avgVolume": 614460,
@@ -1227,7 +1231,11 @@ window.DASHBOARD_DATA = {
     80.6,
     80.52
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 80.52,
+    "changePct": 0.0
+   },
    "relVol": 1.6,
    "avgVolume": 196108,
    "symbol": "VVX",
@@ -1606,88 +1614,6 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
-    16.53,
-    16.58,
-    17.14,
-    17.35,
-    17.03,
-    16.92,
-    17.04,
-    17.1,
-    16.94,
-    16.61,
-    17.5,
-    17.57,
-    17.53,
-    17.72,
-    17.87,
-    17.17,
-    17.15,
-    17.16,
-    17.17,
-    17.62,
-    17.46,
-    17.72,
-    17.38,
-    17.48,
-    17.3,
-    17.22
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 17.16,
-    "changePct": -0.35
-   },
-   "relVol": 0.8,
-   "avgVolume": 1980695,
-   "symbol": "UMAC",
-   "name": "Unusual Machines",
-   "vertical": "Drones & Counter-UAS",
-   "description": "NDAA-compliant drone components and FPV drones; positioned in the US drone supply-chain onshoring push.",
-   "price": 17.22,
-   "prevClose": 17.87,
-   "changePct": -3.64,
-   "volume": 1673970,
-   "dayHigh": 17.89,
-   "dayLow": 16.95,
-   "fiftyTwoWeekHigh": 34.926,
-   "fiftyTwoWeekLow": 7.245,
-   "marketTime": 1793304000,
-   "news": [
-    {
-     "title": "Unusual Machines, Inc. (UMAC) Expected to Beat Earnings Estimates: Should You Buy? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUlKYndLQnQtN1RFNFpSR09RSXl2T0haVUlPWFlUUmlpaTFTTlNwZzFYeXdBOE9CWXNfNEVJdldacHppLVVNV0JpeXJEaW1QYTlxUFd3ZTBMWWhzZTVQaXFOT3N6Z2xsNGRqVjZVTlZYVzNWZ2IxQ1QySXNlNnd0Z1VsanU1VldJS0dYQ3g3NmFaT3BSMU5oOENCRURLSjNB?oc=5",
-     "pubDate": "Thu, 29 Oct 2026 13:00:08 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Why Unusual Machines Stock Is Plummeting Today - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObktEbDlib1VnODZOLWk5dHl4Y1puM3FPSjJxN25jWFQ3RldrRFRRWlgteGdkYXFCSkw2QU5TalpOSjJzbGo5WTY0OURtbVY4Zl9fYmEyZjZMQzNPUGphQkdEVHdnVzFTejI5WmJqbGREc3ZTbnR5MGFSY2xEaDJpZGdmdWU3UnFva1B0Mks5bW9kNjQ?oc=5",
-     "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
-     "source": "The Motley Fool"
-    },
-    {
-     "title": "Unusual Machines Has Lost 36% Since Mid-August: Needham Sees 83% Upside - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT1FGZG90azRIUlNwRnpMcThVaHVObFh0ZTBPY3dzV2ZDWG81Z0oxYlAySlg5Sk1ieEVZdm5mTk5mNWRNZjd5aGlSTFdMUUNOMnhqT1RENXFoLXdObUhyZHVRT05Mc2xBcWtRNUg0bW5oREpXWlhLUWxNMF80Y2Q2bVZCS1h2RGxzelU5aUEzT0Y4M1k3cWdzbGxNYw?oc=5",
-     "pubDate": "Sun, 11 Oct 2026 07:00:00 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Exclusive: Inside Unusual Machines' $52 Million Drone Battery Acquisition - The Information",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3hUWDhrMGU1d0hScFdud0hieFdGMkdzUlo1eDhCN2pLTXk5dFg5SGw4Q2RTdktMcDRWQ0ZHQ2hvQ1JZOThIdlYtcVFnckNVV1J4S2ZfLVlqLV9uVW4zQVgxRUdoenNTaE5EeThaNk9FZGJ3TGZUblo1cDFnX0ZDRC1zSDNfREdVYUt1UW9zZTVaVnZkajNmNG95ZjJXaFRvUzFlekxCdkptUVJiQlBEbmxZNHdhVl9zNVNpQWR0Q3V5YzBm?oc=5",
-     "pubDate": "Sun, 25 Oct 2026 21:01:00 GMT",
-     "source": "The Information"
-    },
-    {
-     "title": "Unusual Machines stock initiated at Outperform by Northland on drone demand - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNUdBSTZ4RlE1VHhZRnh6QkUwZGt1Q3otaWd5dGNlaHhxT0w5VnlZdHA5QUFudE1nR1M2cTFjZkEydjg1bkpRcXFQSVE2NFNkLW04cDNKdDU2U1E5TEVHVTUzTktUY1RiTnVjbjlxTUt5RVdFZDI1X3V4bGs2M1Judk1OMFoxb0VBbUJmVmE0MjdvTE10X3Vsa05ZaDNOSDd1M2FTZ3ZfcThlZ1NaZDMwdlBybkEzaExaZlFMZXBLZTNkWDhxUFp6LVo5WHBSMlZO?oc=5",
-     "pubDate": "Fri, 23 Oct 2026 11:53:13 GMT",
-     "source": "Investing.com"
-    }
-   ]
-  },
-  {
-   "spark": [
     3.76,
     3.78,
     3.88,
@@ -1717,8 +1643,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.35,
-    "changePct": -0.68
+    "price": 4.37,
+    "changePct": -0.23
    },
    "relVol": 0.8,
    "avgVolume": 19405848,
@@ -1881,8 +1807,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.72,
-    "changePct": -2.36
+    "price": 6.71,
+    "changePct": -2.47
    },
    "relVol": 1.2,
    "avgVolume": 37953627,
@@ -1963,8 +1889,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 645.01,
-    "changePct": 0.22
+    "price": 645.47,
+    "changePct": 0.29
    },
    "relVol": 1.1,
    "avgVolume": 1771062,
@@ -2016,6 +1942,88 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    16.53,
+    16.58,
+    17.14,
+    17.35,
+    17.03,
+    16.92,
+    17.04,
+    17.1,
+    16.94,
+    16.61,
+    17.5,
+    17.57,
+    17.53,
+    17.72,
+    17.87,
+    17.17,
+    17.15,
+    17.16,
+    17.17,
+    17.62,
+    17.46,
+    17.72,
+    17.38,
+    17.48,
+    17.3,
+    17.28
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 17.17,
+    "changePct": -0.65
+   },
+   "relVol": 0.8,
+   "avgVolume": 1980695,
+   "symbol": "UMAC",
+   "name": "Unusual Machines",
+   "vertical": "Drones & Counter-UAS",
+   "description": "NDAA-compliant drone components and FPV drones; positioned in the US drone supply-chain onshoring push.",
+   "price": 17.28,
+   "prevClose": 17.87,
+   "changePct": -3.3,
+   "volume": 1673970,
+   "dayHigh": 17.89,
+   "dayLow": 16.95,
+   "fiftyTwoWeekHigh": 34.926,
+   "fiftyTwoWeekLow": 7.245,
+   "marketTime": 1793304000,
+   "news": [
+    {
+     "title": "Unusual Machines, Inc. (UMAC) Expected to Beat Earnings Estimates: Should You Buy? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUlKYndLQnQtN1RFNFpSR09RSXl2T0haVUlPWFlUUmlpaTFTTlNwZzFYeXdBOE9CWXNfNEVJdldacHppLVVNV0JpeXJEaW1QYTlxUFd3ZTBMWWhzZTVQaXFOT3N6Z2xsNGRqVjZVTlZYVzNWZ2IxQ1QySXNlNnd0Z1VsanU1VldJS0dYQ3g3NmFaT3BSMU5oOENCRURLSjNB?oc=5",
+     "pubDate": "Thu, 29 Oct 2026 13:00:08 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Why Unusual Machines Stock Is Plummeting Today - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObktEbDlib1VnODZOLWk5dHl4Y1puM3FPSjJxN25jWFQ3RldrRFRRWlgteGdkYXFCSkw2QU5TalpOSjJzbGo5WTY0OURtbVY4Zl9fYmEyZjZMQzNPUGphQkdEVHdnVzFTejI5WmJqbGREc3ZTbnR5MGFSY2xEaDJpZGdmdWU3UnFva1B0Mks5bW9kNjQ?oc=5",
+     "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
+     "source": "The Motley Fool"
+    },
+    {
+     "title": "Unusual Machines Has Lost 36% Since Mid-August: Needham Sees 83% Upside - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT1FGZG90azRIUlNwRnpMcThVaHVObFh0ZTBPY3dzV2ZDWG81Z0oxYlAySlg5Sk1ieEVZdm5mTk5mNWRNZjd5aGlSTFdMUUNOMnhqT1RENXFoLXdObUhyZHVRT05Mc2xBcWtRNUg0bW5oREpXWlhLUWxNMF80Y2Q2bVZCS1h2RGxzelU5aUEzT0Y4M1k3cWdzbGxNYw?oc=5",
+     "pubDate": "Sun, 11 Oct 2026 07:00:00 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Exclusive: Inside Unusual Machines' $52 Million Drone Battery Acquisition - The Information",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3hUWDhrMGU1d0hScFdud0hieFdGMkdzUlo1eDhCN2pLTXk5dFg5SGw4Q2RTdktMcDRWQ0ZHQ2hvQ1JZOThIdlYtcVFnckNVV1J4S2ZfLVlqLV9uVW4zQVgxRUdoenNTaE5EeThaNk9FZGJ3TGZUblo1cDFnX0ZDRC1zSDNfREdVYUt1UW9zZTVaVnZkajNmNG95ZjJXaFRvUzFlekxCdkptUVJiQlBEbmxZNHdhVl9zNVNpQWR0Q3V5YzBm?oc=5",
+     "pubDate": "Sun, 25 Oct 2026 21:01:00 GMT",
+     "source": "The Information"
+    },
+    {
+     "title": "Unusual Machines stock initiated at Outperform by Northland on drone demand - Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNUdBSTZ4RlE1VHhZRnh6QkUwZGt1Q3otaWd5dGNlaHhxT0w5VnlZdHA5QUFudE1nR1M2cTFjZkEydjg1bkpRcXFQSVE2NFNkLW04cDNKdDU2U1E5TEVHVTUzTktUY1RiTnVjbjlxTUt5RVdFZDI1X3V4bGs2M1Judk1OMFoxb0VBbUJmVmE0MjdvTE10X3Vsa05ZaDNOSDd1M2FTZ3ZfcThlZ1NaZDMwdlBybkEzaExaZlFMZXBLZTNkWDhxUFp6LVo5WHBSMlZO?oc=5",
+     "pubDate": "Fri, 23 Oct 2026 11:53:13 GMT",
+     "source": "Investing.com"
+    }
+   ]
+  },
+  {
+   "spark": [
     8.11,
     8.18,
     8.28,
@@ -2045,8 +2053,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.08,
-    "changePct": -0.87
+    "price": 9.05,
+    "changePct": -1.2
    },
    "relVol": 1.0,
    "avgVolume": 9027291,
@@ -2203,7 +2211,11 @@ window.DASHBOARD_DATA = {
     137.94,
     137.93
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 137.93,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
    "avgVolume": 702501,
    "symbol": "BWXT",
@@ -2353,8 +2365,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 49.78,
-    "changePct": 0.9
+    "price": 48.35,
+    "changePct": -1.99
    },
    "relVol": 1.3,
    "avgVolume": 1203282,
@@ -2429,8 +2441,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 171.4,
-    "changePct": -0.72
+    "price": 171.7,
+    "changePct": -0.55
    },
    "relVol": 0.9,
    "avgVolume": 19310586,
@@ -2505,8 +2517,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 201.08,
-    "changePct": 0.84
+    "price": 201.35,
+    "changePct": 0.98
    },
    "relVol": 2.2,
    "avgVolume": 5393746,
@@ -2733,8 +2745,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.06,
-    "changePct": -0.39
+    "price": 5.04,
+    "changePct": -0.79
    },
    "relVol": 1.0,
    "avgVolume": 15654596,
@@ -2780,82 +2792,6 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
-    51.11,
-    51.82,
-    52.43,
-    52.84,
-    52.59,
-    53.98,
-    54.7,
-    54.92,
-    54.31,
-    53.82,
-    57.0,
-    58.99,
-    58.2,
-    58.18,
-    58.33,
-    57.32,
-    57.68,
-    57.85,
-    58.19,
-    58.6,
-    59.86,
-    60.78,
-    59.87,
-    58.94,
-    59.13,
-    59.1
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 58.0,
-    "changePct": -1.86
-   },
-   "relVol": 1.1,
-   "avgVolume": 13367988,
-   "symbol": "RKLB",
-   "name": "Rocket Lab",
-   "vertical": "Space",
-   "description": "Electron small-launch rocket, Neutron medium rocket in development, and a growing satellite/components business.",
-   "price": 59.1,
-   "prevClose": 58.31,
-   "changePct": 1.35,
-   "volume": 14096421,
-   "dayHigh": 61.13,
-   "dayLow": 57.632,
-   "fiftyTwoWeekHigh": 151.0,
-   "fiftyTwoWeekLow": 37.57,
-   "marketTime": 1793304000,
-   "news": [
-    {
-     "title": "Rocket Lab (RKLB) Stock Gets Fair Value Trim After Neutron Delay Raises Execution Risk - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamo0bUlKNVBEVVJFTFVqREZZY21OUlFRMGh5eTRnSW1wMzRDT3c4NmZLakxwYzBaWDQ3Mkc3UlFCNUV0MW5ORG1QRndoMkZvZnRYMF9UYUZ3aEdlTVRia1dvWC1Cd0xNOXk5dUtGMnJNVWVtQmhTY3V1VVJHTUlqQW5OaG5mbnRGWkVDM251TUhpN05vZ1E?oc=5",
-     "pubDate": "Thu, 29 Oct 2026 17:12:47 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Why Rocket Lab Stock Took Flight on Tuesday - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmJzZTVGa2pheGFwb0p3c1Y4cVc5ZVRPVTFyLUk4NmJrSmFFX2E2cXBtdWYtT01SdF9lMWFPZUJpeTdfRi1MaEV2MWpUeVNfc2d0VGZNN2FTLVNRXzJ3STVwcURRQ1ZoTS02blByWmxuckQydVpKUVdCdzJlNkRwMlA2OW0yNjVwSEZ4dHlaRERMUlFN?oc=5",
-     "pubDate": "Tue, 27 Oct 2026 19:16:11 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Lincoln Electric, Rocket Lab, Fluence Energy, ChargePoint, and American Superconductor shares skyrocket, what you need to know - TradingView",
-     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNb0NWY211S005NkYwLUlINXVFM1NNZG9FZkk1U3FUYVp4eGJhTzhyOUkxTE1HNjhvbVp6YU9USDBfTWxySVVkNlFpcGJwbnNZSjYwS2ZLLTFpTG1Ga3lFX0dmaXBiQXhaQjFsQy03dWFvZnRTRm12cjViYVpvSFBYUHRSTjU0MmVWY3Q1Rlk4UjBkT3FnZmRreUU4TlN0aUZzZ1dVaWRiNHlUUDRfTUpFYngzd2JralBFdkFaMDkzZl8xNnA2X0NRVFh4MzE0ZzdMTXE3ZFRNam1mYkhBU0o1amZoeTVRelZ4YWRLOHVOVDdRVWVIUTU0cWVUeW1aLVVVdnlXUVdUOHZPTW9vaWVz?oc=5",
-     "pubDate": "Tue, 27 Oct 2026 20:00:43 GMT",
-     "source": "TradingView"
-    },
-    {
-     "title": "\u2018Resist the Temptation,\u2019 Says Investor About Rocket Lab Stock - TipRanks",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3FhNXhrLVZaTUhpUDUwa3pobXd2RFFmM2JFT0hDNjRCVzVWazhTV2R1aHJLdHJZaXZyLVFuVUxVNzR4OWtOOGdPZEdicFhPSVUzV2NnbjlzRUVPX0dFMFhVYU1Dd1k3ZUI5ZDVoQk9FWnRGWU1lMzhlVUpZS3hxdjJwdVdPR3NaTEhQNVNYeTRnVXA1bXozaEZZNXY?oc=5",
-     "pubDate": "Tue, 27 Oct 2026 17:41:18 GMT",
-     "source": "TipRanks"
-    }
-   ]
-  },
-  {
-   "spark": [
     627.05,
     633.02,
     635.7,
@@ -2883,7 +2819,11 @@ window.DASHBOARD_DATA = {
     674.65,
     674.37
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 674.37,
+    "changePct": 0.0
+   },
    "relVol": 1.0,
    "avgVolume": 227358,
    "symbol": "CACI",
@@ -2939,8 +2879,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 194.24,
-    "changePct": -1.11
+    "price": 194.52,
+    "changePct": -0.97
    },
    "relVol": 1.4,
    "avgVolume": 13945578,
@@ -3015,8 +2955,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.45,
-    "changePct": -1.96
+    "price": 11.55,
+    "changePct": -1.11
    },
    "relVol": 1.3,
    "avgVolume": 5191876,
@@ -3317,7 +3257,11 @@ window.DASHBOARD_DATA = {
     135.16,
     135.27
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 135.27,
+    "changePct": 0.0
+   },
    "relVol": 3.3,
    "avgVolume": 512194,
    "symbol": "OSK",
@@ -3555,7 +3499,11 @@ window.DASHBOARD_DATA = {
     39.61,
     39.64
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 39.64,
+    "changePct": 0.0
+   },
    "relVol": 2.7,
    "avgVolume": 868461,
    "symbol": "DRS",
@@ -3713,28 +3661,28 @@ window.DASHBOARD_DATA = {
     205.13,
     204.76,
     205.81,
-    205.84
+    205.94
    ],
    "ext": {
     "label": "after-hours",
     "price": 205.94,
-    "changePct": 0.05
+    "changePct": 0.0
    },
-   "relVol": 1.4,
+   "relVol": 1.3,
    "avgVolume": 3808526,
    "symbol": "HWM",
    "name": "Howmet Aerospace",
    "vertical": "Engines & Suppliers",
    "description": "Engineered metal components \u2014 jet engine airfoils, fasteners, and titanium structures for commercial and defense aircraft.",
-   "price": 205.84,
+   "price": 205.94,
    "prevClose": 191.99,
-   "changePct": 7.21,
-   "volume": 5410426,
-   "dayHigh": 207.64,
+   "changePct": 7.27,
+   "volume": 4907118,
+   "dayHigh": 207.65,
    "dayLow": 195.46,
    "fiftyTwoWeekHigh": 310.0,
    "fiftyTwoWeekLow": 183.52,
-   "marketTime": 1793304000,
+   "marketTime": 1793304243,
    "news": [
     {
      "title": "Howmet Aerospace Stocks Rise 5.5% With Turbine Growth and Expanded Repurchase Authorization - Yahoo Finance",
@@ -3799,8 +3747,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 133.5,
-    "changePct": -1.02
+    "price": 133.0,
+    "changePct": -1.39
    },
    "relVol": 1.7,
    "avgVolume": 1014477,
@@ -3963,8 +3911,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 43.08,
-    "changePct": -1.17
+    "price": 43.06,
+    "changePct": -1.21
    },
    "relVol": 2.0,
    "avgVolume": 3124121,
@@ -4045,8 +3993,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 314.0,
-    "changePct": 0.3
+    "price": 314.25,
+    "changePct": 0.38
    },
    "relVol": 1.0,
    "avgVolume": 5912497,
@@ -4209,8 +4157,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 377.0,
-    "changePct": 1.67
+    "price": 370.22,
+    "changePct": -0.16
    },
    "relVol": 2.9,
    "avgVolume": 614460,
@@ -4371,7 +4319,11 @@ window.DASHBOARD_DATA = {
     80.6,
     80.52
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 80.52,
+    "changePct": 0.0
+   },
    "relVol": 1.6,
    "avgVolume": 196108,
    "symbol": "VVX",
@@ -4750,88 +4702,6 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
-    16.53,
-    16.58,
-    17.14,
-    17.35,
-    17.03,
-    16.92,
-    17.04,
-    17.1,
-    16.94,
-    16.61,
-    17.5,
-    17.57,
-    17.53,
-    17.72,
-    17.87,
-    17.17,
-    17.15,
-    17.16,
-    17.17,
-    17.62,
-    17.46,
-    17.72,
-    17.38,
-    17.48,
-    17.3,
-    17.22
-   ],
-   "ext": {
-    "label": "after-hours",
-    "price": 17.16,
-    "changePct": -0.35
-   },
-   "relVol": 0.8,
-   "avgVolume": 1980695,
-   "symbol": "UMAC",
-   "name": "Unusual Machines",
-   "vertical": "Drones & Counter-UAS",
-   "description": "NDAA-compliant drone components and FPV drones; positioned in the US drone supply-chain onshoring push.",
-   "price": 17.22,
-   "prevClose": 17.87,
-   "changePct": -3.64,
-   "volume": 1673970,
-   "dayHigh": 17.89,
-   "dayLow": 16.95,
-   "fiftyTwoWeekHigh": 34.926,
-   "fiftyTwoWeekLow": 7.245,
-   "marketTime": 1793304000,
-   "news": [
-    {
-     "title": "Unusual Machines, Inc. (UMAC) Expected to Beat Earnings Estimates: Should You Buy? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUlKYndLQnQtN1RFNFpSR09RSXl2T0haVUlPWFlUUmlpaTFTTlNwZzFYeXdBOE9CWXNfNEVJdldacHppLVVNV0JpeXJEaW1QYTlxUFd3ZTBMWWhzZTVQaXFOT3N6Z2xsNGRqVjZVTlZYVzNWZ2IxQ1QySXNlNnd0Z1VsanU1VldJS0dYQ3g3NmFaT3BSMU5oOENCRURLSjNB?oc=5",
-     "pubDate": "Thu, 29 Oct 2026 13:00:08 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Why Unusual Machines Stock Is Plummeting Today - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObktEbDlib1VnODZOLWk5dHl4Y1puM3FPSjJxN25jWFQ3RldrRFRRWlgteGdkYXFCSkw2QU5TalpOSjJzbGo5WTY0OURtbVY4Zl9fYmEyZjZMQzNPUGphQkdEVHdnVzFTejI5WmJqbGREc3ZTbnR5MGFSY2xEaDJpZGdmdWU3UnFva1B0Mks5bW9kNjQ?oc=5",
-     "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
-     "source": "The Motley Fool"
-    },
-    {
-     "title": "Unusual Machines Has Lost 36% Since Mid-August: Needham Sees 83% Upside - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT1FGZG90azRIUlNwRnpMcThVaHVObFh0ZTBPY3dzV2ZDWG81Z0oxYlAySlg5Sk1ieEVZdm5mTk5mNWRNZjd5aGlSTFdMUUNOMnhqT1RENXFoLXdObUhyZHVRT05Mc2xBcWtRNUg0bW5oREpXWlhLUWxNMF80Y2Q2bVZCS1h2RGxzelU5aUEzT0Y4M1k3cWdzbGxNYw?oc=5",
-     "pubDate": "Sun, 11 Oct 2026 07:00:00 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Exclusive: Inside Unusual Machines' $52 Million Drone Battery Acquisition - The Information",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3hUWDhrMGU1d0hScFdud0hieFdGMkdzUlo1eDhCN2pLTXk5dFg5SGw4Q2RTdktMcDRWQ0ZHQ2hvQ1JZOThIdlYtcVFnckNVV1J4S2ZfLVlqLV9uVW4zQVgxRUdoenNTaE5EeThaNk9FZGJ3TGZUblo1cDFnX0ZDRC1zSDNfREdVYUt1UW9zZTVaVnZkajNmNG95ZjJXaFRvUzFlekxCdkptUVJiQlBEbmxZNHdhVl9zNVNpQWR0Q3V5YzBm?oc=5",
-     "pubDate": "Sun, 25 Oct 2026 21:01:00 GMT",
-     "source": "The Information"
-    },
-    {
-     "title": "Unusual Machines stock initiated at Outperform by Northland on drone demand - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNUdBSTZ4RlE1VHhZRnh6QkUwZGt1Q3otaWd5dGNlaHhxT0w5VnlZdHA5QUFudE1nR1M2cTFjZkEydjg1bkpRcXFQSVE2NFNkLW04cDNKdDU2U1E5TEVHVTUzTktUY1RiTnVjbjlxTUt5RVdFZDI1X3V4bGs2M1Judk1OMFoxb0VBbUJmVmE0MjdvTE10X3Vsa05ZaDNOSDd1M2FTZ3ZfcThlZ1NaZDMwdlBybkEzaExaZlFMZXBLZTNkWDhxUFp6LVo5WHBSMlZO?oc=5",
-     "pubDate": "Fri, 23 Oct 2026 11:53:13 GMT",
-     "source": "Investing.com"
-    }
-   ]
-  },
-  {
-   "spark": [
     3.76,
     3.78,
     3.88,
@@ -4861,8 +4731,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.35,
-    "changePct": -0.68
+    "price": 4.37,
+    "changePct": -0.23
    },
    "relVol": 0.8,
    "avgVolume": 19405848,
@@ -5025,8 +4895,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.72,
-    "changePct": -2.36
+    "price": 6.71,
+    "changePct": -2.47
    },
    "relVol": 1.2,
    "avgVolume": 37953627,
@@ -5107,8 +4977,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 645.01,
-    "changePct": 0.22
+    "price": 645.47,
+    "changePct": 0.29
    },
    "relVol": 1.1,
    "avgVolume": 1771062,
@@ -5160,6 +5030,88 @@ window.DASHBOARD_DATA = {
   },
   {
    "spark": [
+    16.53,
+    16.58,
+    17.14,
+    17.35,
+    17.03,
+    16.92,
+    17.04,
+    17.1,
+    16.94,
+    16.61,
+    17.5,
+    17.57,
+    17.53,
+    17.72,
+    17.87,
+    17.17,
+    17.15,
+    17.16,
+    17.17,
+    17.62,
+    17.46,
+    17.72,
+    17.38,
+    17.48,
+    17.3,
+    17.28
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 17.17,
+    "changePct": -0.65
+   },
+   "relVol": 0.8,
+   "avgVolume": 1980695,
+   "symbol": "UMAC",
+   "name": "Unusual Machines",
+   "vertical": "Drones & Counter-UAS",
+   "description": "NDAA-compliant drone components and FPV drones; positioned in the US drone supply-chain onshoring push.",
+   "price": 17.28,
+   "prevClose": 17.87,
+   "changePct": -3.3,
+   "volume": 1673970,
+   "dayHigh": 17.89,
+   "dayLow": 16.95,
+   "fiftyTwoWeekHigh": 34.926,
+   "fiftyTwoWeekLow": 7.245,
+   "marketTime": 1793304000,
+   "news": [
+    {
+     "title": "Unusual Machines, Inc. (UMAC) Expected to Beat Earnings Estimates: Should You Buy? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbUlKYndLQnQtN1RFNFpSR09RSXl2T0haVUlPWFlUUmlpaTFTTlNwZzFYeXdBOE9CWXNfNEVJdldacHppLVVNV0JpeXJEaW1QYTlxUFd3ZTBMWWhzZTVQaXFOT3N6Z2xsNGRqVjZVTlZYVzNWZ2IxQ1QySXNlNnd0Z1VsanU1VldJS0dYQ3g3NmFaT3BSMU5oOENCRURLSjNB?oc=5",
+     "pubDate": "Thu, 29 Oct 2026 13:00:08 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Why Unusual Machines Stock Is Plummeting Today - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObktEbDlib1VnODZOLWk5dHl4Y1puM3FPSjJxN25jWFQ3RldrRFRRWlgteGdkYXFCSkw2QU5TalpOSjJzbGo5WTY0OURtbVY4Zl9fYmEyZjZMQzNPUGphQkdEVHdnVzFTejI5WmJqbGREc3ZTbnR5MGFSY2xEaDJpZGdmdWU3UnFva1B0Mks5bW9kNjQ?oc=5",
+     "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
+     "source": "The Motley Fool"
+    },
+    {
+     "title": "Unusual Machines Has Lost 36% Since Mid-August: Needham Sees 83% Upside - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT1FGZG90azRIUlNwRnpMcThVaHVObFh0ZTBPY3dzV2ZDWG81Z0oxYlAySlg5Sk1ieEVZdm5mTk5mNWRNZjd5aGlSTFdMUUNOMnhqT1RENXFoLXdObUhyZHVRT05Mc2xBcWtRNUg0bW5oREpXWlhLUWxNMF80Y2Q2bVZCS1h2RGxzelU5aUEzT0Y4M1k3cWdzbGxNYw?oc=5",
+     "pubDate": "Sun, 11 Oct 2026 07:00:00 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Exclusive: Inside Unusual Machines' $52 Million Drone Battery Acquisition - The Information",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3hUWDhrMGU1d0hScFdud0hieFdGMkdzUlo1eDhCN2pLTXk5dFg5SGw4Q2RTdktMcDRWQ0ZHQ2hvQ1JZOThIdlYtcVFnckNVV1J4S2ZfLVlqLV9uVW4zQVgxRUdoenNTaE5EeThaNk9FZGJ3TGZUblo1cDFnX0ZDRC1zSDNfREdVYUt1UW9zZTVaVnZkajNmNG95ZjJXaFRvUzFlekxCdkptUVJiQlBEbmxZNHdhVl9zNVNpQWR0Q3V5YzBm?oc=5",
+     "pubDate": "Sun, 25 Oct 2026 21:01:00 GMT",
+     "source": "The Information"
+    },
+    {
+     "title": "Unusual Machines stock initiated at Outperform by Northland on drone demand - Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNUdBSTZ4RlE1VHhZRnh6QkUwZGt1Q3otaWd5dGNlaHhxT0w5VnlZdHA5QUFudE1nR1M2cTFjZkEydjg1bkpRcXFQSVE2NFNkLW04cDNKdDU2U1E5TEVHVTUzTktUY1RiTnVjbjlxTUt5RVdFZDI1X3V4bGs2M1Judk1OMFoxb0VBbUJmVmE0MjdvTE10X3Vsa05ZaDNOSDd1M2FTZ3ZfcThlZ1NaZDMwdlBybkEzaExaZlFMZXBLZTNkWDhxUFp6LVo5WHBSMlZO?oc=5",
+     "pubDate": "Fri, 23 Oct 2026 11:53:13 GMT",
+     "source": "Investing.com"
+    }
+   ]
+  },
+  {
+   "spark": [
     8.11,
     8.18,
     8.28,
@@ -5189,8 +5141,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.08,
-    "changePct": -0.87
+    "price": 9.05,
+    "changePct": -1.2
    },
    "relVol": 1.0,
    "avgVolume": 9027291,
