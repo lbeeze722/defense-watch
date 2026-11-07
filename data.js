@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-11-07T04:08:56.504521+00:00",
+ "generatedAt": "2026-11-07T12:54:32.035322+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -13,35 +13,6 @@ window.DASHBOARD_DATA = {
   "Gov Services & IT"
  ],
  "history": [
-  {
-   "date": "2026-10-31",
-   "advancers": 24,
-   "decliners": 16,
-   "avgChangePct": 0.01,
-   "topMovers": [
-    {
-     "symbol": "HII",
-     "changePct": 13.47
-    },
-    {
-     "symbol": "UMAC",
-     "changePct": -11.86
-    },
-    {
-     "symbol": "TXT",
-     "changePct": 9.42
-    },
-    {
-     "symbol": "LUNR",
-     "changePct": -7.94
-    },
-    {
-     "symbol": "ONDS",
-     "changePct": -7.87
-    }
-   ],
-   "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
-  },
   {
    "date": "2026-11-01",
    "advancers": 24,
@@ -194,9 +165,140 @@ window.DASHBOARD_DATA = {
     }
    ],
    "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
+  },
+  {
+   "date": "2026-11-07",
+   "advancers": 2,
+   "decliners": 16,
+   "avgChangePct": -2.85,
+   "topMovers": [
+    {
+     "symbol": "PLTR",
+     "changePct": -6.59
+    },
+    {
+     "symbol": "OSK",
+     "changePct": -6.3
+    },
+    {
+     "symbol": "HII",
+     "changePct": -5.02
+    },
+    {
+     "symbol": "ATRO",
+     "changePct": -4.82
+    },
+    {
+     "symbol": "LMT",
+     "changePct": -4.7
+    }
+   ],
+   "summary": "It's a post-SpaceX-IPO rotation, not a broad defense selloff. SpaceX debuted June 12 (priced $135, trading near $161 for a ~$1.75T cap \u2014 short of the $2T some hoped), and traders are taking profits across pure-play space names while rotating into established defense. That split is today's whole story: small space/drone names (LUNR, RDW, RCAT, KULR) are down hard, while aerospace and defense primes (GE, RTX, LHX, HWM) are bid. Geopolitics is a secondary, stabilizing factor \u2014 a US-Iran memorandum of understanding is set to be signed June 19."
   }
  ],
  "quotes": [
+  {
+   "spark": [
+    184.81,
+    184.22,
+    183.38,
+    181.29,
+    178.62,
+    176.05,
+    174.58,
+    176.09,
+    176.17,
+    175.41,
+    174.0,
+    170.7,
+    170.77,
+    172.62,
+    171.69,
+    155.03,
+    155.29,
+    154.94,
+    154.86,
+    154.85,
+    161.69,
+    161.53,
+    160.46,
+    160.88,
+    160.38,
+    160.38
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 160.83,
+    "changePct": 0.28
+   },
+   "relVol": 0.7,
+   "avgVolume": 33495554,
+   "symbol": "PLTR",
+   "name": "Palantir",
+   "vertical": "Defense Tech & Software",
+   "description": "AI/data platforms (Gotham, Maven) powering US and allied military intelligence, targeting, and enterprise ops.",
+   "price": 160.38,
+   "prevClose": 171.7,
+   "changePct": -6.59,
+   "volume": 24277536,
+   "dayHigh": 163.973,
+   "dayLow": 157.24,
+   "fiftyTwoWeekHigh": 212.94,
+   "fiftyTwoWeekLow": 106.37,
+   "marketTime": 1793998800,
+   "news": []
+  },
+  {
+   "spark": [
+    145.65,
+    146.1,
+    145.14,
+    145.17,
+    145.54,
+    146.2,
+    144.77,
+    143.65,
+    142.07,
+    142.8,
+    141.44,
+    143.72,
+    143.28,
+    142.73,
+    143.42,
+    140.42,
+    136.96,
+    137.45,
+    136.74,
+    136.84,
+    135.82,
+    135.13,
+    134.74,
+    134.29,
+    134.29,
+    134.36
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 134.36,
+    "changePct": 0.0
+   },
+   "relVol": 1.1,
+   "avgVolume": 500172,
+   "symbol": "OSK",
+   "name": "Oshkosh",
+   "vertical": "Ground & Vehicles",
+   "description": "Tactical military trucks (JLTV legacy), aircraft rescue vehicles, and specialty/access equipment.",
+   "price": 134.36,
+   "prevClose": 143.4,
+   "changePct": -6.3,
+   "volume": 542546,
+   "dayHigh": 140.109,
+   "dayLow": 133.855,
+   "fiftyTwoWeekHigh": 180.49,
+   "fiftyTwoWeekLow": 116.77,
+   "marketTime": 1793998802,
+   "news": []
+  },
   {
    "spark": [
     310.23,
@@ -231,8 +333,8 @@ window.DASHBOARD_DATA = {
     "price": 289.0,
     "changePct": 0.09
    },
-   "relVol": 1.0,
-   "avgVolume": 510684,
+   "relVol": 1.1,
+   "avgVolume": 489824,
    "symbol": "HII",
    "name": "Huntington Ingalls",
    "vertical": "Shipbuilding & Naval",
@@ -246,6 +348,57 @@ window.DASHBOARD_DATA = {
    "fiftyTwoWeekHigh": 460.0,
    "fiftyTwoWeekLow": 255.36,
    "marketTime": 1793998803,
+   "news": []
+  },
+  {
+   "spark": [
+    61.53,
+    61.06,
+    60.05,
+    60.01,
+    59.91,
+    62.49,
+    61.72,
+    61.63,
+    61.09,
+    60.97,
+    56.83,
+    58.23,
+    57.42,
+    57.28,
+    57.44,
+    52.97,
+    53.01,
+    52.88,
+    52.72,
+    52.89,
+    53.43,
+    55.09,
+    55.29,
+    55.25,
+    54.71,
+    54.71
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 54.71,
+    "changePct": 0.0
+   },
+   "relVol": 1.0,
+   "avgVolume": 356646,
+   "symbol": "ATRO",
+   "name": "Astronics",
+   "vertical": "Engines & Suppliers",
+   "description": "Aircraft lighting, power distribution, and test systems for commercial and military aviation.",
+   "price": 54.71,
+   "prevClose": 57.48,
+   "changePct": -4.82,
+   "volume": 338969,
+   "dayHigh": 55.49,
+   "dayLow": 53.43,
+   "fiftyTwoWeekHigh": 94.46,
+   "fiftyTwoWeekLow": 35.842,
+   "marketTime": 1793998801,
    "news": []
   },
   {
@@ -282,8 +435,8 @@ window.DASHBOARD_DATA = {
     "price": 569.04,
     "changePct": 0.35
    },
-   "relVol": 0.8,
-   "avgVolume": 1634641,
+   "relVol": 0.9,
+   "avgVolume": 1543345,
    "symbol": "LMT",
    "name": "Lockheed Martin",
    "vertical": "Prime Contractors",
@@ -334,7 +487,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.43
    },
    "relVol": 1.0,
-   "avgVolume": 5228780,
+   "avgVolume": 4931532,
    "symbol": "RTX",
    "name": "RTX Corp",
    "vertical": "Prime Contractors",
@@ -347,6 +500,108 @@ window.DASHBOARD_DATA = {
    "dayLow": 187.71,
    "fiftyTwoWeekHigh": 226.88,
    "fiftyTwoWeekLow": 166.74,
+   "marketTime": 1793998802,
+   "news": []
+  },
+  {
+   "spark": [
+    211.38,
+    211.63,
+    212.08,
+    212.65,
+    212.99,
+    225.16,
+    223.21,
+    225.18,
+    223.93,
+    223.04,
+    207.93,
+    214.44,
+    212.78,
+    213.42,
+    213.55,
+    204.81,
+    203.49,
+    201.75,
+    201.46,
+    200.89,
+    204.29,
+    206.66,
+    206.23,
+    207.15,
+    205.8,
+    205.81
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 202.09,
+    "changePct": -1.81
+   },
+   "relVol": 0.9,
+   "avgVolume": 4627096,
+   "symbol": "HWM",
+   "name": "Howmet Aerospace",
+   "vertical": "Engines & Suppliers",
+   "description": "Engineered metal components \u2014 jet engine airfoils, fasteners, and titanium structures for commercial and defense aircraft.",
+   "price": 205.81,
+   "prevClose": 213.56,
+   "changePct": -3.63,
+   "volume": 4033147,
+   "dayHigh": 207.279,
+   "dayLow": 201.9,
+   "fiftyTwoWeekHigh": 310.0,
+   "fiftyTwoWeekLow": 183.52,
+   "marketTime": 1793999021,
+   "news": []
+  },
+  {
+   "spark": [
+    87.5,
+    88.04,
+    88.08,
+    88.01,
+    88.51,
+    88.65,
+    88.0,
+    87.61,
+    87.85,
+    87.76,
+    85.13,
+    86.7,
+    86.78,
+    86.31,
+    86.66,
+    86.49,
+    84.96,
+    85.11,
+    84.97,
+    85.25,
+    83.93,
+    84.5,
+    84.45,
+    83.82,
+    83.55,
+    83.54
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 83.54,
+    "changePct": 0.0
+   },
+   "relVol": 1.1,
+   "avgVolume": 1482601,
+   "symbol": "TXT",
+   "name": "Textron",
+   "vertical": "Engines & Suppliers",
+   "description": "Bell helicopters (V-280 FLRAA winner), Cessna/Beechcraft aircraft, and Textron Systems unmanned/land platforms.",
+   "price": 83.54,
+   "prevClose": 86.65,
+   "changePct": -3.59,
+   "volume": 1691436,
+   "dayHigh": 84.93,
+   "dayLow": 83.35,
+   "fiftyTwoWeekHigh": 101.57,
+   "fiftyTwoWeekLow": 71.87,
    "marketTime": 1793998802,
    "news": []
   },
@@ -384,8 +639,8 @@ window.DASHBOARD_DATA = {
     "price": 682.59,
     "changePct": 0.0
    },
-   "relVol": 0.7,
-   "avgVolume": 91537,
+   "relVol": 0.8,
+   "avgVolume": 84352,
    "symbol": "ESLT",
    "name": "Elbit Systems",
    "vertical": "Prime Contractors",
@@ -436,7 +691,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.1
    },
    "relVol": 1.0,
-   "avgVolume": 1267209,
+   "avgVolume": 1197595,
    "symbol": "GD",
    "name": "General Dynamics",
    "vertical": "Prime Contractors",
@@ -449,6 +704,57 @@ window.DASHBOARD_DATA = {
    "dayLow": 349.01,
    "fiftyTwoWeekHigh": 400.0,
    "fiftyTwoWeekLow": 306.77,
+   "marketTime": 1793998802,
+   "news": []
+  },
+  {
+   "spark": [
+    487.34,
+    491.67,
+    487.9,
+    486.15,
+    484.17,
+    504.01,
+    500.45,
+    500.03,
+    497.73,
+    498.34,
+    456.85,
+    461.71,
+    461.52,
+    455.67,
+    449.98,
+    460.14,
+    450.87,
+    446.85,
+    436.07,
+    433.69,
+    452.61,
+    462.88,
+    466.27,
+    468.08,
+    463.63,
+    463.47
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 463.47,
+    "changePct": 0.0
+   },
+   "relVol": 1.2,
+   "avgVolume": 550404,
+   "symbol": "CW",
+   "name": "Curtiss-Wright",
+   "vertical": "Engines & Suppliers",
+   "description": "Flow control for naval nuclear propulsion, embedded defense computing, and actuation systems.",
+   "price": 463.47,
+   "prevClose": 452.13,
+   "changePct": 2.51,
+   "volume": 642830,
+   "dayHigh": 468.89,
+   "dayLow": 433.87,
+   "fiftyTwoWeekHigh": 808.16,
+   "fiftyTwoWeekLow": 432.7,
    "marketTime": 1793998802,
    "news": []
   },
@@ -486,8 +792,8 @@ window.DASHBOARD_DATA = {
     "price": 173.46,
     "changePct": 0.03
    },
-   "relVol": 0.8,
-   "avgVolume": 7796970,
+   "relVol": 0.9,
+   "avgVolume": 7256109,
    "symbol": "BA",
    "name": "Boeing",
    "vertical": "Prime Contractors",
@@ -501,32 +807,7 @@ window.DASHBOARD_DATA = {
    "fiftyTwoWeekHigh": 254.35,
    "fiftyTwoWeekLow": 165.01,
    "marketTime": 1793998802,
-   "news": [
-    {
-     "title": "Boeing Stock (NYSE:BA) Notches Up with CapeWeek Plans - TipRanks",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbC1YbXp3Vy0td3VGSUlFTEJKZGtRamtJTUY2ZlZVRXM0NDFWRWhrT2hRMGJMbE1YSTItSUxvcHpwbW1PcDNVRldRb1dhOXVvYlEwbWVOTkRKV290amZJQy1wcTRYZlhhMW55S3g5Rm5QMVZYWUFJMEJ5T045UGdZd1VWXzBlcWs?oc=5",
-     "pubDate": "Fri, 06 Nov 2026 18:34:57 GMT",
-     "source": "TipRanks"
-    },
-    {
-     "title": "What Does The Market Want From Boeing Stock? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObDRIektqQUJxTUpzSTlOUmw2NWp0T0huZlllR3FCUFVDYTRrUzk5Z2lwa3BKUTdxQkRkZnZGTHpkVmFTV1FuUU1jZWwwekRnUHdnUEQ5UGN4X1VQV0k2RUpQWWowaUdkc0dRTmVwLXVGdUplTDA0LTlpTnVpLU5FZ2haVDdCbGNwMGpnVnBaY2dfd09PWE1jSmln?oc=5",
-     "pubDate": "Sat, 07 Nov 2026 01:15:00 GMT",
-     "source": "Yahoo Finance"
-    },
-    {
-     "title": "Now It\u2019s the Wings: Boeing Stock (NYSE:BA) Slides as FAA Takes Aim at Dreamliner Wings - TipRanks",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzJRSVJDcEsyWTRweGxWTmJLalp1bWFpRGlyRENRMmdlenlpbUpJVnRQclJMczNJem5zanE5eEtYaUR0MDJxZWFBM0h6OE1vcDFLMmZQRWNBMEdWcTducy1CWWxZN2xHcjZNd2htb3NIMDJjaTVpNjZ1NEZnaXFUSXdnVE5TdnBiUGdkT1JxdWtSbGo5clh0aTN0eTNtVDNjeFIzMEtVVHZJTklYazh4UA?oc=5",
-     "pubDate": "Thu, 05 Nov 2026 18:38:37 GMT",
-     "source": "TipRanks"
-    },
-    {
-     "title": "Where Will Boeing Stock Be by This Time Next Year? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnRiMGNabHZTanhaYkI1RzRxeVZTM3l3OWRkMDRaNVdUQUZXanpIb0FjUnVFc19Ra2pUbGtaZ19YbDd6T0dleHhiUXA1Z3Z5MTRJeWg4b3hlMU5zNHRPVnpBU1VEOFhTd1Bmc3lUX29EU3VnVkpKQjFyVkluTXZ2Vm96Qmc5TWRITmp6TXh6cFZhTXlkd1dzdw?oc=5",
-     "pubDate": "Tue, 03 Nov 2026 19:04:00 GMT",
-     "source": "Yahoo Finance"
-    }
-   ]
+   "news": []
   },
   {
    "spark": [
@@ -557,9 +838,13 @@ window.DASHBOARD_DATA = {
     323.27,
     323.24
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 323.1,
+    "changePct": -0.04
+   },
    "relVol": 1.2,
-   "avgVolume": 4526697,
+   "avgVolume": 4381070,
    "symbol": "GE",
    "name": "GE Aerospace",
    "vertical": "Engines & Suppliers",
@@ -610,7 +895,7 @@ window.DASHBOARD_DATA = {
     "changePct": -0.44
    },
    "relVol": 1.2,
-   "avgVolume": 1812195,
+   "avgVolume": 1826080,
    "symbol": "BWXT",
    "name": "BWX Technologies",
    "vertical": "Shipbuilding & Naval",
@@ -623,6 +908,158 @@ window.DASHBOARD_DATA = {
    "dayLow": 113.81,
    "fiftyTwoWeekHigh": 241.82,
    "fiftyTwoWeekLow": 112.55,
+   "marketTime": 1793998803,
+   "news": [
+    {
+     "title": "BWX Technologies, Inc. (BWXT) stock price, news, quote and history - Yahoo Finance Singapore",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iVS16b3cxYWxoWDd2OTNPNm1TbU81UTZSMVJ5MXNHQ2NxUzkzbUxZX0cxRU1pTkFoaWlTVGFmNnByZVpGNTRiaHlzWDJZNkFTTXFPS09aQzdXN2hZaHV1WE93?oc=5",
+     "pubDate": "Thu, 05 Nov 2026 11:28:04 GMT",
+     "source": "Yahoo Finance Singapore"
+    },
+    {
+     "title": "Why is BWX Technologies stock ticking down today? - Investing.com",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTlpDTkRrNFNKVHYzTFB4MzNMUGdCQ1RVNnk2SGpYaENtZ250QV8tMGRWdjVYR3VDV25tYU16VmNJVEgwczN2VjVpeVF2NzFxUFgtMXAwMzdJUV8tbjFwSkh2U3NRazd3QU1iYi1hSHVENlNISklsRmZvUml0dDNyc2Z1cFgyZXFXbXlTSzhQVE9QY3VjRzlWZC01NEsyOEc3c2pWa2gycVV0WmM0SW1N?oc=5",
+     "pubDate": "Tue, 03 Nov 2026 14:01:11 GMT",
+     "source": "Investing.com"
+    },
+    {
+     "title": "Better Nuclear Energy Stock to Buy After the Sell-Off: Oklo vs. BWX Technologies - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzVYY2lxcnNnY2g4bXRZb0txQTZrdklaYjAzdXJUWC1fajljNnFlYWk0NlBsZ1JKUUV5STQ1Rk92c2pmc3Mzb0xXdFZlbUtjRFc1NzFSMURDbHdOMmJBNzVMWmVJUGJiRVRldE5BSnNTTGJMMnZrYmY0ZGpjTW5nUndLSHJnclM1Ym44Q2VyWVB1c3ZsQzkw?oc=5",
+     "pubDate": "Thu, 05 Nov 2026 04:00:00 GMT",
+     "source": "The Motley Fool"
+    },
+    {
+     "title": "BWX Technologies Stock: Q3 2026 Results Confirm Progress (NYSE:BWXT) - Seeking Alpha",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3FPa3p3VmJEY2RqUERtNXhFLUV1amVGSGF0cmItazd2WEpuT0I2a0I3cXNCS2tSaXlRM2laVElkUUNYVWxDNjRueGZ3U2l2UlFqQU9nY3NzWDRUVmZWZ1Y5N3RJRGFkRzZ1TXNCb3FFY05JeThleG9WRnFDdG5YaWEwdnItY0xlR1J3SWc4WHNOMUlH?oc=5",
+     "pubDate": "Fri, 06 Nov 2026 12:22:28 GMT",
+     "source": "Seeking Alpha"
+    }
+   ]
+  },
+  {
+   "spark": [
+    1201.47,
+    1209.17,
+    1209.88,
+    1208.62,
+    1213.66,
+    1223.83,
+    1210.35,
+    1205.79,
+    1207.76,
+    1207.63,
+    1205.77,
+    1218.04,
+    1219.42,
+    1214.58,
+    1217.58,
+    1202.67,
+    1188.86,
+    1182.08,
+    1188.51,
+    1189.38,
+    1191.78,
+    1198.58,
+    1200.23,
+    1196.7,
+    1197.06,
+    1197.01
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 1182.32,
+    "changePct": -1.23
+   },
+   "relVol": 0.9,
+   "avgVolume": 311305,
+   "symbol": "TDG",
+   "name": "TransDigm",
+   "vertical": "Engines & Suppliers",
+   "description": "Roll-up of proprietary aerospace components with strong pricing power; large aftermarket and defense exposure.",
+   "price": 1197.01,
+   "prevClose": 1216.88,
+   "changePct": -1.63,
+   "volume": 293313,
+   "dayHigh": 1204.44,
+   "dayLow": 1179.225,
+   "fiftyTwoWeekHigh": 1463.03,
+   "fiftyTwoWeekLow": 1071.25,
+   "marketTime": 1793998802,
+   "news": [
+    {
+     "title": "TransDigm Group (TDG) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVlhqSEptZm96MkpIeklKMGNFUmJYRXlrcWlkOGNWcTFQVTA2LVVpMEdKWlF6LTMxY1pzZnppdzJWNm9UN1J4NGNlWHJmVUlaTUFMbHVtSzlBRTJVSXhONzY0R2ZDYjVUQWhvT2wxU0plRVlxbk9wZm1GTWRTR1g1U1pMdnAxeHlFMVdOZlZzY05wS0ZqZW9MdXYtd2dHWklDRHBiSA?oc=5",
+     "pubDate": "Tue, 03 Nov 2026 14:00:03 GMT",
+     "source": "Yahoo Finance"
+    },
+    {
+     "title": "Can TransDigm Stock Bounce Off The Current Support? - Trefis",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT1dweHZ1V3NoTERFdXZtS0N4Vkhmak9hbzU4bENwU2phSnRkbWU4bl9OckRERGsxcjdqRWEzUXRVdWhJa1RYVHdBQXhBekdZYXY4cDNrVWk0OTVTbTdFNlJGbFIxbWx6UWRYMWNacUpHa2ZRQld4X3lnZjE1cUN2d2xiUGNxM2VDenpwLTA0OXNNalFjT2hGaVdJV0FZZmFrZmhTZTlqQ3dvOUt1YkM0?oc=5",
+     "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT",
+     "source": "Trefis"
+    },
+    {
+     "title": "TransDigm Group Q4 2026 Earnings Preview \u2014 November 10, Street Expects $12.21 EPS - AlphaStreet",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPalp0SW5UaDlFTWx6eFJRdlQ0Vk4xOEdiYzY4dkFPUU1ZUDdscGhyMy1nV0V1cExkVDZFeUVhbVc3aW1LSUFpQWl2UFQzMXJZbkQwOU9pcG5oWHZ4QjFnZ1pqNUxEd3dnRnluaFZmZGt3VE5ON19ySDJrNm90QkxCVjNrRXRYOGE5aVJ3U3ZfVnF6ZzVCdmk3QVBHV0ZmaXR4WlFPeGp2VkdLblXSAbABQVVfeXFMT3R2LVY0MWhwQVd6cVIzVF92SUNSRURqeWt0TG01MEtqSWx3U0U5UzJIeExxclRLZnFzZ1A3VWllNDFpWFF4N2xZVzNnbDNWTFpfZHQyOWZOeG5VeUpNZzdXZFJQZC1FVWU0TjZ3OUI5UmY0cDhYMmJqTjJKYTJBVm42WndyZlJNTjFNeFZfNmhSb0F6Y1RNWU5ia09xbzgxajZXRnJOUmtGX00tVzduU3Y?oc=5",
+     "pubDate": "Fri, 06 Nov 2026 01:06:13 GMT",
+     "source": "AlphaStreet"
+    },
+    {
+     "title": "Transdigm Group (TDG) director Barr received 589 Stock Option - Quantisnow",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmVlQWtWSkYyNExjZWFUeVJNWTBTRXRxcUNsM0YyRXZGMVYxclh1eE9JMWZqSml4Q0gzeWhROGpLMnZsTUl4UmQ5bGMtc3VpZHhRNUZPZGtlZEo5NVdkY0lQSjdldlhrbWp3aTMxMFJHZEZtbk80TC1oaHRsZGZ0N3FDZDNPRHpIQVkwMWRDQjNrQWJOZGJ1UWxyYTVaV3YtYk5v?oc=5",
+     "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
+     "source": "Quantisnow"
+    }
+   ]
+  },
+  {
+   "spark": [
+    335.12,
+    335.08,
+    335.61,
+    337.3,
+    337.71,
+    344.82,
+    339.54,
+    337.9,
+    338.01,
+    337.78,
+    334.61,
+    341.3,
+    339.02,
+    338.07,
+    337.53,
+    330.12,
+    325.78,
+    325.77,
+    325.11,
+    327.07,
+    329.82,
+    332.6,
+    334.48,
+    332.87,
+    332.95,
+    332.65
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 332.65,
+    "changePct": 0.0
+   },
+   "relVol": 0.8,
+   "avgVolume": 427311,
+   "symbol": "HEI",
+   "name": "HEICO",
+   "vertical": "Engines & Suppliers",
+   "description": "FAA-approved replacement parts and niche defense/space electronics; serial acquirer in aerospace aftermarket.",
+   "price": 332.65,
+   "prevClose": 337.67,
+   "changePct": -1.49,
+   "volume": 325606,
+   "dayHigh": 335.535,
+   "dayLow": 326.31,
+   "fiftyTwoWeekHigh": 376.86,
+   "fiftyTwoWeekLow": 256.11,
    "marketTime": 1793998803,
    "news": []
   },
@@ -661,7 +1098,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.0
    },
    "relVol": 1.1,
-   "avgVolume": 1109694,
+   "avgVolume": 1064695,
    "symbol": "NOC",
    "name": "Northrop Grumman",
    "vertical": "Prime Contractors",
@@ -712,7 +1149,7 @@ window.DASHBOARD_DATA = {
     "changePct": -1.55
    },
    "relVol": 1.1,
-   "avgVolume": 1666908,
+   "avgVolume": 1617259,
    "symbol": "LHX",
    "name": "L3Harris",
    "vertical": "Prime Contractors",
@@ -730,6 +1167,108 @@ window.DASHBOARD_DATA = {
   }
  ],
  "movers": [
+  {
+   "spark": [
+    184.81,
+    184.22,
+    183.38,
+    181.29,
+    178.62,
+    176.05,
+    174.58,
+    176.09,
+    176.17,
+    175.41,
+    174.0,
+    170.7,
+    170.77,
+    172.62,
+    171.69,
+    155.03,
+    155.29,
+    154.94,
+    154.86,
+    154.85,
+    161.69,
+    161.53,
+    160.46,
+    160.88,
+    160.38,
+    160.38
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 160.83,
+    "changePct": 0.28
+   },
+   "relVol": 0.7,
+   "avgVolume": 33495554,
+   "symbol": "PLTR",
+   "name": "Palantir",
+   "vertical": "Defense Tech & Software",
+   "description": "AI/data platforms (Gotham, Maven) powering US and allied military intelligence, targeting, and enterprise ops.",
+   "price": 160.38,
+   "prevClose": 171.7,
+   "changePct": -6.59,
+   "volume": 24277536,
+   "dayHigh": 163.973,
+   "dayLow": 157.24,
+   "fiftyTwoWeekHigh": 212.94,
+   "fiftyTwoWeekLow": 106.37,
+   "marketTime": 1793998800,
+   "news": []
+  },
+  {
+   "spark": [
+    145.65,
+    146.1,
+    145.14,
+    145.17,
+    145.54,
+    146.2,
+    144.77,
+    143.65,
+    142.07,
+    142.8,
+    141.44,
+    143.72,
+    143.28,
+    142.73,
+    143.42,
+    140.42,
+    136.96,
+    137.45,
+    136.74,
+    136.84,
+    135.82,
+    135.13,
+    134.74,
+    134.29,
+    134.29,
+    134.36
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 134.36,
+    "changePct": 0.0
+   },
+   "relVol": 1.1,
+   "avgVolume": 500172,
+   "symbol": "OSK",
+   "name": "Oshkosh",
+   "vertical": "Ground & Vehicles",
+   "description": "Tactical military trucks (JLTV legacy), aircraft rescue vehicles, and specialty/access equipment.",
+   "price": 134.36,
+   "prevClose": 143.4,
+   "changePct": -6.3,
+   "volume": 542546,
+   "dayHigh": 140.109,
+   "dayLow": 133.855,
+   "fiftyTwoWeekHigh": 180.49,
+   "fiftyTwoWeekLow": 116.77,
+   "marketTime": 1793998802,
+   "news": []
+  },
   {
    "spark": [
     310.23,
@@ -764,8 +1303,8 @@ window.DASHBOARD_DATA = {
     "price": 289.0,
     "changePct": 0.09
    },
-   "relVol": 1.0,
-   "avgVolume": 510684,
+   "relVol": 1.1,
+   "avgVolume": 489824,
    "symbol": "HII",
    "name": "Huntington Ingalls",
    "vertical": "Shipbuilding & Naval",
@@ -779,6 +1318,57 @@ window.DASHBOARD_DATA = {
    "fiftyTwoWeekHigh": 460.0,
    "fiftyTwoWeekLow": 255.36,
    "marketTime": 1793998803,
+   "news": []
+  },
+  {
+   "spark": [
+    61.53,
+    61.06,
+    60.05,
+    60.01,
+    59.91,
+    62.49,
+    61.72,
+    61.63,
+    61.09,
+    60.97,
+    56.83,
+    58.23,
+    57.42,
+    57.28,
+    57.44,
+    52.97,
+    53.01,
+    52.88,
+    52.72,
+    52.89,
+    53.43,
+    55.09,
+    55.29,
+    55.25,
+    54.71,
+    54.71
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 54.71,
+    "changePct": 0.0
+   },
+   "relVol": 1.0,
+   "avgVolume": 356646,
+   "symbol": "ATRO",
+   "name": "Astronics",
+   "vertical": "Engines & Suppliers",
+   "description": "Aircraft lighting, power distribution, and test systems for commercial and military aviation.",
+   "price": 54.71,
+   "prevClose": 57.48,
+   "changePct": -4.82,
+   "volume": 338969,
+   "dayHigh": 55.49,
+   "dayLow": 53.43,
+   "fiftyTwoWeekHigh": 94.46,
+   "fiftyTwoWeekLow": 35.842,
+   "marketTime": 1793998801,
    "news": []
   },
   {
@@ -815,8 +1405,8 @@ window.DASHBOARD_DATA = {
     "price": 569.04,
     "changePct": 0.35
    },
-   "relVol": 0.8,
-   "avgVolume": 1634641,
+   "relVol": 0.9,
+   "avgVolume": 1543345,
    "symbol": "LMT",
    "name": "Lockheed Martin",
    "vertical": "Prime Contractors",
@@ -867,7 +1457,7 @@ window.DASHBOARD_DATA = {
     "changePct": 0.43
    },
    "relVol": 1.0,
-   "avgVolume": 5228780,
+   "avgVolume": 4931532,
    "symbol": "RTX",
    "name": "RTX Corp",
    "vertical": "Prime Contractors",
@@ -880,6 +1470,108 @@ window.DASHBOARD_DATA = {
    "dayLow": 187.71,
    "fiftyTwoWeekHigh": 226.88,
    "fiftyTwoWeekLow": 166.74,
+   "marketTime": 1793998802,
+   "news": []
+  },
+  {
+   "spark": [
+    211.38,
+    211.63,
+    212.08,
+    212.65,
+    212.99,
+    225.16,
+    223.21,
+    225.18,
+    223.93,
+    223.04,
+    207.93,
+    214.44,
+    212.78,
+    213.42,
+    213.55,
+    204.81,
+    203.49,
+    201.75,
+    201.46,
+    200.89,
+    204.29,
+    206.66,
+    206.23,
+    207.15,
+    205.8,
+    205.81
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 202.09,
+    "changePct": -1.81
+   },
+   "relVol": 0.9,
+   "avgVolume": 4627096,
+   "symbol": "HWM",
+   "name": "Howmet Aerospace",
+   "vertical": "Engines & Suppliers",
+   "description": "Engineered metal components \u2014 jet engine airfoils, fasteners, and titanium structures for commercial and defense aircraft.",
+   "price": 205.81,
+   "prevClose": 213.56,
+   "changePct": -3.63,
+   "volume": 4033147,
+   "dayHigh": 207.279,
+   "dayLow": 201.9,
+   "fiftyTwoWeekHigh": 310.0,
+   "fiftyTwoWeekLow": 183.52,
+   "marketTime": 1793999021,
+   "news": []
+  },
+  {
+   "spark": [
+    87.5,
+    88.04,
+    88.08,
+    88.01,
+    88.51,
+    88.65,
+    88.0,
+    87.61,
+    87.85,
+    87.76,
+    85.13,
+    86.7,
+    86.78,
+    86.31,
+    86.66,
+    86.49,
+    84.96,
+    85.11,
+    84.97,
+    85.25,
+    83.93,
+    84.5,
+    84.45,
+    83.82,
+    83.55,
+    83.54
+   ],
+   "ext": {
+    "label": "after-hours",
+    "price": 83.54,
+    "changePct": 0.0
+   },
+   "relVol": 1.1,
+   "avgVolume": 1482601,
+   "symbol": "TXT",
+   "name": "Textron",
+   "vertical": "Engines & Suppliers",
+   "description": "Bell helicopters (V-280 FLRAA winner), Cessna/Beechcraft aircraft, and Textron Systems unmanned/land platforms.",
+   "price": 83.54,
+   "prevClose": 86.65,
+   "changePct": -3.59,
+   "volume": 1691436,
+   "dayHigh": 84.93,
+   "dayLow": 83.35,
+   "fiftyTwoWeekHigh": 101.57,
+   "fiftyTwoWeekLow": 71.87,
    "marketTime": 1793998802,
    "news": []
   }
