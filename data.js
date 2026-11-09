@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-11-09T21:04:57.226278+00:00",
+ "generatedAt": "2026-11-09T21:10:53.909090+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -207,8 +207,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 12.03,
-    "changePct": -0.08
+    "price": 11.94,
+    "changePct": -0.87
    },
    "relVol": 2.2,
    "avgVolume": 8249685,
@@ -289,8 +289,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.5,
-    "changePct": 0.0
+    "price": 4.43,
+    "changePct": -1.56
    },
    "relVol": 1.1,
    "avgVolume": 7093401,
@@ -452,8 +452,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.13,
-    "changePct": -0.25
+    "price": 8.12,
+    "changePct": -0.37
    },
    "relVol": 1.2,
    "avgVolume": 15527451,
@@ -484,6 +484,12 @@ window.DASHBOARD_DATA = {
      "source": "The Motley Fool"
     },
     {
+     "title": "Redwire: The Strongest Demand We've Seen (NYSE:RDW) - Seeking Alpha",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM2ZUQVJfQkZoSkExT2JDRzI3WGczX0hjZk9RVVo1N2RkYlJSMVlQVEZIc09EdmJoUzQ4QS1OWHU4Wm5NQ29TTDhwdm1renFuNk5XdS00TEF0TnJ5by1VWkktdG9KeWM2QnpGZzhxQzdlVjBhZW5tTTN3dW9peXZtZXFGcFpoZw?oc=5",
+     "pubDate": "Mon, 09 Nov 2026 20:32:00 GMT",
+     "source": "Seeking Alpha"
+    },
+    {
      "title": "Redwire Corporation Reports Third Quarter 2026 Financial Results, Expands Backlog, Achieves Record Gross Margins - Quantisnow",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVmdicFpwdDVJTVNJNGtXOFpPNDI4ZldOSUVLZ3hoUEdzU2V4LVk2MXVzdy1HbzJKRXU0NU1sZXdHcEFYNTZwcDhOVmtYTXJ5MmJkV1Ywdl9rN1FzM3FjUFFVaDZoLXI4UjRmTTlvVVh1UlV0S2ZoS3M5WE8tNEE0QVhPYkFZNjlsaXJkVEQ2NHRWYzNHa2dpMHNiRWhvamtSZ2ktQUhJVVh5WVA0U1pMMW9UN0xZcEtYenBzMFNwc1A?oc=5",
      "pubDate": "Wed, 04 Nov 2026 21:28:23 GMT",
@@ -494,12 +500,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nZFByUHg0N0NKMkdvZDFmVzhMY3U5bUt2QmFWa1RhR0VlMTZINWFIbk9SR0NtMWl4S3hldWYxZ1NKdXVKS2w0eVpQWjFWaFRy?oc=5",
      "pubDate": "Sat, 07 Nov 2026 14:01:43 GMT",
      "source": "Yahoo Finance UK"
-    },
-    {
-     "title": "Redwire Stock Hits Turbulence After Mixed Quarter: EPS Beats, Revenue Misses Estimates - Benzinga",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTWtSN1FDU2RuY2lOemFqLWJOa1Z4YmVLSF9McWhkQTJkazdhTG1Odlp6TEhCUFhEVkdkVk1WTVBraWRvWkxxY1NXVUg1RDNKUE5pdmhpNVI3eXZWSkFFU3Z2SkRjWVRFRDZxZ0tCTXVkN0ZYS3U1cW9jT2hyNGxILVFHbXpSQ0NNSnVnVUF5RlNWc1RYdUF1Nm1GdkZ1UDVscnVxa2hmNW5ndW9BakJwclZtUVlPdGQzejZwenFaejk5Z1dncWpsUkh1RXpUNHVmZjFoSnhlNTVBdFk2MUdqeUJVVQ?oc=5",
-     "pubDate": "Thu, 05 Nov 2026 12:02:04 GMT",
-     "source": "Benzinga"
     }
    ]
   },
@@ -534,8 +534,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 58.47,
-    "changePct": -0.66
+    "price": 56.85,
+    "changePct": -3.41
    },
    "relVol": 1.2,
    "avgVolume": 20064891,
@@ -696,8 +696,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.79,
-    "changePct": -0.43
+    "price": 4.81,
+    "changePct": -0.1
    },
    "relVol": 1.6,
    "avgVolume": 21659801,
@@ -934,8 +934,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 304.25,
-    "changePct": 0.35
+    "price": 303.22,
+    "changePct": 0.01
    },
    "relVol": 1.4,
    "avgVolume": 2294576,
@@ -1016,8 +1016,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.16,
-    "changePct": -0.48
+    "price": 6.18,
+    "changePct": -0.23
    },
    "relVol": 1.0,
    "avgVolume": 25449750,
@@ -1251,7 +1251,11 @@ window.DASHBOARD_DATA = {
     37.71,
     37.69
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 37.62,
+    "changePct": -0.17
+   },
    "relVol": 1.0,
    "avgVolume": 6549384,
    "symbol": "KTOS",
@@ -1688,10 +1692,10 @@ window.DASHBOARD_DATA = {
      "source": "MarketBeat"
     },
     {
-     "title": "V2X faces earnings test as sequential revenue decline looms By Investing.com - Investing.com South Africa",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR0N4TUpxalNabWR0YkZtWTFlaEJOUlJzRTFVdlFvM2h6Nnpkd2FHU0RQQmlnOHowZVN5X1JxMFNRU2FURGhfNkNlVFJxT3JBcnRYY1FUUG54bmdZamZVRGNfQUEzV1V2V0o3bWsxeWZPS2ZMbm0ybkdXTGx2ekZnMkJYRndlMmtuV2Q1TEItUEliZVRTV3BxMk5YOGhBSm50SkZ2NjdXSzYzWU9mYTFiMnhlOHE1Mk9ZU18weA?oc=5",
-     "pubDate": "Mon, 02 Nov 2026 15:29:04 GMT",
-     "source": "Investing.com South Africa"
+     "title": "V2X ($VVX) Releases Q3 2026 Earnings - Quiver Quantitative",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRkhuSENlVWZLRlNLd1pmaFFuY2cyT1ZMRUlWcGpDV0dfQVFydlFBclVXWFRoWWxJQnZBTUZya2RTV2NIMnVLck5RQ1ZTSHRzcTJEXzJyc0o3ZUJyQ2tEOW5UZE1zUDMwUDVKc1Y5ajNac2tINm5vWHdBcjdHaHVtSA?oc=5",
+     "pubDate": "Mon, 02 Nov 2026 22:51:00 GMT",
+     "source": "Quiver Quantitative"
     }
    ]
   },
@@ -1752,27 +1756,27 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo! Finance Canada"
     },
     {
-     "title": "Leonardo DRS stock hits 52-week low at 32.41 USD - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVThnVFhxdnpYRXpyT2lOak8tVFJ6SndQZEFtZU5FUndPRDI5YlpMbkxzRkhWemhwVi1zaDBzLTg3RkxRVFdFa21LZ2tpSmlnN2ZfVlUzTDJNYmNoek10anlkRlZWR1VQM3YxUlV6cEpYZ2EzUDVjNklINVNJMERlVnkxZ3NUWjYyMUNaTy1kalY4RWs5ZjdRM2FtZEMwRF9HRkFnVXd3?oc=5",
-     "pubDate": "Fri, 06 Nov 2026 15:23:18 GMT",
-     "source": "Investing.com"
-    },
-    {
      "title": "Leonardo DRS (DRS) Wins Laser Program Work, Is It Still 35% Undervalued? - Simply Wall St",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdVZMak91UUNyT2E2blgwSU5VdTRGVlhLdzUtT0ZGYlFKc19NaVNmMDZBQmVWZ19Yb2Y0cVhDQUY0d3p5aEJpcmt5TTBQRFhBMHBsSU1PM2tsb0pLcGk0cnZ6ZXdBZkxMUnN1dWtaYjVTWWsxU1d3YzVfSDFnM1RGWE1Ya0prRFBYc1NYMzg5Y2xtTGVKX0R1Vmp6a0VqRmRsdk8wNXk2eDZJbXVLTFlBLXRDM19oWlF6MkF4UFowVW5kQzc3RGdTM0UzU3RLVVVX0gHWAUFVX3lxTE9QbW9OZFlfMkhXZGpjZ1p3enkxOEhzVVA2VUNsaEVhRUpvTWNMeUdSYnk2c1lUU2F5YW0tNEtINkZXRHA1NHJ2SF9SZ1kzSzkyOWhES2JJUHJIMngzcHE5TUVRd2pGdzFKVFZyYllDWDFjQWc4ZFU5RUltR05iUF92SjJXQlZPcTh1cnpQdDVRckFGMHktWkFNVUhYWlNFWXFEeGJGaEg1bDVSMUJHdlZYQlFLSG9YVU9PZEdJRVRhY01KREdkclQwZjl3WEdybEd3MGhOLXc?oc=5",
      "pubDate": "Mon, 09 Nov 2026 15:30:04 GMT",
      "source": "Simply Wall St"
     },
     {
-     "title": "Are Aerospace Stocks Lagging Leonardo DRS, Inc. (DRS) This Year? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmJVNWV0WE10TXBQUkVLVXRvNFhieGFqNTBGX2VSNE5kNmRsNE5YQUEtaXc0NzZqSV8zcGxZZy1pSUxtMThFWTBLdlBVdXlLOVdUSTFxelFYNDB3SlNmQVJ6MmVsQ2xkMEVEbnlnZUlHaGh2VXhPV2lBNHdfX3h0X1YxTDNmNFZJMkZMcXhNMWhnS3RiU0VpdDY0SERKenJvNGhvSQ?oc=5",
-     "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
+     "title": "Leonardo DRS (DRS) Raises Guidance As Strong Results Put Valuation Back In Focus - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLTItR1lKQldHVGpyTng4ZjhKRExCeUdfbTdZbDNERVpMaEJJYzQzdENYU1l3MTI3a2NNUE5vV3dqbTliSTRaeE0wQVc2QXhpZnlWTjFsU2xTUG1XNGdOdzJDZ053b1JrV1EzY1JWamFCV2diNnVCeVo3UXI1azZCREZwOTM3UW9fb0hWVU9uNUpnZlk0VG9tOXB4dEF4QQ?oc=5",
+     "pubDate": "Fri, 06 Nov 2026 14:13:13 GMT",
      "source": "Yahoo Finance"
     },
     {
-     "title": "Leonardo DRS (DRS) Stock Gets Fair Value Trim As Analysts Weigh Backlog And Newer Wins - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0VGRXdLbVhKclZCOWNPRlVJMFZpWmJfbEZzeE9PTXVrUEZacnhMdklROFNzWWxPMmlzeGE3cEo2YzBXcGtiYk5ERFd4eVpkeVhIbU02MlNMcnp0TGxvc2JDSlpEMkp4d2ZyZHAxWHpCYldRREhZQjN2QnNnTlVsOVdiY0NEanhEbWhzWGs2U2EyVzFtT3VB?oc=5",
-     "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
+     "title": "Leonardo DRS stock hits 52-week low at 32.41 USD By Investing.com - Investing.com UK",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTVxRktKcE9lLWVobHUxN1RFZUpBZThJT0pZSXAtTzB3d19GekdoTzNGT1dyLVh4WWhPVGk5ZEh3VTA3eUpCSTBtRzNyakZCQ2w2VDVKcmtJajFNR01CYm1rUnYxY0VwbzF3a3Jlam4tdFpCUlQ4aVltVDdhTUdDUDFDbkYwQWg4N0JqanFYRGxqWDcwZmZOZk5wa2E0QjM2RFlSa1VWXzV1b3M?oc=5",
+     "pubDate": "Fri, 06 Nov 2026 14:38:00 GMT",
+     "source": "Investing.com UK"
+    },
+    {
+     "title": "Are Aerospace Stocks Lagging Leonardo DRS, Inc. (DRS) This Year? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmJVNWV0WE10TXBQUkVLVXRvNFhieGFqNTBGX2VSNE5kNmRsNE5YQUEtaXc0NzZqSV8zcGxZZy1pSUxtMThFWTBLdlBVdXlLOVdUSTFxelFYNDB3SlNmQVJ6MmVsQ2xkMEVEbnlnZUlHaGh2VXhPV2lBNHdfX3h0X1YxTDNmNFZJMkZMcXhNMWhnS3RiU0VpdDY0SERKenJvNGhvSQ?oc=5",
+     "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
      "source": "Yahoo Finance"
     }
    ]
@@ -1808,8 +1812,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 169.15,
-    "changePct": -0.03
+    "price": 169.39,
+    "changePct": 0.11
    },
    "relVol": 0.6,
    "avgVolume": 35337834,
@@ -1964,7 +1968,11 @@ window.DASHBOARD_DATA = {
     337.12,
     335.58
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 334.96,
+    "changePct": -0.18
+   },
    "relVol": 0.6,
    "avgVolume": 4939541,
    "symbol": "GE",
@@ -2174,8 +2182,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 304.36,
-    "changePct": -0.02
+    "price": 304.3,
+    "changePct": -0.04
    },
    "relVol": 0.7,
    "avgVolume": 489053,
@@ -2857,7 +2865,11 @@ window.DASHBOARD_DATA = {
     588.3,
     588.28
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 588.19,
+    "changePct": -0.02
+   },
    "relVol": 0.6,
    "avgVolume": 1602867,
    "symbol": "LMT",
@@ -2999,7 +3011,11 @@ window.DASHBOARD_DATA = {
     38.88,
     38.64
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 38.65,
+    "changePct": 0.03
+   },
    "relVol": 0.7,
    "avgVolume": 1302862,
    "symbol": "KBR",
@@ -3070,7 +3086,11 @@ window.DASHBOARD_DATA = {
     85.9,
     85.39
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 85.41,
+    "changePct": 0.02
+   },
    "relVol": 0.8,
    "avgVolume": 1719279,
    "symbol": "TXT",
@@ -3143,7 +3163,7 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 172.38,
+    "price": 172.39,
     "changePct": -0.01
    },
    "relVol": 1.5,
@@ -3292,8 +3312,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 12.03,
-    "changePct": -0.08
+    "price": 11.94,
+    "changePct": -0.87
    },
    "relVol": 2.2,
    "avgVolume": 8249685,
@@ -3374,8 +3394,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.5,
-    "changePct": 0.0
+    "price": 4.43,
+    "changePct": -1.56
    },
    "relVol": 1.1,
    "avgVolume": 7093401,
@@ -3537,8 +3557,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.13,
-    "changePct": -0.25
+    "price": 8.12,
+    "changePct": -0.37
    },
    "relVol": 1.2,
    "avgVolume": 15527451,
@@ -3569,6 +3589,12 @@ window.DASHBOARD_DATA = {
      "source": "The Motley Fool"
     },
     {
+     "title": "Redwire: The Strongest Demand We've Seen (NYSE:RDW) - Seeking Alpha",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM2ZUQVJfQkZoSkExT2JDRzI3WGczX0hjZk9RVVo1N2RkYlJSMVlQVEZIc09EdmJoUzQ4QS1OWHU4Wm5NQ29TTDhwdm1renFuNk5XdS00TEF0TnJ5by1VWkktdG9KeWM2QnpGZzhxQzdlVjBhZW5tTTN3dW9peXZtZXFGcFpoZw?oc=5",
+     "pubDate": "Mon, 09 Nov 2026 20:32:00 GMT",
+     "source": "Seeking Alpha"
+    },
+    {
      "title": "Redwire Corporation Reports Third Quarter 2026 Financial Results, Expands Backlog, Achieves Record Gross Margins - Quantisnow",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVmdicFpwdDVJTVNJNGtXOFpPNDI4ZldOSUVLZ3hoUEdzU2V4LVk2MXVzdy1HbzJKRXU0NU1sZXdHcEFYNTZwcDhOVmtYTXJ5MmJkV1Ywdl9rN1FzM3FjUFFVaDZoLXI4UjRmTTlvVVh1UlV0S2ZoS3M5WE8tNEE0QVhPYkFZNjlsaXJkVEQ2NHRWYzNHa2dpMHNiRWhvamtSZ2ktQUhJVVh5WVA0U1pMMW9UN0xZcEtYenBzMFNwc1A?oc=5",
      "pubDate": "Wed, 04 Nov 2026 21:28:23 GMT",
@@ -3579,12 +3605,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nZFByUHg0N0NKMkdvZDFmVzhMY3U5bUt2QmFWa1RhR0VlMTZINWFIbk9SR0NtMWl4S3hldWYxZ1NKdXVKS2w0eVpQWjFWaFRy?oc=5",
      "pubDate": "Sat, 07 Nov 2026 14:01:43 GMT",
      "source": "Yahoo Finance UK"
-    },
-    {
-     "title": "Redwire Stock Hits Turbulence After Mixed Quarter: EPS Beats, Revenue Misses Estimates - Benzinga",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTWtSN1FDU2RuY2lOemFqLWJOa1Z4YmVLSF9McWhkQTJkazdhTG1Odlp6TEhCUFhEVkdkVk1WTVBraWRvWkxxY1NXVUg1RDNKUE5pdmhpNVI3eXZWSkFFU3Z2SkRjWVRFRDZxZ0tCTXVkN0ZYS3U1cW9jT2hyNGxILVFHbXpSQ0NNSnVnVUF5RlNWc1RYdUF1Nm1GdkZ1UDVscnVxa2hmNW5ndW9BakJwclZtUVlPdGQzejZwenFaejk5Z1dncWpsUkh1RXpUNHVmZjFoSnhlNTVBdFk2MUdqeUJVVQ?oc=5",
-     "pubDate": "Thu, 05 Nov 2026 12:02:04 GMT",
-     "source": "Benzinga"
     }
    ]
   },
@@ -3619,8 +3639,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 58.47,
-    "changePct": -0.66
+    "price": 56.85,
+    "changePct": -3.41
    },
    "relVol": 1.2,
    "avgVolume": 20064891,
@@ -3781,8 +3801,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.79,
-    "changePct": -0.43
+    "price": 4.81,
+    "changePct": -0.1
    },
    "relVol": 1.6,
    "avgVolume": 21659801,
@@ -4019,8 +4039,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 304.25,
-    "changePct": 0.35
+    "price": 303.22,
+    "changePct": 0.01
    },
    "relVol": 1.4,
    "avgVolume": 2294576,
@@ -4101,8 +4121,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.16,
-    "changePct": -0.48
+    "price": 6.18,
+    "changePct": -0.23
    },
    "relVol": 1.0,
    "avgVolume": 25449750,
@@ -4336,7 +4356,11 @@ window.DASHBOARD_DATA = {
     37.71,
     37.69
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 37.62,
+    "changePct": -0.17
+   },
    "relVol": 1.0,
    "avgVolume": 6549384,
    "symbol": "KTOS",
@@ -4773,10 +4797,10 @@ window.DASHBOARD_DATA = {
      "source": "MarketBeat"
     },
     {
-     "title": "V2X faces earnings test as sequential revenue decline looms By Investing.com - Investing.com South Africa",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR0N4TUpxalNabWR0YkZtWTFlaEJOUlJzRTFVdlFvM2h6Nnpkd2FHU0RQQmlnOHowZVN5X1JxMFNRU2FURGhfNkNlVFJxT3JBcnRYY1FUUG54bmdZamZVRGNfQUEzV1V2V0o3bWsxeWZPS2ZMbm0ybkdXTGx2ekZnMkJYRndlMmtuV2Q1TEItUEliZVRTV3BxMk5YOGhBSm50SkZ2NjdXSzYzWU9mYTFiMnhlOHE1Mk9ZU18weA?oc=5",
-     "pubDate": "Mon, 02 Nov 2026 15:29:04 GMT",
-     "source": "Investing.com South Africa"
+     "title": "V2X ($VVX) Releases Q3 2026 Earnings - Quiver Quantitative",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRkhuSENlVWZLRlNLd1pmaFFuY2cyT1ZMRUlWcGpDV0dfQVFydlFBclVXWFRoWWxJQnZBTUZya2RTV2NIMnVLck5RQ1ZTSHRzcTJEXzJyc0o3ZUJyQ2tEOW5UZE1zUDMwUDVKc1Y5ajNac2tINm5vWHdBcjdHaHVtSA?oc=5",
+     "pubDate": "Mon, 02 Nov 2026 22:51:00 GMT",
+     "source": "Quiver Quantitative"
     }
    ]
   },
@@ -4837,27 +4861,27 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo! Finance Canada"
     },
     {
-     "title": "Leonardo DRS stock hits 52-week low at 32.41 USD - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVThnVFhxdnpYRXpyT2lOak8tVFJ6SndQZEFtZU5FUndPRDI5YlpMbkxzRkhWemhwVi1zaDBzLTg3RkxRVFdFa21LZ2tpSmlnN2ZfVlUzTDJNYmNoek10anlkRlZWR1VQM3YxUlV6cEpYZ2EzUDVjNklINVNJMERlVnkxZ3NUWjYyMUNaTy1kalY4RWs5ZjdRM2FtZEMwRF9HRkFnVXd3?oc=5",
-     "pubDate": "Fri, 06 Nov 2026 15:23:18 GMT",
-     "source": "Investing.com"
-    },
-    {
      "title": "Leonardo DRS (DRS) Wins Laser Program Work, Is It Still 35% Undervalued? - Simply Wall St",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdVZMak91UUNyT2E2blgwSU5VdTRGVlhLdzUtT0ZGYlFKc19NaVNmMDZBQmVWZ19Yb2Y0cVhDQUY0d3p5aEJpcmt5TTBQRFhBMHBsSU1PM2tsb0pLcGk0cnZ6ZXdBZkxMUnN1dWtaYjVTWWsxU1d3YzVfSDFnM1RGWE1Ya0prRFBYc1NYMzg5Y2xtTGVKX0R1Vmp6a0VqRmRsdk8wNXk2eDZJbXVLTFlBLXRDM19oWlF6MkF4UFowVW5kQzc3RGdTM0UzU3RLVVVX0gHWAUFVX3lxTE9QbW9OZFlfMkhXZGpjZ1p3enkxOEhzVVA2VUNsaEVhRUpvTWNMeUdSYnk2c1lUU2F5YW0tNEtINkZXRHA1NHJ2SF9SZ1kzSzkyOWhES2JJUHJIMngzcHE5TUVRd2pGdzFKVFZyYllDWDFjQWc4ZFU5RUltR05iUF92SjJXQlZPcTh1cnpQdDVRckFGMHktWkFNVUhYWlNFWXFEeGJGaEg1bDVSMUJHdlZYQlFLSG9YVU9PZEdJRVRhY01KREdkclQwZjl3WEdybEd3MGhOLXc?oc=5",
      "pubDate": "Mon, 09 Nov 2026 15:30:04 GMT",
      "source": "Simply Wall St"
     },
     {
-     "title": "Are Aerospace Stocks Lagging Leonardo DRS, Inc. (DRS) This Year? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmJVNWV0WE10TXBQUkVLVXRvNFhieGFqNTBGX2VSNE5kNmRsNE5YQUEtaXc0NzZqSV8zcGxZZy1pSUxtMThFWTBLdlBVdXlLOVdUSTFxelFYNDB3SlNmQVJ6MmVsQ2xkMEVEbnlnZUlHaGh2VXhPV2lBNHdfX3h0X1YxTDNmNFZJMkZMcXhNMWhnS3RiU0VpdDY0SERKenJvNGhvSQ?oc=5",
-     "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
+     "title": "Leonardo DRS (DRS) Raises Guidance As Strong Results Put Valuation Back In Focus - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLTItR1lKQldHVGpyTng4ZjhKRExCeUdfbTdZbDNERVpMaEJJYzQzdENYU1l3MTI3a2NNUE5vV3dqbTliSTRaeE0wQVc2QXhpZnlWTjFsU2xTUG1XNGdOdzJDZ053b1JrV1EzY1JWamFCV2diNnVCeVo3UXI1azZCREZwOTM3UW9fb0hWVU9uNUpnZlk0VG9tOXB4dEF4QQ?oc=5",
+     "pubDate": "Fri, 06 Nov 2026 14:13:13 GMT",
      "source": "Yahoo Finance"
     },
     {
-     "title": "Leonardo DRS (DRS) Stock Gets Fair Value Trim As Analysts Weigh Backlog And Newer Wins - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0VGRXdLbVhKclZCOWNPRlVJMFZpWmJfbEZzeE9PTXVrUEZacnhMdklROFNzWWxPMmlzeGE3cEo2YzBXcGtiYk5ERFd4eVpkeVhIbU02MlNMcnp0TGxvc2JDSlpEMkp4d2ZyZHAxWHpCYldRREhZQjN2QnNnTlVsOVdiY0NEanhEbWhzWGs2U2EyVzFtT3VB?oc=5",
-     "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
+     "title": "Leonardo DRS stock hits 52-week low at 32.41 USD By Investing.com - Investing.com UK",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWTVxRktKcE9lLWVobHUxN1RFZUpBZThJT0pZSXAtTzB3d19GekdoTzNGT1dyLVh4WWhPVGk5ZEh3VTA3eUpCSTBtRzNyakZCQ2w2VDVKcmtJajFNR01CYm1rUnYxY0VwbzF3a3Jlam4tdFpCUlQ4aVltVDdhTUdDUDFDbkYwQWg4N0JqanFYRGxqWDcwZmZOZk5wa2E0QjM2RFlSa1VWXzV1b3M?oc=5",
+     "pubDate": "Fri, 06 Nov 2026 14:38:00 GMT",
+     "source": "Investing.com UK"
+    },
+    {
+     "title": "Are Aerospace Stocks Lagging Leonardo DRS, Inc. (DRS) This Year? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmJVNWV0WE10TXBQUkVLVXRvNFhieGFqNTBGX2VSNE5kNmRsNE5YQUEtaXc0NzZqSV8zcGxZZy1pSUxtMThFWTBLdlBVdXlLOVdUSTFxelFYNDB3SlNmQVJ6MmVsQ2xkMEVEbnlnZUlHaGh2VXhPV2lBNHdfX3h0X1YxTDNmNFZJMkZMcXhNMWhnS3RiU0VpdDY0SERKenJvNGhvSQ?oc=5",
+     "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
      "source": "Yahoo Finance"
     }
    ]
@@ -4893,8 +4917,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 169.15,
-    "changePct": -0.03
+    "price": 169.39,
+    "changePct": 0.11
    },
    "relVol": 0.6,
    "avgVolume": 35337834,
@@ -5049,7 +5073,11 @@ window.DASHBOARD_DATA = {
     337.12,
     335.58
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 334.96,
+    "changePct": -0.18
+   },
    "relVol": 0.6,
    "avgVolume": 4939541,
    "symbol": "GE",
@@ -5259,8 +5287,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 304.36,
-    "changePct": -0.02
+    "price": 304.3,
+    "changePct": -0.04
    },
    "relVol": 0.7,
    "avgVolume": 489053,
@@ -5390,6 +5418,12 @@ window.DASHBOARD_DATA = {
  ],
  "geopolitical": [
   {
+   "title": "The Politics of Petrol: Has Donald Trump Really Kept American Fuel Prices Under Control? - www.lvivherald.com",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZG1kNUhUd0xzc3kxNDdaU1dhQzJ2Z2JobXFTdzBxS2I5Q2tTcFo5TkRPTm53dUxJMC1NY3hUM09mdENDMUhRX000ZmcwWHZ5dWlxYnZHQ0M3aWJpWUxZRFlKbTU4d04wa09CbHJxRVc5VTRMdUplaFVnOHFXV2Jmb2ZiYXktelNyaGd5N2VEanI0RFY3UlBSSjFpSFRBbklHbGRKQUJfWWc3S1pXQVZDcXlFSzJFSDc3M0E?oc=5",
+   "pubDate": "Mon, 09 Nov 2026 20:05:32 GMT",
+   "source": "www.lvivherald.com"
+  },
+  {
    "title": "Trump: Iran Seeks Settlement, No Rush for Military Action - Global Arab Network",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkdibmFaeHd4TWQ0Q0piQ2tiQTlLUFdnbkNHRmRSVm4tbjZVUVhJRXpWbXJUbVFfUkpEYklwc0F0b2FLcFNkb21ZSTFmTlFZOFR2Z3R6ZHlwaTlOX25HS1pHT1d6emdHQ1FjUDZGUnhYVjI5U1VUMENkMk5Va1NXZkxDc2R0YW1fRWRyeURhRWhxY2pKVFpOWW1Od0tOOUtpVFFQbWFPdUw?oc=5",
    "pubDate": "Mon, 09 Nov 2026 19:25:41 GMT",
@@ -5406,12 +5440,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMGlJMkMxME9iZDkzTE9CYUQ0cV94ZGRyMmlnTGJVVkU2emdFMUxzQlZGN0ZiYl9PbF9HVEptMThpeFk0eEp4MzY3Mi1oOXk4WXM0MXp0dmxCTkZSMTNybDgyQWVJejUydWZURDF0a0FwRWg1dnhZeFBraU1PYWhlUUc4dUxOTTdvZW5MejhwMXY5ajdCMmtaWDdZYlVoelpQRHR6eUhYQ3IxVGN2ZFdxSWZWTjdWc3h2SFozNlA2am9qR1pPYzB4TVZMbkpuUk10MXctZm5QV0dCYlVQLWdJUzBvQW3SAeoBQVVfeXFMUEFiTUEzYzJJTVE4X09RUnFSRGc3bWNTQVl4VlBTMFQ3cE5jSjZmSC1VUWtUdzJpQjBmX2NOdC13NGJDbGdMLWZ5c2xsSy1uX1E2OHRQb2ZndlMxR24yMEJEU1VkcHZORV9lTkNkN2o2d3FMXzNHdF91QVBXcUlvSkdCZDQ0WFY4Vk9BV3lXMk1OVjNNazlqcWJ4R3lRYWsxN1M4d3laYTY0M2k5MTVrbTNBZ25kNFZEbS14bkFTV3FTXzBPU1drdGtObHVSVldfUnJoWnFFMmZ3blhuakg2THBqUzNPd3dwYTFR?oc=5",
    "pubDate": "Mon, 09 Nov 2026 15:43:00 GMT",
    "source": "The Times of India"
-  },
-  {
-   "title": "The Politics of Petrol: Has Donald Trump Really Kept American Fuel Prices Under Control? - www.lvivherald.com",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZG1kNUhUd0xzc3kxNDdaU1dhQzJ2Z2JobXFTdzBxS2I5Q2tTcFo5TkRPTm53dUxJMC1NY3hUM09mdENDMUhRX000ZmcwWHZ5dWlxYnZHQ0M3aWJpWUxZRFlKbTU4d04wa09CbHJxRVc5VTRMdUplaFVnOHFXV2Jmb2ZiYXktelNyaGd5N2VEanI0RFY3UlBSSjFpSFRBbklHbGRKQUJfWWc3S1pXQVZDcXlFSzJFSDc3M0E?oc=5",
-   "pubDate": "Mon, 09 Nov 2026 20:05:32 GMT",
-   "source": "www.lvivherald.com"
   },
   {
    "title": "Trump Says Qatar, Saudi Favor Peaceful Resolution to Iran Issue; US Ready to Strike if Needed - bloomingbit",
@@ -5526,15 +5554,21 @@ window.DASHBOARD_DATA = {
  ],
  "sectorNews": [
   {
+   "title": "Defense And Aerospace Stocks To Watch And Industry News - Investor's Business Daily",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORjd0emVpMjhDLXNuUjJCZzZ0eXM4NjhrZjNrdTVZTU9yTjBBUHdKQi1tNFYzbFBjMEZvdmdfZ2tyTHM2bHBMRWNmeUFlNnY4a1pnWXozYTVyRFVZOGpNYm1WM0NuWmN4ZUZlbTVKcnZmTDJBcUYwV1ZORmdUZnkxVGE2UFA0d3BkemdKak13bVk?oc=5",
+   "pubDate": "Mon, 09 Nov 2026 18:08:00 GMT",
+   "source": "Investor's Business Daily"
+  },
+  {
    "title": "Army fields launched effects to 11 of 12 divisions, with Griffon Aerospace delivering the majority - Breaking Defense",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTFMyaUdzR0pka3BXS0w2aEp3b1I2OC1rUnVZY09wSlFpdVBvZTVyNHVBUmZfVUVuRlpCWW9TbGsyeTM3UFZwdnh0VGFBWUI5M3RycDdYY3ZVWTh1SC1OSW9wNG1WeFdSQXljZlRmRU5MWGV1OXJLYnI1eEF6ZHZzLTZjVTEtMlJ5MkwwaEQ4dWd3UUdCcG00ZWplNUdpM3NPTm5IRU5OSm1fek9zclFvdGVkX3lOc1pWSk1LSU9pOVpBUW9pUEE1N2NFYTZzQWM?oc=5",
    "pubDate": "Mon, 09 Nov 2026 17:22:39 GMT",
    "source": "Breaking Defense"
   },
   {
-   "title": "Michigan Supplier Starts Aerospace and Defense Operation - Advanced Manufacturing",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOHFqbFU4dmRZOXNPNjM1ZWg1aS01Z1B4VlBicXotSndFTkNVbTlIeE5XQkwwSE45ay1SYVMzblREQjBMQ19lTjltbWUwRTQ2RXJOaXNhY2hFLWNhU0o4Q0RPR3Z6SGxpclFBUjdqS3pZMjFGTU5QZldxSUNOY2pGVUxCbm9IbmJ5MlZnZmhtN2J2Zzl2S1dYNG1rQ3hERWxqLW1SZlIxb2hhTTgxdjdRc2pwOGhpQ2RienZtSGFwWTVFc2t6SllVc0VzSm9IcjlKZld1TFpKNzA1WXlKTWFfX3g2aHJiZl9rbU54em5tV1VPelZ3elpfaWZWN08wVGZnYko0?oc=5",
-   "pubDate": "Mon, 09 Nov 2026 14:48:00 GMT",
+   "title": "Recycling, Alloy Innovation Addresses Aerospace Material Challenges - Advanced Manufacturing",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUzBoMjNvWXZoc1ZoVUtHV2g5VW83bzJ0ZlI3cUh4SVVOWUwtcDhfeGFnT193OFlTeUZZb1MzQmh0b2VtQXBQSjJ5S3ozandsNkgtMk5RbDkzNlVsd3h6UkxNazcwRGFsZVA2U01zdGUxajhxc1BZbF82MG9QQ3l5aWt3dDJUemhaTzY1OHpsV3RKYi1QWEU0R09GZ2JDV1V5UmRhdjZ6ZGM5aG83em5IMlQ5dHZfWU9Cd2NWb01JdkpiR1NIemZfU3pCUmRRdDlMb1E2UU5tSGVwNjRRWm1MQUhOVmU2NFJhanVsdldmb0xUcmtabm5lRGQxbVVTbm1fVGhFVzRnRTI1SWRWT1R6RA?oc=5",
+   "pubDate": "Mon, 09 Nov 2026 21:00:00 GMT",
    "source": "Advanced Manufacturing"
   },
   {
@@ -5574,16 +5608,10 @@ window.DASHBOARD_DATA = {
    "source": "PEI Private Equity"
   },
   {
-   "title": "PyroGenesis Announces Titanium Powder Contract with Global Aerospace Leader - markets.businessinsider.com",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWlCNFZhaUVhYXpNeTU1TnNtaUNsLVNxYUlXUUc5N25GaURhbEtHTUtaTGJic2JBY3NYS2VGdUthTnZnbE9OTEFCT1pXRmY2UVNTU3EweGI5aDdJMFdyYnpiZ3dval8xeFlFRGVMazQ0WGNSaHFiZFExQ0cwOGlqaDN2U2FqWHhFS19SY1JTOVdPYUtkek5URXlhSE93dnJUdFdNbS1UWUhnQ2s0ZDNsWDhreVVTc2ZxcGozc1U4U1N3RkxaaVlIUXpZU3RZd0U?oc=5",
-   "pubDate": "Mon, 09 Nov 2026 12:54:22 GMT",
-   "source": "markets.businessinsider.com"
-  },
-  {
-   "title": "Army and Hanwha Aerospace to expand MRO hubs and overseas logistics ties - Chosunbiz",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObE9iMlBSWGVIQUI2VDdXRkFxUF9Va2hldDU5NGlEeFBFNXVEUHRwYWM2ZWdSUk1OblJnQ0RIaFNWV1RYQjlkWFRPMHJYMHY0U1QzWHdZOUd2ZllUWnRCTUY4NGJieGw2TGtxZGhHZkVJaVQwNFQ2OGNRNUtxNjgxbWln0gGWAUFVX3lxTE0zTlpjUUNvWnBTRURyaWZQam9CX2xqaURFNDhtbjdoTUtqMzZ3MGt0azk5dFNCZnRSMjZyV0hGRlVJUkkwZzA3OFFpZG1rMXJadG1RdzRLVHJ2Z203Mi1KWEtzRGlrdENYekVuM1RVZGZtUF9TNFNWckNuSGRTaFlLcE9CdU1ieGRNM2VsSFczMkxjOEtYUQ?oc=5",
-   "pubDate": "Mon, 09 Nov 2026 07:05:00 GMT",
-   "source": "Chosunbiz"
+   "title": "Michigan Supplier Starts Aerospace and Defense Operation - Advanced Manufacturing",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOHFqbFU4dmRZOXNPNjM1ZWg1aS01Z1B4VlBicXotSndFTkNVbTlIeE5XQkwwSE45ay1SYVMzblREQjBMQ19lTjltbWUwRTQ2RXJOaXNhY2hFLWNhU0o4Q0RPR3Z6SGxpclFBUjdqS3pZMjFGTU5QZldxSUNOY2pGVUxCbm9IbmJ5MlZnZmhtN2J2Zzl2S1dYNG1rQ3hERWxqLW1SZlIxb2hhTTgxdjdRc2pwOGhpQ2RienZtSGFwWTVFc2t6SllVc0VzSm9IcjlKZld1TFpKNzA1WXlKTWFfX3g2aHJiZl9rbU54em5tV1VPelZ3elpfaWZWN08wVGZnYko0?oc=5",
+   "pubDate": "Mon, 09 Nov 2026 14:48:00 GMT",
+   "source": "Advanced Manufacturing"
   }
  ],
  "industrialsNews": [
