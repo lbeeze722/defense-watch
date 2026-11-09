@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-11-09T21:16:26.035813+00:00",
+ "generatedAt": "2026-11-09T21:21:59.185596+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -207,8 +207,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.98,
-    "changePct": -0.5
+    "price": 11.9,
+    "changePct": -1.16
    },
    "relVol": 2.2,
    "avgVolume": 8249685,
@@ -289,8 +289,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.44,
-    "changePct": -1.31
+    "price": 4.51,
+    "changePct": 0.22
    },
    "relVol": 1.1,
    "avgVolume": 7093401,
@@ -372,7 +372,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 5.97,
-    "changePct": 0.02
+    "changePct": 0.0
    },
    "relVol": 1.1,
    "avgVolume": 45142004,
@@ -453,8 +453,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.14,
-    "changePct": -0.12
+    "price": 8.12,
+    "changePct": -0.37
    },
    "relVol": 1.3,
    "avgVolume": 15527451,
@@ -535,8 +535,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 56.03,
-    "changePct": -4.81
+    "price": 54.7,
+    "changePct": -7.07
    },
    "relVol": 1.4,
    "avgVolume": 20064891,
@@ -617,8 +617,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 13.48,
-    "changePct": 0.0
+    "price": 13.79,
+    "changePct": 2.3
    },
    "relVol": 0.6,
    "avgVolume": 5627651,
@@ -699,8 +699,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 126.56,
-    "changePct": -0.31
+    "price": 126.57,
+    "changePct": -0.3
    },
    "relVol": 1.0,
    "avgVolume": 1705172,
@@ -781,8 +781,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.56,
-    "changePct": -5.19
+    "price": 4.52,
+    "changePct": -6.03
    },
    "relVol": 1.8,
    "avgVolume": 21659801,
@@ -861,7 +861,11 @@ window.DASHBOARD_DATA = {
     79.62,
     79.62
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 79.62,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 779465,
    "symbol": "MRCY",
@@ -941,8 +945,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 303.22,
-    "changePct": 0.01
+    "price": 303.18,
+    "changePct": 0.0
    },
    "relVol": 1.4,
    "avgVolume": 2294576,
@@ -1023,8 +1027,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.12,
-    "changePct": -0.96
+    "price": 6.14,
+    "changePct": -0.65
    },
    "relVol": 1.1,
    "avgVolume": 25449750,
@@ -1103,7 +1107,11 @@ window.DASHBOARD_DATA = {
     189.73,
     189.61
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 189.61,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
    "avgVolume": 599022,
    "symbol": "VSEC",
@@ -1265,8 +1273,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 37.72,
-    "changePct": 0.08
+    "price": 38.19,
+    "changePct": 1.33
    },
    "relVol": 1.0,
    "avgVolume": 6549384,
@@ -1673,7 +1681,11 @@ window.DASHBOARD_DATA = {
     81.8,
     81.77
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 81.77,
+    "changePct": 0.0
+   },
    "relVol": 0.5,
    "avgVolume": 427421,
    "symbol": "VVX",
@@ -1835,8 +1847,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 169.2,
-    "changePct": 0.0
+    "price": 169.5,
+    "changePct": 0.18
    },
    "relVol": 0.7,
    "avgVolume": 35337834,
@@ -1912,9 +1924,14 @@ window.DASHBOARD_DATA = {
     216.57,
     216.5,
     217.87,
+    216.24,
     216.24
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 216.24,
+    "changePct": 0.0
+   },
    "relVol": 0.8,
    "avgVolume": 4520278,
    "symbol": "HWM",
@@ -1924,12 +1941,12 @@ window.DASHBOARD_DATA = {
    "price": 216.24,
    "prevClose": 200.9,
    "changePct": 7.64,
-   "volume": 3506502,
+   "volume": 3445642,
    "dayHigh": 218.04,
    "dayLow": 208.63,
    "fiftyTwoWeekHigh": 310.0,
    "fiftyTwoWeekLow": 183.52,
-   "marketTime": 1794257999,
+   "marketTime": 1794258244,
    "news": [
     {
      "title": "Howmet Aerospace Inc. (HWM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -2006,7 +2023,7 @@ window.DASHBOARD_DATA = {
    "price": 335.54,
    "prevClose": 314.73,
    "changePct": 6.61,
-   "volume": 3986027,
+   "volume": 4127956,
    "dayHigh": 337.55,
    "dayLow": 328.26,
    "fiftyTwoWeekHigh": 388.84,
@@ -2130,7 +2147,7 @@ window.DASHBOARD_DATA = {
     "price": 304.3,
     "changePct": -0.02
    },
-   "relVol": 0.9,
+   "relVol": 1.0,
    "avgVolume": 489053,
    "symbol": "HII",
    "name": "Huntington Ingalls",
@@ -2139,7 +2156,7 @@ window.DASHBOARD_DATA = {
    "price": 304.36,
    "prevClose": 289.41,
    "changePct": 5.17,
-   "volume": 444687,
+   "volume": 468502,
    "dayHigh": 305.5,
    "dayLow": 293.21,
    "fiftyTwoWeekHigh": 460.0,
@@ -2221,7 +2238,7 @@ window.DASHBOARD_DATA = {
    "price": 271.42,
    "prevClose": 258.11,
    "changePct": 5.16,
-   "volume": 1649375,
+   "volume": 1732530,
    "dayHigh": 273.05,
    "dayLow": 260.98,
    "fiftyTwoWeekHigh": 379.23,
@@ -2520,7 +2537,7 @@ window.DASHBOARD_DATA = {
     539.07
    ],
    "ext": null,
-   "relVol": 0.7,
+   "relVol": 0.8,
    "avgVolume": 1023744,
    "symbol": "NOC",
    "name": "Northrop Grumman",
@@ -2529,7 +2546,7 @@ window.DASHBOARD_DATA = {
    "price": 539.07,
    "prevClose": 525.25,
    "changePct": 2.63,
-   "volume": 756539,
+   "volume": 810864,
    "dayHigh": 543.92,
    "dayLow": 523.16,
    "fiftyTwoWeekHigh": 774.0,
@@ -2596,7 +2613,7 @@ window.DASHBOARD_DATA = {
     "price": 1218.85,
     "changePct": 0.0
    },
-   "relVol": 2.2,
+   "relVol": 2.3,
    "avgVolume": 318186,
    "symbol": "TDG",
    "name": "TransDigm",
@@ -2605,7 +2622,7 @@ window.DASHBOARD_DATA = {
    "price": 1218.85,
    "prevClose": 1189.19,
    "changePct": 2.49,
-   "volume": 709982,
+   "volume": 722276,
    "dayHigh": 1242.83,
    "dayLow": 1208.225,
    "fiftyTwoWeekHigh": 1463.03,
@@ -2678,7 +2695,7 @@ window.DASHBOARD_DATA = {
     "price": 196.31,
     "changePct": 0.0
    },
-   "relVol": 0.8,
+   "relVol": 0.9,
    "avgVolume": 4415403,
    "symbol": "RTX",
    "name": "RTX Corp",
@@ -2687,7 +2704,7 @@ window.DASHBOARD_DATA = {
    "price": 196.31,
    "prevClose": 191.88,
    "changePct": 2.31,
-   "volume": 3708873,
+   "volume": 3901746,
    "dayHigh": 197.0,
    "dayLow": 191.473,
    "fiftyTwoWeekHigh": 226.88,
@@ -2921,7 +2938,7 @@ window.DASHBOARD_DATA = {
    "price": 588.19,
    "prevClose": 576.16,
    "changePct": 2.09,
-   "volume": 1165277,
+   "volume": 1199607,
    "dayHigh": 589.81,
    "dayLow": 566.27,
    "fiftyTwoWeekHigh": 692.0,
@@ -2988,7 +3005,7 @@ window.DASHBOARD_DATA = {
     "price": 362.07,
     "changePct": 0.0
    },
-   "relVol": 0.7,
+   "relVol": 0.8,
    "avgVolume": 1206886,
    "symbol": "GD",
    "name": "General Dynamics",
@@ -2997,7 +3014,7 @@ window.DASHBOARD_DATA = {
    "price": 362.07,
    "prevClose": 356.35,
    "changePct": 1.61,
-   "volume": 852767,
+   "volume": 922592,
    "dayHigh": 363.33,
    "dayLow": 356.88,
    "fiftyTwoWeekHigh": 400.0,
@@ -3140,7 +3157,7 @@ window.DASHBOARD_DATA = {
     "price": 85.41,
     "changePct": 0.0
    },
-   "relVol": 1.0,
+   "relVol": 1.1,
    "avgVolume": 1719279,
    "symbol": "TXT",
    "name": "Textron",
@@ -3149,7 +3166,7 @@ window.DASHBOARD_DATA = {
    "price": 85.41,
    "prevClose": 85.23,
    "changePct": 0.21,
-   "volume": 1790030,
+   "volume": 1910591,
    "dayHigh": 86.04,
    "dayLow": 83.9,
    "fiftyTwoWeekHigh": 101.57,
@@ -3213,8 +3230,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 172.49,
-    "changePct": 0.07
+    "price": 172.55,
+    "changePct": 0.1
    },
    "relVol": 1.6,
    "avgVolume": 6912837,
@@ -3225,7 +3242,7 @@ window.DASHBOARD_DATA = {
    "price": 172.38,
    "prevClose": 172.5,
    "changePct": -0.07,
-   "volume": 11196923,
+   "volume": 11329025,
    "dayHigh": 177.39,
    "dayLow": 168.89,
    "fiftyTwoWeekHigh": 254.35,
@@ -3363,8 +3380,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.98,
-    "changePct": -0.5
+    "price": 11.9,
+    "changePct": -1.16
    },
    "relVol": 2.2,
    "avgVolume": 8249685,
@@ -3445,8 +3462,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.44,
-    "changePct": -1.31
+    "price": 4.51,
+    "changePct": 0.22
    },
    "relVol": 1.1,
    "avgVolume": 7093401,
@@ -3528,7 +3545,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 5.97,
-    "changePct": 0.02
+    "changePct": 0.0
    },
    "relVol": 1.1,
    "avgVolume": 45142004,
@@ -3609,8 +3626,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 8.14,
-    "changePct": -0.12
+    "price": 8.12,
+    "changePct": -0.37
    },
    "relVol": 1.3,
    "avgVolume": 15527451,
@@ -3691,8 +3708,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 56.03,
-    "changePct": -4.81
+    "price": 54.7,
+    "changePct": -7.07
    },
    "relVol": 1.4,
    "avgVolume": 20064891,
@@ -3773,8 +3790,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 13.48,
-    "changePct": 0.0
+    "price": 13.79,
+    "changePct": 2.3
    },
    "relVol": 0.6,
    "avgVolume": 5627651,
@@ -3855,8 +3872,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 126.56,
-    "changePct": -0.31
+    "price": 126.57,
+    "changePct": -0.3
    },
    "relVol": 1.0,
    "avgVolume": 1705172,
@@ -3937,8 +3954,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.56,
-    "changePct": -5.19
+    "price": 4.52,
+    "changePct": -6.03
    },
    "relVol": 1.8,
    "avgVolume": 21659801,
@@ -4017,7 +4034,11 @@ window.DASHBOARD_DATA = {
     79.62,
     79.62
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 79.62,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 779465,
    "symbol": "MRCY",
@@ -4097,8 +4118,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 303.22,
-    "changePct": 0.01
+    "price": 303.18,
+    "changePct": 0.0
    },
    "relVol": 1.4,
    "avgVolume": 2294576,
@@ -4179,8 +4200,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.12,
-    "changePct": -0.96
+    "price": 6.14,
+    "changePct": -0.65
    },
    "relVol": 1.1,
    "avgVolume": 25449750,
@@ -4259,7 +4280,11 @@ window.DASHBOARD_DATA = {
     189.73,
     189.61
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 189.61,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
    "avgVolume": 599022,
    "symbol": "VSEC",
@@ -4421,8 +4446,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 37.72,
-    "changePct": 0.08
+    "price": 38.19,
+    "changePct": 1.33
    },
    "relVol": 1.0,
    "avgVolume": 6549384,
@@ -4829,7 +4854,11 @@ window.DASHBOARD_DATA = {
     81.8,
     81.77
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 81.77,
+    "changePct": 0.0
+   },
    "relVol": 0.5,
    "avgVolume": 427421,
    "symbol": "VVX",
@@ -4991,8 +5020,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 169.2,
-    "changePct": 0.0
+    "price": 169.5,
+    "changePct": 0.18
    },
    "relVol": 0.7,
    "avgVolume": 35337834,
@@ -5068,9 +5097,14 @@ window.DASHBOARD_DATA = {
     216.57,
     216.5,
     217.87,
+    216.24,
     216.24
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 216.24,
+    "changePct": 0.0
+   },
    "relVol": 0.8,
    "avgVolume": 4520278,
    "symbol": "HWM",
@@ -5080,12 +5114,12 @@ window.DASHBOARD_DATA = {
    "price": 216.24,
    "prevClose": 200.9,
    "changePct": 7.64,
-   "volume": 3506502,
+   "volume": 3445642,
    "dayHigh": 218.04,
    "dayLow": 208.63,
    "fiftyTwoWeekHigh": 310.0,
    "fiftyTwoWeekLow": 183.52,
-   "marketTime": 1794257999,
+   "marketTime": 1794258244,
    "news": [
     {
      "title": "Howmet Aerospace Inc. (HWM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -5162,7 +5196,7 @@ window.DASHBOARD_DATA = {
    "price": 335.54,
    "prevClose": 314.73,
    "changePct": 6.61,
-   "volume": 3986027,
+   "volume": 4127956,
    "dayHigh": 337.55,
    "dayLow": 328.26,
    "fiftyTwoWeekHigh": 388.84,
@@ -5286,7 +5320,7 @@ window.DASHBOARD_DATA = {
     "price": 304.3,
     "changePct": -0.02
    },
-   "relVol": 0.9,
+   "relVol": 1.0,
    "avgVolume": 489053,
    "symbol": "HII",
    "name": "Huntington Ingalls",
@@ -5295,7 +5329,7 @@ window.DASHBOARD_DATA = {
    "price": 304.36,
    "prevClose": 289.41,
    "changePct": 5.17,
-   "volume": 444687,
+   "volume": 468502,
    "dayHigh": 305.5,
    "dayLow": 293.21,
    "fiftyTwoWeekHigh": 460.0,
@@ -5377,7 +5411,7 @@ window.DASHBOARD_DATA = {
    "price": 271.42,
    "prevClose": 258.11,
    "changePct": 5.16,
-   "volume": 1649375,
+   "volume": 1732530,
    "dayHigh": 273.05,
    "dayLow": 260.98,
    "fiftyTwoWeekHigh": 379.23,
