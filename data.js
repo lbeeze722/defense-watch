@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-11-13T21:06:17.424771+00:00",
+ "generatedAt": "2026-11-13T21:12:09.187685+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -348,9 +348,9 @@ window.DASHBOARD_DATA = {
      "source": "Finviz"
     },
     {
-     "title": "Why KULR Technology Group (KULR) Is Up 28.1% After Winning Argo Space Battery Contract - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQW9WMnFFbXRUbl8yVkhTQ3VVQ1BpeWdpQ1JmczBoZVhTbUQ3UTV3NTROSExrRWdVdG8xWk5qdU9PTTNlZG9qdlRYd1EwZ09ycnAtN2Z2aEZjcGphblFxd1k5ZE1MVzVCNmtoQzJGVGRkazctWllVWmZsbTdoU2xMX1J2OFp0RXBSX19OYmJpajhqalJIN0dBa09ocw?oc=5",
-     "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
+     "title": "KULR Technology Group, Inc. Q1 2026 Earnings Call Summary - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWm5kNUZyTlNRZWJMbmJuS0R3SS1lYUxpOWpjX2V6ZWQ3QzZmclcybXRzZUlIZ0FWOU9teENyUmNPQ3B4dmUyUEt0NTBCU1lZekh2Yk92aEM4bzl6X1ZaSHR5OWh3QU55Tk1rYlBKNHRhZ3o1VllPS3R0aXcyTllwTEt2N3V4Y1ZSOURQLVRSRDhTbDE3aHo2TA?oc=5",
+     "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
      "source": "Yahoo Finance"
     }
    ]
@@ -385,8 +385,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.04,
-    "changePct": -0.76
+    "price": 5.06,
+    "changePct": -0.39
    },
    "relVol": 0.7,
    "avgVolume": 19797813,
@@ -467,8 +467,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.79,
-    "changePct": -0.26
+    "price": 3.83,
+    "changePct": 0.79
    },
    "relVol": 0.9,
    "avgVolume": 4774899,
@@ -548,8 +548,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.2,
-    "changePct": -0.52
+    "price": 11.15,
+    "changePct": -0.98
    },
    "relVol": 0.6,
    "avgVolume": 3387360,
@@ -630,8 +630,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.11,
-    "changePct": -0.97
+    "price": 5.14,
+    "changePct": -0.39
    },
    "relVol": 1.0,
    "avgVolume": 47607417,
@@ -711,8 +711,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.72,
-    "changePct": -0.19
+    "price": 7.71,
+    "changePct": -0.32
    },
    "relVol": 0.8,
    "avgVolume": 12086492,
@@ -871,8 +871,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 33.7,
-    "changePct": -0.62
+    "price": 34.18,
+    "changePct": 0.8
    },
    "relVol": 1.1,
    "avgVolume": 4330411,
@@ -903,16 +903,16 @@ window.DASHBOARD_DATA = {
      "source": "Investing.com"
     },
     {
-     "title": "Cathie Wood Loads Up on Kratos Defense: ARK ETFs Buy $3M as Pentagon Bets on Autonomous Warfare - Benzinga",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYXlleUVIaUFMbkRBSk9yNnlEa3pXZjUxSExmUzNHVEJ6LUJiSDkxenU3X196NUxKQ0Z0NnpBZ3FRZF81Nzd3U2RQaWtPcExxVTRLYjdOaV9oWHZCNUtSaTVUZUN3QUVzWFJYWEVya1VVZ0tybnhjLXphOFBqMGtsMVg4TEVDejE2akFxZWFlRlE5Q2FoSVBSU2hHa2VyQkFKTXJiUk8wekhQd1VRS3JKN3BCbV9TRGNxMzVpaTVXZXYzZGFjNnQ0RUJOeHZ3Q2hBYUhlZjNXbmx6a0REQzZRbllGdEdWRXBl?oc=5",
-     "pubDate": "Thu, 12 Nov 2026 15:35:59 GMT",
-     "source": "Benzinga"
-    },
-    {
      "title": "Should You Buy Kratos Defense Stock Before the Valkyrie Orders Show Up? - The Motley Fool",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWRBZEowVGpGMmhFbTVNcUlMRTV4UVkxZTA2N1pXdVZDdTdJN0JzN1l5UFRObXB3VExWRmZaZURYR0FVVmpVZDhUNmY0ZlFIRG5iVndZUXZWZHgyaVpZbVAwclgweDYwM29IRHBEeTZFSVNaMmtRam5TWFhubUNyVk52VzB5ai1xbjBwYUl4TTFpSkdSdVBLbA?oc=5",
      "pubDate": "Sat, 17 Oct 2026 07:00:00 GMT",
      "source": "The Motley Fool"
+    },
+    {
+     "title": "Cathie Wood Loads Up on Kratos Defense: ARK ETFs Buy $3M as Pentagon Bets on Autonomous Warfare - Benzinga",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYXlleUVIaUFMbkRBSk9yNnlEa3pXZjUxSExmUzNHVEJ6LUJiSDkxenU3X196NUxKQ0Z0NnpBZ3FRZF81Nzd3U2RQaWtPcExxVTRLYjdOaV9oWHZCNUtSaTVUZUN3QUVzWFJYWEVya1VVZ0tybnhjLXphOFBqMGtsMVg4TEVDejE2akFxZWFlRlE5Q2FoSVBSU2hHa2VyQkFKTXJiUk8wekhQd1VRS3JKN3BCbV9TRGNxMzVpaTVXZXYzZGFjNnQ0RUJOeHZ3Q2hBYUhlZjNXbmx6a0REQzZRbllGdEdWRXBl?oc=5",
+     "pubDate": "Thu, 12 Nov 2026 15:35:59 GMT",
+     "source": "Benzinga"
     },
     {
      "title": "Kratos Defense Q3: A Great Business With An Uncomfortable Valuation - Seeking Alpha",
@@ -953,8 +953,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 60.64,
-    "changePct": -1.45
+    "price": 60.99,
+    "changePct": -0.88
    },
    "relVol": 0.6,
    "avgVolume": 21145198,
@@ -1225,6 +1225,12 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance UK"
     },
     {
+     "title": "VSE Corporation (VSEC) stock price, news, quote and history - Yahoo Finance Australia",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yVmFnM2pyYk1SOFZxUVVDNW1ucGFyWktKWldFR3Q1QlpXbk9kQS1ackV3bWJ1VUhnYjRFWkJLZGd1X25sZ1JWb1c5ZkFEYVNrTmc?oc=5",
+     "pubDate": "Thu, 12 Nov 2026 17:32:24 GMT",
+     "source": "Yahoo Finance Australia"
+    },
+    {
      "title": "VSE Corp (VSEC) Shares Surge 4.9% -- What GF Score of 84 Tells I - GuruFocus",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZTVfVl9yOXdPa1hjMmlYLXdGcmdicE91cklrVldVVU9xM0J0amFMNUItTUFGdHp3T0R1NnF3Z1ZtVmVpLWNtM1dJTkxZZmp4Y0RmZmNFcEpmSmFzZnFVS2NjaWVHV1NVUVk4Uzd2bjlEQVJHODVMSEtIYm1pMTR4dVJKX0VtVUdablc1d3hyQUF1c1pDVWx3YXJMTWpPRGxnSUNPbTk0WQ?oc=5",
      "pubDate": "Sat, 07 Nov 2026 02:33:03 GMT",
@@ -1241,12 +1247,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUDZRbDNXTkxsT3IyTi1NemQ5eEF5aEE3cFhsX3FvbXRxaVB0RnZ1MlVxdXc1WWw0eWp0YnJycGFTbGw3azFEVjJFN2FWZ1Z0V2dhOFpTOE0xTDE1bnVYRHJEaWMtMERXUVh6Y01PWHV4cEVQUzN6YkNOaVFDSDZtQWJ0OVpGbjZrbVFhMGVJZkZ6REFLTUROMmEwUF9qSzBxQkVHcmRld3Q1bkFodEpXUTNXSmRQTnZ6blpEZTBoVFByQnlVRmFzWTByS0J1WTN4cmR2d3RvemlKdUszaHZr?oc=5",
      "pubDate": "Sat, 08 Aug 2026 07:00:00 GMT",
      "source": "ChartMill"
-    },
-    {
-     "title": "VSE Corp. (VSEC) Positioned for Margin Expansion and Market Share Gains in Aviation Services - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeU1GMFdxajlYMHVSeW9LQlE3NjZ4UlVMekVBQ0x1a3dUZlk0WU5kRS1CYW9tYjl1cjVmcVhBUWtXOVVGX09seHBVUjRfcE95TUc0cGQ3Sy1YR3lHSU1iTlZwMUlVX3dxemVMeGpaT1JGT2dYbE1kS0tjc3JCbjhJUjJsRWthZDlBS29UNE9KLURBSHFyZkd1Tm1Lbmg?oc=5",
-     "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
-     "source": "Yahoo Finance"
     }
    ]
   },
@@ -1303,16 +1303,10 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo! Finance Canada"
     },
     {
-     "title": "Leonardo DRS, Inc. (DRS) latest stock news and headlines - Yahoo Finance UK",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LR1l0ZXdyRnlQekdRRUhaOFJSZndTejZlYm96Z2pSdXNSUlkzbnRhZVNlWG9kUlRLMEpwZERxWE90cUJDVVJicURPeVZ4RVVyNUY2dmtIRQ?oc=5",
-     "pubDate": "Thu, 12 Nov 2026 17:00:39 GMT",
-     "source": "Yahoo Finance UK"
-    },
-    {
-     "title": "Oppenheimer initiates Leonardo DRS stock with outperform rating - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV05INXdYLU9Zei0wN1Z1WkRNeV9fVUZHMHJjNjA0SUhfM2tSV1o2V3lFVHZ4R1Q1c1pwSDJFa3JJc1RCdUtBT3hqVmN1MXhCOFpRdklCcjd1MnJNOFlSZFpvMjE0SHg0LTlVcTU0TWFoaG1MSXhIcWprbURtMEJqMUdkSi0yMXhGcWExQ1hjOW4tWGZGTjJfVGh3VDZyRGJGMzVhUEJBSjlCYW1NRndGWmwtcENvZGRKaWNsaWtORzg?oc=5",
-     "pubDate": "Thu, 22 Oct 2026 07:00:00 GMT",
-     "source": "Investing.com"
+     "title": "Implied Volatility Surging for Leonardo DRS Stock Options - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbE9KaERWa2FQbjhndXJBUUJzazB6MVM4TEZySzduWFNjbFpOdVpwQVJrb0hLS24wUWRDcmF1T1VvRVBuZUt5c1NIOEkzdmU5d1RpaDdXU0V3eS1qeVIwTWN2dldqZjFBVDd3N0Y2N3NvZWY3eE45YzdOYnU3c2dZSVRSRV9Gc2VPMlVEQXlULVUzQ3l0YWstb09aYlF4UXJ2X0g4bEpoRzY?oc=5",
+     "pubDate": "Wed, 11 Nov 2026 18:15:00 GMT",
+     "source": "Yahoo Finance"
     },
     {
      "title": "Leonardo DRS: The Defense Stock Built For The Next Upgrade Cycle (NASDAQ:DRS) - Seeking Alpha",
@@ -1321,9 +1315,15 @@ window.DASHBOARD_DATA = {
      "source": "Seeking Alpha"
     },
     {
-     "title": "Implied Volatility Surging for Leonardo DRS Stock Options - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbE9KaERWa2FQbjhndXJBUUJzazB6MVM4TEZySzduWFNjbFpOdVpwQVJrb0hLS24wUWRDcmF1T1VvRVBuZUt5c1NIOEkzdmU5d1RpaDdXU0V3eS1qeVIwTWN2dldqZjFBVDd3N0Y2N3NvZWY3eE45YzdOYnU3c2dZSVRSRV9Gc2VPMlVEQXlULVUzQ3l0YWstb09aYlF4UXJ2X0g4bEpoRzY?oc=5",
-     "pubDate": "Wed, 11 Nov 2026 18:15:00 GMT",
+     "title": "DRS - Leonardo DRS Inc Stock Price and Quote - Finviz",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5pTHpkeXRrVkpFejB2Q2FUeGhsd0xPcVVvektQZDJLOGxkYnVsOFFiWTV6d2NabkhkTzdUa21jU0w0emdN?oc=5",
+     "pubDate": "Tue, 26 May 2026 16:39:47 GMT",
+     "source": "Finviz"
+    },
+    {
+     "title": "Are Aerospace Stocks Lagging Leonardo DRS, Inc. (DRS) This Year? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmJVNWV0WE10TXBQUkVLVXRvNFhieGFqNTBGX2VSNE5kNmRsNE5YQUEtaXc0NzZqSV8zcGxZZy1pSUxtMThFWTBLdlBVdXlLOVdUSTFxelFYNDB3SlNmQVJ6MmVsQ2xkMEVEbnlnZUlHaGh2VXhPV2lBNHdfX3h0X1YxTDNmNFZJMkZMcXhNMWhnS3RiU0VpdDY0SERKenJvNGhvSQ?oc=5",
+     "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
      "source": "Yahoo Finance"
     }
    ]
@@ -1658,8 +1658,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 166.2,
-    "changePct": -1.07
+    "price": 167.5,
+    "changePct": -0.29
    },
    "relVol": 1.0,
    "avgVolume": 14309996,
@@ -2323,8 +2323,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 170.9,
-    "changePct": -0.38
+    "price": 170.61,
+    "changePct": -0.55
    },
    "relVol": 0.7,
    "avgVolume": 6582447,
@@ -3178,7 +3178,11 @@ window.DASHBOARD_DATA = {
     315.49,
     315.43
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 306.0,
+    "changePct": -2.99
+   },
    "relVol": 0.6,
    "avgVolume": 2148921,
    "symbol": "AXON",
@@ -3374,9 +3378,9 @@ window.DASHBOARD_DATA = {
      "source": "Finviz"
     },
     {
-     "title": "Why KULR Technology Group (KULR) Is Up 28.1% After Winning Argo Space Battery Contract - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQW9WMnFFbXRUbl8yVkhTQ3VVQ1BpeWdpQ1JmczBoZVhTbUQ3UTV3NTROSExrRWdVdG8xWk5qdU9PTTNlZG9qdlRYd1EwZ09ycnAtN2Z2aEZjcGphblFxd1k5ZE1MVzVCNmtoQzJGVGRkazctWllVWmZsbTdoU2xMX1J2OFp0RXBSX19OYmJpajhqalJIN0dBa09ocw?oc=5",
-     "pubDate": "Sat, 23 May 2026 07:00:00 GMT",
+     "title": "KULR Technology Group, Inc. Q1 2026 Earnings Call Summary - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWm5kNUZyTlNRZWJMbmJuS0R3SS1lYUxpOWpjX2V6ZWQ3QzZmclcybXRzZUlIZ0FWOU9teENyUmNPQ3B4dmUyUEt0NTBCU1lZekh2Yk92aEM4bzl6X1ZaSHR5OWh3QU55Tk1rYlBKNHRhZ3o1VllPS3R0aXcyTllwTEt2N3V4Y1ZSOURQLVRSRDhTbDE3aHo2TA?oc=5",
+     "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
      "source": "Yahoo Finance"
     }
    ]
@@ -3411,8 +3415,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.04,
-    "changePct": -0.76
+    "price": 5.06,
+    "changePct": -0.39
    },
    "relVol": 0.7,
    "avgVolume": 19797813,
@@ -3493,8 +3497,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.79,
-    "changePct": -0.26
+    "price": 3.83,
+    "changePct": 0.79
    },
    "relVol": 0.9,
    "avgVolume": 4774899,
@@ -3574,8 +3578,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 11.2,
-    "changePct": -0.52
+    "price": 11.15,
+    "changePct": -0.98
    },
    "relVol": 0.6,
    "avgVolume": 3387360,
@@ -3656,8 +3660,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.11,
-    "changePct": -0.97
+    "price": 5.14,
+    "changePct": -0.39
    },
    "relVol": 1.0,
    "avgVolume": 47607417,
@@ -3737,8 +3741,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.72,
-    "changePct": -0.19
+    "price": 7.71,
+    "changePct": -0.32
    },
    "relVol": 0.8,
    "avgVolume": 12086492,
@@ -3897,8 +3901,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 33.7,
-    "changePct": -0.62
+    "price": 34.18,
+    "changePct": 0.8
    },
    "relVol": 1.1,
    "avgVolume": 4330411,
@@ -3929,16 +3933,16 @@ window.DASHBOARD_DATA = {
      "source": "Investing.com"
     },
     {
-     "title": "Cathie Wood Loads Up on Kratos Defense: ARK ETFs Buy $3M as Pentagon Bets on Autonomous Warfare - Benzinga",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYXlleUVIaUFMbkRBSk9yNnlEa3pXZjUxSExmUzNHVEJ6LUJiSDkxenU3X196NUxKQ0Z0NnpBZ3FRZF81Nzd3U2RQaWtPcExxVTRLYjdOaV9oWHZCNUtSaTVUZUN3QUVzWFJYWEVya1VVZ0tybnhjLXphOFBqMGtsMVg4TEVDejE2akFxZWFlRlE5Q2FoSVBSU2hHa2VyQkFKTXJiUk8wekhQd1VRS3JKN3BCbV9TRGNxMzVpaTVXZXYzZGFjNnQ0RUJOeHZ3Q2hBYUhlZjNXbmx6a0REQzZRbllGdEdWRXBl?oc=5",
-     "pubDate": "Thu, 12 Nov 2026 15:35:59 GMT",
-     "source": "Benzinga"
-    },
-    {
      "title": "Should You Buy Kratos Defense Stock Before the Valkyrie Orders Show Up? - The Motley Fool",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWRBZEowVGpGMmhFbTVNcUlMRTV4UVkxZTA2N1pXdVZDdTdJN0JzN1l5UFRObXB3VExWRmZaZURYR0FVVmpVZDhUNmY0ZlFIRG5iVndZUXZWZHgyaVpZbVAwclgweDYwM29IRHBEeTZFSVNaMmtRam5TWFhubUNyVk52VzB5ai1xbjBwYUl4TTFpSkdSdVBLbA?oc=5",
      "pubDate": "Sat, 17 Oct 2026 07:00:00 GMT",
      "source": "The Motley Fool"
+    },
+    {
+     "title": "Cathie Wood Loads Up on Kratos Defense: ARK ETFs Buy $3M as Pentagon Bets on Autonomous Warfare - Benzinga",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYXlleUVIaUFMbkRBSk9yNnlEa3pXZjUxSExmUzNHVEJ6LUJiSDkxenU3X196NUxKQ0Z0NnpBZ3FRZF81Nzd3U2RQaWtPcExxVTRLYjdOaV9oWHZCNUtSaTVUZUN3QUVzWFJYWEVya1VVZ0tybnhjLXphOFBqMGtsMVg4TEVDejE2akFxZWFlRlE5Q2FoSVBSU2hHa2VyQkFKTXJiUk8wekhQd1VRS3JKN3BCbV9TRGNxMzVpaTVXZXYzZGFjNnQ0RUJOeHZ3Q2hBYUhlZjNXbmx6a0REQzZRbllGdEdWRXBl?oc=5",
+     "pubDate": "Thu, 12 Nov 2026 15:35:59 GMT",
+     "source": "Benzinga"
     },
     {
      "title": "Kratos Defense Q3: A Great Business With An Uncomfortable Valuation - Seeking Alpha",
@@ -3979,8 +3983,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 60.64,
-    "changePct": -1.45
+    "price": 60.99,
+    "changePct": -0.88
    },
    "relVol": 0.6,
    "avgVolume": 21145198,
@@ -4251,6 +4255,12 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance UK"
     },
     {
+     "title": "VSE Corporation (VSEC) stock price, news, quote and history - Yahoo Finance Australia",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yVmFnM2pyYk1SOFZxUVVDNW1ucGFyWktKWldFR3Q1QlpXbk9kQS1ackV3bWJ1VUhnYjRFWkJLZGd1X25sZ1JWb1c5ZkFEYVNrTmc?oc=5",
+     "pubDate": "Thu, 12 Nov 2026 17:32:24 GMT",
+     "source": "Yahoo Finance Australia"
+    },
+    {
      "title": "VSE Corp (VSEC) Shares Surge 4.9% -- What GF Score of 84 Tells I - GuruFocus",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZTVfVl9yOXdPa1hjMmlYLXdGcmdicE91cklrVldVVU9xM0J0amFMNUItTUFGdHp3T0R1NnF3Z1ZtVmVpLWNtM1dJTkxZZmp4Y0RmZmNFcEpmSmFzZnFVS2NjaWVHV1NVUVk4Uzd2bjlEQVJHODVMSEtIYm1pMTR4dVJKX0VtVUdablc1d3hyQUF1c1pDVWx3YXJMTWpPRGxnSUNPbTk0WQ?oc=5",
      "pubDate": "Sat, 07 Nov 2026 02:33:03 GMT",
@@ -4267,12 +4277,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUDZRbDNXTkxsT3IyTi1NemQ5eEF5aEE3cFhsX3FvbXRxaVB0RnZ1MlVxdXc1WWw0eWp0YnJycGFTbGw3azFEVjJFN2FWZ1Z0V2dhOFpTOE0xTDE1bnVYRHJEaWMtMERXUVh6Y01PWHV4cEVQUzN6YkNOaVFDSDZtQWJ0OVpGbjZrbVFhMGVJZkZ6REFLTUROMmEwUF9qSzBxQkVHcmRld3Q1bkFodEpXUTNXSmRQTnZ6blpEZTBoVFByQnlVRmFzWTByS0J1WTN4cmR2d3RvemlKdUszaHZr?oc=5",
      "pubDate": "Sat, 08 Aug 2026 07:00:00 GMT",
      "source": "ChartMill"
-    },
-    {
-     "title": "VSE Corp. (VSEC) Positioned for Margin Expansion and Market Share Gains in Aviation Services - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeU1GMFdxajlYMHVSeW9LQlE3NjZ4UlVMekVBQ0x1a3dUZlk0WU5kRS1CYW9tYjl1cjVmcVhBUWtXOVVGX09seHBVUjRfcE95TUc0cGQ3Sy1YR3lHSU1iTlZwMUlVX3dxemVMeGpaT1JGT2dYbE1kS0tjc3JCbjhJUjJsRWthZDlBS29UNE9KLURBSHFyZkd1Tm1Lbmg?oc=5",
-     "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
-     "source": "Yahoo Finance"
     }
    ]
   },
@@ -4329,16 +4333,10 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo! Finance Canada"
     },
     {
-     "title": "Leonardo DRS, Inc. (DRS) latest stock news and headlines - Yahoo Finance UK",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LR1l0ZXdyRnlQekdRRUhaOFJSZndTejZlYm96Z2pSdXNSUlkzbnRhZVNlWG9kUlRLMEpwZERxWE90cUJDVVJicURPeVZ4RVVyNUY2dmtIRQ?oc=5",
-     "pubDate": "Thu, 12 Nov 2026 17:00:39 GMT",
-     "source": "Yahoo Finance UK"
-    },
-    {
-     "title": "Oppenheimer initiates Leonardo DRS stock with outperform rating - Investing.com",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV05INXdYLU9Zei0wN1Z1WkRNeV9fVUZHMHJjNjA0SUhfM2tSV1o2V3lFVHZ4R1Q1c1pwSDJFa3JJc1RCdUtBT3hqVmN1MXhCOFpRdklCcjd1MnJNOFlSZFpvMjE0SHg0LTlVcTU0TWFoaG1MSXhIcWprbURtMEJqMUdkSi0yMXhGcWExQ1hjOW4tWGZGTjJfVGh3VDZyRGJGMzVhUEJBSjlCYW1NRndGWmwtcENvZGRKaWNsaWtORzg?oc=5",
-     "pubDate": "Thu, 22 Oct 2026 07:00:00 GMT",
-     "source": "Investing.com"
+     "title": "Implied Volatility Surging for Leonardo DRS Stock Options - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbE9KaERWa2FQbjhndXJBUUJzazB6MVM4TEZySzduWFNjbFpOdVpwQVJrb0hLS24wUWRDcmF1T1VvRVBuZUt5c1NIOEkzdmU5d1RpaDdXU0V3eS1qeVIwTWN2dldqZjFBVDd3N0Y2N3NvZWY3eE45YzdOYnU3c2dZSVRSRV9Gc2VPMlVEQXlULVUzQ3l0YWstb09aYlF4UXJ2X0g4bEpoRzY?oc=5",
+     "pubDate": "Wed, 11 Nov 2026 18:15:00 GMT",
+     "source": "Yahoo Finance"
     },
     {
      "title": "Leonardo DRS: The Defense Stock Built For The Next Upgrade Cycle (NASDAQ:DRS) - Seeking Alpha",
@@ -4347,9 +4345,15 @@ window.DASHBOARD_DATA = {
      "source": "Seeking Alpha"
     },
     {
-     "title": "Implied Volatility Surging for Leonardo DRS Stock Options - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbE9KaERWa2FQbjhndXJBUUJzazB6MVM4TEZySzduWFNjbFpOdVpwQVJrb0hLS24wUWRDcmF1T1VvRVBuZUt5c1NIOEkzdmU5d1RpaDdXU0V3eS1qeVIwTWN2dldqZjFBVDd3N0Y2N3NvZWY3eE45YzdOYnU3c2dZSVRSRV9Gc2VPMlVEQXlULVUzQ3l0YWstb09aYlF4UXJ2X0g4bEpoRzY?oc=5",
-     "pubDate": "Wed, 11 Nov 2026 18:15:00 GMT",
+     "title": "DRS - Leonardo DRS Inc Stock Price and Quote - Finviz",
+     "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5pTHpkeXRrVkpFejB2Q2FUeGhsd0xPcVVvektQZDJLOGxkYnVsOFFiWTV6d2NabkhkTzdUa21jU0w0emdN?oc=5",
+     "pubDate": "Tue, 26 May 2026 16:39:47 GMT",
+     "source": "Finviz"
+    },
+    {
+     "title": "Are Aerospace Stocks Lagging Leonardo DRS, Inc. (DRS) This Year? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmJVNWV0WE10TXBQUkVLVXRvNFhieGFqNTBGX2VSNE5kNmRsNE5YQUEtaXc0NzZqSV8zcGxZZy1pSUxtMThFWTBLdlBVdXlLOVdUSTFxelFYNDB3SlNmQVJ6MmVsQ2xkMEVEbnlnZUlHaGh2VXhPV2lBNHdfX3h0X1YxTDNmNFZJMkZMcXhNMWhnS3RiU0VpdDY0SERKenJvNGhvSQ?oc=5",
+     "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
      "source": "Yahoo Finance"
     }
    ]
@@ -4492,12 +4496,6 @@ window.DASHBOARD_DATA = {
    "source": "The Guardian Nigeria News"
   },
   {
-   "title": "Trump\u2019s Ukraine peace efforts augur well for his Nobel Peace Prize prospects - Pretoria News",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmczamdTeUw1WHRBeXZyZDVfckFxUWpRd1h5cFhLX2RtdmZaTEdxNGFPU3VxOVJYTXZZRUVKYTlvdURyVi1JSTJYd255TUJ1b2EwdG81a3hEa3FvVWlndlpxSjI0S1V1VzNuajJ0cDVfbnJVRkFNVno4ZEZlOFJsVER6UWZyTDVQZ3dvVldCcXNMOXJBOV9Eazd3Z3NJRXo4SEdDcGl5b1YwMGRWRURrRzR3UERERlN2UFpoVGhSNA?oc=5",
-   "pubDate": "Fri, 13 Nov 2026 04:04:45 GMT",
-   "source": "Pretoria News"
-  },
-  {
    "title": "India, Oman, UAE to set up technical trilateral committee amid West Asia airspace challenges: Ram Mohan Naidu - ANI News",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSldZNzFNZlFyWFVmREkwOUJEU2FsejhYOHVRdDZBNl9ZeHE5WkItWU5zSEtiam1uejUybktZSGNGZlBHaEpOampYT1pyODBFZjhlWXpLblJKQkxhVmtLdHdLckRMM0R5V0FPMVRNcUZXYUd0NDkySGc3U0w4M1EwZkx2OVg4QlozaGZJSWlKdEZBQTRrNVIwbEV4Ry0yMnMyTUhPZ0ZjalhpTDZEbGdmUDJwMTBKZGNfbzFFMFJzdm9abFFqdlB1bjMyeTBJejdhZi1oWm5QOEpsOWh0bk5HTDZVdWdhX0lqU042UXBRNFo?oc=5",
    "pubDate": "Fri, 13 Nov 2026 04:05:00 GMT",
@@ -4508,6 +4506,12 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLWJaU3VjNnJnQ0t0OFN4WXlpaUl4ejFjeWs1Y2gxdmJ1Zi1XYS1WUXhqajg3bTgxVXN0OTB2UkFrellWZFhCVkt3WmQxQ2JFWndBMDFXODZUUWtBaU8waExUNldJejA2b1pubjE1VDMzN280dm9aNzkyOFNIc01JVzhsVVZ4VnZOSWJvVTlnWmZRZllTU3Y0ZVdKMXBFdUxqTW1ZZ2RQbGoyd0pQWFFqTmxhQ1NUOUhx0gG8AUFVX3lxTE5RcUY2SW9QTFRsSkJ6TGRUa1djMXpXNUZIdmhDT2taRktfQ1h0STF2RVJRV3R5Qy1HOE5OMVk0U1dnUzF6V2xKLTdTcGY0bFBmX2FINTVfdmtrX1IzSUpZMk5xRGw2d0xGRDlSS1hXSVJjZXJRQ2Vldk1wcHNDcmFDRVhoQTZ0TGRCS1JMRGlkYlNBLWp4NG1WSEtFN2hjRnd6ZkNvT2ljZDA1LUVaMzFfdEM0aUdIdUxYYUJC?oc=5",
    "pubDate": "Fri, 13 Nov 2026 07:15:14 GMT",
    "source": "The Tribune"
+  },
+  {
+   "title": "The great geopolitical boomerang - The Statesman",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN2xhcGJ4WWpDSGZJMko2T1doWjlxRHMzdE5heFZ1ZjVqeUJkODh6WE14WjBCMmktLUNLV2lUSWVKNndBaW9lUjRPaTVOOHpaM1oyOXdjRGZZa3pteFE4S0ZRdGJFNHBUU2FraTQ0Q1U2cFZaUWg4blU0eEtiQzR5MFJydXlUSzQ0cEo1bzZ30gGTAUFVX3lxTFAtNnJ5Yjh5MWRUdXlEdE9WTUVvVDNNS1g0YzItZUFqaFd2bVRkczF4QjVKVFJDR28wbGdhYTJVQzg1WDNaNEpIN2xUTGQ1QmFjTWlQYVdrNUU0cjBnaHdGQjFxS0VHaEJoRHFlTlFWbk1uTkNLQzdWcy1qRnBfejUwN1JRbEJReXRHa045ai1XdF90RQ?oc=5",
+   "pubDate": "Fri, 13 Nov 2026 03:25:00 GMT",
+   "source": "The Statesman"
   }
  ],
  "mna": [
@@ -4710,16 +4714,16 @@ window.DASHBOARD_DATA = {
    "source": "ExecutiveBiz"
   },
   {
-   "title": "Pentagon awards multimillion-dollar contract for product used by pregnant women - MassLive",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFdGRk9ucjhaQlBlRkk1VVJGU3ZlVWo5dktDVzRmdGpJV1dXRW9ScGYtZ3RLUUs2T0FLOW83VkJQWjhHazBNSlFKZnpaRmxYdWNUb1NrT3pBdGRJZXhTdFVibkxGcUJrX1FQU1hSaGZ4d0phU0p4dURBQktuemxwSW9RbDgzeTkzZXFuNGU1T295QnI0aXRIRjJxYnY3X0hNYWFvM3BzSE9EYjJDOGRrbzhuV2NuemtCYVM1TC02a9IB0wFBVV95cUxOOFZId3ZtSkV4dXlYYldUeVJNUWhqc0g1c0NYeDh1LU9FNkNjdFVabVZzRE8yY1RZczdDMnB3ZFZrWElWWFdhaklrWTNMaWkzUEl2eGVvanBCUURGSDd6NnlhSHIyLVdhNlpaWlZkMWNJM3o0dVdVRDBZcnoxdjd2VmtndzNPUzZBMXo4YkZyUEIxX2lBckNEM2lrMjQtM20zdWlmUzRXTXEtMDN5N2RDMjA0SU9Nb29MTy1RYzZMbDhoaEM4U1hkSXBvWTZ2cG5Ed0cw?oc=5",
-   "pubDate": "Fri, 13 Nov 2026 18:35:00 GMT",
-   "source": "MassLive"
-  },
-  {
    "title": "With a new $31 million contract and orders for 953 vehicles, the U.S. Army expands its FMTV A2 fleet - Zona Militar",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNy1od3BtcmFQQzUxR25Ed195WlFDZ0RwUFQ1V01TVl9lcDhKemdVaWdhLU54YXo4ZHBwalpyTmxkVElrajVtLTdhaVlBYTRPQm1HN2p2M0NETFVFM2xwNXhOQ3BweFVTWGMycHVrekVqUXYwdVpDY19JSC1NbUZhQWVoNkZQZHV4aHMyUEJFWmlsUU9WTXNsZDZucURuQk1xTFJ0eDRSNklpQm5Ybzhwbk1sZVdmUVpRZ1ZiTHA5azl2R0JjdFo0aHFqR1hIZ1RXYWpobkFFNmE?oc=5",
    "pubDate": "Fri, 13 Nov 2026 12:05:00 GMT",
    "source": "Zona Militar"
+  },
+  {
+   "title": "Pentagon awards multimillion-dollar contract for product used by pregnant women - AL.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkhUWTZsM0VvOTJ0b1hUeEZWbzdOcUdGOWRPSkZDR1pOeV9UQVdwcVFnTHBLOGVTbUs3RGM1czlNSVVMY24wa3RCY1RLNHhMYjZ3TVR1TWhIWi1wU1M2TlBvb2FrSkRKYlYzZFBTNUZCYW9rTXd5QnVIaWZOaHZNODd0dHNjN3hqc3ByTEs0cjhJV2h0YzRsZjRVVGJQd0dEeWhTWmpaZXlOeC1SY0VCVHd5U3hld2_SAcsBQVVfeXFMUDRWeHJ6WWozUGlLX3NCOTBXcmlaOUN6M25ZOFd2Sm9Ld2RoTkZkcEUwRWF5LVhxOVBncW1HelVQX0lTbVhrb0xGRVpiZ3N0a1ItbHZ0RnBUc2wxUmQycWd2WG82bVdoeXFQRnpXZG5MYl81WFFJM1pXODB3dl9JcGkyWnVKdmlMaFREOEpLeTM5eVBLOEl5UG9NaWZsOVA2Z09MMWhpdHlkUHlqLWJ6RXVfWlhzRVdfZ2pLaF9xNG1GbkdhUVQ3eWRoRlU?oc=5",
+   "pubDate": "Fri, 13 Nov 2026 18:35:00 GMT",
+   "source": "AL.com"
   },
   {
    "title": "AeroVironment Secures $940M Deal to Supply US Defense Forces - The Defense Post",
