@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-11-13T21:23:23.621415+00:00",
+ "generatedAt": "2026-11-13T21:29:14.857979+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -392,8 +392,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.08,
-    "changePct": 0.0
+    "price": 5.05,
+    "changePct": -0.59
    },
    "relVol": 0.8,
    "avgVolume": 19797813,
@@ -474,8 +474,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.82,
-    "changePct": 0.53
+    "price": 3.83,
+    "changePct": 0.79
    },
    "relVol": 0.9,
    "avgVolume": 4774899,
@@ -638,8 +638,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.11,
-    "changePct": -0.97
+    "price": 5.12,
+    "changePct": -0.78
    },
    "relVol": 1.0,
    "avgVolume": 47607417,
@@ -720,8 +720,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.65,
-    "changePct": -1.03
+    "price": 7.73,
+    "changePct": 0.0
    },
    "relVol": 0.9,
    "avgVolume": 12086492,
@@ -884,8 +884,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 34.11,
-    "changePct": 0.58
+    "price": 34.0,
+    "changePct": 0.27
    },
    "relVol": 1.2,
    "avgVolume": 4330411,
@@ -916,12 +916,6 @@ window.DASHBOARD_DATA = {
      "source": "Investing.com"
     },
     {
-     "title": "Should You Buy Kratos Defense Stock Before the Valkyrie Orders Show Up? - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWRBZEowVGpGMmhFbTVNcUlMRTV4UVkxZTA2N1pXdVZDdTdJN0JzN1l5UFRObXB3VExWRmZaZURYR0FVVmpVZDhUNmY0ZlFIRG5iVndZUXZWZHgyaVpZbVAwclgweDYwM29IRHBEeTZFSVNaMmtRam5TWFhubUNyVk52VzB5ai1xbjBwYUl4TTFpSkdSdVBLbA?oc=5",
-     "pubDate": "Sat, 17 Oct 2026 07:00:00 GMT",
-     "source": "The Motley Fool"
-    },
-    {
      "title": "Cathie Wood Loads Up on Kratos Defense: ARK ETFs Buy $3M as Pentagon Bets on Autonomous Warfare - Benzinga",
      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYXlleUVIaUFMbkRBSk9yNnlEa3pXZjUxSExmUzNHVEJ6LUJiSDkxenU3X196NUxKQ0Z0NnpBZ3FRZF81Nzd3U2RQaWtPcExxVTRLYjdOaV9oWHZCNUtSaTVUZUN3QUVzWFJYWEVya1VVZ0tybnhjLXphOFBqMGtsMVg4TEVDejE2akFxZWFlRlE5Q2FoSVBSU2hHa2VyQkFKTXJiUk8wekhQd1VRS3JKN3BCbV9TRGNxMzVpaTVXZXYzZGFjNnQ0RUJOeHZ3Q2hBYUhlZjNXbmx6a0REQzZRbllGdEdWRXBl?oc=5",
      "pubDate": "Thu, 12 Nov 2026 15:35:59 GMT",
@@ -932,6 +926,12 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTjE1d3N5NzBGNFkzbUt2ZmhWMWQyY1E4TS1hQmFCTEJMUGp5SlhqMUp2dGlXbjlIQmQtRkpTaU1jbFBrVmxBVUExNm9yMHBxZW4xc2lkN3A1ZU5UUnUxV3JxanN3SmJoUWZqQktHUDh3M24xdERLdmZvV0RWT1JxU1dLZWtyd242ZVFRd2c1OU5lWERnMUFUSlcwcXJvWGdCYWQwbHB0Qzc?oc=5",
      "pubDate": "Sat, 07 Nov 2026 13:00:00 GMT",
      "source": "Seeking Alpha"
+    },
+    {
+     "title": "ARK Invest Adds $3M of Kratos Stock as Defense Contractor Guides to 18-22% Growth in 2027 - BigGo Finance",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VNHpzNWpkNWpkUXZCS1FtR0VjN29YS0hZVEdnMWhjYzhINFk2LW9nRkVHOHdMQmpxOHdyTzFOLWtGQVR3VkEyNl92Z1lqSTItX1JnaDZtRURZZEZodlNGUDVUZDlyd3VGLTM4SnhNY0hHSFNfV3c?oc=5",
+     "pubDate": "Thu, 12 Nov 2026 18:15:00 GMT",
+     "source": "BigGo Finance"
     }
    ]
   },
@@ -966,8 +966,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 60.67,
-    "changePct": -1.4
+    "price": 60.62,
+    "changePct": -1.48
    },
    "relVol": 0.6,
    "avgVolume": 21145198,
@@ -1048,8 +1048,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 12.88,
-    "changePct": -0.92
+    "price": 12.86,
+    "changePct": -1.08
    },
    "relVol": 0.7,
    "avgVolume": 15460043,
@@ -1686,8 +1686,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 166.1,
-    "changePct": -1.13
+    "price": 166.3,
+    "changePct": -1.01
    },
    "relVol": 1.0,
    "avgVolume": 14309996,
@@ -1762,8 +1762,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 130.53,
-    "changePct": 0.0
+    "price": 130.43,
+    "changePct": -0.08
    },
    "relVol": 1.3,
    "avgVolume": 644703,
@@ -2370,8 +2370,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 171.0,
-    "changePct": -0.29
+    "price": 170.66,
+    "changePct": -0.49
    },
    "relVol": 0.8,
    "avgVolume": 6582447,
@@ -2598,7 +2598,7 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 272.56,
+    "price": 272.58,
     "changePct": 0.08
    },
    "relVol": 1.0,
@@ -2750,8 +2750,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 220.82,
-    "changePct": 0.0
+    "price": 220.37,
+    "changePct": -0.2
    },
    "relVol": 0.7,
    "avgVolume": 2729972,
@@ -2902,8 +2902,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 363.46,
-    "changePct": 0.0
+    "price": 362.07,
+    "changePct": -0.38
    },
    "relVol": 1.0,
    "avgVolume": 754018,
@@ -3499,8 +3499,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.08,
-    "changePct": 0.0
+    "price": 5.05,
+    "changePct": -0.59
    },
    "relVol": 0.8,
    "avgVolume": 19797813,
@@ -3581,8 +3581,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.82,
-    "changePct": 0.53
+    "price": 3.83,
+    "changePct": 0.79
    },
    "relVol": 0.9,
    "avgVolume": 4774899,
@@ -3745,8 +3745,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 5.11,
-    "changePct": -0.97
+    "price": 5.12,
+    "changePct": -0.78
    },
    "relVol": 1.0,
    "avgVolume": 47607417,
@@ -3827,8 +3827,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 7.65,
-    "changePct": -1.03
+    "price": 7.73,
+    "changePct": 0.0
    },
    "relVol": 0.9,
    "avgVolume": 12086492,
@@ -3991,8 +3991,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 34.11,
-    "changePct": 0.58
+    "price": 34.0,
+    "changePct": 0.27
    },
    "relVol": 1.2,
    "avgVolume": 4330411,
@@ -4023,12 +4023,6 @@ window.DASHBOARD_DATA = {
      "source": "Investing.com"
     },
     {
-     "title": "Should You Buy Kratos Defense Stock Before the Valkyrie Orders Show Up? - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWRBZEowVGpGMmhFbTVNcUlMRTV4UVkxZTA2N1pXdVZDdTdJN0JzN1l5UFRObXB3VExWRmZaZURYR0FVVmpVZDhUNmY0ZlFIRG5iVndZUXZWZHgyaVpZbVAwclgweDYwM29IRHBEeTZFSVNaMmtRam5TWFhubUNyVk52VzB5ai1xbjBwYUl4TTFpSkdSdVBLbA?oc=5",
-     "pubDate": "Sat, 17 Oct 2026 07:00:00 GMT",
-     "source": "The Motley Fool"
-    },
-    {
      "title": "Cathie Wood Loads Up on Kratos Defense: ARK ETFs Buy $3M as Pentagon Bets on Autonomous Warfare - Benzinga",
      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYXlleUVIaUFMbkRBSk9yNnlEa3pXZjUxSExmUzNHVEJ6LUJiSDkxenU3X196NUxKQ0Z0NnpBZ3FRZF81Nzd3U2RQaWtPcExxVTRLYjdOaV9oWHZCNUtSaTVUZUN3QUVzWFJYWEVya1VVZ0tybnhjLXphOFBqMGtsMVg4TEVDejE2akFxZWFlRlE5Q2FoSVBSU2hHa2VyQkFKTXJiUk8wekhQd1VRS3JKN3BCbV9TRGNxMzVpaTVXZXYzZGFjNnQ0RUJOeHZ3Q2hBYUhlZjNXbmx6a0REQzZRbllGdEdWRXBl?oc=5",
      "pubDate": "Thu, 12 Nov 2026 15:35:59 GMT",
@@ -4039,6 +4033,12 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTjE1d3N5NzBGNFkzbUt2ZmhWMWQyY1E4TS1hQmFCTEJMUGp5SlhqMUp2dGlXbjlIQmQtRkpTaU1jbFBrVmxBVUExNm9yMHBxZW4xc2lkN3A1ZU5UUnUxV3JxanN3SmJoUWZqQktHUDh3M24xdERLdmZvV0RWT1JxU1dLZWtyd242ZVFRd2c1OU5lWERnMUFUSlcwcXJvWGdCYWQwbHB0Qzc?oc=5",
      "pubDate": "Sat, 07 Nov 2026 13:00:00 GMT",
      "source": "Seeking Alpha"
+    },
+    {
+     "title": "ARK Invest Adds $3M of Kratos Stock as Defense Contractor Guides to 18-22% Growth in 2027 - BigGo Finance",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VNHpzNWpkNWpkUXZCS1FtR0VjN29YS0hZVEdnMWhjYzhINFk2LW9nRkVHOHdMQmpxOHdyTzFOLWtGQVR3VkEyNl92Z1lqSTItX1JnaDZtRURZZEZodlNGUDVUZDlyd3VGLTM4SnhNY0hHSFNfV3c?oc=5",
+     "pubDate": "Thu, 12 Nov 2026 18:15:00 GMT",
+     "source": "BigGo Finance"
     }
    ]
   },
@@ -4073,8 +4073,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 60.67,
-    "changePct": -1.4
+    "price": 60.62,
+    "changePct": -1.48
    },
    "relVol": 0.6,
    "avgVolume": 21145198,
@@ -4155,8 +4155,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 12.88,
-    "changePct": -0.92
+    "price": 12.86,
+    "changePct": -1.08
    },
    "relVol": 0.7,
    "avgVolume": 15460043,
