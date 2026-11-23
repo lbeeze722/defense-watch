@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-11-23T21:22:23.096989+00:00",
+ "generatedAt": "2026-11-23T21:28:08.149912+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -205,7 +205,11 @@ window.DASHBOARD_DATA = {
     71.54,
     71.63
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 71.63,
+    "changePct": 0.0
+   },
    "relVol": 3.0,
    "avgVolume": 207328,
    "symbol": "VVX",
@@ -247,10 +251,10 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "V2X Expands Collaboration with Microsoft to Advance the Next Generation of AI-Powered Mission Operations - Quantisnow",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdEN0WHd4OE5HTC12eU9oRHFWMWxydmQ5cXlYWlh6SWwtbVJCZU9tWTNnRmZJWXJYZThUQzc5Qk93SkZWNnFKemhrWEUzZWxzYVgzSzdXQTBsb1pNdzRkZHhVQ3JWRXE2TkxaVTVPZGRmbVM5dHBMU2xyLXgxSnduQWRPb1FXWXhnck5oaFNvdl95dmNROHpfTFVsSTJmX0MwM1ZrTzBid1ZxeUN2NjM0ZERqSXg?oc=5",
-     "pubDate": "Mon, 23 Nov 2026 12:30:42 GMT",
-     "source": "Quantisnow"
+     "title": "V2X (NYSE:VVX) Shares Gap Down on Analyst Downgrade - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY2VqR0dzYU1PWTdHdkVUb3dBQWpldXliMWJ0MEVOQmlodUUyYml6b1YyTHFZaHk3TEpuTkJZclJxaURNV3BoYW04NUpqTnpLMW5JVXVWNElyMHFUNThOXzFaTEt2akRuOS0wSFdweHpIRW5ncndWaWRzU1B4ZzRVcHZMa3J0NGZqZmtyNlVVb1dTcW1IekdNU2xibHZDTUlYbHlDNXpXckJrcUYwQ3c?oc=5",
+     "pubDate": "Mon, 23 Nov 2026 15:31:36 GMT",
+     "source": "MarketBeat"
     }
    ]
   },
@@ -317,22 +321,22 @@ window.DASHBOARD_DATA = {
      "source": "StockInvest.us"
     },
     {
-     "title": "KULR - KULR Technology Group Inc Stock Price and Quote - Finviz",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBUVndqVmxXYXRRU0l6bm45UkhoRmI5MVY2V3M1TzlncjlLamI1aFdaMXVINk5qcUVyUEJSeDFiNl9RR1I1T2c?oc=5",
-     "pubDate": "Tue, 26 May 2026 15:31:02 GMT",
-     "source": "Finviz"
+     "title": "Why Is KULR Technology Group Stock Gaining Tuesday? - Benzinga",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc0hhU1Q3YlNRX0Q1NzhUd2cwTUlPbDMydDNUYVE0anZSUHpkSXhFNlNqbDVGeFpDaU9WNmRNX2dMRUtOR3VlZ28wX2RiM2hVWGMzcjNFRF9CcTI3N3Z5X3lJTlc3QVdpbDZ6b2EtMlIwOUFacWk4VTU3WUc2NVBZWEJsS2hlcnIxbGVSQ0txZGl4LUZxSlk1T0ZoQVJDaUxOS1FPNzdlYmhqV3M?oc=5",
+     "pubDate": "Tue, 10 Nov 2026 08:00:00 GMT",
+     "source": "Benzinga"
     },
     {
-     "title": "KULR Technology: Cash Buys Time, Not Execution (NYSE:KULR) - Seeking Alpha",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbTYyT3pScmZWTlFZU05mYXBVWlR0bGd3bmszRUVOR2Z2ZU5kc1FaVE5SeE5FelNleXRYUzVTMjVmTmNKSFJxR0Z1cTU0Mkh6ZTdOYjl1cU5qNTlxSlQxN252OFo4V0FSNXFFaW5RSF82YjUwRGlwNDg1dlN1ZmNZcUxLSmRQbFE5S2d3Uzdn?oc=5",
-     "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT",
-     "source": "Seeking Alpha"
+     "title": "KULR Technology Group (KULR) Institutional Ownership 2026 - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcGhBcnE2c2RMU242YVVoV0hINThSaER4c2FRb1dSRGNKbGpuQkhKejdNVzBlcUgxaUM4bHJCd2pWTndBdjVDR1BwbW1xRnM2aDhseDk0cy11dUU1b0VZWktNVmw4LXBKOExFdS1PenhLN0hfcGxKQVJDNmlrZHlFb1dR?oc=5",
+     "pubDate": "Fri, 20 Nov 2026 08:00:00 GMT",
+     "source": "MarketBeat"
     },
     {
-     "title": "Tesla's battery installation in Japan began operating in November. KULR expects part of its order to ship in 2027. - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWTFnc1c0NDVxQ3VjY0JjZXpZVm5wX2tWMUg0M2VheElVSGo1UTRPbkloQWdxOC1hdEoyNzlWRk1YdnBDTGFMMTZCN2x3Qlgyd2hwbDdNUEVzMTdVdjhGWWVlVEU3S0ZGdTZudmVzdThzOUVhWW1BV2IyZ2F6Y2RqY3hOVUw4TUhoblRzTWlKQ1YyTE9wbEg5SEp4Vy1WU25SY0FlLUw1N1hlZUZtd3BRTGhFQkl1TVJtZGdoQw?oc=5",
-     "pubDate": "Thu, 19 Nov 2026 13:00:00 GMT",
-     "source": "Stock Titan"
+     "title": "KULR: KULR Technology Group Inc. filed SEC Form 8-K: Results of... - Quantisnow",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR1FjcDVfWVdSNFQ0ZDRpbVdQNXpnRXFMTERjTlgwOXBRQzdldFFUTE9uUDRzbXhra1ZxbExOajVhZVlTdW1EVVZ2ZnBDdVJjOUNZNjhHZWt0M0VJYUVjNkpwenpZbE9Cb2FnQ0NSVGpfM3NXdlJ5aGJHMExGSlRfQzdWc1FocUJETl9RY1F5ak9RTl9fLTI4T3dBTGlMR0E?oc=5",
+     "pubDate": "Tue, 10 Nov 2026 08:00:00 GMT",
+     "source": "Quantisnow"
     }
    ]
   },
@@ -399,6 +403,12 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "A director\u2019s firm received 3,941 fully vested restricted shares from Unusual Machines (UMAC). - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON3NwU1BObGRUbGJrZU80OXlWNTlBOUhxT0lwNlpDVDdJZ1JHZTNYWExsTW1IemtPRVZ0MklZaXZaSXlGZmZlSlo0LVRsWTRmTEx6UlJLa1lDNUNFZTR2T3doWm5WUlAtVDhabkhHblZ0WnZ4TDI3TnFjVzd1b0J6YUpaNC1WNldlZU12YkxWd2xaOG8xYkx5aVhRa0wzWjlwVlVVNDFRbGRCaWs3am9Fa3RxcjM?oc=5",
+     "pubDate": "Mon, 23 Nov 2026 21:11:02 GMT",
+     "source": "Stock Titan"
+    },
+    {
      "title": "Why is Unusual Machines stock climbing today? - Investing.com",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTA2RFcxS2MycFBVdERySHdqM3hLOXJ1SlhhY29feHA2X3VKcTRzUjE5dXlIQ19YcEJObWZBTGNLLW5TZUJfVEliTXZNQm81RHA0eFhyTFI4YTZmLURBTjNUYnBkeU9OR2stdVNWMzFMOXdmaDJDZVVIdWxoU0pEdVpNMng1eXh6TF81RjhNc2JEYk9udjZCRC1Majk0X2o1ZmhvRFZJN0l3UQ?oc=5",
      "pubDate": "Thu, 19 Nov 2026 13:59:05 GMT",
@@ -409,12 +419,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObktEbDlib1VnODZOLWk5dHl4Y1puM3FPSjJxN25jWFQ3RldrRFRRWlgteGdkYXFCSkw2QU5TalpOSjJzbGo5WTY0OURtbVY4Zl9fYmEyZjZMQzNPUGphQkdEVHdnVzFTejI5WmJqbGREc3ZTbnR5MGFSY2xEaDJpZGdmdWU3UnFva1B0Mks5bW9kNjQ?oc=5",
      "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
      "source": "The Motley Fool"
-    },
-    {
-     "title": "Oppenheimer initiated coverage on Unusual Machines with a new price target - Quantisnow",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTGUyM0tUWjBvRi00a3RTQ2JBRU9xOWhiV1hlZGd3TjJ3bjhQOHU5UTY2aUFKci05TGgzU0QtY0U3YkxxYXduLTVHRXVnNFMxa3dWY0plaDRyb0FQeGU0TTUxRUNmQTlIMml3UXRtR1g0YV9fZUthdGMxcW94SHlGcUxaVDdxM0syWEZVN011WHdwSklJdkw0bkFZNi1KMDRIY094bTRNMk5HQnNRT3ZR?oc=5",
-     "pubDate": "Thu, 19 Nov 2026 14:55:11 GMT",
-     "source": "Quantisnow"
     }
    ]
   },
@@ -532,7 +536,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 4.06,
-    "changePct": 0.73
+    "changePct": 0.74
    },
    "relVol": 1.2,
    "avgVolume": 36515537,
@@ -614,7 +618,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 3.11,
-    "changePct": 1.25
+    "changePct": 1.3
    },
    "relVol": 0.7,
    "avgVolume": 31878756,
@@ -639,28 +643,28 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "Archer\u2019s Anduril Drone Begins Full-Scale Flight Tests in 2027. Here\u2019s Why Defense Could Be Worth More Than Air Taxis. - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWnR4YXZyYzFNZ2d2WHg0VFJ3SkRWbXI5ckdhb2NFcnA5TjlIZDhoRkVmUXliSnQ2TGdlTUk2UHlsVnE1OVB0UHRlSjVOLWtiTjh5RFZvanprT21iT2YtZFc5cnd5X3NVTUlKLXZZYldNMjc1ckpUVDU2Ync0b3NJVU1yejdBTnZ2N1hXYzR2VlVmb21XeENPZEF4SldxMkFGbUJtY2J3WFM4NDM1dHgwa2FUdkhidWNSbTlqMGNlT2ZZXzRXQUQ1X0pnMU5FUU1hQ3F5VndzalJrWnphQ3JKLTlZa1VkSnZaSEpESA?oc=5",
-     "pubDate": "Sun, 22 Nov 2026 18:15:01 GMT",
-     "source": "The Motley Fool"
-    },
-    {
      "title": "Archer, Joby, and Vertical Aerospace Stocks Rally as Tech Rebound Lifts eVTOL Shares - TipRanks",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFhnU3hTeFdvc3RrSDhRRGJEUVRpRXVOaFhkaXdKRTJUR3RzbVlraFVrTGo5bXB2VHlCRmFQV0RiQ1RPMkI1cDFMNXd0enBuVG9mU0ZuRlg5cUpGSERURW9WRkZkU2pJRy00NGpKaGY5YmdnRUxIY2hYQ2R5bGRYVEY1M1hhbE9TYVhkUXBWcUtYUGpTU2RRVkJYdldFa19ZVG43bVZHQmtxWVQyMlFHWHNB?oc=5",
      "pubDate": "Mon, 23 Nov 2026 10:03:33 GMT",
      "source": "TipRanks"
     },
     {
-     "title": "Archer Aviation Trades Near $4. Could a $5,000 Investment Set You Up for Life? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjMwdHIwVk43NmQ1V081QlJaWXYxWEE5OHl3Ym5rR3d1cnpDd0g1UTM1VVJoWHg5YnVhOExSNXQ4cWhVc2hPMFpOS0Zrc2lfcDE3OVlLS1ZLeVdPRmY0Qlo2VkVBR21IMGI3N3FyWHI3TXVZakFZS1RvaE5GajlUS2JDR1V3RV9uX295eFZvWThIcmJjYi1iR1NB?oc=5",
-     "pubDate": "Fri, 20 Nov 2026 19:50:02 GMT",
-     "source": "Yahoo Finance"
+     "title": "Archer Aviation Trades Near $4. Could a $5,000 Investment Set You Up for Life? - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU3dtUlZyR2plblB0bGVPTS1NeEtQX0NtX080bXZqYVFwNlVWemwyd3M2ZmdCZk1ON2xKci1FVlFXbEpnTFloek41MkNpOVY2SmZLMnUtdVU1LW53dHM2bW1Ma29YTDZrdF9oVUNFQ2tLbzFVd0pyd2NLVnpDOEp4ZTg5SkRXRTM4a3hyOHRMcFV4UTlHRlJPaFFCNDVwc1lyVjlCeWd6bmZBeHNUOHc?oc=5",
+     "pubDate": "Fri, 20 Nov 2026 19:30:02 GMT",
+     "source": "The Motley Fool"
     },
     {
      "title": "Archer Aviation Tumbles 8%, Breaks Below $3 as Air Taxi Rout Rolls On; EHang Slides 6%, Joby Aviation Drops 3% - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTZxaGtHeV9CN0tDa3ZfRWstenFYanVqTnJsUjIxUTJNaTRkaEhvQWtrTk1EY280SlFzTUZXN09KdDlhMWJiaFVzb0V0cWNNOHBJN0oxOWViSzgydDUtclVWVGZYc3VmNTNNLWJ0RkZOeF9qakxvMnlxcXZ4X0lyODFwQWsyeE43UFdqVEFuUHl4em5aVXF1QzJ6MGxfdw?oc=5",
      "pubDate": "Fri, 20 Nov 2026 17:54:03 GMT",
      "source": "Yahoo Finance"
+    },
+    {
+     "title": "Joby Aviation Falls 6% as Air Taxi Selloff Deepens; Archer Aviation Drops 4%, EHang Slides 2% - 24/7 Wall St.",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMi1tTHREZVZyalM5bERxb0hzcG53QTNNOGlDeG44WXFOY2VUS20yWElDNmlkeFdIRzBvOEFzT0liNThuSUpkcm1qR0lKclJfR0hnV2Q5eEJXUk0yWjJ2UzN6Q3VRVXVHNG1HNDJfSHFyLWRsTkF0WnN4LWJsalpINVRWZXRHa3pmZ0JtNTVWU05HQTYtV3ZBTml1aURMekZvRWRLNjIyMlpRMjhQd1h4bDNJTkhkcXlfOWRvalEyR1l6Y0t3eTF1am1vYk4?oc=5",
+     "pubDate": "Tue, 17 Nov 2026 17:04:00 GMT",
+     "source": "24/7 Wall St."
     }
    ]
   },
@@ -777,8 +781,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 159.55,
-    "changePct": 0.12
+    "price": 160.0,
+    "changePct": 0.4
    },
    "relVol": 1.7,
    "avgVolume": 18280245,
@@ -815,16 +819,16 @@ window.DASHBOARD_DATA = {
      "source": "TipRanks"
     },
     {
+     "title": "Palantir Technologies jumps 11% as broad market advances (PLTR:NASDAQ) - Seeking Alpha",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUVybGtvQnJDTHRWNkhHV1YxbWhhS3FnSVZrb1BmNVlOQmY2dmtkUkNuWm1CbVpRY0VsLWdtQkcwRERQN196dExCWGtpa3BoSi1nVnA4TlA4ellMQ2t0S3pRX1NOc1RWZHhoRmpNVWx3VllfTVR0MlBpUThUY2FOUkNsSTJ3cUtaQmJKcDZ2V1hzR29KMHFTLUtlUG4tR2RuUFlz?oc=5",
+     "pubDate": "Mon, 23 Nov 2026 21:19:15 GMT",
+     "source": "Seeking Alpha"
+    },
+    {
      "title": "Anthropic Stock\u2014The Bull, Base And Bear Case Into Nasdaq-100 Entry - Benzinga",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONXg2aFNlZXhJN3hyZDdueGxDUDZrQm4yYjc4RmJmTXVkRUdQTFJWeE8tRnlKS2g1X20yTUFpVmhaaVV3dVFYRE1yQXhyWEZLcHJ0T24wekh3RFlqV2drZnZ1SUpZWS1UVzFhaXBmNGh5Tlh5WVQta2FtSzNfanRNcGxITElIWjVoQnF1S3lpRWNDRVV0dlFJVURkTGdSTDhJem83NEdhN2tjSmYtVGx3ZlRZYw?oc=5",
      "pubDate": "Fri, 20 Nov 2026 21:15:56 GMT",
      "source": "Benzinga"
-    },
-    {
-     "title": "Cathie Wood's Ark Has Been Selling Palantir Stock. Under $160, I'd Buy It Now. - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPanRnTUJXWHhlNGdRSEZ1NWsyWFZTZ1hBSHpGV2RlejY3VGVHbUdOYWVuS1pqODhFRWJrbk9IT1dSTExzSW9senhQZnl6ckprQTltUEk3NFdxUnN5QThEUkNMMVc0UEZrbEJEcWM1aGtNY1I2UlNqeHhWY1ljR2VFV1R6T2Fmd01rc0o1emtjQ1BfSks3VktBbTVPNDlDT1lOQmRCVUdwbWE1YkhjclZQYjc3QTFia09NWUljNw?oc=5",
-     "pubDate": "Fri, 20 Nov 2026 13:44:02 GMT",
-     "source": "The Motley Fool"
     }
    ]
   },
@@ -941,8 +945,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 49.42,
-    "changePct": -0.42
+    "price": 49.57,
+    "changePct": -0.12
    },
    "relVol": 1.3,
    "avgVolume": 14272248,
@@ -1017,8 +1021,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 1.94,
-    "changePct": 2.65
+    "price": 1.95,
+    "changePct": 3.1
    },
    "relVol": 0.7,
    "avgVolume": 16436207,
@@ -1221,7 +1225,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 3.89,
-    "changePct": 0.93
+    "changePct": 1.02
    },
    "relVol": 1.1,
    "avgVolume": 23028305,
@@ -1677,7 +1681,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 6.49,
-    "changePct": 1.09
+    "changePct": 1.07
    },
    "relVol": 1.0,
    "avgVolume": 13750523,
@@ -1904,8 +1908,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 162.71,
-    "changePct": 0.2
+    "price": 162.96,
+    "changePct": 0.35
    },
    "relVol": 0.8,
    "avgVolume": 9245483,
@@ -2434,7 +2438,11 @@ window.DASHBOARD_DATA = {
     81.52,
     81.53
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 81.48,
+    "changePct": -0.06
+   },
    "relVol": 1.0,
    "avgVolume": 1761002,
    "symbol": "TXT",
@@ -2656,8 +2664,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.82,
-    "changePct": 0.76
+    "price": 9.86,
+    "changePct": 1.13
    },
    "relVol": 1.2,
    "avgVolume": 8923980,
@@ -3032,8 +3040,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 574.2,
-    "changePct": 0.44
+    "price": 571.67,
+    "changePct": 0.0
    },
    "relVol": 1.3,
    "avgVolume": 668222,
@@ -3108,8 +3116,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 542.14,
-    "changePct": 0.0
+    "price": 542.8,
+    "changePct": 0.12
    },
    "relVol": 1.0,
    "avgVolume": 637313,
@@ -3182,7 +3190,11 @@ window.DASHBOARD_DATA = {
     286.76,
     286.57
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 286.57,
+    "changePct": 0.0
+   },
    "relVol": 1.0,
    "avgVolume": 308336,
    "symbol": "HII",
@@ -3256,7 +3268,11 @@ window.DASHBOARD_DATA = {
     71.54,
     71.63
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 71.63,
+    "changePct": 0.0
+   },
    "relVol": 3.0,
    "avgVolume": 207328,
    "symbol": "VVX",
@@ -3298,10 +3314,10 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "V2X Expands Collaboration with Microsoft to Advance the Next Generation of AI-Powered Mission Operations - Quantisnow",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdEN0WHd4OE5HTC12eU9oRHFWMWxydmQ5cXlYWlh6SWwtbVJCZU9tWTNnRmZJWXJYZThUQzc5Qk93SkZWNnFKemhrWEUzZWxzYVgzSzdXQTBsb1pNdzRkZHhVQ3JWRXE2TkxaVTVPZGRmbVM5dHBMU2xyLXgxSnduQWRPb1FXWXhnck5oaFNvdl95dmNROHpfTFVsSTJmX0MwM1ZrTzBid1ZxeUN2NjM0ZERqSXg?oc=5",
-     "pubDate": "Mon, 23 Nov 2026 12:30:42 GMT",
-     "source": "Quantisnow"
+     "title": "V2X (NYSE:VVX) Shares Gap Down on Analyst Downgrade - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY2VqR0dzYU1PWTdHdkVUb3dBQWpldXliMWJ0MEVOQmlodUUyYml6b1YyTHFZaHk3TEpuTkJZclJxaURNV3BoYW04NUpqTnpLMW5JVXVWNElyMHFUNThOXzFaTEt2akRuOS0wSFdweHpIRW5ncndWaWRzU1B4ZzRVcHZMa3J0NGZqZmtyNlVVb1dTcW1IekdNU2xibHZDTUlYbHlDNXpXckJrcUYwQ3c?oc=5",
+     "pubDate": "Mon, 23 Nov 2026 15:31:36 GMT",
+     "source": "MarketBeat"
     }
    ]
   },
@@ -3368,22 +3384,22 @@ window.DASHBOARD_DATA = {
      "source": "StockInvest.us"
     },
     {
-     "title": "KULR - KULR Technology Group Inc Stock Price and Quote - Finviz",
-     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBUVndqVmxXYXRRU0l6bm45UkhoRmI5MVY2V3M1TzlncjlLamI1aFdaMXVINk5qcUVyUEJSeDFiNl9RR1I1T2c?oc=5",
-     "pubDate": "Tue, 26 May 2026 15:31:02 GMT",
-     "source": "Finviz"
+     "title": "Why Is KULR Technology Group Stock Gaining Tuesday? - Benzinga",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc0hhU1Q3YlNRX0Q1NzhUd2cwTUlPbDMydDNUYVE0anZSUHpkSXhFNlNqbDVGeFpDaU9WNmRNX2dMRUtOR3VlZ28wX2RiM2hVWGMzcjNFRF9CcTI3N3Z5X3lJTlc3QVdpbDZ6b2EtMlIwOUFacWk4VTU3WUc2NVBZWEJsS2hlcnIxbGVSQ0txZGl4LUZxSlk1T0ZoQVJDaUxOS1FPNzdlYmhqV3M?oc=5",
+     "pubDate": "Tue, 10 Nov 2026 08:00:00 GMT",
+     "source": "Benzinga"
     },
     {
-     "title": "KULR Technology: Cash Buys Time, Not Execution (NYSE:KULR) - Seeking Alpha",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbTYyT3pScmZWTlFZU05mYXBVWlR0bGd3bmszRUVOR2Z2ZU5kc1FaVE5SeE5FelNleXRYUzVTMjVmTmNKSFJxR0Z1cTU0Mkh6ZTdOYjl1cU5qNTlxSlQxN252OFo4V0FSNXFFaW5RSF82YjUwRGlwNDg1dlN1ZmNZcUxLSmRQbFE5S2d3Uzdn?oc=5",
-     "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT",
-     "source": "Seeking Alpha"
+     "title": "KULR Technology Group (KULR) Institutional Ownership 2026 - MarketBeat",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcGhBcnE2c2RMU242YVVoV0hINThSaER4c2FRb1dSRGNKbGpuQkhKejdNVzBlcUgxaUM4bHJCd2pWTndBdjVDR1BwbW1xRnM2aDhseDk0cy11dUU1b0VZWktNVmw4LXBKOExFdS1PenhLN0hfcGxKQVJDNmlrZHlFb1dR?oc=5",
+     "pubDate": "Fri, 20 Nov 2026 08:00:00 GMT",
+     "source": "MarketBeat"
     },
     {
-     "title": "Tesla's battery installation in Japan began operating in November. KULR expects part of its order to ship in 2027. - Stock Titan",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWTFnc1c0NDVxQ3VjY0JjZXpZVm5wX2tWMUg0M2VheElVSGo1UTRPbkloQWdxOC1hdEoyNzlWRk1YdnBDTGFMMTZCN2x3Qlgyd2hwbDdNUEVzMTdVdjhGWWVlVEU3S0ZGdTZudmVzdThzOUVhWW1BV2IyZ2F6Y2RqY3hOVUw4TUhoblRzTWlKQ1YyTE9wbEg5SEp4Vy1WU25SY0FlLUw1N1hlZUZtd3BRTGhFQkl1TVJtZGdoQw?oc=5",
-     "pubDate": "Thu, 19 Nov 2026 13:00:00 GMT",
-     "source": "Stock Titan"
+     "title": "KULR: KULR Technology Group Inc. filed SEC Form 8-K: Results of... - Quantisnow",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR1FjcDVfWVdSNFQ0ZDRpbVdQNXpnRXFMTERjTlgwOXBRQzdldFFUTE9uUDRzbXhra1ZxbExOajVhZVlTdW1EVVZ2ZnBDdVJjOUNZNjhHZWt0M0VJYUVjNkpwenpZbE9Cb2FnQ0NSVGpfM3NXdlJ5aGJHMExGSlRfQzdWc1FocUJETl9RY1F5ak9RTl9fLTI4T3dBTGlMR0E?oc=5",
+     "pubDate": "Tue, 10 Nov 2026 08:00:00 GMT",
+     "source": "Quantisnow"
     }
    ]
   },
@@ -3450,6 +3466,12 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "A director\u2019s firm received 3,941 fully vested restricted shares from Unusual Machines (UMAC). - Stock Titan",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON3NwU1BObGRUbGJrZU80OXlWNTlBOUhxT0lwNlpDVDdJZ1JHZTNYWExsTW1IemtPRVZ0MklZaXZaSXlGZmZlSlo0LVRsWTRmTEx6UlJLa1lDNUNFZTR2T3doWm5WUlAtVDhabkhHblZ0WnZ4TDI3TnFjVzd1b0J6YUpaNC1WNldlZU12YkxWd2xaOG8xYkx5aVhRa0wzWjlwVlVVNDFRbGRCaWs3am9Fa3RxcjM?oc=5",
+     "pubDate": "Mon, 23 Nov 2026 21:11:02 GMT",
+     "source": "Stock Titan"
+    },
+    {
      "title": "Why is Unusual Machines stock climbing today? - Investing.com",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTA2RFcxS2MycFBVdERySHdqM3hLOXJ1SlhhY29feHA2X3VKcTRzUjE5dXlIQ19YcEJObWZBTGNLLW5TZUJfVEliTXZNQm81RHA0eFhyTFI4YTZmLURBTjNUYnBkeU9OR2stdVNWMzFMOXdmaDJDZVVIdWxoU0pEdVpNMng1eXh6TF81RjhNc2JEYk9udjZCRC1Majk0X2o1ZmhvRFZJN0l3UQ?oc=5",
      "pubDate": "Thu, 19 Nov 2026 13:59:05 GMT",
@@ -3460,12 +3482,6 @@ window.DASHBOARD_DATA = {
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObktEbDlib1VnODZOLWk5dHl4Y1puM3FPSjJxN25jWFQ3RldrRFRRWlgteGdkYXFCSkw2QU5TalpOSjJzbGo5WTY0OURtbVY4Zl9fYmEyZjZMQzNPUGphQkdEVHdnVzFTejI5WmJqbGREc3ZTbnR5MGFSY2xEaDJpZGdmdWU3UnFva1B0Mks5bW9kNjQ?oc=5",
      "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
      "source": "The Motley Fool"
-    },
-    {
-     "title": "Oppenheimer initiated coverage on Unusual Machines with a new price target - Quantisnow",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTGUyM0tUWjBvRi00a3RTQ2JBRU9xOWhiV1hlZGd3TjJ3bjhQOHU5UTY2aUFKci05TGgzU0QtY0U3YkxxYXduLTVHRXVnNFMxa3dWY0plaDRyb0FQeGU0TTUxRUNmQTlIMml3UXRtR1g0YV9fZUthdGMxcW94SHlGcUxaVDdxM0syWEZVN011WHdwSklJdkw0bkFZNi1KMDRIY094bTRNMk5HQnNRT3ZR?oc=5",
-     "pubDate": "Thu, 19 Nov 2026 14:55:11 GMT",
-     "source": "Quantisnow"
     }
    ]
   },
@@ -3583,7 +3599,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 4.06,
-    "changePct": 0.73
+    "changePct": 0.74
    },
    "relVol": 1.2,
    "avgVolume": 36515537,
@@ -3665,7 +3681,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 3.11,
-    "changePct": 1.25
+    "changePct": 1.3
    },
    "relVol": 0.7,
    "avgVolume": 31878756,
@@ -3690,28 +3706,28 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "Archer\u2019s Anduril Drone Begins Full-Scale Flight Tests in 2027. Here\u2019s Why Defense Could Be Worth More Than Air Taxis. - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWnR4YXZyYzFNZ2d2WHg0VFJ3SkRWbXI5ckdhb2NFcnA5TjlIZDhoRkVmUXliSnQ2TGdlTUk2UHlsVnE1OVB0UHRlSjVOLWtiTjh5RFZvanprT21iT2YtZFc5cnd5X3NVTUlKLXZZYldNMjc1ckpUVDU2Ync0b3NJVU1yejdBTnZ2N1hXYzR2VlVmb21XeENPZEF4SldxMkFGbUJtY2J3WFM4NDM1dHgwa2FUdkhidWNSbTlqMGNlT2ZZXzRXQUQ1X0pnMU5FUU1hQ3F5VndzalJrWnphQ3JKLTlZa1VkSnZaSEpESA?oc=5",
-     "pubDate": "Sun, 22 Nov 2026 18:15:01 GMT",
-     "source": "The Motley Fool"
-    },
-    {
      "title": "Archer, Joby, and Vertical Aerospace Stocks Rally as Tech Rebound Lifts eVTOL Shares - TipRanks",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFhnU3hTeFdvc3RrSDhRRGJEUVRpRXVOaFhkaXdKRTJUR3RzbVlraFVrTGo5bXB2VHlCRmFQV0RiQ1RPMkI1cDFMNXd0enBuVG9mU0ZuRlg5cUpGSERURW9WRkZkU2pJRy00NGpKaGY5YmdnRUxIY2hYQ2R5bGRYVEY1M1hhbE9TYVhkUXBWcUtYUGpTU2RRVkJYdldFa19ZVG43bVZHQmtxWVQyMlFHWHNB?oc=5",
      "pubDate": "Mon, 23 Nov 2026 10:03:33 GMT",
      "source": "TipRanks"
     },
     {
-     "title": "Archer Aviation Trades Near $4. Could a $5,000 Investment Set You Up for Life? - Yahoo Finance",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjMwdHIwVk43NmQ1V081QlJaWXYxWEE5OHl3Ym5rR3d1cnpDd0g1UTM1VVJoWHg5YnVhOExSNXQ4cWhVc2hPMFpOS0Zrc2lfcDE3OVlLS1ZLeVdPRmY0Qlo2VkVBR21IMGI3N3FyWHI3TXVZakFZS1RvaE5GajlUS2JDR1V3RV9uX295eFZvWThIcmJjYi1iR1NB?oc=5",
-     "pubDate": "Fri, 20 Nov 2026 19:50:02 GMT",
-     "source": "Yahoo Finance"
+     "title": "Archer Aviation Trades Near $4. Could a $5,000 Investment Set You Up for Life? - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU3dtUlZyR2plblB0bGVPTS1NeEtQX0NtX080bXZqYVFwNlVWemwyd3M2ZmdCZk1ON2xKci1FVlFXbEpnTFloek41MkNpOVY2SmZLMnUtdVU1LW53dHM2bW1Ma29YTDZrdF9oVUNFQ2tLbzFVd0pyd2NLVnpDOEp4ZTg5SkRXRTM4a3hyOHRMcFV4UTlHRlJPaFFCNDVwc1lyVjlCeWd6bmZBeHNUOHc?oc=5",
+     "pubDate": "Fri, 20 Nov 2026 19:30:02 GMT",
+     "source": "The Motley Fool"
     },
     {
      "title": "Archer Aviation Tumbles 8%, Breaks Below $3 as Air Taxi Rout Rolls On; EHang Slides 6%, Joby Aviation Drops 3% - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTZxaGtHeV9CN0tDa3ZfRWstenFYanVqTnJsUjIxUTJNaTRkaEhvQWtrTk1EY280SlFzTUZXN09KdDlhMWJiaFVzb0V0cWNNOHBJN0oxOWViSzgydDUtclVWVGZYc3VmNTNNLWJ0RkZOeF9qakxvMnlxcXZ4X0lyODFwQWsyeE43UFdqVEFuUHl4em5aVXF1QzJ6MGxfdw?oc=5",
      "pubDate": "Fri, 20 Nov 2026 17:54:03 GMT",
      "source": "Yahoo Finance"
+    },
+    {
+     "title": "Joby Aviation Falls 6% as Air Taxi Selloff Deepens; Archer Aviation Drops 4%, EHang Slides 2% - 24/7 Wall St.",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMi1tTHREZVZyalM5bERxb0hzcG53QTNNOGlDeG44WXFOY2VUS20yWElDNmlkeFdIRzBvOEFzT0liNThuSUpkcm1qR0lKclJfR0hnV2Q5eEJXUk0yWjJ2UzN6Q3VRVXVHNG1HNDJfSHFyLWRsTkF0WnN4LWJsalpINVRWZXRHa3pmZ0JtNTVWU05HQTYtV3ZBTml1aURMekZvRWRLNjIyMlpRMjhQd1h4bDNJTkhkcXlfOWRvalEyR1l6Y0t3eTF1am1vYk4?oc=5",
+     "pubDate": "Tue, 17 Nov 2026 17:04:00 GMT",
+     "source": "24/7 Wall St."
     }
    ]
   },
@@ -3828,8 +3844,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 159.55,
-    "changePct": 0.12
+    "price": 160.0,
+    "changePct": 0.4
    },
    "relVol": 1.7,
    "avgVolume": 18280245,
@@ -3866,16 +3882,16 @@ window.DASHBOARD_DATA = {
      "source": "TipRanks"
     },
     {
+     "title": "Palantir Technologies jumps 11% as broad market advances (PLTR:NASDAQ) - Seeking Alpha",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUVybGtvQnJDTHRWNkhHV1YxbWhhS3FnSVZrb1BmNVlOQmY2dmtkUkNuWm1CbVpRY0VsLWdtQkcwRERQN196dExCWGtpa3BoSi1nVnA4TlA4ellMQ2t0S3pRX1NOc1RWZHhoRmpNVWx3VllfTVR0MlBpUThUY2FOUkNsSTJ3cUtaQmJKcDZ2V1hzR29KMHFTLUtlUG4tR2RuUFlz?oc=5",
+     "pubDate": "Mon, 23 Nov 2026 21:19:15 GMT",
+     "source": "Seeking Alpha"
+    },
+    {
      "title": "Anthropic Stock\u2014The Bull, Base And Bear Case Into Nasdaq-100 Entry - Benzinga",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONXg2aFNlZXhJN3hyZDdueGxDUDZrQm4yYjc4RmJmTXVkRUdQTFJWeE8tRnlKS2g1X20yTUFpVmhaaVV3dVFYRE1yQXhyWEZLcHJ0T24wekh3RFlqV2drZnZ1SUpZWS1UVzFhaXBmNGh5Tlh5WVQta2FtSzNfanRNcGxITElIWjVoQnF1S3lpRWNDRVV0dlFJVURkTGdSTDhJem83NEdhN2tjSmYtVGx3ZlRZYw?oc=5",
      "pubDate": "Fri, 20 Nov 2026 21:15:56 GMT",
      "source": "Benzinga"
-    },
-    {
-     "title": "Cathie Wood's Ark Has Been Selling Palantir Stock. Under $160, I'd Buy It Now. - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPanRnTUJXWHhlNGdRSEZ1NWsyWFZTZ1hBSHpGV2RlejY3VGVHbUdOYWVuS1pqODhFRWJrbk9IT1dSTExzSW9senhQZnl6ckprQTltUEk3NFdxUnN5QThEUkNMMVc0UEZrbEJEcWM1aGtNY1I2UlNqeHhWY1ljR2VFV1R6T2Fmd01rc0o1emtjQ1BfSks3VktBbTVPNDlDT1lOQmRCVUdwbWE1YkhjclZQYjc3QTFia09NWUljNw?oc=5",
-     "pubDate": "Fri, 20 Nov 2026 13:44:02 GMT",
-     "source": "The Motley Fool"
     }
    ]
   },
@@ -3986,12 +4002,6 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOTUxbHFwbnlIejkyQkZ0bUtQY2hxaE9mdE9rZ00tQlFTYUFvWW9LOFdHNkNnWVUzRzZnQUstQ3JicFpYSHVhMWRYWWZqYldacWFYdzhFbF9jajZGMVpmNHlnZTZ1YzQ2VmJ1RWtudUwtSzhHZTRwemJMbjE4MG93QWZleGd6ZnFHZTNyLXpTS19JdUhDdVZhMUZpaVR0UjRLdmFEcVMtajhObHVJMnZfN0NBLUZoU1BZNHdwWQ?oc=5",
    "pubDate": "Mon, 23 Nov 2026 18:12:40 GMT",
    "source": "The Daily Star"
-  },
-  {
-   "title": "Central Committee of UNLF led by Koireng calls for unity among WESEA revolutionary groups - Imphal Times",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUi1PbjZNenJOd2d2MTV2aDRoWHV5bUZBWUQ4b1J5eFVFMDNNN0t5Tk1EdVlpNnUxcjZBQ3lTWEZEaERFS1NBZ18tSnRjblR5NHBxZnIzWTV5VHRlOWdPb21nS0ltdW9RSWpQby1TNWRUUDNZS0pVNm1aNEdIWnQzMEwzYzFfRkc2RTF5eGc2Q181LXp0bnZINjVEUGhDcDBENU1rMTBONkVfcGkzYlN6Q0FiUzRSREQzMlQxRTRjbWM2eUVLUWfSAcYBQVVfeXFMUFItT242TXpyTndndjE1dmg0aFh1eW1GQVlEOG9SeXhVRTAzTTdLeU5NRHVZaTZ1MXI2QUN5U1hGRGhERUtTQWdfLUp0Y25UeTRwcWZyM1k1eVR0ZTlnT29tZ0tJbXVvUUlqUG8tUzVkVFAzWUtKVTZtWjRHSFp0MzBMM2MxX0ZHNkUxeXhnNkNfNS16dG52SDY1RFBoQ3AwRDVNazEwTjZFX3BpM2JTekNBYlM0UkREMzJUMUU0Y21jNnlFS1Fn?oc=5",
-   "pubDate": "Mon, 23 Nov 2026 11:53:39 GMT",
-   "source": "Imphal Times"
   },
   {
    "title": "Great-Power Accommodation and the Geopolitics of Interdependence - Morocco World News",
@@ -4267,8 +4277,8 @@ window.DASHBOARD_DATA = {
   },
   {
    "title": "USAF $16.1B Advanced Propulsion Contract Names 58 Engine Firms - MiGFlug",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHh0aWhrSnhWZXFtNVNBYzNKTVk3Nm14Y29CTUU1NERrQkl3eW1scEtJTmlUWlgyQ0hzNUVhcTlUN3o2YXRPMnVrTEp0YkdOVXpCWlVnb0FEYldvQWItdU9HLUVoRDdGbjV3YmJZRXdCNUduQzEtcm9qczVrbzJzQmpFRU03LTN0ZGZtQ1VwS3FJYWFNUWhNOURMN0xBdXVRMnc?oc=5",
-   "pubDate": "Sat, 21 Nov 2026 11:53:30 GMT",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXQ2RzRSaEU0X2o3SVdaZnBTVUdOSm5ORlB2M2RYSFRhdUItakFnRmdUZy1EbTZpYmRvMDhCRWZQQjR6N0FhMDUwTzBDWHZ6VVRjd0l0Zi1VVlZpaWlQMlBITGZlRzAzM1E0eDFWWS15RldlTlVzTXdBQktLQ1pZRGUzYV9ndVlnWjZhMUloR1RxRy1tRE1jSUpSSTFvMmdFR1E?oc=5",
+   "pubDate": "Sat, 21 Nov 2026 11:54:01 GMT",
    "source": "MiGFlug"
   },
   {
