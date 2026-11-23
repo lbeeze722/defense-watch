@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-11-23T21:05:25.561752+00:00",
+ "generatedAt": "2026-11-23T21:11:11.405069+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -246,10 +246,10 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "V2X (VVX) Stock Price, News & Analysis $VVX - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ScGFIYVpiQmtBQkRxWHBGelF1ejlUUU9GUFlUOGN6WUpNaFRrMDhkLTI5dV85QkptMUk5am5WODlxOWFVakliSlJmeVJvSXlIczJQRDZB?oc=5",
-     "pubDate": "Fri, 20 Nov 2026 08:00:00 GMT",
-     "source": "MarketBeat"
+     "title": "V2X Expands Collaboration with Microsoft to Advance the Next Generation of AI-Powered Mission Operations - Quantisnow",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdEN0WHd4OE5HTC12eU9oRHFWMWxydmQ5cXlYWlh6SWwtbVJCZU9tWTNnRmZJWXJYZThUQzc5Qk93SkZWNnFKemhrWEUzZWxzYVgzSzdXQTBsb1pNdzRkZHhVQ3JWRXE2TkxaVTVPZGRmbVM5dHBMU2xyLXgxSnduQWRPb1FXWXhnck5oaFNvdl95dmNROHpfTFVsSTJmX0MwM1ZrTzBid1ZxeUN2NjM0ZERqSXg?oc=5",
+     "pubDate": "Mon, 23 Nov 2026 12:30:42 GMT",
+     "source": "Quantisnow"
     }
    ]
   },
@@ -520,8 +520,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.03,
-    "changePct": 0.0
+    "price": 4.07,
+    "changePct": 0.99
    },
    "relVol": 1.2,
    "avgVolume": 36515537,
@@ -602,8 +602,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.09,
-    "changePct": 0.82
+    "price": 3.08,
+    "changePct": 0.59
    },
    "relVol": 0.7,
    "avgVolume": 31878756,
@@ -628,28 +628,28 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "Archer\u2019s Anduril Drone Begins Full-Scale Flight Tests in 2027. Here\u2019s Why Defense Could Be Worth More Than Air Taxis. - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWnR4YXZyYzFNZ2d2WHg0VFJ3SkRWbXI5ckdhb2NFcnA5TjlIZDhoRkVmUXliSnQ2TGdlTUk2UHlsVnE1OVB0UHRlSjVOLWtiTjh5RFZvanprT21iT2YtZFc5cnd5X3NVTUlKLXZZYldNMjc1ckpUVDU2Ync0b3NJVU1yejdBTnZ2N1hXYzR2VlVmb21XeENPZEF4SldxMkFGbUJtY2J3WFM4NDM1dHgwa2FUdkhidWNSbTlqMGNlT2ZZXzRXQUQ1X0pnMU5FUU1hQ3F5VndzalJrWnphQ3JKLTlZa1VkSnZaSEpESA?oc=5",
+     "pubDate": "Sun, 22 Nov 2026 18:15:01 GMT",
+     "source": "The Motley Fool"
+    },
+    {
      "title": "Archer, Joby, and Vertical Aerospace Stocks Rally as Tech Rebound Lifts eVTOL Shares - TipRanks",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFhnU3hTeFdvc3RrSDhRRGJEUVRpRXVOaFhkaXdKRTJUR3RzbVlraFVrTGo5bXB2VHlCRmFQV0RiQ1RPMkI1cDFMNXd0enBuVG9mU0ZuRlg5cUpGSERURW9WRkZkU2pJRy00NGpKaGY5YmdnRUxIY2hYQ2R5bGRYVEY1M1hhbE9TYVhkUXBWcUtYUGpTU2RRVkJYdldFa19ZVG43bVZHQmtxWVQyMlFHWHNB?oc=5",
      "pubDate": "Mon, 23 Nov 2026 10:03:33 GMT",
      "source": "TipRanks"
     },
     {
-     "title": "Archer Aviation Trades Near $4. Could a $5,000 Investment Set You Up for Life? - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU3dtUlZyR2plblB0bGVPTS1NeEtQX0NtX080bXZqYVFwNlVWemwyd3M2ZmdCZk1ON2xKci1FVlFXbEpnTFloek41MkNpOVY2SmZLMnUtdVU1LW53dHM2bW1Ma29YTDZrdF9oVUNFQ2tLbzFVd0pyd2NLVnpDOEp4ZTg5SkRXRTM4a3hyOHRMcFV4UTlHRlJPaFFCNDVwc1lyVjlCeWd6bmZBeHNUOHc?oc=5",
-     "pubDate": "Fri, 20 Nov 2026 19:30:02 GMT",
-     "source": "The Motley Fool"
+     "title": "Archer Aviation Trades Near $4. Could a $5,000 Investment Set You Up for Life? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjMwdHIwVk43NmQ1V081QlJaWXYxWEE5OHl3Ym5rR3d1cnpDd0g1UTM1VVJoWHg5YnVhOExSNXQ4cWhVc2hPMFpOS0Zrc2lfcDE3OVlLS1ZLeVdPRmY0Qlo2VkVBR21IMGI3N3FyWHI3TXVZakFZS1RvaE5GajlUS2JDR1V3RV9uX295eFZvWThIcmJjYi1iR1NB?oc=5",
+     "pubDate": "Fri, 20 Nov 2026 19:50:02 GMT",
+     "source": "Yahoo Finance"
     },
     {
      "title": "Archer Aviation Tumbles 8%, Breaks Below $3 as Air Taxi Rout Rolls On; EHang Slides 6%, Joby Aviation Drops 3% - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTZxaGtHeV9CN0tDa3ZfRWstenFYanVqTnJsUjIxUTJNaTRkaEhvQWtrTk1EY280SlFzTUZXN09KdDlhMWJiaFVzb0V0cWNNOHBJN0oxOWViSzgydDUtclVWVGZYc3VmNTNNLWJ0RkZOeF9qakxvMnlxcXZ4X0lyODFwQWsyeE43UFdqVEFuUHl4em5aVXF1QzJ6MGxfdw?oc=5",
      "pubDate": "Fri, 20 Nov 2026 17:54:03 GMT",
      "source": "Yahoo Finance"
-    },
-    {
-     "title": "Joby Aviation Falls 6% as Air Taxi Selloff Deepens; Archer Aviation Drops 4%, EHang Slides 2% - 24/7 Wall St.",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMi1tTHREZVZyalM5bERxb0hzcG53QTNNOGlDeG44WXFOY2VUS20yWElDNmlkeFdIRzBvOEFzT0liNThuSUpkcm1qR0lKclJfR0hnV2Q5eEJXUk0yWjJ2UzN6Q3VRVXVHNG1HNDJfSHFyLWRsTkF0WnN4LWJsalpINVRWZXRHa3pmZ0JtNTVWU05HQTYtV3ZBTml1aURMekZvRWRLNjIyMlpRMjhQd1h4bDNJTkhkcXlfOWRvalEyR1l6Y0t3eTF1am1vYk4?oc=5",
-     "pubDate": "Tue, 17 Nov 2026 17:04:00 GMT",
-     "source": "24/7 Wall St."
     }
    ]
   },
@@ -682,7 +682,11 @@ window.DASHBOARD_DATA = {
     28.5,
     28.5
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 28.75,
+    "changePct": 0.88
+   },
    "relVol": 0.9,
    "avgVolume": 4727709,
    "symbol": "KTOS",
@@ -762,8 +766,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 159.85,
-    "changePct": 0.31
+    "price": 160.0,
+    "changePct": 0.4
    },
    "relVol": 1.7,
    "avgVolume": 18280245,
@@ -921,8 +925,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 49.72,
-    "changePct": 0.18
+    "price": 49.55,
+    "changePct": -0.16
    },
    "relVol": 1.3,
    "avgVolume": 14272248,
@@ -997,8 +1001,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 1.94,
-    "changePct": 2.65
+    "price": 1.92,
+    "changePct": 1.59
    },
    "relVol": 0.7,
    "avgVolume": 16436207,
@@ -1193,8 +1197,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.89,
-    "changePct": 1.22
+    "price": 3.88,
+    "changePct": 0.97
    },
    "relVol": 0.9,
    "avgVolume": 23028305,
@@ -1335,7 +1339,7 @@ window.DASHBOARD_DATA = {
     671.35,
     670.74,
     671.93,
-    670.1,
+    669.69,
     670.1
    ],
    "ext": null,
@@ -1409,7 +1413,11 @@ window.DASHBOARD_DATA = {
     1142.66,
     1140.85
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 1140.33,
+    "changePct": -0.05
+   },
    "relVol": 1.6,
    "avgVolume": 312345,
    "symbol": "TDG",
@@ -1625,8 +1633,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 6.45,
-    "changePct": 0.47
+    "price": 6.59,
+    "changePct": 2.65
    },
    "relVol": 0.8,
    "avgVolume": 13750523,
@@ -1848,8 +1856,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 162.68,
-    "changePct": 0.12
+    "price": 162.39,
+    "changePct": -0.06
    },
    "relVol": 0.7,
    "avgVolume": 9245483,
@@ -2065,8 +2073,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 321.31,
-    "changePct": 0.0
+    "price": 321.26,
+    "changePct": -0.01
    },
    "relVol": 1.0,
    "avgVolume": 3321140,
@@ -2138,7 +2146,11 @@ window.DASHBOARD_DATA = {
     194.43,
     194.8
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 194.77,
+    "changePct": -0.02
+   },
    "relVol": 0.8,
    "avgVolume": 3193641,
    "symbol": "RTX",
@@ -2424,9 +2436,13 @@ window.DASHBOARD_DATA = {
     217.82,
     217.75,
     218.07,
-    217.2
+    217.24
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 217.28,
+    "changePct": 0.02
+   },
    "relVol": 1.2,
    "avgVolume": 2956734,
    "symbol": "HWM",
@@ -2566,12 +2582,13 @@ window.DASHBOARD_DATA = {
     9.77,
     9.69,
     9.62,
-    9.74
+    9.74,
+    9.75
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.75,
-    "changePct": 0.0
+    "price": 9.9,
+    "changePct": 1.54
    },
    "relVol": 1.1,
    "avgVolume": 8923980,
@@ -2587,7 +2604,7 @@ window.DASHBOARD_DATA = {
    "dayLow": 9.46,
    "fiftyTwoWeekHigh": 46.75,
    "fiftyTwoWeekLow": 8.245,
-   "marketTime": 1795467599,
+   "marketTime": 1795467601,
    "news": [
     {
      "title": "Intuitive Machines vs. Redwire: Which Space Infrastructure Stock Is a Better Buy for 2027? - The Motley Fool",
@@ -2641,7 +2658,7 @@ window.DASHBOARD_DATA = {
     143.06,
     142.83,
     142.42,
-    142.96,
+    143.01,
     142.96
    ],
    "ext": {
@@ -3009,7 +3026,11 @@ window.DASHBOARD_DATA = {
     542.33,
     542.12
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 542.14,
+    "changePct": 0.0
+   },
    "relVol": 0.7,
    "avgVolume": 637313,
    "symbol": "NOC",
@@ -3080,7 +3101,11 @@ window.DASHBOARD_DATA = {
     571.44,
     571.74
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 574.2,
+    "changePct": 0.43
+   },
    "relVol": 0.9,
    "avgVolume": 668222,
    "symbol": "LMT",
@@ -3195,10 +3220,10 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
-     "title": "V2X (VVX) Stock Price, News & Analysis $VVX - MarketBeat",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ScGFIYVpiQmtBQkRxWHBGelF1ejlUUU9GUFlUOGN6WUpNaFRrMDhkLTI5dV85QkptMUk5am5WODlxOWFVakliSlJmeVJvSXlIczJQRDZB?oc=5",
-     "pubDate": "Fri, 20 Nov 2026 08:00:00 GMT",
-     "source": "MarketBeat"
+     "title": "V2X Expands Collaboration with Microsoft to Advance the Next Generation of AI-Powered Mission Operations - Quantisnow",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdEN0WHd4OE5HTC12eU9oRHFWMWxydmQ5cXlYWlh6SWwtbVJCZU9tWTNnRmZJWXJYZThUQzc5Qk93SkZWNnFKemhrWEUzZWxzYVgzSzdXQTBsb1pNdzRkZHhVQ3JWRXE2TkxaVTVPZGRmbVM5dHBMU2xyLXgxSnduQWRPb1FXWXhnck5oaFNvdl95dmNROHpfTFVsSTJmX0MwM1ZrTzBid1ZxeUN2NjM0ZERqSXg?oc=5",
+     "pubDate": "Mon, 23 Nov 2026 12:30:42 GMT",
+     "source": "Quantisnow"
     }
    ]
   },
@@ -3469,8 +3494,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.03,
-    "changePct": 0.0
+    "price": 4.07,
+    "changePct": 0.99
    },
    "relVol": 1.2,
    "avgVolume": 36515537,
@@ -3551,8 +3576,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.09,
-    "changePct": 0.82
+    "price": 3.08,
+    "changePct": 0.59
    },
    "relVol": 0.7,
    "avgVolume": 31878756,
@@ -3577,28 +3602,28 @@ window.DASHBOARD_DATA = {
      "source": "Yahoo Finance"
     },
     {
+     "title": "Archer\u2019s Anduril Drone Begins Full-Scale Flight Tests in 2027. Here\u2019s Why Defense Could Be Worth More Than Air Taxis. - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWnR4YXZyYzFNZ2d2WHg0VFJ3SkRWbXI5ckdhb2NFcnA5TjlIZDhoRkVmUXliSnQ2TGdlTUk2UHlsVnE1OVB0UHRlSjVOLWtiTjh5RFZvanprT21iT2YtZFc5cnd5X3NVTUlKLXZZYldNMjc1ckpUVDU2Ync0b3NJVU1yejdBTnZ2N1hXYzR2VlVmb21XeENPZEF4SldxMkFGbUJtY2J3WFM4NDM1dHgwa2FUdkhidWNSbTlqMGNlT2ZZXzRXQUQ1X0pnMU5FUU1hQ3F5VndzalJrWnphQ3JKLTlZa1VkSnZaSEpESA?oc=5",
+     "pubDate": "Sun, 22 Nov 2026 18:15:01 GMT",
+     "source": "The Motley Fool"
+    },
+    {
      "title": "Archer, Joby, and Vertical Aerospace Stocks Rally as Tech Rebound Lifts eVTOL Shares - TipRanks",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRFhnU3hTeFdvc3RrSDhRRGJEUVRpRXVOaFhkaXdKRTJUR3RzbVlraFVrTGo5bXB2VHlCRmFQV0RiQ1RPMkI1cDFMNXd0enBuVG9mU0ZuRlg5cUpGSERURW9WRkZkU2pJRy00NGpKaGY5YmdnRUxIY2hYQ2R5bGRYVEY1M1hhbE9TYVhkUXBWcUtYUGpTU2RRVkJYdldFa19ZVG43bVZHQmtxWVQyMlFHWHNB?oc=5",
      "pubDate": "Mon, 23 Nov 2026 10:03:33 GMT",
      "source": "TipRanks"
     },
     {
-     "title": "Archer Aviation Trades Near $4. Could a $5,000 Investment Set You Up for Life? - The Motley Fool",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU3dtUlZyR2plblB0bGVPTS1NeEtQX0NtX080bXZqYVFwNlVWemwyd3M2ZmdCZk1ON2xKci1FVlFXbEpnTFloek41MkNpOVY2SmZLMnUtdVU1LW53dHM2bW1Ma29YTDZrdF9oVUNFQ2tLbzFVd0pyd2NLVnpDOEp4ZTg5SkRXRTM4a3hyOHRMcFV4UTlHRlJPaFFCNDVwc1lyVjlCeWd6bmZBeHNUOHc?oc=5",
-     "pubDate": "Fri, 20 Nov 2026 19:30:02 GMT",
-     "source": "The Motley Fool"
+     "title": "Archer Aviation Trades Near $4. Could a $5,000 Investment Set You Up for Life? - Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjMwdHIwVk43NmQ1V081QlJaWXYxWEE5OHl3Ym5rR3d1cnpDd0g1UTM1VVJoWHg5YnVhOExSNXQ4cWhVc2hPMFpOS0Zrc2lfcDE3OVlLS1ZLeVdPRmY0Qlo2VkVBR21IMGI3N3FyWHI3TXVZakFZS1RvaE5GajlUS2JDR1V3RV9uX295eFZvWThIcmJjYi1iR1NB?oc=5",
+     "pubDate": "Fri, 20 Nov 2026 19:50:02 GMT",
+     "source": "Yahoo Finance"
     },
     {
      "title": "Archer Aviation Tumbles 8%, Breaks Below $3 as Air Taxi Rout Rolls On; EHang Slides 6%, Joby Aviation Drops 3% - Yahoo Finance",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLTZxaGtHeV9CN0tDa3ZfRWstenFYanVqTnJsUjIxUTJNaTRkaEhvQWtrTk1EY280SlFzTUZXN09KdDlhMWJiaFVzb0V0cWNNOHBJN0oxOWViSzgydDUtclVWVGZYc3VmNTNNLWJ0RkZOeF9qakxvMnlxcXZ4X0lyODFwQWsyeE43UFdqVEFuUHl4em5aVXF1QzJ6MGxfdw?oc=5",
      "pubDate": "Fri, 20 Nov 2026 17:54:03 GMT",
      "source": "Yahoo Finance"
-    },
-    {
-     "title": "Joby Aviation Falls 6% as Air Taxi Selloff Deepens; Archer Aviation Drops 4%, EHang Slides 2% - 24/7 Wall St.",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMi1tTHREZVZyalM5bERxb0hzcG53QTNNOGlDeG44WXFOY2VUS20yWElDNmlkeFdIRzBvOEFzT0liNThuSUpkcm1qR0lKclJfR0hnV2Q5eEJXUk0yWjJ2UzN6Q3VRVXVHNG1HNDJfSHFyLWRsTkF0WnN4LWJsalpINVRWZXRHa3pmZ0JtNTVWU05HQTYtV3ZBTml1aURMekZvRWRLNjIyMlpRMjhQd1h4bDNJTkhkcXlfOWRvalEyR1l6Y0t3eTF1am1vYk4?oc=5",
-     "pubDate": "Tue, 17 Nov 2026 17:04:00 GMT",
-     "source": "24/7 Wall St."
     }
    ]
   },
@@ -3631,7 +3656,11 @@ window.DASHBOARD_DATA = {
     28.5,
     28.5
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 28.75,
+    "changePct": 0.88
+   },
    "relVol": 0.9,
    "avgVolume": 4727709,
    "symbol": "KTOS",
@@ -3711,8 +3740,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 159.85,
-    "changePct": 0.31
+    "price": 160.0,
+    "changePct": 0.4
    },
    "relVol": 1.7,
    "avgVolume": 18280245,
@@ -4002,12 +4031,6 @@ window.DASHBOARD_DATA = {
    "source": "Yahoo Finance"
   },
   {
-   "title": "Tikehau Capital Invests in UK Aerospace Supplier Sigma - RankiaPro",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR1I4dGY5OGZNNG5VTnZHY1plVzJyM0VvQ3BXLUhtNjJJLXZZZnB0RDZwOVNsdUF2b0V4dEtfOG1nV3E1MGdyUTJUNlFYSjJzckVvb0hGMk10ZWQ1TG03ajZWbHRTSW1FRE5tRGcycFJqbWhmclloQVE3THZMWG0yYVZlNExfRWdnang1SGFneDVya2tnSE5RbTZmclpxaUhyTVRudEg0ZzlyZnVOOG9WbE5LNkRPaWJXbGVGQ1Y1RzhaNGo3VVdJdER5X25Md2ltdzgwMEpYbXd1dUpXN1Ew?oc=5",
-   "pubDate": "Mon, 23 Nov 2026 11:45:46 GMT",
-   "source": "RankiaPro"
-  },
-  {
    "title": "Texas Unmanned Systems Defense Center of Excellence Gains Momentum as National Defense Industry Leaders Rally Around Shared Vision - Business Wire",
    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOai01a1l5ZUhUNmQ2RGVjUU8tSV9NWmIyc1pYdlhRTlJzeXhlbXRBRHlocEZNTi1TT2tDeUVnZXE4NFNiNXNtcDFVUTRDbU95VEhZYllKdy1GNmJhdWk5cHJGSUNUN0ZUTWVUUGdtclZOazc4UDdLbnM1Nk9rRlk5ODNkNG5GbHd4ZmMtelJfU1hDQ0Fka2dMRzUxa0tiRlcwbUNYUHhRVWdja3dBQk1Bcm8xXzZBRDJWcFBKSDRPNFJsTVo2c2lNR1djdVRuam9MajlpNGM3MHRITjROcWZYU0FiOTFQb0IwOFZma0VWYWNEb2ptVjBRRnZJUWtodkhoSzFMc1A4Mmt2WnZwbmNsUE4wenJlUQ?oc=5",
    "pubDate": "Mon, 23 Nov 2026 20:44:00 GMT",
@@ -4030,6 +4053,12 @@ window.DASHBOARD_DATA = {
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYU5FYlgtTlI5ZzlBSGVtTU5MT0k5SDhFZVdzRHdfczVrZzFkZWo2a2RJZndIT1hLblNkeEtYaXFVNTJha05HQlFYcy1rLTc4c0xjN04tSUFlc3pjYkU2UWpaQkc0U3FaV3VQaERKZXREYThBX0tfdWxyb2dnTTFfLVVDOUJEZUprbUJuZUdQT1dhUzVVa2ZuRldwbnVscF9SQXNQSmhkQVBPV3RVV29sajhYNTNES2c3VkpkLWl4SVZIQnZ3bVcyWkxhRnkxNFgzc0poT3BfWjVPbHM?oc=5",
    "pubDate": "Mon, 23 Nov 2026 16:06:28 GMT",
    "source": "The Globe and Mail"
+  },
+  {
+   "title": "Ohio: A rising star in applied quantum | Part 3 of 3 - Ohio Tech News",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUNCTkp4eGZCRS1Pa19COC15eWJJelJjNVdCTmtMRkhIT1VmMGNBWDZ2T1kxWEt4d3lYeXdsZ3YtaTNqUmYweHluVXZhdjY3ZG1JZkRla2lIQ3Y4OGNQQUYyQTRQajF4aDJvdU5jdnpZSC1VQzhxNXhKdU5XVHBYRGRGTTJodw?oc=5",
+   "pubDate": "Mon, 23 Nov 2026 13:48:52 GMT",
+   "source": "Ohio Tech News"
   }
  ],
  "industrialsNews": [
@@ -4145,8 +4174,8 @@ window.DASHBOARD_DATA = {
   },
   {
    "title": "USAF $16.1B Advanced Propulsion Contract Names 58 Engine Firms - MiGFlug",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXQ2RzRSaEU0X2o3SVdaZnBTVUdOSm5ORlB2M2RYSFRhdUItakFnRmdUZy1EbTZpYmRvMDhCRWZQQjR6N0FhMDUwTzBDWHZ6VVRjd0l0Zi1VVlZpaWlQMlBITGZlRzAzM1E0eDFWWS15RldlTlVzTXdBQktLQ1pZRGUzYV9ndVlnWjZhMUloR1RxRy1tRE1jSUpSSTFvMmdFR1E?oc=5",
-   "pubDate": "Sat, 21 Nov 2026 11:54:01 GMT",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHh0aWhrSnhWZXFtNVNBYzNKTVk3Nm14Y29CTUU1NERrQkl3eW1scEtJTmlUWlgyQ0hzNUVhcTlUN3o2YXRPMnVrTEp0YkdOVXpCWlVnb0FEYldvQWItdU9HLUVoRDdGbjV3YmJZRXdCNUduQzEtcm9qczVrbzJzQmpFRU03LTN0ZGZtQ1VwS3FJYWFNUWhNOURMN0xBdXVRMnc?oc=5",
+   "pubDate": "Sat, 21 Nov 2026 11:53:30 GMT",
    "source": "MiGFlug"
   },
   {
