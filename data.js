@@ -1,5 +1,5 @@
 window.DASHBOARD_DATA = {
- "generatedAt": "2026-11-23T21:16:47.391667+00:00",
+ "generatedAt": "2026-11-23T21:22:23.096989+00:00",
  "threshold": 3.0,
  "verticalOrder": [
   "Prime Contractors",
@@ -283,7 +283,11 @@ window.DASHBOARD_DATA = {
     1.43,
     1.44
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 1.44,
+    "changePct": 0.0
+   },
    "relVol": 0.5,
    "avgVolume": 1164779,
    "symbol": "KULR",
@@ -363,8 +367,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.54,
-    "changePct": 0.26
+    "price": 9.4,
+    "changePct": -1.15
    },
    "relVol": 0.7,
    "avgVolume": 4711915,
@@ -527,8 +531,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.07,
-    "changePct": 0.92
+    "price": 4.06,
+    "changePct": 0.73
    },
    "relVol": 1.2,
    "avgVolume": 36515537,
@@ -609,8 +613,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.1,
-    "changePct": 0.96
+    "price": 3.11,
+    "changePct": 1.25
    },
    "relVol": 0.7,
    "avgVolume": 31878756,
@@ -691,8 +695,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 28.6,
-    "changePct": 0.35
+    "price": 28.74,
+    "changePct": 0.84
    },
    "relVol": 0.9,
    "avgVolume": 4727709,
@@ -773,8 +777,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 159.94,
-    "changePct": 0.36
+    "price": 159.55,
+    "changePct": 0.12
    },
    "relVol": 1.7,
    "avgVolume": 18280245,
@@ -853,7 +857,11 @@ window.DASHBOARD_DATA = {
     462.86,
     462.81
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 462.81,
+    "changePct": 0.0
+   },
    "relVol": 1.5,
    "avgVolume": 180935,
    "symbol": "CW",
@@ -933,8 +941,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 49.47,
-    "changePct": -0.32
+    "price": 49.42,
+    "changePct": -0.42
    },
    "relVol": 1.3,
    "avgVolume": 14272248,
@@ -1134,7 +1142,11 @@ window.DASHBOARD_DATA = {
     140.42,
     140.47
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 140.47,
+    "changePct": 0.0
+   },
    "relVol": 1.4,
    "avgVolume": 409345,
    "symbol": "OSK",
@@ -1209,7 +1221,7 @@ window.DASHBOARD_DATA = {
    "ext": {
     "label": "after-hours",
     "price": 3.89,
-    "changePct": 1.04
+    "changePct": 0.93
    },
    "relVol": 1.1,
    "avgVolume": 23028305,
@@ -1282,7 +1294,11 @@ window.DASHBOARD_DATA = {
     32.63,
     32.63
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 32.63,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
    "avgVolume": 1441607,
    "symbol": "KBR",
@@ -1506,7 +1522,11 @@ window.DASHBOARD_DATA = {
     183.61,
     183.28
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 183.28,
+    "changePct": 0.0
+   },
    "relVol": 1.2,
    "avgVolume": 333039,
    "symbol": "VSEC",
@@ -1578,7 +1598,11 @@ window.DASHBOARD_DATA = {
     336.12,
     336.1
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 336.1,
+    "changePct": 0.0
+   },
    "relVol": 1.8,
    "avgVolume": 284988,
    "symbol": "HEI",
@@ -1802,7 +1826,11 @@ window.DASHBOARD_DATA = {
     59.15,
     59.08
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 59.08,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 426848,
    "symbol": "ATRO",
@@ -1876,8 +1904,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 162.99,
-    "changePct": 0.37
+    "price": 162.71,
+    "changePct": 0.2
    },
    "relVol": 0.8,
    "avgVolume": 9245483,
@@ -1950,7 +1978,11 @@ window.DASHBOARD_DATA = {
     115.71,
     115.83
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 115.83,
+    "changePct": 0.0
+   },
    "relVol": 1.0,
    "avgVolume": 1155849,
    "symbol": "BWXT",
@@ -2022,7 +2054,11 @@ window.DASHBOARD_DATA = {
     123.56,
     123.47
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 123.47,
+    "changePct": 0.0
+   },
    "relVol": 1.1,
    "avgVolume": 757347,
    "symbol": "LDOS",
@@ -2096,8 +2132,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 321.35,
-    "changePct": 0.03
+    "price": 321.26,
+    "changePct": 0.0
    },
    "relVol": 1.3,
    "avgVolume": 3321140,
@@ -2467,28 +2503,29 @@ window.DASHBOARD_DATA = {
     217.82,
     217.75,
     218.07,
-    217.26
+    217.26,
+    217.28
    ],
    "ext": {
     "label": "after-hours",
     "price": 217.2,
-    "changePct": -0.03
+    "changePct": -0.04
    },
-   "relVol": 1.4,
+   "relVol": 1.3,
    "avgVolume": 2956734,
    "symbol": "HWM",
    "name": "Howmet Aerospace",
    "vertical": "Engines & Suppliers",
    "description": "Engineered metal components \u2014 jet engine airfoils, fasteners, and titanium structures for commercial and defense aircraft.",
-   "price": 217.26,
+   "price": 217.28,
    "prevClose": 218.17,
-   "changePct": -0.42,
-   "volume": 4003539,
-   "dayHigh": 221.47,
+   "changePct": -0.41,
+   "volume": 3953187,
+   "dayHigh": 221.6,
    "dayLow": 216.41,
    "fiftyTwoWeekHigh": 310.0,
    "fiftyTwoWeekLow": 183.52,
-   "marketTime": 1795467599,
+   "marketTime": 1795467855,
    "news": [
     {
      "title": "Are Aerospace Stocks Lagging Howmet Aerospace (HWM) This Year? - Yahoo Finance",
@@ -2619,8 +2656,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.89,
-    "changePct": 1.44
+    "price": 9.82,
+    "changePct": 0.76
    },
    "relVol": 1.2,
    "avgVolume": 8923980,
@@ -2769,7 +2806,11 @@ window.DASHBOARD_DATA = {
     307.6,
     307.6
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 307.6,
+    "changePct": 0.0
+   },
    "relVol": 0.9,
    "avgVolume": 1408109,
    "symbol": "AXON",
@@ -3293,7 +3334,11 @@ window.DASHBOARD_DATA = {
     1.43,
     1.44
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 1.44,
+    "changePct": 0.0
+   },
    "relVol": 0.5,
    "avgVolume": 1164779,
    "symbol": "KULR",
@@ -3373,8 +3418,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 9.54,
-    "changePct": 0.26
+    "price": 9.4,
+    "changePct": -1.15
    },
    "relVol": 0.7,
    "avgVolume": 4711915,
@@ -3537,8 +3582,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 4.07,
-    "changePct": 0.92
+    "price": 4.06,
+    "changePct": 0.73
    },
    "relVol": 1.2,
    "avgVolume": 36515537,
@@ -3619,8 +3664,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 3.1,
-    "changePct": 0.96
+    "price": 3.11,
+    "changePct": 1.25
    },
    "relVol": 0.7,
    "avgVolume": 31878756,
@@ -3701,8 +3746,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 28.6,
-    "changePct": 0.35
+    "price": 28.74,
+    "changePct": 0.84
    },
    "relVol": 0.9,
    "avgVolume": 4727709,
@@ -3783,8 +3828,8 @@ window.DASHBOARD_DATA = {
    ],
    "ext": {
     "label": "after-hours",
-    "price": 159.94,
-    "changePct": 0.36
+    "price": 159.55,
+    "changePct": 0.12
    },
    "relVol": 1.7,
    "avgVolume": 18280245,
@@ -3863,7 +3908,11 @@ window.DASHBOARD_DATA = {
     462.86,
     462.81
    ],
-   "ext": null,
+   "ext": {
+    "label": "after-hours",
+    "price": 462.81,
+    "changePct": 0.0
+   },
    "relVol": 1.5,
    "avgVolume": 180935,
    "symbol": "CW",
